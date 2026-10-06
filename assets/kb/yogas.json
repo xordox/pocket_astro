@@ -1,0 +1,2035 @@
+{
+ "engine": "pocketastro-yogas",
+ "version": 1,
+ "sources": [
+  "Charak, Elements of Vedic Astrology — ch. XX (Nabhasa), XXI (ownership yogas), XXII (specific yogas).",
+  "Sutton, The Essentials of Vedic Astrology — The Yogas.",
+  "Braha, Ancient Hindu Astrology for the Modern Western Astrologer."
+ ],
+ "judgment_rules": [
+  "A yoga is a promise, not an event. It delivers in the dasha or antardasha of the grahas that form it.",
+  "Yoga-forming grahas must be strong and free of affliction for the yoga to manifest fully. Weak constituents give the yoga with struggle attached.",
+  "Confirm every headline yoga in the relevant varga — D9 for character and marriage, D10 for career, D7 for children.",
+  "A raja yoga formed by grahas sitting in dusthanas gives status through struggle and loses it more easily.",
+  "Kemadruma, Shakata and Kala Sarpa are the three most over-delivered yogas in popular astrology. Check every cancellation before mentioning any of them.",
+  "Aakriti yogas take precedence over Aashraya yogas; both take precedence over Sankhya yogas.",
+  "Nabhasa yogas operate all life long and do not wait for a dasha."
+ ],
+ "categories": [
+  "arishta",
+  "chandra",
+  "dhana",
+  "nabhasa_aakriti",
+  "nabhasa_aashraya",
+  "nabhasa_dala",
+  "nabhasa_sankhya",
+  "pancha_mahapurusha",
+  "parivartana",
+  "raja",
+  "ravi",
+  "spiritual",
+  "structural",
+  "vipreeta"
+ ],
+ "yogas": [
+  {
+   "id": "ruchaka",
+   "name": "Ruchaka Yoga",
+   "category": "pancha_mahapurusha",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "dignified_in_kendra",
+     "planet": "Mars"
+    }
+   ],
+   "effect": "Bold, physically capable, commanding. Competence in anything that requires force applied with skill — surgery, engineering, command, sport. Classically a leader of armies.",
+   "strength": "Full results require a strong Sun and Moon as well; otherwise it gives good but ordinary results, mainly in that planet's dasha.",
+   "cancellation": "Combustion, or the planet being aspected only by malefics, blunts the yoga. Confirm in the D9.",
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "planet_combust",
+    "only_malefic_aspects"
+   ]
+  },
+  {
+   "id": "bhadra",
+   "name": "Bhadra Yoga",
+   "category": "pancha_mahapurusha",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "dignified_in_kendra",
+     "planet": "Mercury"
+    }
+   ],
+   "effect": "Learned, articulate, commercially sharp; a scholar's intelligence attached to a practical trade.",
+   "strength": "Full results require a strong Sun and Moon as well; otherwise it gives good but ordinary results, mainly in that planet's dasha.",
+   "cancellation": "Combustion, or the planet being aspected only by malefics, blunts the yoga. Confirm in the D9.",
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "planet_combust",
+    "only_malefic_aspects"
+   ]
+  },
+  {
+   "id": "hamsa",
+   "name": "Hamsa Yoga",
+   "category": "pancha_mahapurusha",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "dignified_in_kendra",
+     "planet": "Jupiter"
+    }
+   ],
+   "effect": "Fair-dealing, principled, well regarded; a teacher's grace and a reputation that outlasts the career.",
+   "strength": "Full results require a strong Sun and Moon as well; otherwise it gives good but ordinary results, mainly in that planet's dasha.",
+   "cancellation": "Combustion, or the planet being aspected only by malefics, blunts the yoga. Confirm in the D9.",
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "planet_combust",
+    "only_malefic_aspects"
+   ]
+  },
+  {
+   "id": "malavya",
+   "name": "Malavya Yoga",
+   "category": "pancha_mahapurusha",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "dignified_in_kendra",
+     "planet": "Venus"
+    }
+   ],
+   "effect": "Graceful, attractive, comfortable; art, taste and partnership all favoured. Wealth arrives through what is beautiful or enjoyable.",
+   "strength": "Full results require a strong Sun and Moon as well; otherwise it gives good but ordinary results, mainly in that planet's dasha.",
+   "cancellation": "Combustion, or the planet being aspected only by malefics, blunts the yoga. Confirm in the D9.",
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "planet_combust",
+    "only_malefic_aspects"
+   ]
+  },
+  {
+   "id": "shasha",
+   "name": "Shasha Yoga",
+   "category": "pancha_mahapurusha",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "dignified_in_kendra",
+     "planet": "Saturn"
+    }
+   ],
+   "effect": "Authority over people and resources; mass appeal, endurance, hard leadership. Rises late and holds.",
+   "strength": "Full results require a strong Sun and Moon as well; otherwise it gives good but ordinary results, mainly in that planet's dasha.",
+   "cancellation": "Combustion, or the planet being aspected only by malefics, blunts the yoga. Confirm in the D9.",
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "planet_combust",
+    "only_malefic_aspects"
+   ]
+  },
+  {
+   "id": "sunapha",
+   "name": "Sunapha Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "occupied_from",
+     "from": "Moon",
+     "houses": [
+      2
+     ],
+     "exclude": [
+      "Sun",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    }
+   ],
+   "effect": "Status and self-earned wealth; the mind has support on the leading side. The exact flavour follows whichever graha sits in the 2nd from the Moon.",
+   "strength": "Depends on the strength of the Moon and of the occupying graha.",
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "anapha",
+   "name": "Anapha Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "occupied_from",
+     "from": "Moon",
+     "houses": [
+      12
+     ],
+     "exclude": [
+      "Sun",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    }
+   ],
+   "effect": "Health, good name, eloquence and enjoyment. Where Sunapha accumulates, Anapha spends and enjoys.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "durudhara",
+   "name": "Durudhara Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "occupied_from",
+     "from": "Moon",
+     "houses": [
+      2
+     ],
+     "exclude": [
+      "Sun",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    },
+    {
+     "type": "occupied_from",
+     "from": "Moon",
+     "houses": [
+      12
+     ],
+     "exclude": [
+      "Sun",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    }
+   ],
+   "effect": "Both possession and enjoyment — wealth, vehicles, help, and freedom from enemies. The Moon is supported on both sides.",
+   "strength": "Formed by benefics it is strongly auspicious; formed by malefics it constricts the Moon and gives the opposite.",
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "kemadruma",
+   "name": "Kemadruma Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "empty_from",
+     "from": "Moon",
+     "houses": [
+      2,
+      12
+     ],
+     "exclude": [
+      "Sun",
+      "Rahu",
+      "Ketu"
+     ]
+    }
+   ],
+   "effect": "The Moon stands unsupported: the 2nd and 12th from it are both empty. Classically read as isolation, instability of mind and money, and the erosion of otherwise good raja yogas. In practice: the mind has no buffer, so everything lands directly.",
+   "strength": null,
+   "cancellation": "Cancelled if grahas occupy kendras from the lagna, or kendras from the Moon, or if all grahas aspect the Moon, or if a strong Moon sits in a kendra with or aspected by Mercury, Jupiter or Venus. Kemadruma is cancelled far more often than it stands.",
+   "weight": 4,
+   "caution": "Never deliver Kemadruma as a verdict without checking all four cancellations first.",
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": [
+    "grahas_in_kendra_from_lagna",
+    "grahas_in_kendra_from_moon",
+    "all_grahas_aspect_moon",
+    "strong_moon_in_kendra_with_benefic"
+   ]
+  },
+  {
+   "id": "adhi",
+   "name": "Adhi Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_in_houses",
+     "from": "Moon",
+     "houses": [
+      6,
+      7,
+      8
+     ],
+     "planets": [
+      "Mercury",
+      "Jupiter",
+      "Venus"
+     ],
+     "mode": "all_benefics_within",
+     "no_malefics": true
+    }
+   ],
+   "effect": "Benefics in the 6th, 7th and 8th from the Moon: high standing, command of people, good health and prosperity.",
+   "strength": null,
+   "cancellation": "Malefics in those houses spoil it.",
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": [
+    "malefic_in_adhi_houses"
+   ]
+  },
+  {
+   "id": "chandra_dhana",
+   "name": "Chandra Dhana Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_in_houses",
+     "from": "Moon",
+     "houses": [
+      3,
+      6,
+      10,
+      11
+     ],
+     "planets": [
+      "Mercury",
+      "Jupiter",
+      "Venus"
+     ],
+     "mode": "all_benefics_within"
+    }
+   ],
+   "effect": "All three natural benefics in upachaya houses (3, 6, 10, 11) from the Moon: great wealth. Two of them gives medium wealth, one gives ordinary wealth.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "gaja_kesari",
+   "name": "Gaja Kesari Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "kendra_from",
+     "a": "Jupiter",
+     "b": "Moon"
+    }
+   ],
+   "effect": "Jupiter in a kendra from the Moon: standing, learning, virtue and lasting fame. Extremely common — read it judiciously rather than as a headline.",
+   "strength": "Fructifies only if Jupiter is not combust and is aspected by or joined to benefics, and if the Moon is neither combust nor debilitated. The best form has both in Cancer.",
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": [
+    "jupiter_combust",
+    "moon_combust",
+    "moon_debilitated",
+    "jupiter_without_benefic_support"
+   ]
+  },
+  {
+   "id": "shakata",
+   "name": "Shakata Yoga",
+   "category": "chandra",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "house_from",
+     "a": "Jupiter",
+     "b": "Moon",
+     "houses": [
+      6,
+      8,
+      12
+     ]
+    },
+    {
+     "type": "planet_in_house_from_lagna",
+     "planet": "Jupiter",
+     "houses": [
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12
+     ]
+    }
+   ],
+   "effect": "Jupiter in the 6th, 8th or 12th from the Moon while not itself in a kendra from lagna: fortunes that rise and fall like a cartwheel, with sustained effort behind each rise.",
+   "strength": null,
+   "cancellation": "If both Jupiter and the Moon are strong (own sign, moolatrikona or exalted) the yoga is largely inoperative. Jupiter in the 6th, 7th or 8th from the Moon can equally form Adhi yoga.",
+   "weight": 2,
+   "caution": "Do not deliver Shakata as a life sentence; Nehru had it.",
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "jupiter_and_moon_both_strong"
+   ]
+  },
+  {
+   "id": "veshi",
+   "name": "Veshi Yoga",
+   "category": "ravi",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "occupied_from",
+     "from": "Sun",
+     "houses": [
+      2
+     ],
+     "exclude": [
+      "Moon",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    }
+   ],
+   "effect": "A graha other than the Moon in the 2nd from the Sun: a balanced, truthful outlook. Benefics make it eloquent and prosperous; malefics coarsen it.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "voshi",
+   "name": "Voshi Yoga",
+   "category": "ravi",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "occupied_from",
+     "from": "Sun",
+     "houses": [
+      12
+     ],
+     "exclude": [
+      "Moon",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    }
+   ],
+   "effect": "A graha other than the Moon in the 12th from the Sun: learning, memory, charity. Benefics make it scientific and wealthy.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "ubhayachari",
+   "name": "Ubhayachari Yoga",
+   "category": "ravi",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "occupied_from",
+     "from": "Sun",
+     "houses": [
+      2
+     ],
+     "exclude": [
+      "Moon",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    },
+    {
+     "type": "occupied_from",
+     "from": "Sun",
+     "houses": [
+      12
+     ],
+     "exclude": [
+      "Moon",
+      "Rahu",
+      "Ketu"
+     ],
+     "min": 1
+    }
+   ],
+   "effect": "Grahas other than the Moon on both sides of the Sun: physical strength, capacity for responsibility, learning and comfort.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "budhaditya",
+   "name": "Budhaditya Yoga",
+   "category": "ravi",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "conjunct",
+     "a": "Sun",
+     "b": "Mercury"
+    }
+   ],
+   "effect": "Sun and Mercury together: a sharp, articulate, administratively capable intelligence.",
+   "strength": "Weakened if Mercury is deeply combust (within about 3°); at that distance the intelligence is there but rarely heard.",
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Parashara; Braha",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "raja_kendra_trikona",
+   "name": "Raja Yoga (kendra–trikona)",
+   "category": "raja",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related",
+     "a_houses": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "b_houses": [
+      1,
+      5,
+      9
+     ]
+    }
+   ],
+   "effect": "A kendra lord and a trikona lord related by conjunction, mutual aspect, exchange, or one sitting in the other's sign under its aspect. This is the core elevation combination of the chart: standing, authority and recognised position.",
+   "strength": "Manifests fully when the planets involved are strong and in benefic houses. The 9th–10th pairing and any pairing involving the lagna lord with the 9th, 10th, 4th or 5th lord are the most productive. Weak or dusthana-placed constituents give the yoga with obstruction.",
+   "cancellation": null,
+   "weight": 6,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "raja_5_9",
+   "name": "Dharma–Karmadhipati / 5th–9th Raja Yoga",
+   "category": "raja",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related",
+     "a_houses": [
+      5
+     ],
+     "b_houses": [
+      9
+     ]
+    }
+   ],
+   "effect": "The 5th and 9th lords conjunct or in mutual aspect. Classically kingship; in a modern chart, senior standing, and unusually good luck through merit already earned.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 6,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "raja_9_10",
+   "name": "Dharma–Karmadhipati Yoga (9th–10th)",
+   "category": "raja",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related",
+     "a_houses": [
+      9
+     ],
+     "b_houses": [
+      10
+     ]
+    }
+   ],
+   "effect": "The 9th and 10th lords related: fortune and career reinforce each other. The single most reliable raja yoga for professional standing.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 6,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "raja_4_10_exchange",
+   "name": "4th–10th Exchange Raja Yoga",
+   "category": "raja",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "exchange",
+     "a_house": 4,
+     "b_house": 10
+    }
+   ],
+   "effect": "Exchange between the 4th and 10th lords, supported by the 5th or 9th lord: high official position.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "vipreeta_harsha",
+   "name": "Harsha Yoga (vipreeta raja)",
+   "category": "vipreeta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lord_in_houses",
+     "lord_of": 6,
+     "houses": [
+      8,
+      12
+     ]
+    }
+   ],
+   "effect": "The 6th lord in the 8th or 12th: opposition, debt and illness turn on themselves. Rise through other people's difficulties, and unusual resilience.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "vipreeta_sarala",
+   "name": "Sarala Yoga (vipreeta raja)",
+   "category": "vipreeta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lord_in_houses",
+     "lord_of": 8,
+     "houses": [
+      6,
+      12
+     ]
+    }
+   ],
+   "effect": "The 8th lord in the 6th or 12th: longevity supported, crises defanged, fearlessness in the face of upheaval.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "vipreeta_vimala",
+   "name": "Vimala Yoga (vipreeta raja)",
+   "category": "vipreeta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lord_in_houses",
+     "lord_of": 12,
+     "houses": [
+      6,
+      8
+     ]
+    }
+   ],
+   "effect": "The 12th lord in the 6th or 8th: expenditure cancels debt; independent, frugal, well-regarded for conduct.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "neecha_bhanga",
+   "name": "Neecha Bhanga Raja Yoga",
+   "category": "raja",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "neecha_bhanga"
+    }
+   ],
+   "effect": "A debilitated planet whose debilitation is cancelled. What looked like a weakness becomes the engine of a rise, usually mid-life and usually after a public failure in that planet's domain.",
+   "strength": "Cancellation obtains when the debilitation-sign lord, or the exaltation-sign lord of the debilitated planet, sits in a kendra from lagna or Moon; or when either of those lords joins or aspects the debilitated planet; or when the debilitated planet exchanges signs with its debilitation lord; or when two debilitated planets aspect each other.",
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "dhana_core",
+   "name": "Dhana Yoga",
+   "category": "dhana",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related",
+     "a_houses": [
+      1,
+      2,
+      5,
+      9,
+      11
+     ],
+     "b_houses": [
+      1,
+      2,
+      5,
+      9,
+      11
+     ],
+     "distinct": true
+    }
+   ],
+   "effect": "A relationship between any of the wealth lords — 1st, 2nd, 5th, 9th, 11th. Money is structurally available; the dasha decides when.",
+   "strength": "Requires a strong lagna and lagna lord to manifest. Without those, the yoga describes money that passes through rather than money that stays.",
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "dhana_2_11",
+   "name": "2nd–11th Dhana Yoga",
+   "category": "dhana",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related",
+     "a_houses": [
+      2
+     ],
+     "b_houses": [
+      11
+     ]
+    }
+   ],
+   "effect": "The lords of savings and of income related: earning and keeping are joined. The most direct money yoga in the chart.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "chandra_mangala",
+   "name": "Chandra–Mangala Yoga",
+   "category": "dhana",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related_planets",
+     "a": "Moon",
+     "b": "Mars"
+    }
+   ],
+   "effect": "Moon and Mars conjunct or in mutual aspect: money made through drive, property or trade. Classically a strong financial combination; it also makes the temper commercial.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXI/XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "lakshmi",
+   "name": "Lakshmi Yoga",
+   "category": "dhana",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lord_dignified_in_kendra",
+     "lord_of": 9
+    }
+   ],
+   "effect": "A strong lagna lord with the 9th lord in a kendra in its own sign, moolatrikona or exaltation: durable wealth, standing and good name.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "amala",
+   "name": "Amala (Amala-Kirti) Yoga",
+   "category": "dhana",
+   "match": "any",
+   "conditions": [
+    {
+     "type": "benefic_in_house",
+     "from": "lagna",
+     "house": 10
+    },
+    {
+     "type": "benefic_in_house",
+     "from": "Moon",
+     "house": 10
+    }
+   ],
+   "effect": "A natural benefic in the 10th from lagna or from the Moon: a clean professional reputation that outlasts any single job.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "shubha_kartari",
+   "name": "Shubha Kartari Yoga",
+   "category": "structural",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_in_houses",
+     "from": "lagna",
+     "houses": [
+      2,
+      12
+     ],
+     "mode": "each_house_occupied"
+    }
+   ],
+   "effect": "Natural benefics in the 2nd and 12th from lagna: the self is protected on both sides — health, resources and standing all supported.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "papa_kartari",
+   "name": "Papa Kartari Yoga",
+   "category": "structural",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "malefics_in_houses",
+     "from": "lagna",
+     "houses": [
+      2,
+      12
+     ],
+     "mode": "each_house_occupied"
+    }
+   ],
+   "effect": "Natural malefics in the 2nd and 12th from lagna: the self is hemmed. Read as constraint and pressure on the body, resources and freedom of movement — not as a moral verdict.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": "A hemmed lagna is a health and stress flag, not a character judgment.",
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "parvata",
+   "name": "Parvata Yoga",
+   "category": "structural",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_in_kendras",
+     "count": 2
+    },
+    {
+     "type": "houses_empty_or_benefic",
+     "houses": [
+      6,
+      8
+     ]
+    }
+   ],
+   "effect": "Benefics in kendras with the 6th and 8th empty or benefic-only; or the lagna lord and 12th lord in mutual kendras under benefic aspect. Fame, wealth, generosity and leadership.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "chamara",
+   "name": "Chaamara Yoga",
+   "category": "structural",
+   "match": "any",
+   "conditions": [
+    {
+     "type": "lord_exalted_in_kendra_aspected_by",
+     "lord_of": 1,
+     "by": "Jupiter"
+    }
+   ],
+   "effect": "An exalted lagna lord in a kendra aspected by Jupiter, or two benefics joined in the 1st, 7th, 9th or 10th: eloquence, skill and honour from authority.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "chatussagara",
+   "name": "Chatussagara Yoga",
+   "category": "structural",
+   "match": "any",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      1,
+      4,
+      7,
+      10
+     ]
+    },
+    {
+     "type": "all_in_modes",
+     "modes": [
+      "movable"
+     ]
+    }
+   ],
+   "effect": "All seven grahas in the four kendras, or all in movable signs: many arishta yogas are destroyed; wealth and high status follow.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "maha_bhagya",
+   "name": "Maha Bhagya Yoga",
+   "category": "structural",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "maha_bhagya"
+    }
+   ],
+   "effect": "For a day birth: odd lagna, odd Sun sign, odd Moon sign. For a night birth: even lagna, even Sun sign, even Moon sign. A highly fortunate pattern — good character, standing and resources.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "vargottama",
+   "name": "Vargottama",
+   "category": "structural",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "vargottama",
+     "planet": "any"
+    }
+   ],
+   "effect": "A graha (or the lagna) in the same sign in D1 and D9. Whatever that graha signifies is confirmed rather than promised — it delivers what it says.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Parashara; Sutton (vargas)",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "parivartana_maha",
+   "name": "Maha Parivartana Yoga",
+   "category": "parivartana",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "exchange_between_sets",
+     "houses": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      9,
+      10,
+      11
+     ]
+    }
+   ],
+   "effect": "An exchange of signs between the lords of the 1st, 2nd, 4th, 5th, 7th, 9th, 10th or 11th. The two matters become one machine — each feeds the other. Wealth, status and enjoyment.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 5,
+   "caution": null,
+   "source": "Charak XXI (Mantreshwara)",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "parivartana_dainya",
+   "name": "Dainya Parivartana Yoga",
+   "category": "parivartana",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "exchange_with_trik"
+    }
+   ],
+   "effect": "An exchange involving the 6th, 8th or 12th lord with a good-house lord: the good house's matters are dragged through difficulty before they pay. Not denial — a toll.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": "Deliver as a route, not a refusal.",
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "pravrajya_kendra",
+   "name": "Pravrajya (Sanyasa) Yoga",
+   "category": "spiritual",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "stellium_with_lord",
+     "min": 4,
+     "lord_of": 10,
+     "houses": [
+      1,
+      4,
+      5,
+      7,
+      9,
+      10
+     ]
+    }
+   ],
+   "effect": "Four or more grahas together in one house, joined by the 10th lord, in a kendra or trikona: a life that turns away from ordinary acquisition toward practice, teaching or renunciation.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 4,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "ketu_12_moksha",
+   "name": "Moksha Karaka placement",
+   "category": "spiritual",
+   "match": "any",
+   "conditions": [
+    {
+     "type": "planet_in_houses",
+     "planet": "Ketu",
+     "houses": [
+      12
+     ]
+    }
+   ],
+   "effect": "Ketu in the 12th, or the 12th lord with Ketu or Jupiter: strong pull toward retreat, foreign life and practice. Read as design, not escape.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Sutton",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "arishta_trik_link",
+   "name": "Arishta Yoga",
+   "category": "arishta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "lords_related",
+     "a_houses": [
+      1,
+      6,
+      8,
+      12
+     ],
+     "b_houses": [
+      6,
+      8,
+      12
+     ],
+     "distinct": true
+    }
+   ],
+   "effect": "A link between the lagna lord and a 6th, 8th or 12th lord, or between two trik lords. Health and stability need managing; other good yogas deliver less cleanly than their definitions promise.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": "An arishta yoga is a maintenance flag. PocketAstro never converts it into a longevity or mortality claim.",
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "daridra_1_12",
+   "name": "Daridra Yoga (1st–12th exchange)",
+   "category": "arishta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "exchange",
+     "a_house": 1,
+     "b_house": 12
+    }
+   ],
+   "effect": "The lagna lord in the 12th and the 12th lord in the lagna, with maraka influence on either: resources drain as fast as they arrive. Fixable by design — expenditure discipline is the whole remedy.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XXI",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": [
+    "no_maraka_influence"
+   ]
+  },
+  {
+   "id": "kala_sarpa",
+   "name": "Kala Sarpa Yoga",
+   "category": "arishta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "node_axis_hemmed"
+    }
+   ],
+   "effect": "All seven grahas hemmed between Rahu and Ketu. A life that runs on one axis: intense focus, delayed but concentrated results, and a sense of fate in whichever houses the nodes occupy.",
+   "strength": null,
+   "cancellation": "Partial (Kala Amrita) if one graha is just outside the axis. A graha conjunct a node breaks the yoga's force.",
+   "weight": 3,
+   "caution": "Widely over-sold. Deliver it as a shape of life, never as a curse.",
+   "source": "Later classical; Sutton",
+   "requires_lagna": false,
+   "precedence": 0,
+   "cancellation_checks": [
+    "graha_conjunct_node",
+    "graha_outside_axis"
+   ]
+  },
+  {
+   "id": "hatha_hanta",
+   "name": "Hatha-Hantaa Yoga",
+   "category": "arishta",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "planet_in_house_from_lagna",
+     "planet": "Moon",
+     "houses": [
+      11
+     ]
+    },
+    {
+     "type": "planet_in_sign",
+     "planet": "Sun",
+     "sign": "Cancer"
+    }
+   ],
+   "effect": "The Moon in the 11th with the Sun in Cancer: the classics warn of self-inflicted humiliation. Read it as a caution about impulsive, reputation-risking moves in pursuit of gain.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XXII",
+   "requires_lagna": true,
+   "precedence": 0,
+   "cancellation_checks": []
+  },
+  {
+   "id": "rajju",
+   "name": "Rajju Yoga",
+   "category": "nabhasa_aashraya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_modes",
+     "modes": [
+      "movable"
+     ]
+    }
+   ],
+   "effect": "All grahas in movable signs: fond of travel, drawn abroad, restless and hard to settle.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 2,
+   "cancellation_checks": []
+  },
+  {
+   "id": "musala",
+   "name": "Musala Yoga",
+   "category": "nabhasa_aashraya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_modes",
+     "modes": [
+      "fixed"
+     ]
+    }
+   ],
+   "effect": "All grahas in fixed signs: learned, wealthy, proud, famous, stable of purpose.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 2,
+   "cancellation_checks": []
+  },
+  {
+   "id": "nala",
+   "name": "Nala Yoga",
+   "category": "nabhasa_aashraya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_modes",
+     "modes": [
+      "dual"
+     ]
+    }
+   ],
+   "effect": "All grahas in dual signs: adaptable, very clever, attached to family; some physical asymmetry classically noted.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 2,
+   "cancellation_checks": []
+  },
+  {
+   "id": "maala",
+   "name": "Maala (Srak) Yoga",
+   "category": "nabhasa_dala",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_in_kendras",
+     "count": 3
+    },
+    {
+     "type": "malefics_not_in_kendras"
+    }
+   ],
+   "effect": "Benefics in three kendras with malefics outside them: constant enjoyment, vehicles, good living, pleasant company.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": [
+    "malefic_in_kendra"
+   ]
+  },
+  {
+   "id": "sarpa",
+   "name": "Sarpa Yoga",
+   "category": "nabhasa_dala",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "malefics_in_kendras",
+     "count": 3
+    },
+    {
+     "type": "benefics_not_in_kendras"
+    }
+   ],
+   "effect": "Malefics in three kendras with benefics elsewhere: dependence, hardship and a struggle for autonomy. A structural difficulty, not a character flaw.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": [
+    "benefic_in_kendra"
+   ]
+  },
+  {
+   "id": "gada",
+   "name": "Gada Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": "two_adjacent_kendras"
+    }
+   ],
+   "effect": "All grahas in two adjacent kendras: wealthy, learned, permanently engaged in earning.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "shakata_nabhasa",
+   "name": "Shakata Yoga (Aakriti)",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      1,
+      7
+     ]
+    }
+   ],
+   "effect": "All grahas in the 1st and 7th: health and money come only through hard labour; fortunes swing.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "pakshi",
+   "name": "Pakshi (Vihaga) Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      4,
+      10
+     ]
+    }
+   ],
+   "effect": "All grahas in the 4th and 10th: a messenger's life — movement, errands, constant repositioning.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "vajra",
+   "name": "Vajra Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_malefics_split",
+     "benefics": [
+      1,
+      7
+     ],
+     "malefics": [
+      4,
+      10
+     ],
+     "all_in_kendras": true
+    }
+   ],
+   "effect": "Benefics in the 1st and 7th, malefics in the 4th and 10th: good looking, brave, happy in early life and in old age.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "yava",
+   "name": "Yava Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "benefics_malefics_split",
+     "benefics": [
+      4,
+      10
+     ],
+     "malefics": [
+      1,
+      7
+     ],
+     "all_in_kendras": true
+    }
+   ],
+   "effect": "Malefics in the 1st and 7th, benefics in the 4th and 10th: consistent and charitable; the middle of life is the good part.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "kamala",
+   "name": "Kamala Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      1,
+      4,
+      7,
+      10
+     ]
+    }
+   ],
+   "effect": "All grahas in the four kendras: wide renown, long life, virtue and high standing. One of the strongest Nabhasa yogas.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "vaapi",
+   "name": "Vaapi Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12
+     ]
+    }
+   ],
+   "effect": "All grahas outside the kendras: accumulates steadily, keeps what it gets, small but lasting comforts.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "shringataka",
+   "name": "Shringataka Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      1,
+      5,
+      9
+     ]
+    }
+   ],
+   "effect": "All grahas in the trikonas: comfortable, combative when needed, wealthy.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "hala",
+   "name": "Hala Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": "one_trinal_set_non_kendra"
+    }
+   ],
+   "effect": "All grahas in one non-kendra trinal set (2/6/10, 3/7/11 or 4/8/12): a life of labour, often on the land or in service.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "yoopa",
+   "name": "Yoopa Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 1,
+     "span": 4
+    }
+   ],
+   "effect": "Grahas filling houses 1 to 4: self, resources, effort and home — dutiful, ritual-minded, valorous.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "shara",
+   "name": "Shara Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 4,
+     "span": 4
+    }
+   ],
+   "effect": "Grahas filling houses 4 to 7: sharp, hunting energy; works in enforcement, security or contest.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "shakti",
+   "name": "Shakti Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 7,
+     "span": 4
+    }
+   ],
+   "effect": "Grahas filling houses 7 to 10: long-lived and stable but tormented by failures; slow to profit.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "danda",
+   "name": "Danda Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 10,
+     "span": 4
+    }
+   ],
+   "effect": "Grahas filling houses 10 to 1: work, gain, loss and self — thin on comfort and on close ties.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "nauka",
+   "name": "Nauka Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 1,
+     "span": 7
+    }
+   ],
+   "effect": "Grahas filling houses 1 to 7: famous, ambitious, careful with money; earnings connected to water or to travel.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "koota",
+   "name": "Koota Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 4,
+     "span": 7
+    }
+   ],
+   "effect": "Grahas filling houses 4 to 10: guarded, fortress-minded, drawn to high or remote ground.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "chhatra",
+   "name": "Chhatra Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 7,
+     "span": 7
+    }
+   ],
+   "effect": "Grahas filling houses 7 to 1: kind, wise, long-lived; looks after dependents; comfortable at both ends of life.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "chaapa",
+   "name": "Dhanusha (Chaapa) Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start": 10,
+     "span": 7
+    }
+   ],
+   "effect": "Grahas filling houses 10 to 4: brave and mobile; the middle of life is the happiest part.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "ardha_chandra",
+   "name": "Ardha-Chandra Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "contiguous_houses",
+     "start_any_of": [
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12
+     ],
+     "span": 7
+    }
+   ],
+   "effect": "Seven grahas in seven contiguous houses starting from a non-kendra: a commander's yoga — good looks, courage, wealth and official honour.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "chakra",
+   "name": "Chakra Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11
+     ]
+    }
+   ],
+   "effect": "Grahas in the six odd houses: royal standing, or its modern equivalent.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "samudra",
+   "name": "Samudra Yoga",
+   "category": "nabhasa_aakriti",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "all_in_houses",
+     "houses": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    }
+   ],
+   "effect": "Grahas in the six even houses: wealthy, comfortable, likeable and steady of mind.",
+   "strength": null,
+   "cancellation": null,
+   "weight": 3,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": true,
+   "precedence": 3,
+   "cancellation_checks": []
+  },
+  {
+   "id": "veena",
+   "name": "Veena Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 7
+    }
+   ],
+   "effect": "Grahas spread over seven signs: musical, skilful, wealthy, a natural leader.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  },
+  {
+   "id": "daama",
+   "name": "Daama Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 6
+    }
+   ],
+   "effect": "Grahas over six signs: liberal, renowned, wealthy, earns by legitimate means.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  },
+  {
+   "id": "paasha",
+   "name": "Paasha Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 5
+    }
+   ],
+   "effect": "Grahas over five signs: large household, adept at work, skilful at earning, blunt.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  },
+  {
+   "id": "kedaara",
+   "name": "Kedaara Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 4
+    }
+   ],
+   "effect": "Grahas over four signs: useful to many, truthful, wealthy; drawn to land.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  },
+  {
+   "id": "shoola",
+   "name": "Shoola Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 3
+    }
+   ],
+   "effect": "Grahas over three signs: concentrated, combative, scarred by conflict.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  },
+  {
+   "id": "yuga",
+   "name": "Yuga Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 2
+    }
+   ],
+   "effect": "Grahas over two signs: extreme concentration of life force; heterodox, socially at odds.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  },
+  {
+   "id": "gola",
+   "name": "Gola Yoga",
+   "category": "nabhasa_sankhya",
+   "match": "all",
+   "conditions": [
+    {
+     "type": "distinct_sign_count",
+     "n": 1
+    }
+   ],
+   "effect": "All grahas in one sign: total concentration in one domain, at the cost of everything else.",
+   "strength": null,
+   "cancellation": "Sankhya yogas apply only when no Aakriti or Aashraya yoga is present. Kedaara, Shoola and Yuga are inoperative alongside an Aashraya yoga; Gola remains operative and cancels the Aashraya yoga instead.",
+   "weight": 2,
+   "caution": null,
+   "source": "Charak XX",
+   "requires_lagna": false,
+   "precedence": 1,
+   "cancellation_checks": []
+  }
+ ]
+}

@@ -1,0 +1,1116 @@
+# source: _OceanofPDF.com_The_Essentials_Of_Vedic_Astrology_-_Komilla_Sutton.pdf
+# pages: 166-200
+# compiled into: dashas.json, divisionals.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 166>>>
+beginning of another. This is particularly so for those of us who have lagna or natal Moon in the
+signs Jupiter rules, Sagittarius and Pisces. This transit can be a very positive experience. If you
+draw up a chart for the exact time of the return it will give you clear indications of what the next
+12-year Jupiter cycle will be about. The list of dates for Jupiter’s ingress into the signs is shown
+on the next page.
+The positive and negative energies of Jupiter and Saturn are meant to balance each other out in
+the overall scheme of things. A good Jupiter transit can mitigate the effects of a rough Saturn
+one.
+Jupiter’s Ingress into the Signs - The Next Twelve Years
+Transits of the Rahu Ketu axis
+The real importance of these is that they bring eclipses, seen as opportunities for rebirth and
+transformation. Unless an eclipse makes a major impact on your natal chart, the transits of Rahu
+Ketu are not as important as those of Saturn and Jupiter. For an eclipse to have a major effect on
+your life it must take place within 1-2º of your lagna, natal Sun or natal Moon or 1-2º of being
+opposite them; then it will indicate a major change of direction in your life.
+
+<<<PAGE 167>>>
+Vargas - The Divisional Charts
+The word varga means a part or division. Vargas are used in a specialised but essential area of
+Vedic astrology which assesses a variety of charts arrived at by dividing the usual 30º per zodiac
+sign by different numbers. There are sixteen varga charts in all, but most astrologers use
+combinations of just six or seven. The rasi chart (natal chart) is also a varga chart: the 30º
+divided by one. If your rasi chart represents your whole outer personality in all its complexity,
+each varga chart represents one particular area of your life (house) writ large: it takes a theme
+already present in the rashi chart and magnifies it for closer study. The varga charts are often
+studied in groups so that recurrent themes can be followed through. A list of these is shown at
+the end of the chapter.
+As a student it is important to know about these charts as in time you will want to use them to
+fine-tune interpretations and deepen your understanding. The real strength of the planets is
+revealed in the way they are enhanced or reduced by their position in the varga charts. Most
+Vedic astrologers in India will look at the shadvarga (6 divisional charts) or saptavarga (7
+divisional charts) combination, but as beginners the most important varga to consider is the
+navamsha chart - it is like the foundation of the rasi (natal) chart.
+For varga charts to be correct, it is important to have the exact time of birth: some of the
+vargas subdivide the 30º whole sign so minutely that a slight error in the time of birth can
+completely throw out the calculations - like the shastiamsha chart which divides each sign into
+60 parts. It will be different for births only seconds apart and is an important tool in
+differentiating between twins who are born close together. The positions of the ascendant, Rahu
+and Ketu, and the planets in the divisional charts are all calculated using their original positions
+in the rasi chart as a starting point, but the resulting varga charts don’t show degrees - only signs.
+Different rules apply for each varga; the calculation can become involved but it is included here
+for information so you can see how the charts are produced. Tables are given at the end of the
+chapter where required; all you need to do is transfer this information onto a new chart. The
+varga charts are also a standard feature of most Vedic astrology software packages. Generally
+transits are only applicable to the rasi chart.
+The Varga Charts in More Detail
+•    The rasi chart - the 30º zodiac sign divided by one
+
+<<<PAGE 168>>>
+This is the usual natal chart that uses your birth time to calculate the ascendant: the one that
+contains your outer personality, past and future, and from which all the varga charts are derived -
+both as regards calculations and interpretation. If the rasi chart does not suggest a character trait
+or an event, any indications of such a thing in another divisional chart will have to be weighed
+and assessed very carefully. The other varga charts can modify the rasi chart but they never
+replace it. This is also the chart used to consider your physical health.
+•    The hora chart - two divisions of 15º each
+This simple division represents the male and female energies. Jyotish has always seen that a
+combination of these exists in everyone and what this chart shows is exactly how the planets
+work within the combination. The lists on the next page show you how to divide the planets into
+male (Sun) and female (Moon) energies, which can then be drawn onto a chart in the signs of
+Leo and Cancer respectively. To see which hora your planet or ascendant falls into check the
+following list:
+The hora chart has two main uses which focus on the issues indicated in the second house of the
+rasi chart. It can provide further information on your overall personality - whether, in general,
+you will be an active or a passive person, and how easy it will be for you to accumulate wealth.
+People with a majority of planets placed in the Sun’s hora are active, very willing to take the
+initiative. However, they will need to work to achieve results; any money they come by will have
+been earned. If your lagna is in the Sun’s hora you will need to work doubly hard! People with a
+majority of planets placed in the Moon’s hora will not have to work so hard to get results - they
+may acquire wealth actually created by someone else. However, people with a strong female
+hora will have rather a passive temperament, needing someone else’s energy to motivate them. If
+the lagna is placed in the Moon’s hora, this indicates wealth will come to you without much
+effort.
+The hora chart also shows how the male and female energies manifest. A masculine planet in
+Cancer causes inner tension, whilst a female planet in Leo will be given a more masculine
+expression. However, the malefic planets (Sun, Mars and Saturn) will be easier to cope with if
+they are in the male hora.
+•    The drekkana chart - three divisions of 10º each
+The drekkana chart is calculated in the same way as the hora chart, but with three groups of signs
+rather than two. In this varga signs in the same elements are linked: the first 10º subdivision of
+any sign is ruled by its own ruler, the second 10º by the ruler of the sign five signs from it and
+the final 10º of the chart are ruled by the ruler of the sign nine signs away. So the lagna or any
+planets in the subdivision 0 -10º Leo will be ruled by Leo’s ruler the Sun; anything in 10 - 20º
+Leo will be ruled by Sagittarius’ ruler Jupiter; and anything in 20 - 30º Leo will be ruled by
+Aries’ ruler Mars. The table for the drekkana varga is given at the end of the chapter.
+
+<<<PAGE 169>>>
+The drekkana chart can be used to fine-tune the issues of the third house of your rasi chart:
+your siblings - a relationship which in Indian society is not to be set aside lightly; your friends,
+the alliances you might make, your courage, ability and motivation. The position of Mars is
+paramount - a debilitated Mars would suggest lowered vitality, low self-confidence, and a
+general lack of direction.
+•    The chaturtamsha chart - four divisions of 7º30' each
+The four subdivisions of this chart are ruled by the first, fourth, seventh and tenth sign from the
+sign whose divisions are being calculated, linking signs in the same mode. So, if the sign being
+divided is Aries, the four divisions will be ruled respectively by the rulers of Aries, Cancer, Libra
+and Capricorn. If Gemini is being divided this way, the rulers of the subdivisions will be the
+rulers of Gemini, Virgo, Sagittarius and Pisces. A chaturtamsha chart fine-tunes the fourth house
+of the rasi chart and is used to study material comforts and pleasures, and your relationship with
+your mother. It also shows what efforts will be needed to achieve your various objectives. The
+chart can also focus on your inner emotions and happiness and your attitude towards comfort and
+your home. The chaturtamsha table is shown at the end of the chapter.
+•    The trimshamsha chart - five divisions of about 6º each
+This varga is important in consultations as it focuses on the issues of the sixth house and the
+obstacles we will meet. The Sun, Moon, Rahu and Ketu are not taken into account in its
+interpretation. Rulership is as follows: in the odd numbered signs the first 5º are ruled by Mars
+(Aries), the next 5º by Saturn (Aquarius), the next 8º by Jupiter (Sagittarius), the next 7º by
+Mercury (Gemini) and the last 5º by Venus (Libra). In even signs this is reversed: the first 5º are
+ruled by Venus (Taurus), the next 7º by Mercury (Virgo), the following 8º by Jupiter (Pisces),
+the next 5º by Saturn (Capricorn) and the last 5º by Mars (Scorpio).
+Interpretation focuses on Saturn as its position in the trimshamsha chart will indicate where
+you will face challenges. The ascendant in this chart indicates how you will deal with them.
+•    The saptamsha chart - seven divisions of 4º17' each
+The subdivisions of a sign are ruled thus: if the sign being divided is an odd-numbered one -
+Aries, Gemini, Leo, Libra, Sagittarius or Aquarius - then rulership will begin with that sign. Thus
+0 - 4º17' Libra is ruled by Venus, ruler of Libra.
+If the sign being divided is an even-numbered one - Taurus, Cancer, Virgo, Scorpio, Capricorn
+or Pisces - the rulership sequence begins with the ruling planet of the opposite sign. So 0 - 4º17'
+of Scorpio will be ruled by Venus, ruler of Taurus, the next division will be ruled by Mercury,
+ruler of Gemini, the next by the Moon, ruler of Cancer and so on.
+The saptamsha chart focuses on the issues of the rasi chart’s fifth house. In Indian terms it is
+very much about children and grandchildren: how many you will have and how good your
+relationship with them will be. A broader and perhaps more westernised interpretation would
+cover other forms of creativity. A strongly placed lagna in the saptamsha chart indicates a very
+creative person and/or children and a good relationship with them. Check the fifth house ruler - if
+it is in either the sixth, eighth or twelfth house there could problems relating to children. The
+position of the fifth house karaka planet, Jupiter, should also be noted.
+•    The navamsha chart - nine divisions of 3º20' each
+This is the one varga chart that a Vedic astrologer would automatically use when preparing for a
+consultation with a client, and it is the foundation chart of the rasi chakras. Most astrologers in
+
+<<<PAGE 170>>>
+India will automatically know the navamsha positions from the degrees of the ascendant and
+planets - something a student should aspire to. The navamsha chart is particularly helpful in
+relationship astrology. It highlights the issues of the auspicious ninth house: the positive karma
+you will be able to call on during this lifetime, the level of happiness you might expect, and what
+sort of future is indicated for you. The navamsha chart reflects how the resources of the inner self
+copes with the ups and downs of everyday life and the spiritual challenges encountered by the
+outer self, and whether there will be a conflict between the two. It also shows those parts of your
+personality which you may be reaching towards in your life, but which may still be causing you
+some stress at present because progress is slow. We seem to grow into our navamsha charts as
+we get older. They are calculated in two steps:
+- find which division of 3º 20' the planet (or ascendant) is in on the rasi chart and note its
+navamsha number
+- find the cardinal sign in the same element; this is where you will count from.
+The 30º are divided into 9 as follows:
+Rulerships begin with the ruler of the cardinal sign in the same element:
+sign being sub-divided   
+start counting at..
+Aries, Leo, Sagittarius   
+Aries
+Taurus, Virgo, Capricorn      Capricorn
+Gemini, Libra, Aquarius   
+Libra
+Cancer, Scorpio, Pisces   
+Cancer
+As an example, consider Venus at 10º 20' Aquarius. From the first table we see that it falls into
+the 4th navamsha section. Aquarius is an air sign, and we find from the second table that the
+cardinal air sign is Libra. Count four signs on starting from Libra which takes us to Capricorn -
+so in the navamsha chart Venus has moved to Capricorn.
+The placements of Venus (for men) and Jupiter (for women) in the navamsha chart are the
+important ones for relationship astrology: studying them will add depth and subtlety to the rasi
+chart’s indications of whether the person will be able to form good relationships, and with
+whom. Actual interpretation is the same as for the rasi chart. If Venus or Jupiter is in the 6th, 8th
+or 12th house this will create problems for the person in their relationships. Placements in the
+navamsha chart can throw light on problems already showing in the rasi chart; or alleviate them.
+
+<<<PAGE 171>>>
+A woman with Jupiter conjunct Rahu in the seventh house of her rasi chart might have always
+had problems in relationships. In the navamsha chart her Jupiter might be in Aries. Aries is ruled
+by Mars and Mars and Jupiter are friends. Together, they indicate the possibility of improvement
+through understanding: the woman could take action (Mars) and learn (Jupiter) to become wiser
+(Jupiter) in her dealings with her partners.
+Planets which are poorly placed in the rasi chart will become weakened in the navamsha,
+while well-placed ones will have their strength enhanced.
+Navamsha position of the dasha ruler
+The position of the dasha ruler in the navamsha chart is very important; it indicates the inner
+quality of the dasha period. If it is well placed by exaltation or mooltrikona (you need to refer to
+planetary strengths here too) the quality of the dasha will be enhanced. The opposite will create
+difficulties. With practice you will see the navamsha chart gives the underlying foundation and
+therefore more understanding of the dasha period too. The house where the dasha ruler is placed
+will also indicate which issues will come to the fore. If it is placed in the tenth house of career in
+the rasi chart, but the seventh in the navamsha, the dasha will affect both the career and
+relationships during its period.
+Vargottama
+A planet is vargottama when it is placed in the same sign in the rasi and the navamsha charts.
+This is considered the perfect position in the zodiac and is supposed to make the planet as strong
+as if it were in exaltation. Even if the planet is debilitated this position will strengthen it
+enormously.
+The vargottama positions for rasi/navamsha charts are:
+Aries, Cancer, Libra, Capricorn  
+00º - 03º20'
+Taurus, Leo, Scorpio, Aquarius  
+13º20' - 16º00'
+Gemini, Virgo, Sagittarius, Pisces  
+26º40' - 30º00'
+•    The dashamsha chart - 10 divisions of 3º each
+The dashamsha chart focuses on the issues of the tenth house: career, ambition, status and life
+direction, and is one of the most frequently used varga charts. Calculation is not dissimilar to that
+for the navamsha chart - the 30 degrees are divided into segments of 3 degrees each:
+00º -  03º      1st part
+03º -  06º      2nd
+06º -  09º      3rd
+09º -  12º      4th
+12º -  15º      5th
+15º -  18º      6th
+18º -  21º       7th
+21º -  24º      8th
+24º -  27º      9th
+27º -  30º      10th
+
+<<<PAGE 172>>>
+With odd-numbered signs the ten subdivisions of each sign begin with the sign being divided;
+with even-numbered signs they begin with the sign nine signs further round the zodiac from the
+one being divided.
+The sub-divisions of:
+Taking the example of Venus at 10º 20' Aquarius again, it falls in the fourth part of the first table
+and as Aquarius is an odd numbered sign, we count four signs on starting from there; the
+dashamsha position of Venus is Taurus.
+The position of the planet which rules the tenth house of the rasi chart is the most important
+one in the dashamsha and the subdivision it is in will shed further light on your career. The
+position of the Sun is also important as it signifies status. If the ruler of the ascendant of the rasi
+chart is in the tenth subdivision of the dashamsha chart, career and status issues will be a very
+important influence on your life.
+•    The dwadashamsha chart - 12 divisions of 2º30' each
+Giving further information on the issues of the twelfth house in the rasi chart, this is the past life
+varga. In it you can see something of your previous incarnation; it gives indications of the karma
+you bring forward into this life. You can take this process into lives further back with the
+Chaturvimsha chart, also called the Siddhamsha (see further on). Rulerships within the
+dwadashamsha chart start from the sign itself: an ascendant on the rasi chart at 1º Sagittarius will
+remain in Sagittarius in the dwadashamsha chart, ruled by Jupiter.
+This chart is often thought of as the ‘mother and father’ chart - because your choice of mother
+and father in this life is part of your karma from past incarnations. Being born into a difficult
+relationship with one or both parents is seen as an attempt to become a more mature soul.
+However, this chart is not just about the past; as well as highlighting past-life issues likely to be
+prominent again in this one, it can be a powerful tool in helping you recognise your potential in
+this incarnation. It is interpreted in the same way as the rasi chart; grahas, house positions,
+rulerships and all meanings are the same; you can also make a chart showing the Sun or Moon on
+the ascendant just as you can with the rasi chart. The most important planets to assess are, of
+course, the Sun and Moon. The Sun represents the soul’s path to the future - in a dwadashamsha
+chart, that is this present life, so it can throw light on current situations. For example, someone
+with Sun in Capricorn in the rasi chart but in Aquarius in the dwadashamsha chart indicates that,
+although in a past life they were learning to shed their ego and live more spiritually, in this one
+they need a more ‘feet firmly on the ground’ kind of existence. The Moon in a dwadashamsha
+chart represents the life before - in a dwadashamsha chart that is the life before last. As Rahu and
+Ketu have the same meanings in a dwadashamsha chart as in a rasi chart, Moon conjunct Ketu in
+the dwadashamsha chart indicates heavy-duty karma in the life before this one, from the life
+before that. The sign and rulership of the ascendant describes your physical being and
+personality in your last life. Every area of your life is covered by the dwadashamsha chart,
+
+<<<PAGE 173>>>
+mostly issues that you have already worked out. Here are details of other varga charts:
+Shodhashamsha - 16 parts of 1º52'30" each
+This varga chart emphasises fourth house issues like transport, the home, assets and your inner
+emotions.
+Vimshamsha - 20 parts of 1º30' each
+This varga chart looks at religious issues.
+Chaturvimsha or Siddhamsha - 24 parts of 1º15' each
+This varga chart looks more closely at the past life already highlighted in the dwadashamsha
+chart, but with a particular purpose in mind. It assesses your spiritual capabilities in this lifetime;
+your ability and willingness to pursue the spiritual life comes from the experience accumulated
+in your past lives.
+Saptavimshamsha or Bhamsha - 27 parts of 1º6' each
+Whereas the nakshatras divide the whole zodiac into 27 equal parts, this calculation does the
+same for one zodiac sign, and it is used to highlight your personal strengths and weaknesses.
+Khavedamsha - 40 parts of 0º45' each
+This varga focuses on your quality of life.
+Akshavedamsha - 45 parts of 0º40' each
+This varga chart is essentially like the rasi chart, but pinpointing the effects of the exact degree of
+the planet placements.
+Shastiamsha - 60 parts of 0º30' each
+The shastiamsha chart is frequently used in electional astrology in India. It is also used to
+differentiate between twins, whose shastiamsha charts will be different, but of course exact birth
+times are a necessity here. (In India the first breath is taken as the moment of birth.)
+Interpretation of the shastiamsha and the rasi charts are not the same - planets placed in benefic
+shashtiamsha are enhanced and planets in malefic shastiamsha are obstructed.
+Using groups of varga charts
+Specialised computer software produces the varga charts very quickly, although most astrologers
+only use the shadvarga or saptavarga vimshopak (planetary strength) groups. The great
+importance of the vimshopak calculations is that they are used to work out the dashas: when they
+will occur and whether they will be good or bad. Weak planets (low vimshopak totals) will
+create difficulties and the strong ones will enhance the dashas. Planetary strengths are covered in
+detail in the Graha chapter. There are four groupings of vargas :
+Shodasavarga   -   all 16 divisional charts taken into consideration
+Dashavarga
+  -   10 vargas: rasi, hora, drekkana, navamsha, dwadashamsha, trimshamsha,
+saptamsha, dashamsha, shodhamsha, and shastiamsha
+Saptavarga
+  -   7 vargas: rasi, hora, drekkana, navamsha, dwadashamsha, trimshamsha and
+
+<<<PAGE 174>>>
+saptamsha
+Shadvarga
+  -   6 vargas: rasi, hora, drekkana, navamsha, dwadashamsha and trimshamsha.
+Drekkana Table
+Navamsha Table
+Chaturtamsha Table
+Saptamsha Table
+Dashamsha Table
+
+<<<PAGE 175>>>
+Dwadashamsha Table
+
+<<<PAGE 176>>>
+The Gunas
+According to ancient Vedic philosophy, creation is the product of the meeting of purusha and
+prakriti - the male and female influences. Prakriti is the main element, the female regenerative
+forces and it is full of desires and needs. Purusha (which also represents the soul) meets prakriti
+to create life. The purpose of purusha is to enjoy what prakriti has to offer, and prakriti has to
+fulfil the desires of purusha. When this cosmic birth takes place ahankara or individual
+ego/intellect is born. Ahankara gives birth to all the senses and the mind. In astrological terms
+then, purusha is represented by the Sun, prakriti by the Moon, and ahankara by Mercury. Once
+we start to think for ourselves we also wonder what our position is in the cosmos; and at that
+point, when we actually care who and what we are, the ego is born. Consciousness has a balance
+of the three qualities sattva, rajas and tamas. Once this universal consciousness identifies with
+individuality, one of the three qualities or gunas become out of balance and we reflect that
+quality in our birth. It is important to understand the impulses (gunas) of the planets that give
+them their unique behaviour- patterns so you can identify them in your own chart. The gunas
+appear in the personality as both positive and negative characteristics.
+‘Guna’ also means ‘strand’, the strands of twine that make up a rope. The rope is seen here as
+an allegory to personality. The various strands, or gunas, entwine to produce the individuality of
+a person. The attribute of each guna is usually seen as mental rather than physical, but the mind
+has a great capacity to affect the physical side of our life.
+We all have a balance of the gunas within us. They express themselves as a mental attitude
+that leads us to see life in a certain way and have particular priorities, and it is vital that we
+recognise both the gifts and the challenges that they have to offer in our lives. Looking through
+the descriptions below, you will probably find some aspects easier to understand than others.
+How does this relate to your own balance? Can you appreciate both the positive and the negative
+sides of your predominant guna?
+Sattva is the attribute of purity. ‘Sat’ means being, existing, pure, true and real. ‘Va’ means
+where purity dwells. A sattvic person believes in purity of being, thought, and action. Water is
+pure sattva. Vegetarianism is sattvic because it rejects killing animals to satisfy the need to eat.
+Sattvic people have a mental attitude that emphasises purity.
+Sattvic people believe in Truth and seek the good of others through their own deep spirituality.
+They are fearless, generous, self-controlled, tranquil, charitable and generally have an open
+
+<<<PAGE 177>>>
+mind. They find it hard to hurt others. They are able to rise above worldly matters and face the
+dramas of daily life with equilibrium; they still experience pain and unhappiness, but the way of
+dealing with them is different.
+Whilst it might sound a wonderful, idyllic state to aim for, being sattvic and all that the image
+implies can present a huge challenge. The responsibilities of day-to-day existence are a necessary
+part of life on earth, and although sattvic people are drawn to a state of contemplation and inner
+quiet, they have to find a way to survive ‘out there’ too. The path towards enlightenment and
+higher consciousness is not an easy one, and the qualities of the other gunas are very much
+needed to bring a sense of balance into their lives.
+On the negative side, sattvic people can take asceticism to extremes and be very self-righteous.
+They can find it impossible to understand those on a different path from themselves and to allow
+them their own self expression. Good examples are vegetarians not allowing others to eat meat,
+or the animal liberationists who use the threat of violence to further their cause; in fact here,
+people are only pretending to be sattvic. Their guna changes when they lose their purity. Their
+initial impulse may have been sattvic but the method of carrying it out becomes tamasic or
+rajasic. Sattva works very much on the abstract level.
+Rajas is the cause of activity in mankind, and is the searching quality that as humans, we all
+have. It can be translated as ‘pollen of the flowers’, ‘a particle in the sunbeams’ or ‘emotional,
+moral or mental darkness’. ‘Pollen of the flowers’ indicates the potential of pollen to create new
+flowers - humans activating more life; experiencing life and birth. ‘A particle in the sunbeam’ - a
+sunbeam is pure and the particle introduces a new element into its purity. ‘Moral, emotional or
+mental darkness’ is the inability of humans to see the answers within themselves, with the result
+that they seek fulfilment in the material, illusionary world. Rajasic people have a mental attitude
+that emphasises strong emotional impulses. They can be described as being led by passion
+towards achievement of their material desires, but to find true happiness they need to look
+within.
+Rajasic people are driven by a great inner thirst; they are easily moved by their feelings. They
+are very active, mentally and physically, and are continually searching for new challenges. They
+are high-achievers, wanting recognition, respect and success.
+On the more difficult side it is true that rajasic people can be so restless they can’t settle into
+either their work or relationships. They have a tendency to cling to pleasant tasks while avoiding
+difficult situations. They lack peace of mind because they are unsure of what they really want;
+they are continually seeking answers in the outer world whereas what they are looking for is
+within themselves. Western culture is generally considered to be rajasic. Rajas moves between
+the abstract and the practical.
+Tamas is the attribute of darkness. The Sanskrit word can also be translated as ‘ignorance’,
+making it plain that the darkness is a mental one. Tamasic people have a mental attitude that
+emphasises sensuality. They can be described either as being led by a lack of knowledge or a
+dearth of spiritual insight to a life focusing on human sensual desires. Vedic philosophy
+encourages tamasic people to dispel their darkness with the light of spiritual insight. Tamasic
+people revel in the everyday, material world; preferably one with lots of good food and good
+company. They usually view life in the here and now and allow their desires to dominate their
+actions. These desires keep them tied to the world of happiness and unhappiness - through their
+own needs they create their own problems.
+It is important to stress here that all three gunas are present in the natal chart but the balance of
+
+<<<PAGE 178>>>
+them will be different for each of us; we can be influenced by our own desires (tamas) and at the
+same time be on a spiritual quest (sattva) to make this world a better place (rajas). However,
+maya, the illusionary world of self gratification and sensual living, ties tamasic people to their
+own desires. They tend to view the material world as the only reality and can be very greedy for
+all it can offer - for example, they often have weight problems! Yoga and meditation can help to
+strengthen their inner being and make them aware of the spiritual side of existence.
+Qualities of the Planets, Signs and Houses
+The lists below show the qualities of each planet, sign and house. The guna of your ascendant
+will be determined by the sign it occupies.
+The Planets
+Sattvic           Rajasic           
+Tamasic
+The Sun           Venus           
+Saturn
+Moon           
+Mercury*           Mars
+Jupiter           
+Rahu
+Ketu
+* Adaptable Mercury is generally interpreted as taking on the guna attribute of those planets it is
+aspecting in any chart.
+Ketu can be a very sattvic planet under the right circumstances.
+The Signs
+Sattvic           
+Rajasic           Tamasic
+Cancer           
+Aries           
+Virgo
+Leo           
+Taurus           Scorpio
+Sagittarius           Gemini           Capricorn
+Pisces           
+Libra           
+Aquarius
+Gemini is usually considered to have all three gunas; it is Tri Guni.
+The Houses
+Sattvic           Rajasic           Tamasic
+4th           
+1st           
+6th
+5th           
+2nd           
+8th
+9th           
+3rd           
+10th
+12th           
+7th           
+11th
+Calculating the gunas in your chart
+To study the gunas in your own natal chart you need to look at these key points:
+
+<<<PAGE 179>>>
+•     the ascendant
+•     the Moon sign
+•     the Sun sign
+•     the position of the other planets, their gunas, and the overall influence of the gunas
+Rahu and Ketu are tamasic. Rahu is purely tamasic, and it affects mainly the practical areas of
+life. Ketu’s tamas is shaded with sattva, which is to do with searching for enlightenment, but its
+being called tamasic indicates the issues that Ketu represents have to be faced in this world.
+However, these intrinsic qualities will be overridden by the guna of the planet that rules the sign
+they are in.
+For each key point in your chart:
+1)   determine which guna it has in its natural state
+2)   look at the sign it is in; this will indicate its focus
+3)   its house will indicate how and where this focus is directed
+Key Points
+You will probably have a combination of qualities - use the section below to understand how
+they work together:
+•     All sattvic
+Your key point will be acting at its purest level.
+•     Two sattvic, one rajasic
+If a key point in your chart is sattvic and also placed in a sattvic sign it will be pure and natural in
+its inclinations. But if it is placed in a rajasic house, it will need to carry out its activities in an
+active (rajasic) manner. You may feel the drive and dissatisfaction the rajasic guna gives. These
+urges will need to be satisfied but the end you strive towards will be a sattvic one.
+If your key point is sattvic and placed in a rajasic sign but in a sattvic house, you will
+experience a great deal of inner conflict. However, as sattvic gunas outnumber the rajasic, your
+sattvic qualities will predominate.
+•     Two sattvic, one tamasic
+When a sattvic key point is placed in a sattvic sign but in a tamasic house, you will need to act
+out its sattvic guna in a practical, tamasic manner. There will be times when this is difficult as it
+contradicts your inner nature.
+If you have a sattvic key point in a tamasic sign you will be pulled two ways by conflicting
+impulses: negative/positive, cosmic/earthly, idealism/practicality. If the key point is in a sattvic
+house it will enable the guna of sattva to be predominant.
+•     All three rajasic
+
+<<<PAGE 180>>>
+The rajasic energy will be very strong.
+•     Two rajasic, one tamasic
+If your key point is rajasic and is placed in a rajasic sign but in a tamasic house, the need to be
+active and to achieve can be thwarted by practical considerations.
+When you have a rajasic key point in a tamasic sign, you will go back and forth between
+activity and stasis, ambition and laziness, changeability and stability. If the key point is in a
+rajasic sign your rajasic impulses will be stronger than your tamasic tendencies, which will have
+to follow in a rajasic direction.
+•     Two rajasic, one sattvic
+A rajasic key point in a rajasic sign but in a sattvic house can make you unhappy with your
+spiritual direction. However, the general restlessness of rajas can make it hard for you to
+maintain that sattvic focus. A rajasic person with sattvic direction might be tempted to look for
+personal gain from their principles and actions.
+•     All three tamasic
+If you have a key point which is tamasic of itself, by sign and by house, its energy will be taken
+up almost entirely by practical concerns. It will lead making the kind of choices which result in a
+build up of negative karma.
+When the tamasic impulse is this strong, you will not be able to adapt to change or develop
+your spiritual side very easily.
+•     Two tamasic, one rajasic
+A tamasic key point in a tamasic sign works in a practical but worldly way. The rajasic house
+makes it focus on change, activity and ambition. As tamasic people find it very difficult to adapt,
+you will experience inner conflict concerning the eventual direction of your ambitions. If you
+have a tamasic key point in a rajasic sign you will struggle between keeping things the same and
+making changes. If it is in a tamasic house, the balance of the two forces leans towards inactivity
+and your rajasic ambitions will be frustrated. It is be important to allow your rajasic side nature
+appropriate expression.
+•     Two tamasic, one sattvic
+A tamasic key point in a tamasic sign but in a sattvic house will create great turmoil. The focus is
+towards purity but its inherent nature is materialistic. The conflict is that much greater if the key
+point is your ascendant, Moon or Sun, but you can achieve a balance through yoga and
+meditation.
+When the tamasic key point is in a sattvic sign, it does not want to deal with the spiritual
+energy which is being activated. This is usually a difficult combination, but it can be rewarding if
+you activate the sattvic energy.
+•     One of each guna
+If any key point in your chart is exposed to all three influences, its house position becomes very
+important - this will indicate which guna will dominate. The combination of all three gunas can
+create a wonderful blend of energies - but in practice, it is difficult to make that happen. Tensions
+are created within you as to what you really want from life. You should also see which other key
+points are placed within the same house, as their influence may have a bearing on the direction
+
+<<<PAGE 181>>>
+you eventually take.
+Chart Example
+To illustrate how this works in real life, let us study His Holiness the 14th Dalai Lama, focusing
+on the energy of the gunas in his chart (shown on the next page). The Dalai Lama was born to be
+the spiritual leader of an isolated kingdom deep in the Himalayas, so we would expect to see the
+sattvic guna dominate, but in reality he was forced from his home by the invasion of the Chinese
+and now lives a life of exile in India. From his travels around the world he has made an
+international impact with his form of philosophy and practice of Tibetan Buddhism. We would
+expect his chart therefore to reflect the fact that he is now regarded as a spiritual leader by people
+from many different religions and cultures.
+The Dalai Lama’s Sun is in Gemini, which reflects all three gunas. The Sun is a sattvic planet
+so Gemini will accentuate his sattvic nature and the higher thinking (Mercury) he brings in from
+beyond - its twelfth house position also indicates the personal sacrifices he has had to make for
+the sake of his beliefs.
+His Holiness the 14th Dalai Lama
+Birth data (not fully confirmed):
+6th July 1935
+6:00 (-7:00) Taktser, Amdo, Tibet.
+Rasi Chart
+His ascendant is in sattvic Cancer and its ruler, the Moon, is also sattvic; together the two
+indicate that the Dalai Lama will be concerned with purity and spirituality in this life.
+The Moon is coloured by Leo which is sattvic as well - but placed in a rajasic house. The
+Dalai Lama accepts the responsibility of his homeland and defending his people (action -
+rajasic), but by the exemplary use of diplomacy and a fundamental belief in the good of
+humanity, rather than by physical violence. The traditional Leo ambition is redirected towards
+guiding his people. Experiencing the rajasic guna himself makes it easier for the Dalai Lama to
+
+<<<PAGE 182>>>
+understand the Western mind which it is usually rajasic in nature. Leo has the ability to
+overcome the rajasic location (second house).
+Mercury is in Gemini in the sattvic twelfth house. It is tri guni, taking on the energy of the
+planet it conjuncts. As the Dalai Lama has a Sun/Mercury conjunction, Mercury will also act in a
+sattvic way like the Sun. This shows clearly in his ability to both talk to, and get other people to
+talk about, the problem that most occupies his mind - his homeland.
+Saturn is tamasic, rules his seventh house, and is placed in tamasic Aquarius in the tamasic
+eighth house (which it also rules). The seventh house is rajasic by nature, so there will be some
+conflict here; we know that the Dalai Lama would never have the option to give up his worldly
+responsibilities and retreat into a totally spiritual environment as reflected by the qualities of the
+Moon and the Sun. Saturn will keep him firmly attached to his practical considerations, but his
+way of dealing with them is purely sattvic.
+Venus is a rajasic planet placed in the sattvic sign of Leo with the sattvic Moon - this which
+enable him to resist temptation and keep his desires pure. Venus is in a rajasic house - the
+second. There could have been temptations on his path, but the intense sattvic purity of the planet
+that rules Venus, the Sun, indicates that the Dalai Lama is more than able to control his desires
+and activate the higher energies of Venus.
+Mars, a tamasic planet, is placed in Virgo, another tamasic sign and rajasic house (third). This
+is the house for self motivation and action, and Mars - the best planet for Cancer ascendants as it
+rules the fifth and tenth houses - is well-placed there. In the past the Dalai Lama would
+traditionally have stayed in Tibet and remained all but invisible to the rest of the world, but Mars
+has given him the impetus to travel widely - resulting in many converts to Buddhism and a much
+higher profile for Tibet. The tamasic quality of the Mars/Virgo combination gives him both the
+courage to speak out and the clarity of thought to ensure his message will be understood.
+Jupiter is a sattvic planet, but it is placed in Libra which is a rajasic sign, in the rajasic fourth
+house. Jupiter represents wisdom and philosophy, whilst rajas is about ambition, activity and
+action; this combination gives him the ability to communicate with the West, which is usually
+regarded as rajasic in quality.
+Rahu and Ketu are tamasic by guna, but will act like the planet which rules the house they
+are placed in. Ketu, the past life indicator is ruled by Mercury (acting as sattvic) and is placed in
+the twelfth house of enlightenment, indicating that past incarnations have prepared the Dalai
+Lama for his spiritual path. Rahu is ruled by the sattvic/rajasic Jupiter, but is in the tamasic sixth
+house of obstacles and enemies. Rahu gives the Dalai Lama the necessary drive to confront the
+might of China and enlist the help of the rest of the world in his attempts to regain his spiritual
+heritage.
+The Dalai Lama’s Gunas at a Glance
+The planets - how they reflect their qualities in his chart:
+Sattvic              Rajasic              Tamasic
+Sun              
+Jupiter              Mars
+Moon               Rahu              
+Saturn
+Mercury
+Ketu
+Venus
+
+<<<PAGE 183>>>
+The table of planets suggest that the Dalai Lama’s inner life is completely sattvic. The Sun (his
+consciousness), the Moon (his mind), and Mercury (his intellect and speech) are all influenced
+by the sattvic guna. His moksha (enlightenment) and spiritual realisation planet Ketu is also
+influenced by sattva. Venus, the potentially sensuous side of his nature, becomes sattvic, so his
+inner self is deeply spiritual. His outer persona has an equal influence of tamas and rajas, which
+keeps him very much in touch with the outside world.
+The signs where the planets are placed:
+Sattvic              
+Rajasic              Tamasic
+Sagittarius              Gemini              Virgo
+Leo               
+Libra              
+Aquarius
+The balance of the planets is equally divided. This indicates the Dalai Lama’s inner harmony and
+also his ability to work on all levels.
+and finally the qualities of the houses:
+Sattvic              
+Rajasic              
+Tamasic
+(4, 5, 9, 12)              (1, 2, 3, 7)              (6, 8, 10, 11)
+The Sun               
+Moon              
+Mars
+Mercury               
+Venus               
+Rahu
+Ketu               
+Saturn
+Jupiter               
+The Overall Planetary Indications
+Mercury is tri guni and will reflect the planet it conjuncts Ketu can be sattvic under the right
+circumstances.
+We can see that the houses occupied by the planets are predominantly sattvic, but rajas and
+tamas are also prominent and it is this that gives him the overall ability to work out in the real
+world. The experience of life is considered tamasic and our search for spirituality is essentially
+rajasic; if the Dalai Lama were to have followed his highly sattvic nature, he would not have
+been able to deal with the worldly issues which are the domain of rajas and tamas. Also, as a
+continously reincarnating spiritual figure, his purpose is not to find enlightenment for himself,
+
+<<<PAGE 184>>>
+but to guide others towards it.
+
+<<<PAGE 185>>>
+The Yogas
+The concept of yogas is unique to Vedic astrology and recognised by planetary combinations
+placed in specific relationships to each other. The important thing to realise about the yogas is
+that they show the maturity of the soul and, through various tests, will help it to develop and
+progress along the evolutionary path it has chosen. Of course you can have yogas which ease the
+way as well as those which seem to create difficulties for no obvious reason other than to make
+you grind to a halt.
+There are many yogas and it would be impossible to illustrate them all, so we will concentrate
+on those that are usually considered in a normal consultation. The astrologer studies them first to
+give an indication of the special qualities of your chart; only then will they consider the other
+aspects. It’s also important to realise that not everybody has a yoga in their chart. The lack does
+not put one at some kind of disadvantage !
+The yogas can also be looked at from the Moon and Sun ascendant charts. In the divisional
+charts like the navamsha and drekkna they can be used identify specific areas in your life.
+The Panchamahapurusha Yogas
+‘Panch’ means ‘five’ and ‘Mahapurusha’ means ‘exalted person’. The Panchamahapurusha
+yogas are a combination that indicate a very special individual. They are formed when Mars,
+Mercury, Jupiter, Venus and Saturn are in their own sign or in exaltation in the kendras (first,
+fourth, seventh and tenth houses). The kendra houses are the foundation to life and a person with
+the Panchamahapurusha yoga is going to make an extraordinary impact on the environment and
+those he comes into contact with; this sense of ‘greatness’ in an individual is due to
+repercussions from past lives. Panchamahapurusha relates to conditions for individual success
+based on karma of the past. The important consideration here is that these yogas can become
+spoilt or reduced if they are placed with or aspected by rulers of malefic houses - third, sixth,
+eighth, eleventh, or twelfth. The yoga still exists but its power is reduced. If it is conjunct Rahu
+or Ketu, it becomes powerful in a karmic way. The results then become unpredictable.
+Ruchaka Yoga
+Mars in its own or exaltation sign in kendras - Mars in Aries, Scorpio or Capricorn.
+When Mars produces this yoga, it indicates a very powerful person who has the ability to
+externalise his talents. Action and energy are the keywords here. It could be in the field of sports,
+
+<<<PAGE 186>>>
+adventure, defence or in an area where power, aggression and authority are required. Ruchaka
+yoga makes an individual very ambitious with the ability to achieve whatever they set their
+minds to. They will be extremely successful in gaining their worldly desires.
+Bhadra Yoga
+Mercury in its own or exalted sign in kendras - Mercury in Gemini or Virgo.
+When Mercury produces this yoga it indicates a powerful intellect. Someone who can clearly
+and profoundly. They will be wise, academic, knowledgeable and be able to influence others
+through speech and writing.
+Hamsa Yoga
+Jupiter in its own or exalted sign in kendras - Jupiter in Sagittarius, Pisces or Cancer.
+When Jupiter produces this yoga, it indicates a person with great sattvic thoughts and
+knowledge. Hamsa yoga makes one ethical and truthful and gives the ability to influence the
+most powerful people of the land. This is an exalted soul who wants to impart wisdom and
+knowledge to others without the need for material rewards. The connection towards divinity is
+strong. Hamsa yoga also produces people who are highly sexed and may not be happy with one
+partner. Their sexuality usually does not have an adverse effect on their reputation.
+Malavya Yoga
+Venus in its own or exalted sign in kendras - Venus in Taurus, Libra or Pisces.
+When Venus produces this yoga, the individual has the ability to be greatly successful in the
+material world. This shows immense attraction, beauty and charm, wealth and material success.
+Malavya yoga shows a person who is very popular and can be famous. Their knowledge of
+spiritual literature can be deep and they use this to enhance their earthly resources.
+Shasha Yoga
+Saturn in its own or exalted sign in kendras - Saturn in Capricorn, Aquarius or Libra.
+When the placement of Saturn produces this yoga, it indicates a commanding personality;
+someone who is not interested in being popular or sociable but will be a strong champion for
+unfashionable causes. Here is a person who will shoulder great responsibility and will not be
+afraid of facing karmic issues in life. Sex can be enjoyed as a way of understanding the partner,
+not just to satisfy desire.
+Any yoga dealing with kendras will play an important part in raising profile. It endows an
+individual with the ability to work at higher levels than others in order to fulfil special roles. The
+Sun and Moon are excluded from these yogas as they show the connection of the individual with
+the eternal; if they are in their own houses or in exaltation it creates other special situations
+which are more linked to the infinite.
+Raja Yoga
+Raja Yoga is known as a ‘king-making’ combination. Nowadays this indicates the ability to
+attain success. As in Jyotish we believe that good karma from previous lives will affect us in this
+one as well, Raja yoga in a birth chart will show inherent tendencies which make the person
+especially great. It doesn’t mean that this ‘greatness’ will come automatically, but that extra
+effort will be rewarded with special results. This yoga drives a person to aim for higher things
+and be ambitious. The important thing to understand is that the Raja yoga does not just indicate
+
+<<<PAGE 187>>>
+great monetary wealth, it could indicate wealth of knowledge, respectability and status as well.
+Raja yoga is an auspicious combination of the fifth and ninth house rulers with the rulers of
+the kendras. It can be created by aspects, parivartana (mutual reception) and conjunctions. The
+strongest Raja yogas are created by:
+•     Ruler of the ninth house in the tenth and the tenth house ruler in the ninth
+•     Rulers of the ninth and tenth houses placed in the ninth or tenth houses
+•     Rulers of any trikona house (fifth and ninth) linked to any kendra house (first, fourth,
+seventh and tenth) and if they are placed in any of the above houses.
+The Raja yoga indicates good luck and success. This brings about great success during the dasha
+and sub dashas. Some planets create Raja yogas by themselves, like Mars for Leo and Cancer
+ascendants, Venus for Capricorn and Aquarius ascendants and Saturn for Taurus and Libra
+ascendants. The quality of the yoga depends on how well the planets are placed. There will be
+obvious differences if a yoga is formed when two planets are well placed in their house of
+friends, exaltation or mooltrikona. In the case of a Leo ascendant this might for example be Mars
+in Leo and the Sun in Aries. There is no aspect here but there is Parivartana (mutual reception)
+as Mars is in the sign of Leo and the Sun is in Aries. Here the rulers of the first and ninth houses
+are in mutual reception. Mars is very happy in his friend’s house and the Sun is exalted. This
+yoga would differ if it was formed by the Sun and Mars conjoining in Aquarius in the seventh
+house. Saturn, the ruler of Aquarius, is the enemy to both the Sun and Mars, so for this Raja yoga
+to give result, there would first be delay or obstruction caused by Saturnian influence.
+Neechabhanga RajaYoga - Cancellation of Debilitation
+This is one of the most important yogas to consider when starting out on your journey as a
+student of Vedic astrology. ‘Neech’ means ‘debilitated’, ‘Bhanga’ means ‘cancellation’. Many
+new students are concerned that debilitated planets in a chart mean some kind of weaknesses, but
+this is where a little learning can be dangerous. A planet which is debilitated may not act so
+because of other conditions in the chart. In fact these conditions enhance the planet so much that
+it becomes a very special planet with the ability to give results like a Raja yoga. So when is a
+debilitated planet not debilitated? The rules are numerous. Here are some of them :
+When the planetary ruler of the sign containing the debilitated planet is in its exaltation. For
+example if the Sun is in Libra, Venus, the ruler is exalted.
+When the ruler of the sign that the debilitated planet is placed in is in a kendra from the
+ascendant or the Moon ascendant. For example, Jupiter is debilitated in Capricorn for an Aries
+ascendant, but if Saturn, the ruler of Capricorn, was placed in a kendra house the there would be
+a cancellation of debilitation. If we assume that the Moon is in Cancer, then Jupiter would also
+be in a kendra; if we used a chart with the Moon as the ascendant it would be in the seventh
+house from the Moon. Jupiter here will have a proper cancellation of its debilitation and
+therefore will have the ability to be greatly beneficial.
+When the planet which is debilitated in the rasi chart is exalted in the navamsha; for example
+if Venus was in Virgo on the ascendant of the rasi chart but in Pisces in the navamsha chart.
+
+<<<PAGE 188>>>
+When the ruler of the sign of the debilitated planet and the ruler of its exalted planet are in
+kendras from each other. Take the example of Saturn in Aries, where it would usually be
+debilitated: if Mars (ruler of Aries) was in Capricorn, and Venus (ruler of Saturn’s exaltation
+sign, Libra) was in Libra the two planets would be in kendras from each other and there will be a
+cancellation of debilitation.
+When the debilitated planet is conjunct the ruler of the sign of its debilitation. The Moon
+placed with Mars in Cancer would create Neechbanga Rajayoga.
+When the debilitated planet is aspected by the ruler of its sign. For a Moon debilitated in
+Scorpio, Mars in Aries for example, would have an eighth house aspect to Scorpio and create the
+cancellation of the debilitation.
+The important thing to realise here is that a planet which appears to be debilitated will not
+necessarily create problems. You have to understand the subtle energies of the planets and the
+yogas before making that assumption.
+Support Yogas to the Sun
+Buddhi Aditya Yoga
+This yoga is formed when the Sun and Mercury are conjunct. The Sun represents the eternal
+connection and our soul, whereas Mercury is the conduit through which the desires of the soul
+are expressed in this world. Mercury connects the subtle world with the physical world, so it
+gives the ability to harness the subtle powers of nature, with the main emphasis being on
+intellectual development.
+Vasi Yoga
+Vasi yoga is formed in the same way as the Anapha yoga when benefic planets, other than the
+Moon, are placed in the twelfth house from the Sun.
+Vesi Yoga
+Vesi yoga is formed when benefics (not the moon) are placed in the second house from the Sun.
+Both these yogas support the Sun and give strength to the chart.
+Both Vasi and Vesi yogas show success, wealth and good fortune.
+Obhachari Yoga
+When benefics, other than the moon are present in the second and the twelfth houses from the
+Sun. Again this yoga shows a popular person, well-liked and successful.
+Yogas to the Moon
+The Moon, as the significator of the mind and the reflection of the universal soul (the Sun) on
+earth, is an important planet. It controls life on earth and therefore yogas to the Moon have an
+important bearing on day to day functioning. There are many yogas indicating support to the
+Moon; benefic planets on either side are considered very good as they give support, security and
+strength. Even a malefic planet is better than nothing.
+Adhi yoga
+
+<<<PAGE 189>>>
+When benefic planets are placed in the sixth, seventh and eighth houses from the Moon, the Adhi
+yoga is formed. This yoga’s importance is again in support of the Moon. Planets placed here
+would aspect the houses either side of the moon and enhancing the mind as well as giving
+success, popularity and happiness.
+Anapha Yoga
+This yoga is formed by benefic planets in the twelfth house from the Moon. It shows princely
+appearance, strong personality, good mind, fair reputation. Anapha yoga indicates success but
+also giving up material aspects of life at a later date.
+Sunapha Yoga
+Benefic planets placed in the second house from the Moon. This indicates material success and
+happiness.
+Dhurudhura Yoga
+This is formed when benefic planets are placed on either side of the Moon or in the adjoining
+house - second and twelfth - from it. This gives a person success, eminence and wealth.
+Gajakesari Yoga
+This yoga is due to the relative positions of Jupiter and the Moon, which must be in the first,
+fourth, seventh or tenth house from Jupiter. Again the quality of the yoga depends on the strength
+of Moon and Jupiter; a yoga formed by a full or waxing Moon in Taurus and Jupiter in its
+friendly sign of Scorpio will generate a different quality from one formed by a waning Moon in
+Scorpio and Jupiter in Aquarius. In the latter situation the moon is debilitated and Jupiter is in the
+sign of its enemy - Saturn.
+Gajakesari yoga makes you wise, attractive, skilful and learned. It helps you to develop your
+latent faculties and protects you from negative forces. Gajakesari is related to the Moon and
+Jupiter brings out the inner strength of the Moon, the significator of the mind. This allows mental
+capabilities to strengthen; a strong mind gives an individual the ability to overcome any
+difficulty.
+Sakata Yoga
+Sakata yoga is created when the Moon and Jupiter are placed in the sixth, eighth and twelfth
+houses from each other. So if the Moon is in Taurus and Jupiter in Libra (here the Moon is
+placed in the eighth house from Jupiter), or the Moon is in Aries and Jupiter in Pisces (here
+Jupiter is placed in the twelfth house from the Moon) there is a Sakata yoga. This is a difficult
+yoga to have. It indicates that the placement of the benefic Jupiter from the Moon in the dusthana
+house obstructs the free flow of fortune. People with Sakata yoga are considered very powerful
+souls who are made to face difficulties in their present incarnation to learn some important
+lessons. Sakata means a wheel and Sakata yoga makes a person evolve on a wheel of life. The
+wheels rotate and so can life. There can be ups and downs, with sudden endings to be faced.
+Sakata yoga usually leads to a person having to start all over again at various stages in life. The
+combination of the mind (Moon) and wisdom (Jupiter) can create problems in overall expression.
+Kemadruma Yoga
+Kemadruma yoga is caused when there is no planet in the second or twelfth house from the
+Moon, leaving it unsupported. With this yoga the mind can be difficult to discipline. The Moon
+
+<<<PAGE 190>>>
+as representative of the mind is usually at the root of all our problems and this particular yoga is
+considered by the ancient sages to be the cause of poverty and difficulties. It is also said to
+weaken other good yogas in the chart. The Sun is not considered here.
+Kemadruma yoga is nullified if there are planets in conjunction to the Moon or in kendras
+(fourth, seventh and tenth houses), and if it is a full Moon the yoga is said not to exist.
+Yogas from Dusthana houses
+These are contrary yogas which give strength to the individual when the planets that rule
+dusthanas are placed in their own signs or each other’s signs. These yogas give enormous
+success during their dasha periods and endow the individual with special attributes.
+Vipireeta Raja Yoga
+This is a special combination which gives great wealth. It is created when the rulers of the sixth,
+eighth and twelfth houses are conjunct, placed anywhere in the chart; instead of creating
+problems, they give great wealth and fortune. You can see this yoga from the Moon ascendant
+chart as well; Bill Gates, the Microsoft billionaire, has this combination
+Harsha Yoga
+This yoga is formed when the ruler of the sixth house is placed there. Harsha means happiness.
+This yoga brings good health, ability to confront obstacles, deal with difficulties, healing and
+service to others. It indicates power through fair means.
+Sarala Yoga
+This yoga is formed when the eighth house ruler is placed in the eighth house. It makes a person
+learned, long lived, wealthy, famous but there can be some hidden depths to the person which
+can lead to negative use of power.
+Vimala Yoga
+This yoga is formed when the twelfth house ruler is placed in the twelfth house. It shows success
+abroad and the ability to control expenses. As the house of isolation, it shows a strong
+personality who finds it difficult to mix with others.
+Other important yogas
+Papakartari Yoga
+Papakartari yoga is created when two malefic planets are placed on either side of the planet or
+sign. This restricts the activity of the planet. If Mars and Saturn - two malefics - are placed in the
+second and the twelfth houses from Venus, they will hem it in and stop it from functioning
+properly.
+Subhakartari Yoga
+Shubhakartari yoga is formed when two benefic planets are on either side of a planet. This
+enhances the quality of the planet. If Jupiter and Venus are placed on either side Mars its
+energies will be greatly enhanced.
+Dhana yogas - combinations for wealth
+For Dhana (wealth) yogas to exist in a chart there have to be connections between the second
+
+<<<PAGE 191>>>
+(wealth, assets), eleventh (earnings, profits) and ninth house (good luck). If the rulers of these
+house are in mutual aspect or conjunction, then a Dhana yoga is formed. Some ascendant signs
+have one planet that rules both the second and the eleventh house: for a Leo ascendant, Mercury
+rules both the second and eleventh houses, so if Mercury is conjunct Mars - the ninth house ruler
+- then there is a Dhana yoga.
+Jupiter rules the second and eleventh houses for Aquarius ascendants. Its conjunction with
+Venus will create a Dhana yoga for people with Aquarius ascendants. For other ascendants, a
+conjunction of the ninth house ruler with the eleventh house ruler will indicate a high earner. A
+conjunction between the rulers of the ninth and second houses can show wealth from inheritance.
+A conjunction of the second and eleventh house rulers is also considered a combination for
+wealth but it will not be so strong as the luck factor (ninth house) is missing from it.
+For the Dhana yoga to be strong it must not be placed in the dushtana houses (sixth, eighth or
+twelfth).
+Laxmi Yoga - immense wealth
+Laxmi is the goddess of wealth. This yoga indicates a seriously wealthy person. It could be from
+inheritance or through plain hard work. The ninth house ruler and Venus should be in their own
+or exaltation signs, either in a kendra (first, fourth, seventh or tenth houses) or a trikona (fifth or
+ninth houses). The yoga can be looked at from the relative positions of the ascendant, Moon and
+Sun. If it exists from all these ascendants then unimaginable wealth is indicated.
+Kal Sarpa Yoga
+Kala Sarpa yoga is formed when Rahu and Ketu contain between them all the planets in the natal
+chart. For example, where Rahu is 10 degrees Leo and Ketu 10 degrees Aquarius and all the
+planets are ranged between these points; either from Leo to Aquarius or Aquarius to Leo
+(remembering here of course that Vedic astrology does not use the outer planets Uranus,
+Neptune and Pluto). For this yoga to be complete, no planet should conjunct Rahu or Ketu. It
+contradicts completely any other indications on the chart - however capable the person, his life is
+impeded due to past karma.
+This yoga does not suggest either success or failure, rather the picture of somebody caught up
+in karmic forces so great that they are forced to look at issues they have avoided in the past
+before they can move forward. I’ve noticed this can appear to divide someone’s life into two
+distinct parts.
+Nelson Mandela has it in his chart and spent many years in prison before emerging to become
+a political statesman. It is almost as though he had to pay a karmic debt before he could move on
+to fulfil his destiny.
+Paul McCartney has Kal Sarpa yoga and he cannot escape the legacy of the early years of the
+Beatles. Whatever else he achieves, in whatever context, he will always be known as a Beatle.
+In the political arena, Margaret Thatcher also has this yoga, and after being a major figure in
+world politics she was dramatically ousted from her position as Prime Minister of the
+Conservative party in the U.K., to live in relative obscurity. In complete contrast to this, a client
+of mine who had lived in religious orders for 36 years underwent a dramatic change of heart and
+realised that she wanted to return to life in the outside world.
+
+<<<PAGE 192>>>
+The Wheel of Vishnu
+The Sudharshan Chakra: the Wheel of Vishnu
+The sudarshana chakra is a very specialised chart, assessing the integration of our physical world
+with the eternal. How we attempt to combine these different levels shows the depth of our
+personality. The Vedic astrologer will consider three charts based on different ascendants: the
+lagna, the chandra lagna (Moon on the ascendant) and the surya lagna (Sun on the ascendant).
+The Wheel of Vishnu shows the lagna, chandra and surya charts as concentric circles,
+demonstrating the three energies together but on different levels:
+The surya chart describes the eternal connection which our soul brings with it into our current
+physical body. It shows our inner self, our soul, and how it is connected to our past, present
+and future. It indicates the direction in which our soul is moving.
+The chandra chart describes the mental connection between the soul and the physical world -
+how we express in everyday life the knowledge we carry within.
+The lagna chart (the natal chart) describes the outer personality that results from the blending
+of the eternal and mental energies. It also indicates the issues that will arise in this life.
+If the rulers of the lagna, chandra and surya charts are all friends, the personality is fully
+integrated; if they are enemies, the tensions between them cause friction. Your life will also be
+easier if planets repeat their qualities, house placements and house rulerships in the two or three
+different types of chart. If this is not the case, a careful assessment of the relative power of the
+planets in each chart can reveal which ones are likely to be most influential and in what ways.
+The three charts also give rather different information about you. The lagna chart represents the
+physical body, the chandra your mind and the surya your inner consciousness and future
+direction; together the three represent an integrated self.
+When making predictions, Vedic astrologers look at the transits of planets to the chandra
+ascendant, not the rasi ascendant. The Moon controls life on Earth; on the level of the individual,
+the mind controls all actions, so transits to the chandra chart make a stronger impact on our lives.
+I personally look at all three charts when assessing the likely effect of major transits: when
+planets are making transits to all three charts (good or bad) their effect is greatly increased.
+
+<<<PAGE 193>>>
+The easiest way to understand this is to look at an example: I have chosen the chart of HRH
+Prince Charles as it shows some interesting characteristics. His rasi chart is shown first, followed
+by the sudharshan.
+The innermost wheel is the surya chart with the Sun sign as the ascendant. Prince Charles’ Sun is
+in Libra, so this becomes his ascendant at the soul level. Scorpio rules his second house,
+Sagittarius the third and so on.
+The middle circle is the chandra chart, with the Moon on the ascendant; it represents the mental
+level. Prince Charles’ Moon is in Aries so it reflects the way he deals with spiritual questions on
+a material level, and how he reconciles his physical and spiritual needs.
+The outermost wheel is the rasi chart, with the Cancer ascendant reflecting the present
+incarnation. Prince Charles’ physical body and his attitude towards daily life are thus symbolised
+by the attributes of Cancer.
+Rasi Chart
+HRH Prince Charles
+Born 14th November 1948 21.14 GMT London, England (51N 0W10).
+Sun   
+29°16'   Libra
+Moon   
+07°17'   Aries
+Mercury   13°48'   Libra
+Venus   
+23°14'   Virgo
+Mars   
+27°48'   Scorpio
+Jupiter   
+06°44'    Sagittarius
+Saturn   
+12°07'   Leo
+Rahu   
+10°47'   Aries
+Ketu   
+10°47'   Libra
+Sudharshan chart
+
+<<<PAGE 194>>>
+Surya Chart
+On the eternal level - the Sun, Mercury and Ketu are placed in a Libra Ascendant. Prince
+Charles’ Sun in Libra is at 29º13', almost the end of the sign. Libra is the sign where balance is
+sought between the physical and the spiritual life. The Sun is debilitated in Libra, but this Sun
+has moved past the debilitation degree, where involvement in the material world is total, so in
+Prince Charles the balance has shifted towards the spiritual side. When the Sun is located so near
+the end of a sign it indicates that one chapter of life is closing down and another opening.
+However, some issues do have to be resolved before he can move on.
+Ketu, the moksha karaka, is placed with the Sun. Ketu seeks enlightenment and wants to leave
+mundane reality behind: it has a selfless purpose. Ketu is an enemy of the Sun and although there
+was not an actual solar eclipse on the day Charles was born, symbolically it will always be
+eclipsed by Ketu. Mercury takes on the character of any planet it conjuncts and in this chart it is
+within 3º of Ketu; Mercury is more likely to take on Ketu’s persona than that of the Sun, almost
+18º away. Ketu and Mercury combine together to eclipse Prince Charles on a soul level. This is a
+soul which has lost its purpose. Its direction is towards spiritual enlightenment, but it has to
+finish some important karmic issues before it can progress. Venus, as the dispositor of the Surya
+lagna is debilitated in the twelfth house, indicating loss, imprisonment of the soul, and a
+helplessness on that level.
+Chandra Chart
+On the mental level - the Moon and Rahu are placed in an Aries ascendant. As the first sign of
+the zodiac Aries represents a new beginning, a fresh start in life; it is impulsive, militant,
+adventurous and stubborn. An Aries person is not always willing to listen to others. Because
+Aries is working at the mental level for him, Prince Charles continually needs to push back the
+frontiers of conventional thought. He wants to take risks and to act first and think later, but this
+in itself creates obstacles in his life.
+Mars, the dispositor of Aries is in its own sign of the intense and spiritual Scorpio, which
+usually fights between base instincts and higher aspirations. There is no halfway house here.
+Rahu is closely conjunct the Moon. Rahu’s influence on the mental plane suggests that the soul
+is guiding this mind through Ketu, the other end of the axis of the Moon’s nodes. The Moon is
+
+<<<PAGE 195>>>
+afraid of Rahu, an inner fear which cannot be fully expressed. It could be of failure or of
+disappointment. The symbolic eclipse of the Sun in the soul chart is emphasised and increased by
+the mental chart. Rahu creates immense ambition but it also brings with it anxiety and
+unhappiness. Rahu will darken Prince Charles’ mind until it learns to see through the darkness.
+The Moon is the significator of the public. The conjunction of the Moon with Rahu shows that
+Prince Charles has an inherent fear of his public duties as well as the power of the masses. I think
+he understands that his soul purpose is not on the material level but towards enlightenment.
+However, he has an important act to perform in his material life which he fears but will have to
+carry out; that act might result in the end of the monarchy as we know it.
+Lagna Chart
+On the physical level - no planets in the Cancer ascendant. There are no planets in this ascendant
+house, but it is ruled by the Moon, which also rules his mental level. The Moon-Rahu
+conjunction in the tenth house shows that Prince Charles has to live out his life on the world
+stage, but in a way he will be eclipsed by others - for reasons which are not obvious to him.
+The three levels together
+All three levels of Prince Charles’ chart are ruled by a cardinal sign on the ascendant, so the three
+second house signs are all fixed, the three third house signs are all mutable and so on. This
+clearly shows a channelling of similar kinds of energy on all levels. Cardinal sign ascendants are
+about leadership qualities; however, Prince Charles’ leadership qualities will not be allowed their
+full expression until he succeeds to the throne, a karma which he cannot do anything about. He
+has, though, managed to put his tenth house Moon (in the lagna chart) to good use in other areas.
+Following the difficulties and upsets of recent years, Prince Charles has learnt to use his high
+profile to bring areas close to his heart more into the public eye. In the chandra chart, his
+ascendant ruler, Mars, is in the moksha eighth house, and in the surya chart, the ascendant ruler,
+Venus, is in the moksha twelfth house. As a champion of alternative medicine and organic
+gardening to name just two of his interests, he has succeeded in combining the spiritual needs
+reflected by these planets with the physical requirements of his lagna ascendant.
+Here we have looked only at the relationship between the different ascendants. You can study the
+Sun and Moon charts more comprehensively to see what other insights are offered.
+
+<<<PAGE 196>>>
+Putting it all Together - A Chart Interpretation
+I think the easiest way to synthesise all you’ve read so far is to go step-by-step through a chart
+interpretation. You will notice as we go through each section there is sometimes conflicting
+information regarding the condition of the planets and how well they work in the chart - this
+always happens in an interpretation, and it is only by constant practice and following the threads
+through to the end that we can finally draw a conclusion. You will also find that the same themes
+crop up in different places, and whilst I have tried not to repeat the same information endlessly, it
+is helpful to note which issues are becoming dominant. I have chosen Prince William because he
+is well-known, and has a verified time of birth; when he was born a notice was posted outside
+Buckingham Palace announcing the exact time of arrival. Also, the Vedic techniques we have
+learnt so far reveal some fascinating insights into his chart. William Arthur Philip Louis is the
+son of Prince Charles and the late Diana, Princess of Wales. He is the heir apparent with the title
+Prince William of Wales.
+It is common practice to show both the rasi and navamsha charts together. Whereas Western
+charts show the degrees of the planets and their aspects Indian astrologers give very little detail
+on the chart itself, so a list of the planets’ positions and their nakshatras appears alongside.
+Prince William
+21.6.82   21:03 BST   London 51N30 0W10
+Rasi chart
+
+<<<PAGE 197>>>
+Navamsha chart
+
+<<<PAGE 198>>>
+Step One - The Basic Information
+The first thing to do after erecting the chart is to make a Rasi Chakra grid, so you can see at a
+glance how the planets relate to each other.
+
+<<<PAGE 199>>>
+It is immediately obvious from the rasi grid that all the planets are ruled either by Venus or
+Mercury; the ascendant is ruled by Jupiter, which is placed in Libra, also ruled by Venus. When
+planets form such a stark pattern, it shows an individual who has some important destiny to
+fulfil.
+Here are some other features of the rasi chart:
+•     Sun Moon and Jupiter are in mutual trines.
+•     Mars, Saturn, Venus and Mercury are in mutual trines.
+•     All the planets are placed in four houses - sixth, seventh, tenth and eleventh.
+Planetary Grid
+From the rasi chakra and planetary grids we can summarise:
+The Sun rules the ninth house and is placed in the seventh.
+
+<<<PAGE 200>>>
+The Moon rules the eighth house and is placed in the seventh.
+Mars rules the fifth and twelfth houses and is placed in the tenth.
+Mercury rules the seventh and tenth houses and is placed in the sixth.
+Jupiter rules the first and fourth house and is placed in the eleventh.
+Venus rules the sixth and eleventh houses and is placed in the sixth.
+Saturn rules the second and third houses and is placed in the tenth.
+The Rahu Ketu axis is placed in the seventh/first house axis.
+We can also see that the number of planets placed in the different elements and modes are:
+Elements    Modes
+Water
+0    Cardinal 1
+Earth
+4    Fixed  
+2
+Fire
+1    Mutable  6
+Air
+4    
+You will see that earth and air energy dominate Prince William’s chart. There is a complete
+absence of water, which rules emotions and feelings. The modes are dominated by six planets in
+mutable signs, which shows a changeable personality. His ascendant degree is in a fire sign.
+Now we can fill in more of the picture by looking at the nakshatras:
+......and the karmic axis:
+Planets conjuncting Rahu - Sun and Moon
+Planets conjuncting Ketu - None

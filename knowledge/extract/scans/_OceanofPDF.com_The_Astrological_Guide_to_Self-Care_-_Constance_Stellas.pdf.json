@@ -1,0 +1,461 @@
+{
+  "file": "_OceanofPDF.com_The_Astrological_Guide_to_Self-Care_-_Constance_Stellas.pdf",
+  "size_bytes": 7830464,
+  "error": null,
+  "pages": 497,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Title Page",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "Dedication",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "Introduction",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "Part 1: Signs, Elements, and Self-Care",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "Chapter 1: What Is Self-Care?",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "What Self-Care Is",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "What Self-Care Isn’t",
+      "page": 12
+    },
+    {
+      "level": 3,
+      "title": "The Benefits of Self-Care",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Starting a Self-Care Routine",
+      "page": 14
+    },
+    {
+      "level": 2,
+      "title": "Chapter 2: Self-Care and Astrology",
+      "page": 16
+    },
+    {
+      "level": 3,
+      "title": "Zodiac Polarities",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "Governing Elements",
+      "page": 19
+    },
+    {
+      "level": 3,
+      "title": "Ruling Planets",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "A Word on Sun Signs",
+      "page": 22
+    },
+    {
+      "level": 1,
+      "title": "Part 2: Self-Care Rituals by Element",
+      "page": 24
+    },
+    {
+      "level": 2,
+      "title": "Chapter 3: Essential Elements: Fire",
+      "page": 25
+    },
+    {
+      "level": 3,
+      "title": "The Mythology of Fire",
+      "page": 26
+    },
+    {
+      "level": 3,
+      "title": "The Element of Fire",
+      "page": 26
+    },
+    {
+      "level": 3,
+      "title": "Fire Signs and Self-Care",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "Chapter 4: Essential Elements: Earth",
+      "page": 56
+    },
+    {
+      "level": 3,
+      "title": "The Mythology of Earth",
+      "page": 57
+    },
+    {
+      "level": 3,
+      "title": "The Element of Earth",
+      "page": 58
+    },
+    {
+      "level": 3,
+      "title": "Earth Signs and Self-Care",
+      "page": 60
+    },
+    {
+      "level": 2,
+      "title": "Chapter 5: Essential Elements: Air",
+      "page": 87
+    },
+    {
+      "level": 3,
+      "title": "The Mythology of Air",
+      "page": 88
+    },
+    {
+      "level": 3,
+      "title": "The Element of Air",
+      "page": 88
+    },
+    {
+      "level": 3,
+      "title": "Air Signs and Self-Care",
+      "page": 90
+    },
+    {
+      "level": 2,
+      "title": "Chapter 6: Essential Elements: Water",
+      "page": 119
+    },
+    {
+      "level": 3,
+      "title": "The Mythology of Water",
+      "page": 120
+    },
+    {
+      "level": 3,
+      "title": "The Element of Water",
+      "page": 120
+    },
+    {
+      "level": 3,
+      "title": "Water Signs and Self-Care",
+      "page": 122
+    },
+    {
+      "level": 1,
+      "title": "Part 3: Self-Care by Sign",
+      "page": 150
+    },
+    {
+      "level": 2,
+      "title": "Chapter 7: Self-Care for Aries",
+      "page": 151
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Aries",
+      "page": 153
+    },
+    {
+      "level": 3,
+      "title": "Aries and Self-Care Success",
+      "page": 154
+    },
+    {
+      "level": 2,
+      "title": "Chapter 8: Self-Care for Taurus",
+      "page": 177
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Taurus",
+      "page": 178
+    },
+    {
+      "level": 3,
+      "title": "Taurus and Self-Care Success",
+      "page": 181
+    },
+    {
+      "level": 2,
+      "title": "Chapter 9: Self-Care for Gemini",
+      "page": 204
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Gemini",
+      "page": 206
+    },
+    {
+      "level": 3,
+      "title": "Gemini and Self-Care Success",
+      "page": 208
+    },
+    {
+      "level": 2,
+      "title": "Chapter 10: Self-Care for Cancer",
+      "page": 232
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Cancer",
+      "page": 234
+    },
+    {
+      "level": 3,
+      "title": "Cancer and Self-Care Success",
+      "page": 236
+    },
+    {
+      "level": 2,
+      "title": "Chapter 11: Self-Care for Leo",
+      "page": 259
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Leo",
+      "page": 260
+    },
+    {
+      "level": 3,
+      "title": "Leo and Self-Care Success",
+      "page": 262
+    },
+    {
+      "level": 2,
+      "title": "Chapter 12: Self-Care for Virgo",
+      "page": 288
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Virgo",
+      "page": 290
+    },
+    {
+      "level": 3,
+      "title": "Virgo and Self-Care Success",
+      "page": 292
+    },
+    {
+      "level": 2,
+      "title": "Chapter 13: Self-Care for Libra",
+      "page": 318
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Libra",
+      "page": 319
+    },
+    {
+      "level": 3,
+      "title": "Libra and Self-Care Success",
+      "page": 321
+    },
+    {
+      "level": 2,
+      "title": "Chapter 14: Self-Care for Scorpio",
+      "page": 344
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Scorpio",
+      "page": 346
+    },
+    {
+      "level": 3,
+      "title": "Scorpio and Self-Care Success",
+      "page": 348
+    },
+    {
+      "level": 2,
+      "title": "Chapter 15: Self-Care for Sagittarius",
+      "page": 374
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Sagittarius",
+      "page": 375
+    },
+    {
+      "level": 3,
+      "title": "Sagittarius and Self-Care Success",
+      "page": 377
+    },
+    {
+      "level": 2,
+      "title": "Chapter 16: Self-Care for Capricorn",
+      "page": 399
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Capricorn",
+      "page": 401
+    },
+    {
+      "level": 3,
+      "title": "Capricorn and Self-Care Success",
+      "page": 402
+    },
+    {
+      "level": 2,
+      "title": "Chapter 17: Self-Care for Aquarius",
+      "page": 428
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Aquarius",
+      "page": 430
+    },
+    {
+      "level": 3,
+      "title": "Aquarius and Self-Care Success",
+      "page": 433
+    },
+    {
+      "level": 2,
+      "title": "Chapter 18: Self-Care for Pisces",
+      "page": 456
+    },
+    {
+      "level": 3,
+      "title": "Self-Care and Pisces",
+      "page": 458
+    },
+    {
+      "level": 3,
+      "title": "Pisces and Self-Care Success",
+      "page": 460
+    },
+    {
+      "level": 1,
+      "title": "Acknowledgments",
+      "page": 483
+    },
+    {
+      "level": 1,
+      "title": "About the Author",
+      "page": 485
+    },
+    {
+      "level": 1,
+      "title": "Index",
+      "page": 487
+    },
+    {
+      "level": 1,
+      "title": "Copyright",
+      "page": 496
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "The Astrological Guide to Self-Care",
+    "author": "Constance Stellas",
+    "subject": "",
+    "keywords": "",
+    "creator": "calibre (4.13.0) [http://calibre-ebook.com]",
+    "producer": "calibre (4.13.0) [http://calibre-ebook.com]",
+    "creationDate": "D:20200422182940+00'00'",
+    "modDate": "D:20200422232940+05'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": false,
+  "text_chars": 19249,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": "Thank you for downloading this\nSimon & Schuster ebook.\nGet a FREE ebook when you join our mailing list. Plus, get updates on new releases,\ndeals, recommended reads, and more from Simon & Schuster. Click below to sign up\nand see terms and conditions.\nCLICK HERE TO SIGN UP\nAlready a subscriber? Provide your email again so we can register this ebook and\nsend you more of what you like to read. You will continue to receive exclusive offers in\nyour inbox.\n"
+    },
+    {
+      "page": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "text": "Dedication\nTo my Greek Grandmother. I am her namesake and\nloved her Taurus view of life: No Monkey Business!\n"
+    },
+    {
+      "page": 5,
+      "text": "Introduction\nLooking for a little “me time”? Want to feel more\nrelaxed while deepening your connection to the world\naround you? Look to the stars! For thousands of\nyears, the zodiac has guided humans to their highest\npurpose. And now, it can provide unique suggestions\nfor your self-care—and the self-care of your loved\nones.\nIn The Astrological Guide to Self-Care, you’ll ﬁnd\nheavenly ways to focus on your true self. Discover\nhow to incorporate self-care into your life, while\nlearning just how important astrology is to your\noverall \nself-care \nroutine. \nStrengthen \nyour\nunderstanding of yourself and the world around you,\nwith the zodiac as your map. Then, relax, rejuvenate,\nand stay balanced with nearly one thousand self-care\nrituals, organized by the four governing astrological\nelements and twelve astrological signs.\nWith a brief history on the ancient mythologies and\ndeities portrayed in the twelve signs, you’ll recognize\nyour unique personality reﬂected in the stars based\non your Sun sign and sign element. You may also dive\ndeeper into your astrological self-care by looking into\nsign-speciﬁc ideas for your Moon sign or Rising sign.\nAnd all the information on signs and elements that\ndon’t directly pertain to you in this self-care guide is\n"
+    },
+    {
+      "page": 6,
+      "text": "all the more advice, insight, and knowledge you’ll be\nable to oﬀer your family and friends.\nAs you delve into what self-care means to you,\nyou’ll learn how to harness the full potential of your\nhoroscope and take advantage of the celestial\nenergies aﬀecting your life. After just a few\nastrologically guided self-care activities, you’ll feel\nmore calm, balanced, and in sync with the universe.\nWherever your self-care journey takes you, let the\nstars be your guide.\n"
+    },
+    {
+      "page": 7,
+      "text": "PART 1\nSigns, Elements, and\nSelf-Care\n"
+    },
+    {
+      "page": 62,
+      "text": "Change one thing, no matter how big or small, and note the\ndiﬀerence.\nGet Stepping\nIn terms of ﬁtness, earth signs like measurable results. They\nlike to be able to calculate situations and use concrete facts\nto do so. This is why a pedometer, smart watch, or ﬁtness\ntracker would be perfect for you. You like to be able to know\nthe exact number of steps you have taken so you can use\nthat information to plan, to calculate further exercise or\nmeals, or just to motivate yourself. Those folks who go willy-\nnilly into exercise are not for you; hard facts and\norganization will get the job done for an earth sign.\nDo Some Heavy Lifting\nEarth signs are incredibly strong people, mentally and\nphysically. With that in mind, make sure you emphasize\nweight and strength training in your workouts. Develop your\nlifting muscles by exercising with weights and concentrating\non weight-bearing exercises throughout your life. There are\nso many variations of weight and strength training that you\ncan easily ﬁnd a routine that suits your age, strength,\ngeneral health, and energy level. Ask your weight trainer for\nguidance. Strength training will help you ﬁght the loss of\nmuscle, bone mass, and strength that occurs naturally with\naging. It is also great for your joints, an area of concern for a\nlot of earth signs.\nHeal Your Spirit with the Soil\nYou are an earth sign, after all. What could be more in tune\nwith your nature than to work with the earth? As an earth\nsign, you tend to hold on to stress and have trouble\n"
+    },
+    {
+      "page": 117,
+      "text": "games. Your critical-thinking skills might help you ﬁgure out\nthe techniques, moves, and patterns you need to win the\ngame. Clear your mind from other thoughts and focus on\nkeeping your movements strong and ﬂuid.\nFind Balance Through Reiki\nSometimes an air sign can become unbalanced, perhaps\ndue to overthinking or an issue with communication. When\nunbalanced, you may have diﬃculty being open-minded,\nand feel unwilling to accept new ideas—or you may feel\noverwhelmed with options. A Reiki treatment can be useful\nfor reestablishing order in your life.\nReiki is a healing technique that aims to improve the\nmovement of energy throughout the body through gentle\ntouch. A Reiki session can cleanse your energy so it ﬂows\nthrough your body smoothly and gets you back into\nbalance. This practice will help you feel revitalized and\nrefreshed, so be sure to consider setting up a session during\nhigh-stress times.\nPractice Feng Shui\nIt’s important to get enough rest and relaxation in your\nhome so you go about your day feeling enlivened and\nreinvigorated. For air signs, rest is also an important aspect\nof keeping their nervous system in balance. Use the power\nof some basic feng shui to help you get exactly the right\nsetup for better relaxation in your home.\nFeng shui is the practice of aligning and arranging\nelements in your home to create the ideal energy ﬂow for\npositivity and good luck in various aspects of your life. For\nexample, feng shui does not recommend using metal\nheadboards on your beds and advises against using certain\ncolors in an area based on the energy you might want to\n"
+    },
+    {
+      "page": 172,
+      "text": "fact, one of Aries’s missions in life is to inspire others, so\nlook for ways to incorporate leadership into your life.\nWhether it’s mentoring a colleague at work, encouraging\nothers to join a volunteer eﬀort for a cause you’re\npassionate about, or inviting friends to practice various self-\ncare methods, you can lead others with your Aries sense of\nadventure. You’ll feel rewarded by all the positive outcomes\nyou’ll see from your eﬀorts.\nPractice the Warrior Pose\nAries is ruled by Mars, the god of war, so it follows that the\nWarrior Pose would be perfect for his sensibilities. This\nstrong, ﬁerce yoga pose improves balance and strengthens\nyour shoulders, back, and legs.\nFrom a standing position, bend one knee 90 degrees\n(keep your knee over your ankle) and push the other leg far\nout behind you, with the sole of your foot on the ground and\nyour back heel placed perpendicular to your front heel.\nRaise your arms straight up into the air with your palms\nfacing each other, and look up to the sky. Breathe deeply.\nRediscover Your Power with a\nBloodstone\nCrystals and stones carry amazing powers from the earth.\nBloodstone, a green and red gemstone, is known for its\nability to restore your body and rebalance your mind.\nBloodstone is also connected to Mars, and holding it in your\nleft hand while you meditate will make you especially\npowerful. (The left side of the body including the left hand\nreceives energy. The right side discharges energy. When you\nhold a crystal in the left hand, you receive the mineral’s\nbeneﬁts.) Take deep breaths for several minutes, or recite a\nmantra that resonates with you. You can purchase this stone\n"
+    },
+    {
+      "page": 227,
+      "text": "Moisturize Your Hands\nWhile you may think that your face ages ﬁrst, your hands\nare often the ﬁrst area where you can see signs of aging.\nGemini rules over the hands, so make it a priority to pamper\nyour hands as often as possible. Start by buying a good-\nquality moisturizer and use it at least daily, or whenever\nyour hands feel parched. You can also do deep moisturizing\ntreatments at home for your hands, such as exfoliating the\nskin with a sugar scrub and rinsing, and then covering with\na rich moisturizing lotion and moisturizing gloves overnight.\nWhen you wake up in the morning, your hands will be soft\nand silky.\nMeditate On Yellow and Blue\nColor meditation is a wonderful way to calm your mind and\ndraw on the energies associated with diﬀerent colors. Keep\nin mind that as a Gemini, to get the most out of your\nmeditation, you should also add sound to your practice.\nFocus on two colors when you practice color meditation:\nyellow and blue. Yellow speaks to the brightness of your soul\nand will help energize your spirit. Blue ties into the fact that\nyou are an air sign and symbolizes the openness and\nfreedom of the sky.\nWhether it’s a morning meditation to greet the day, or a\nrestorative 15 minutes in the afternoon, ﬁnd some time and\na quiet place to meditate. Close your eyes, clear your mind,\nand focus on the two colors. Picture the bright yellow of the\nsun washing over your body. Feel it warm your skin and\nrecharge your soul. Then envision the bluest of blue skies\nand allow that color to refresh your perspective, and\nimagine a life without boundaries.\nKeep Your Hands Busy\n"
+    },
+    {
+      "page": 282,
+      "text": "Be the star of the dance ﬂoor and let loose with friends or\nfamily. Whether you’re a trained dancer or just want to have\nfun, an evening spent dancing is a perfect activity for Leo.\nConsider dressing the part by picking an outﬁt that gives a\nnod to the type of music you’ll be dancing to. If you’re in the\nmood, sip some bubbly before hitting the ﬂoor to add a\ncelebratory feel.\nNo matter the occasion, a night out dancing is always\ntime well spent!\nTry Open Mic Night\nLeo loves to be a star—taking part in an open mic night is a\ngreat way to express creativity! Get a few friends and head\nout to a local coﬀee shop or bar to take the stage. If you\ncan’t ﬁnd an open mic night near you, create your own!\nInvite friends and family over for a night to enjoy your\ntalents. In addition to basking in the limelight, you can\nsocialize and, as a natural leader, encourage your more\ntimid friends to show oﬀ their talents. It’s a time to have\nfun, feed your creative side, and support your loved ones.\nSplurge on the Royal Treatment\nStressed out and need some royal pampering? Head to the\nspa, Leo!\nA luxurious spa day may be the closest we can get to\nbeing treated like kings and queens. Whether you decide to\nget a manicure and pedicure, facial, or hot stone massage,\ntreat yourself by going to a spa where you feel comfortable\nand pampered.\nPerhaps the most indulgent of treatments? The full-body\nmassage. Ask your masseuse to let you pick out a scented\noil, and give feedback early on so that they apply the level\nof pressure you’re most comfortable with.\n"
+    },
+    {
+      "page": 337,
+      "text": "cup of warm milk! In fact, Libra could make this a regular\nbedtime ritual! Soothing and traditional, warm milk is a\nwonderful natural sleep aid. It is especially beneﬁcial if you\nwere given this as a child; the comforting memories will also\nrelax you. You will be drifting oﬀ to dreamland in no time.\nBuy a Pair of Leather Driving Gloves\nIf there is one thing Libra knows, it’s how to do everything\nwith a touch of class. Leather driving gloves may not be\nnecessary in the modern vehicle, but they are certainly\nsophisticated. Ruled by Venus, Libra will especially love the\nsmooth, somewhat daring feel of leather (real or fake).\nSomething that people may not realize is that Libra also\nhas a tough side and has an urge to drive in the fast lane.\nSure, you are a gentle sign with a knack for making others\nfeel at home, but you also know how to get down to\nbusiness. Slip on your gloves and go for a whirl—just be sure\nto keep to the speed limit and buckle up ﬁrst.\nEase Overactive Thoughts with St.\nJohn’s Wort\nLibra cares deeply about his relationships. In fact, part of\nthe Libran identity is tied to balance within his family,\nfriendship circle, and romantic connections. Sometimes,\nLibra can get caught up in trying to make everyone happy,\nleaving him feeling overwhelmed and unbalanced himself.\nSt. John’s wort is a natural supplement that may help calm\nthe anxious thoughts that Libra sometimes experiences. Talk\nto your doctor to ask if it may help you (St. John’s wort is not\nsuitable \nfor \neveryone \nand \ncan \ninteract \nwith \nother\nmedications), as well as to discuss speciﬁc dosing\nrecommendations.\n"
+    },
+    {
+      "page": 392,
+      "text": "lingonberry jam in stores, and spread it over your morning\ntoast, or use it to make thumbprint cookies with a twist\nwhen you need a sweet treat.\nUse a Standing Desk\nSagittarius is an active sign that can experience back pain\nor other muscle tension when sitting still for too long. After\nall, your muscles were made for adventure! Use a standing\ndesk (or ball chair, if standing isn’t an option) for short\nperiods to keep your spine straight and avoid these physical\naches. The frequent movement will also keep you feeling\nrefreshed and focused on the task at hand so you can get\nthings done with ease. Many companies have inexpensive\ndesk attachments to raise your computer or surface work\nspace to whatever level is best for you.\nPractice Leg Stretches\nSagittarius rules the thighs and also the legs. To avoid\nstrain, be sure to stretch these muscles well before\nexercising—you’ll \nneed \nthem \nstrong \nfor \nyour \nnext\nadventure! Great stretches that target the thigh and leg\nmuscle groups include the hamstring stretch and the\nstanding quadriceps stretch.\nTo do the hamstring stretch, stand straight and bend over,\ncoming as close as you can to touching your toes without\nbending your knees. Hold for 5 seconds, then stand up\nstraight, and repeat the stretch once or twice more.\nTo do the standing quadriceps stretch, stand straight and\nbend one leg back, grabbing your ankle with one hand.\nBend your knee back as far as possible and hold for about\n30 seconds. Repeat with your other leg.\n"
+    },
+    {
+      "page": 447,
+      "text": "Fight Seasonal Blues\nIn cold weather months, the lack of strong sunlight (or any\nsunlight!) can start to wear on you after a while. But there\nare things you can do to lift your spirits in the dreary winter\nmonths. Why not use this time to plan a trip to a tropical\nspot—either now or in the near future. Also, don’t forget to\nkeep up your exercise routine, even if you would prefer to\nsnuggle on the couch. Get outside for a walk when you can;\nit is sure to lift your spirits. And though you may feel like\nhibernating, make sure to keep up regular plans with your\nfriends.\nIf you are feeling low and lethargic on an ongoing basis,\nreach out to your doctor to discuss using light treatment\ntherapy to alleviate your symptoms.\nHang Up a Photo of Your Planet\nYour ruling planet of Uranus is stunningly beautiful. This gas\ngiant, which resides almost two billion miles away from the\nsun, spins on its side, and is a lovely blue color (thanks to\nthe methane gas in its upper atmosphere, which reﬂects\nblue light).\nHanging a photo of your planet near where you work will\ninspire you to follow your own path—just as Uranus spins in\na diﬀerent direction than any other planet in our solar\nsystem. It will also remind you to persevere in diﬃcult\ntimes, since Uranus spins that way because of a series of\ncollisions with a huge object billions of years ago. The planet\nwithstood the blows and carried on, spinning in its own\nunique way.\nDisplay Blue Cornﬂowers in the\nSummer\n"
+    },
+    {
+      "page": 495,
+      "text": "hobbies/crafts, 49–50, 53–55, 60–63, 204–10\nhome/oﬃce décor, 53–60, 209\nlove/romance, 214–15\nmoney/ﬁnances, 56, 62, 202\nmusic, 56–57, 60, 202, 208\npolarity of, 197\nquality of, 21, 197\nreading/books, 61, 204, 209, 213\nrecreation, 48–64, 200–215\nrelaxation, 49–64, 200–215\nruling planet of, 21, 197\nself-care for, 45–64, 197–215\nself-care success for, 200–201\nsymbol of, 47, 197–98\ntraits of, 21, 197–201\nWater element\nactivities for, 87–104\nastrological symbols and, 86–87\nmythology and, 86\nself-care and, 19, 85–104\nYin/yang, 18–19\nZodiac, 7–8, 17–21, 107–328. See also speciﬁc signs\n"
+    },
+    {
+      "page": 496,
+      "text": "Adams Media\nAn Imprint of Simon & Schuster, Inc.\n57 Littleﬁeld Street\nAvon, Massachusetts 02322\nwww.SimonandSchuster.com\nCopyright © 2019 by Simon & Schuster, Inc.\nAll rights reserved, including the right to reproduce this book or portions thereof\nin any form whatsoever. For information address Adams Media Subsidiary Rights\nDepartment, 1230 Avenue of the Americas, New York, NY 10020.\nFirst Adams Media hardcover edition December 2019\nADAMS MEDIA and colophon are trademarks of Simon & Schuster.\nFor information about special discounts for bulk purchases, please contact\nSimon & Schuster Special Sales at 1-866-506-1949 or\nbusiness@simonandschuster.com.\nThe Simon & Schuster Speakers Bureau can bring authors to your live event. For\nmore information or to book an event contact the Simon & Schuster Speakers\nBureau at 1-866-248-3049 or visit our website at www.simonspeakers.com.\nInterior design by Michelle Kelly\nInterior images © 123RF, Getty Images, and Clipart.com\nCover design by Erin Alexander\nCover images © 123RF; Getty Images; Clipart.com\nLibrary of Congress Cataloging-in-Publication Data\nNames: Stellas, Constance, author.\nTitle: The astrological guide to self-care / Constance Stellas.\nDescription: Avon, Massachusetts: Adams Media, 2019.\nIdentiﬁers: LCCN 2019030430 | ISBN 9781507212349 (hc) | ISBN\n9781507212356 (ebook)\nSubjects: LCSH: Astrology. | Self-care, Health--Miscellanea.\nClassiﬁcation: LCC BF1711 .S785 2019 | DDC 133.5--dc23\nLC record available at https://lccn.loc.gov/2019030430\nISBN 978-1-5072-1234-9\nISBN 978-1-5072-1235-6 (ebook)\nMany of the designations used by manufacturers and sellers to distinguish their\nproducts are claimed as trademarks. Where those designations appear in this\n"
+    },
+    {
+      "page": 497,
+      "text": "book and Simon & Schuster, Inc., was aware of a trademark claim, the\ndesignations have been printed with initial capital letters.\nThis book is intended as general information only, and should not be used to\ndiagnose or treat any health condition. In light of the complex, individual, and\nspeciﬁc nature of health problems, this book is not intended to replace\nprofessional medical advice. The ideas, procedures, and suggestions in this book\nare intended to supplement, not replace, the advice of a trained medical\nprofessional. Consult your physician before adopting any of the suggestions in\nthis book, as well as about any condition that may require diagnosis or medical\nattention. The author and publisher disclaim any liability arising directly or\nindirectly from the use of this book.\nContains material adapted from the following titles published by Adams Media,\nan Imprint of Simon & Schuster, Inc.: The Little Book of Self-Care for Aquarius by\nConstance Stellas, copyright © 2019, ISBN 978-1-5072-0984-4; The Little Book\nof Self-Care for Aries by Constance Stellas, copyright © 2019, ISBN 978-1-5072-\n0964-6; The Little Book of Self-Care for Cancer by Constance Stellas, copyright\n© 2019, ISBN 978-1-5072-0970-7; The Little Book of Self-Care for Capricorn by\nConstance Stellas, copyright © 2019, ISBN 978-1-5072-0982-0; The Little Book\nof Self-Care for Gemini by Constance Stellas, copyright © 2019, ISBN 978-1-\n5072-0968-4; The Little Book of Self-Care for Leo by Constance Stellas, copyright\n© 2019, ISBN 978-1-5072- 0972-1; The Little Book of Self-Care for Libra by\nConstance Stellas, copyright © 2019, ISBN 978-1-5072-0976-9; The Little Book\nof Self-Care for Pisces by Constance Stellas, copyright © 2019, ISBN 978-1-5072-\n0986-8; The Little Book of Self-Care for Sagittarius by Constance Stellas,\ncopyright © 2019, ISBN 978-1-5072-0980-6; The Little Book of Self-Care for\nScorpio by Constance Stellas, copyright © 2019, ISBN 978-1-5072-0978-3; The\nLittle Book of Self-Care for Taurus by Constance Stellas, copyright © 2019, ISBN\n978-1-5072-0966-0; The Little Book of Self-Care for Virgo by Constance Stellas,\ncopyright © 2019, ISBN 978-1-5072-0974-5.\n"
+    }
+  ],
+  "tech_pages": [],
+  "full_text": null
+}

@@ -1,0 +1,1496 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 278-305
+# compiled into: planets.json (in_sign)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 278>>>
+
+...XIX...
+Planets in Different Signs
+Behold the Adityas, the Vasus, the two
+Ashwins, and also the
+Maruts. Behold, O Bharata, many wonders never seen
+before.
+Gita XI/6
+Even as the placement of various
+ house lords and planets in different
+houses is important in predictions, so
+ also are horoscopic indications
+consequent upon an interaction of planets and
+signs. The inherent nature of a
+planet undergoes modifications depending upon
+the sign it is located in. The
+following is a brief account of the indications
+given by planets when located
+in different signs, according to the classical
+ works on astrology. A literal
+application of the results mentioned here-under
+must, however, be avoided.
+The Sun in Different Signs
+Mesha:
+Courageous, fighter, famous for book writing, wanderer, aggressive,
+of strong
+bones, afflicted by disorders of blood and Pitta, lacking wealth, and
+earning
+his livelihood from the use of weapons. If the Sun is exalted, his
+adverse
+influences are less marked.
+Note: The Sun is exalted at Mesha 10°. Mesha is a sign
+of Mars which is an
+aggressive planet and also rules bone marrow. Mesha is also
+a movable sign,
+hence ‘wanderer’.
+Vrisha:
+Tolerant, wise, skilful in dealing with others; earning through scents,
+clothes
+as well as from sinful acts; dislikes feminine association; skilled in
+instrumental music; suffers from diseases of the oral cavity and the eye.
+
+<<<PAGE 279>>>
+Mithuna:
+Good to look at, learned, wealthy, sweet-tongued; well-versed in
+astrology;
+keen learner, famous, having two mothers.
+Karka:
+ Poor, ignorant, servile; opposed to his father and other near ones;
+tormented
+ by hard labour; good speaker, religiously inclined, conceited;
+suffering from
+ailments of Kapha and Pitta; having royal bearing (if under
+benefic influence).
+Note: The Sun is a royal planet. Karka is owned by the
+Moon which is also a
+royal planet.
+Simha:
+Easily angered; destroyer of his enemies; frequents hills and jungles;
+full of
+strength and vigour; learned; versed in multiple arts; relishes animal
+food;
+rich; royal bearing; consistent, and suffering from ear trouble.
+Kanya:
+ Having a body like that of a woman; physically weak; skilled in
+writing,
+painting, poetry and mathematics; shy nature; linguist; respectful to
+elders;
+sweet tongued; capable of earning money.
+Note: Kanya literally means a virgin. The Sun in this
+sign gives a delicate
+body.
+Tula:
+   Sinner; overcome by opponents; servile; quarrelsome; bereft of
+wealth;
+ distiller of liquors, goldsmith, or a blacksmith; inconsistent;
+interested in
+others’ wives; humiliated by the ruler; courageous (foolhardy!).
+Note: The Sun is debilitated in Tula 10°.
+Vrischika:
+Quarrelsome, easily angered, keen to pick up fights, skilled in the
+use of
+weapons; cruel and daring; opposed to his parents; prone to be hurt by
+poison,
+weapon or fire; wastes his earnings; follows the prescribed norms of
+religious
+discipline.
+Dhanu:
+ Rich; liked by the ruler; scholar; devoted to gods and Brahmins;
+skilled in the
+ use of weapons; worthy of reverence; intelligent; having
+knowledge of medicine;
+and strong of body.
+Makara:
+Covetous; coward; wanderer; poor; bereft of comforts; indulgent in
+unworthy
+acts; adept; opposed to his dear ones and enjoying the wealth of
+others.
+Kumbha:
+Bereft of comforts as well as children; strong of limb; indulgent in
+base and
+unworthy acts; short tempered; too fixed in his ideas; inconsistent
+
+<<<PAGE 280>>>
+in
+friendship; prone to heart disease.
+Note: The Sun is uncomfortable in the signs of Saturn
+who happens to be his
+bitter enemy although also his son. The Sun also
+signifies the heart.
+Meena:Blessed
+with friends and a loving wife; learned; destroyer of enemies;
+earning through
+the sale of articles procured from water, or through land and
+irrigation;
+respected by women; having many brothers; and suffering from
+some secret
+ailment.
+Aspects on The Sun in Different
+Signs
+1. In the signs of Mars (Mesha and
+Vrischika)
+(a)    Moon:
+Charitable; delicate body; good looking; many servants; fond of
+women.
+(b)    Mars: Very
+strong; cruel; red-eyed; retains composure in war.
+(c)       Mercury:
+ Bereft of courage, comfort and wealth; servile; weak and
+ugly.
+Note: Mercury
+cannot aspect the Sun in a Rashi chart. Are these results to be
+applied to
+divisional charts?
+(d)    Jupiter:
+Wealthy; minister or judge; charitable; respected among his
+family members.
+(e)    Venus:
+Interested in women of ill-repute; opposed by many; poor; few
+friends; suffers
+from skin disease.
+Note: Venus too,
+like Mercury, cannot aspect the Sun in a Rashi chart.    
+(f)     Saturn:
+Devoid of courage; ailing; little intelligence; ugly.
+2. In the signs of Venus (Vrisha and
+Tula)
+(a)    Moon: Many
+wives; attached to women of ill-repute; earns through
+professions related to
+water.
+(b)    Mars:
+Retains composure in war; strong and courageous; earns through
+his own efforts.
+(c)    Mercury:
+Adept in music, poetry and book writing; good in looks.
+(d)    Jupiter:
+Many friends and foes; minister; wealthy and satisfied.
+(e)    Venus:
+Beautiful eyes; coward; minister to a king; wealthy.
+
+<<<PAGE 281>>>
+(f)     Saturn:
+lazy; poor; ailing; cohabiting with old women.
+3. In signs of Mercury (Mithuna and
+Kanya)
+(a)    Moon:
+Tormented by friends and foes alike; always sad; troubled by
+foreign travel and
+residence.
+(b)       Mars:
+Afraid of enemies; quarrelsome; conquered in war; sad and
+humiliated.
+(c)       Mercury:
+ Kingly qualities; famous; blessed with friends; devoid of
+foes; suffers from
+disease of the eye.
+(d)    Jupiter:
+Very learned, knows secret mantras; aggressive, prone to lose
+mental poise;
+frequent foreign travel or residence.
+(e)    Venus:
+Comforted by wife, children and wealth; good looking, healthy.
+(f)     Saturn:
+Easily excited; foolish; tricky; with many servants.
+4. In the Moon’s sign (Karka)
+(a)       Moon:
+ Equivalent to a king; cruel; earns wealth through pursuits
+related to water.
+(b)    Mars:
+Suffers from inflammations, perianal ailments etc.; devoid of
+friends; bereft
+of progeny.
+(c)    Mercury:
+Famous for his learning and status; liked by the king; clever;
+without foes.
+(d)    Jupiter:
+Ambassador; high status; very famous and versatile.
+(e)       Venus:
+ Earning through women; does good to others; brave; sweet
+tongued.
+(f)     Saturn:
+Suffers from Kapha and Vaata ailments; covets others’ wealth;
+distorted wisdom;
+back-biter.
+5. In his own sign (Simha)
+(a)       Moon:
+ Tricky, wise, liked by the king; suffers from Kapha related
+ailments.
+(b)       Mars:
+ Brave and courageous; very clever; lover of several women;
+feared by others.
+(c)    Mercury:
+Skilled in writing; fond of travel; lacks physical strength.
+
+<<<PAGE 282>>>
+(d)    Jupiter:
+Builder of temples, orchards, ponds, etc.; strong; wise; loves
+solitude.
+(e)    Venus:
+Cruel; shameless; disliked by his relatives; skin ailment.
+(f)     Saturn:
+Torments his near and dear ones; spoils others’ work; suffers
+impotence.
+6. In the signs of Jupiter (Dhanu and Meena)
+(a)    Moon:
+Blessed with sons, learning and fame; good to look at; equal to a
+king;
+contented.
+(b)       Mars:
+ Earns fame in war; aggressive; clear speech; wealthy and
+comfortable.
+(c)       Mercury:
+ Poet; linguist; sweet tongued; liked by others; possesses
+knowledge of
+minerals, metals etc.
+(d)    Jupiter:
+Learned; wealthy; associates with the king.
+(e)    Venus:
+Blessed with a virtuous and beautiful wife; good clothes.
+(f)     Saturn:
+Unclean; serves the sinners; covets others’ food; tends cattle.
+7. In the signs of Saturn (Makara and Kumbha)
+(a)       Moon:
+ Trickster; unstable mind; loses money and comfort through
+association with
+women.
+(b)    Mars:
+Tormented by illness and enemy; physical injury.
+(c)    Mercury:
+Brave; of the nature of eunuchs; unclean body; covets the
+wealth of others.
+(d)    Jupiter:
+Wise; famous; provides refuge to many.
+(e)    Venus:
+Earns his living by dealing in conch shells and the like; gains
+from women of
+ill-repute.
+(f)     Saturn:
+Annihilator of foes; earns the confidence of the king; happy.
+The Moon in Different Signs
+Mesha:
+Easily angered; wealthy; without brothers (and sisters); blessed with
+sons;
+ courageous; wanderer; inconsistent; lustful; pleasing to women;
+
+<<<PAGE 283>>>
+honoured by the
+ruler; scared of going into water; weak-kneed, having round
+and pretty eyes,
+disfigured nails and scarred head; scanty hair on the body.
+Vrisha:
+ Charitable; curly hair; sensuous; honoured; blessed with physical
+pleasures;
+ very courageous; strong; father of many daughters; having
+prominent face,
+shoulders, thighs, knees and feet; deprived of money, family
+and progeny;
+forgiving in nature; stable in friendship. Moon in the first half
+of Vrisha is
+adverse for mother, in the second half for father.
+Mithuna:
+Poet; blessed with physical pleasures, skillful in sexual act; good
+looking;
+ highly intelligent; jovial; versed in scriptures, interprets hidden
+thoughts;
+pleasant eyes, sweet tongued.
+Karka:
+Of fluctuating wealth; knower of astrology; fast in walking; blessed
+with
+houses, land, fortune and friends; indulgent in physical pleasures; liable
+to
+lose his cool; likes water sports, orchards and watery places.
+Simha:
+Frequents hills and jungles; broad face, neck and bones; energetic;
+scanty hair
+on the head; hater of women; tormented by hunger, thirst, and
+abdominal and
+ dental ailments; likes animal food; charitable; aggressive;
+few sons; devoted
+to his parents; indulges in physical pleasures.
+Kanya:
+ Fond of women and tormented by them; of pleasing looks; very
+learned; teacher;
+ religiously inclined; sweet tongued, truthful, composed;
+does good to others;
+forgiving nature; many daughters and few sons; likes
+song, dance and music;
+enjoys the wealth of others; lives in a foreign land.
+Tula:
+Prominent nose and eyes, slim-bodied; hen-pecked; devoted to gods,
+Brahmins and
+to the virtuous; skilled in trade; doesn’t covet others’ wealth;
+of fluctuating
+fortune; forgiving in nature; defective of some limb; ailing;
+helpful to
+relatives and abandoned by them.
+Vrischika:
+Sickly in early age; strong of body; covetous; atheist; pretty eyes;
+wealthy;
+fond of others’ wives; cruel hearted; bereft of relatives; deprived of
+his
+wealth by the ruler; having prominent abdomen and forehead; indulges in
+secret
+sins.
+Dhanu:
+Of a Sattvik nature; wealthy; haughty; versed in several arts; inherits
+property; charitable; strong; eloquent speaker; poet; religiously inclined;
+opposed to his own relatives; very courageous; yields only to love and
+kindness.
+
+<<<PAGE 284>>>
+Makara:
+ Versed in music; learned; subdued by women; charitable and
+forgiving; pleasing
+ to his wife; religiously inclined; wanderer; lazy;
+intolerant of cold or chill;
+beautiful eyes and skin; beautiful and tall body.
+Kumbha:
+Indolent; clever; attached to others’ wives; sinful; sculptor; liked
+by
+friends; ill-natured; poor; enjoys the wealth of others.
+Meen: Very talented; earning by dealing in produce of
+the ocean, like pearls,
+etc.; devoted to his wife and children; sculptor;
+overcomes his opponents;
+easily yields to women; good natured and charitable;
+ has a beautiful and
+symmetrical body.
+Aspects on the Moon in Different
+Signs
+1. In Mesha
+(a)    Sun: Short
+temper; poor; beggar.
+(b)    Mars:
+Suffers from dental and eye ailments; injury from weapons; high
+status;
+ailments of the urinary system.
+(c)    Mercury:
+Learned; good speaker and poet; famous.
+(d)    Jupiter:
+Equal to a king in status; wealthy.
+(e)    Venus:
+Very amiable; virtuous; good speaker.
+(f)     Saturn:
+Sickly; liar; thief.
+2. In Vrisha:
+(a)    Sun:
+Devoted to agriculture; undergoes hard labour; servile.
+(b)    Mars:
+Excessively indulgent in sex; liked by women; associates with
+good people;
+bereft of property.
+(c)    Mercury:
+Learned; eloquent speaker; highly talented.
+(d)       Jupiter:
+ Virtuous; famous; adorable; blessed with good wife and
+children.
+(e)    Venus:
+Blessed with numerous physical comforts; equivalent to a king.
+(f)     Saturn:
+Wealthy; ill-natured; bad for mother.
+3. In Mithuna
+(a)    Sun: Poor;
+clever; good looking; suffers miseries.
+
+<<<PAGE 285>>>
+(b)    Mars: Very
+brave; learned; dealer in weapons; defective in some limb.
+(c)    Mercury:
+Equal to a king; confidant; overcomes his opponents.
+(d)    Jupiter:
+Sagacious; a teacher; learned.
+(e)    Venus:
+Bereft of fear; blessed with beautiful wife, conveyances and
+ornaments.
+(f)     Saturn:
+Bereft of wealth, wife, vehicle and progeny; a weaver.
+4. In Karka
+(a)    Sun: Eye
+disease; looks after a king’s fort; poor.
+(b)    Mars:
+Valiant; high status; weak body.
+(c)    Mercury:
+Learned; poet; a minister.
+(d)    Jupiter:
+Learned; famous; valiant; a king.
+(e)    Venus:
+Blessed with precious gems and ornaments; good to look at;
+associates with
+women of ill-repute.
+(f)     Saturn:
+Wanderer; hostile to mother; dealer in iron or weapons.
+5. In Simha
+(a)    Sun:
+Blessed with good qualities; brave; equal to a king; delay or denial
+of
+progeny.
+(b)    Mars:
+Equal to a king; commander of an army; easily angered.
+(c)    Mercury:
+Devoted to wife; learned; astrologer.
+(d)    Jupiter:
+Wealthy; Virtuous; famous.
+(e)    Venus:
+Learned; sickly; devoted to wife; equal to a king.
+(f)         Saturn:
+ Takes to agriculture; bereft of wealth and home comforts;
+sinner; a barber.
+6. In Kanya
+(a)    Sun:
+Serves women; varied comforts.
+(b)    Mars:
+Sculptor; famous; wealthy; eager for battle.
+(c)    Mercury: A
+poet or astrologer; winner in a debate; equal to a king.
+(d)    Jupiter:
+Liked by the king; leader of an army; keeps his word.
+
+<<<PAGE 286>>>
+(e)    Venus:
+Many wives; wealthy; learned; highly talented.
+(f)     Saturn:
+Bereft of wealth and wisdom; dependant upon women; poor
+memory.
+7. In Tula
+(a)    Sun: A
+wanderer; sickly; poor; humiliated; without any comforts.
+(b)       Mars:
+ Ill-tempered; addicted to others’ wives; a killer; suffers eye
+disease.
+(c)    Mercury:
+Possesses many talents; very wealthy; learned; good speaker.
+(d)    Jupiter:
+Highly respected; dealer in gold and precious stones.
+(e)    Venus:
+Healthy; good looking; wealthy; learned; a trader.
+(f)     Saturn:
+Cruel; wealthy; indulges in physical pleasures.
+8. In Vrischika
+(a)    Sun:
+Learned; wanderer; devoid of comforts and wealth; disliked by
+others.
+(b)    Mars:
+Famous; equal to a king; winner in a war; voracious eater.
+(c)    Mercury:
+Crude in speech; father of twins; capable.
+(d)    Jupiter:
+Adheres to norms; good looking.
+(e)    Venus:
+Wealthy; pleasant; knower of others’ weaknesses; a washerman.
+(f)     Saturn:
+Sickly; defective of some limb; greedy.
+9. In Dhanu
+(a)    Sun:
+Wealthy; famous; equivalent to a king.
+(b)    Mars:
+Leader of an army; wealthy; valorous; famous.
+(c)    Mercury:
+Sculptor; astrologer; defends his near and dear ones.
+(d)    Jupiter:
+Beautiful body; religiously inclined; a minister; high status;
+wealthy.
+(e)    Venus:
+Good looking; several comforts; blessed with good friends and
+wife; offers
+refuge to many.
+(f)     Saturn:
+Good speaker; possesses strength; inclined to philosophical
+learning; arrogant;
+addicted to courtesans.
+
+<<<PAGE 287>>>
+10. In Makara
+(a)    Sun: Poor;
+wanderer; ugly; helps others.
+(b)    Mars:
+Famous; equal to a king; wealthy and fortunate.
+(c)    Mercury:
+Equal to a king; shunned by wife and children.
+(d)    Jupiter:
+Very valorous; a king; blessed with many wives, children and
+friends.
+(e)    Venus:
+Learned; enjoys the wealth and women of others.
+(f)     Saturn: Indolent;
+ugly; rich; addicted to others’ wives.
+11. In Kumbha
+(a)    Sun: Ugly;
+immoral; takes to agriculture.
+(b)    Mars:
+Truthful; lazy; servile; wicked.
+(c)       Mercury:
+ Blessed with physical comforts; good speaker; equal to a
+king.
+(d)    Jupiter:
+Equal to a king; blessed with status and possessions.
+(e)    Venus:
+Addicted to women not his own; devoid of physical pleasures;
+sinner; coward.
+(f)     Saturn:
+Addicted to others wives; irreligious. Benefic aspects ensure
+fame and
+prosperity.
+12. In Meena
+(a)       Sun: Very
+ sensuous (under the influence of Kamadeva, the god of
+sexual union!); rich;
+leader of an army; a sinner.
+(b)    Mars:
+Wicked; humiliated; bereft of comforts.
+(c)    Mercury:
+Very witty; wealthy and famous; enjoys others’ wives.
+(d)    Jupiter:
+Good looking; very wealthy; enjoys many women; equal to a
+king.
+(e)    Venus:
+Learned; amiable; indulges in music, dance and singing.
+(f)     Saturn:
+Tormented by sexual urge; addicted to low and ugly women; a
+sinner.
+
+<<<PAGE 288>>>
+Mars in Different Signs
+Mesha:
+Truthful; bold; eager for battle; endowed with fame and wealth; good
+speech;
+ liked by all; blessed with cattle and agricultural produce; easily
+angered; and
+associates with many women.
+Vrisha:
+Many enemies; few comforts; foul-tongued; a sinner; singer; tends to
+corrupt
+virtuous women.
+Mithuna:
+ Big family; good looking; knows many subjects; poet, sculptor;
+religiously
+inclined; inclined to go abroad.
+Karka:
+Lives and eats in the house of others; sickly; miserable; earns from
+land and
+water-related pursuits.
+Simha:
+ Valorous; poor; frequents forests; undertakes strenuous work;
+intolerant; likes
+hunting; irreligious tendancies; tends to lose his first wife.
+Kanya:
+ Wealthy; large family; sweet tongued; learned; spend-thrift;
+religiously
+inclined; frightened by enemies.
+Tula:
+ Wanderer; speaker; good looking; loves his wife, preceptors and
+friends; likely
+to lose his first wife.
+Vrischika:
+Conqueror; truthful; leader of a gang of thieves; tormentor of foes;
+sustains
+injury from poison, fire or weapon.
+Dhanu:
+ High status; weakened from injuries by weapons; bitter tongued;
+inclined
+towards hard labour; disrespectful to his preceptors and elders.
+Makara:
+Leader of an army; a king; courageous in battle; earns through his
+personal
+efforts; resides in his own country.
+Kumbha:
+ Sickly; opposed to his own people; lacks humility; liar, jealous,
+unfortunate;
+having a hairy body.
+Meena:
+ Humiliated by his own people; disrespectful to Brahmins and
+preceptors; sickly;
+wicked; residing abroad; enjoys being praised.
+Aspects on Mars in Different
+Signs
+1. In its own signs
+(a)    Sun: A
+minister or judge; good speaker; blessed with money, wife and
+sons.
+
+<<<PAGE 289>>>
+(b)    Moon:
+Brave; addicted to others’ wives; physical injuries; adverse for
+mother.
+(c)    Mercury:
+Sensual; addicted to women of easy morals; covets others’
+wealth.
+(d)    Jupiter:
+Learned; sweet tongued; devoted to his father; wealthy.
+(e)    Venus:
+Voracious eater; suffers on account of women.
+(f)     Saturn:
+Addicted to others’ wives; shunned by his own people; weak-
+bodied.
+2. In signs of Venus
+(a)    Sun:
+Wanders in forests and mountains; easily angered; hates women.
+(b)    Moon:
+Opposed to his mother; coward; addicted to several women.
+(c)       Mercury:
+ Learned; inclined to much talking; quarrelsome; good
+looking.
+(d)    Jupiter:
+Fortunate; indulges in dance and music.
+(e)       Venus:
+ Worthy of praise; minister; commander; blessed with many
+comforts.
+(f)     Saturn:
+Famous; amiable; wealthy; learned.
+3. In signs of Mercury
+(a)    Sun:
+Learned; wealthy; valorous; dweller of forests, mountains or forts.
+(b)    Moon:
+Leader of women; amiable; wise; wealthy; takes to security of
+the ruler.
+(c)    Mercury:
+Talks excessively; loves poetry; versed in mathematics; tells
+pleasing lies.
+(d)    Jupiter:
+Ambassador or a king; very skilful; leader of men; quits his
+country.
+(e)    Venus:
+Wealthy; enjoys good food and clothes; devoted to his wife.
+(f)     Saturn:
+Takes to agriculture; lazy; brave; ugly.
+4. In the Moon’s sign
+
+<<<PAGE 290>>>
+(a)       Sun:
+ Suffers from excess of Pitta; a judge; capable of inflicting
+punishment.
+(b)    Moon:
+Sickly; of low character; ordinary looks.
+(c)    Mercury:
+Ugly; shameless; sinner; bereft of friends.
+(d)    Jupiter:
+Famous; learned; high official status.
+(e)       Venus:
+ Tormented by association with women; suffers humiliation;
+loses money in wicked
+deeds.
+(f)     Saturn:
+Travels, and earns, by sea; good looking; equivalent to a king.
+5. In the Sun’s sign
+(a)    Sun:
+Wanders in woods and mountains; aggressive; protects his own
+people.
+(b)       Moon:
+ Tough body; cruel hearted; adverse for mother; skilful and
+intelligent.
+(c)    Mercury:
+Sculptor or painter; poet; greedy; very clever.
+(d)       Jupiter:
+ Leader of an army; liked by the king; learned; fulfils the
+desires of many
+people.
+(e)    Venus:
+Good looking; enjoys many women; famous; youthful.
+(f)         Saturn:
+ Looks older for his age; poor; worrisome; lives in others’
+houses.
+6. In signs of Jupiter
+(a)    Sun:
+Adored by men; lives in woods or mountains or forts; cruel nature.
+(b)    Moon:
+Quarrelsome; learned; opposed to the king.
+(c)    Mercury:
+Very clever; learned; sculptor; amiable.
+(d)    Jupiter:
+Leaves his place of residence; bereft of wife and comforts; ever
+engaged in
+overcoming his foes.
+(e)    Venus:
+Addicted to women; blessed with many comforts.
+(f)     Saturn:
+Servile; ever wandering; poor looks; sinful.
+7. In signs of Saturn
+(a)    Sun:
+Aggressive; brave; blessed with wealth, wife and progeny.
+
+<<<PAGE 291>>>
+(b)    Moon:
+Hostile to mother; inconsistent in friendship; displaced from his
+place of
+residence.
+(c)    Mercury:
+Very sweet tongued; poor; weak; deceitful and irreligious.
+(d)    Jupiter:
+Long-lived; good looking; liked by the king; and blessed with
+brothers.
+(e)    Venus:
+Quarrelsome; hen-pecked; blessed with numerous comforts.
+(f)     Saturn:
+Very wealthy; hates women; many children; learned; equal to a
+king, and
+valorous in battle.
+Mercury in Different Signs
+Mesha:
+Wicked; quarrelsome; cunning; slim-bodied; liar; of changing mind;
+versed in
+singing and dance; fond of sexual union; voracious eater; wastes
+money; suffers
+debts and imprisonment.
+Vrisha:
+ Wealthy; trustworthy; charitable; skilled in many arts; clever;
+sensual;
+famous; versed in music; witty.
+Mithuna:
+Fine clothes; wealthy; good speaker or orator; proud; disinclined
+towards sex;
+brought up by two mothers; versed in Vedas and Shastras; and
+generally comfortable.
+Karka:
+ Scholarly; residing in foreign country; addicted to pretty women;
+excessive
+ talker; wickedly inclined; opposed to his friends and relatives;
+poet, singer,
+a dancer; earns through water-related pursuits.
+Simha:
+Wanderer; devoid of learning; famous; liar; poor memory; bereft of
+wealth and
+property; disliked by women; and servile.
+Kanya:
+Religiously inclined; learned; poet, writer, orator; honoured; fearless;
+arguementative; forgiving in nature.
+Tula:
+ Clever in speech; versed in several arts; keen to spend his money;
+devoted to
+ gods, Brahmins and preceptors; trader; indulges in physical
+pleasures.
+Vrischika:
+Industrious; irreligious; shameless; cruel; greedy; associates with
+wicked
+women; deceitful; covets the wealth and belongings of others.
+
+<<<PAGE 292>>>
+Dhanu:
+ Learned; scholarly; famous; forgiving; versed in scriptures; a
+renunciant;
+ brave; wealthy; a teacher or preceptor, writer; clever speaker;
+associates with
+worthy women.
+Makara:
+Servile; foolish; impotent; liar, back-biter; shunned by his relatives;
+very
+fickle; desirous of physical pleasures; ugly and coward.
+Kumbha:
+ Troubled by opponents; impotent; shuns the prescribed duties;
+unclean;
+uncultured; defective speech; servile and coward.
+Meena:
+Good natured; pious; lives in distant lands; capable; liked by friends;
+helps
+others while himself poor.
+Aspects on Mercury in Different
+Signs
+1. In signs of Mars
+(a)    Sun:
+truthful; loved by his brothers; endowed with physical pleasures.
+(b)    Moon:
+Lover of dance and music; fond of women; sensuous; wicked;
+blessed with
+servants and vehicles.
+(c)    Mars:
+Resorts to falsehood; good speaker; quarrelsome; learned and
+very rich; suffers
+from thirst.
+(d)    Jupiter:
+Wealthy; happy; endowed with soft skin and hair.
+(e)    Venus:
+Clever speaker; polite; trustworthy; liked by women.
+(f)     Saturn:
+Cruel; courageous; aggressive; and miserable.
+2. In signs of Venus
+(a)    Sun:
+Sickly; poor; servile; suffers humiliations.
+(b)    Moon: Rich;
+trustworthy; healthy; famous; serves the ruler.
+(c)    Mars:
+Humiliated by the ruler; tormented by disease and by opponents;
+deprived of
+physical pleasures.
+(d)    Jupiter:
+Learned; trustworthy; leader of his town or village; famous.
+(e)    Venus:
+Fortunate; good clothes and ornaments; young women fall for
+him.
+(f)     Saturn:
+Devoid of comforts; tormented by wife, children or friends.
+3. In its own signs
+
+<<<PAGE 293>>>
+(a)    Sun:
+Truthful; good looking; liked by the ruler.
+(b)       Moon: Fond
+ of scriptures; sweet tongued but excessive talker;
+quarrelsome.
+(c)    Mars:
+Liked by others; serves the ruler; back-biter.
+(d)    Jupiter:
+High governmental status; good looking; wealthy; brave.
+(e)    Venus:
+Scholarly; employed by the king; firm in friendship; addicted to
+wicked women.
+(f)     Saturn:
+Kind hearted; pursues his undertakings to accomplishment;
+wealthy.
+4. In the Moon’s sign
+(a)    Sun:
+Washerman; gardner; builder; goldsmith; maker of garlands.
+(b)       Moon:
+ Suffers physical torments /ailments through women; weak-
+bodied; bereft of
+comforts.
+(c)    Mars: Limited
+education; excessive talker; good in looks; tells likeable
+lies; thievish.
+(d)    Jupiter:
+Wise; kind-hearted; fortunate; learned; honoured by the ruler.
+(e)     Venus:
+Beautiful like Kamadeva (the god of Love); sweet tongued;
+versed in dance and
+music.
+(f)     Saturn:
+Deceitful; wicked; thankless; suffers imprisonment.
+5. In the Sun’s sign
+(a)    Sun:
+Jealous; servile; cruel; fickle and shameless.
+(b)       Moon: Good
+ in looks; capable; fond of poetry, dance and music;
+wealthy; well-dressed.
+(c)    Mars:
+Wicked; unwise; miserable; suffers physical injuries.
+(d)       Jupiter:
+Tender body; very learned; impressive speaker; high status
+with the king.
+(e)    Venus:
+Beautiful body; pleasure loving; wealthy.
+(f)     Saturn:
+Tall in stature; miserable; foul odour emits from his body.
+6. In the signs of Jupiter
+
+<<<PAGE 294>>>
+(a)    Sun:
+Brave; cool-tempered; suffers from renal stones, diabetes, etc.
+(b)    Moon:
+Writer; good in looks; liked by all; company of friends.
+(c)    Mars:
+Writer; leader of thieves.
+(d)    Jupiter:
+Very learned; remarkable memory; pious; good looking; high
+status; treasurer to
+a king.
+(e)    Venus:
+Minister; youthful; brave; a thief.
+(f)         Saturn:
+ Resides in a fort or a forest; voracious appetite; wicked;
+incompetent.
+7. In the signs of Saturn
+(a)       Sun: Large
+ family; wicked nature; proficient wrestler; voracious
+appetite; famous.
+(b)       Moon:
+ Earns through water-related pursuits; a trader in liquors;
+coward.
+(c)    Mars:
+Disinclined to activity; shy; good natured; wealthy.
+(d)    Jupiter:
+Very wealthy; famous; leader of his village or town.
+(e)    Venus:
+Many children; lacking in looks; very sensuous; husband of a
+wicked woman.
+(f)     Saturn:
+Sinner; poor; servile; miserable and destitute.
+Jupiter in Different Signs
+Mesha:
+ Of a pious nature; argumentative; blessed with ornaments and
+precious stones;
+wealthy; famous; adorable; spender of money; opposed by
+many; cruel; body
+scarred by injuries.
+Vrisha:
+Obese; healthy; devoted to gods, Brahmins and cows; good in looks;
+fortunate;
+devoted to his own wife; blessed with lands and cattle; wise and
+benevolent.
+Mithuna:
+A minister; blessed with friends and sons; good looking; beautiful
+eyes;
+orator; religiously inclined.
+Karka:
+ Wealthy; learned; beautiful body; religiously inclined; strong;
+truthful;
+adorable; equal to a king.
+
+<<<PAGE 295>>>
+Simha:
+ Strong; learned; wealthy; pious; equivalent to a king; leader of an
+army;
+aggressive; resides in forts, forests and mountains.
+Kanya: 
+Learned; pious; efficient; fond of scents and flowers; tormentor of
+his
+opponents; versed in several branches of learning.
+Tula:  
+ Wise, learned; earns from foreign lands; soft in speech; versed in
+scriptures;
+good in looks; a trader.
+Vrischika:  
+ Versed in several scriptures; commentator of books; clever;
+associates with
+worthy women; sickly; toilsome; easily angered; indulging in
+forbidden
+pursuits.
+Dhanu:
+ A religious preceptor; very wealthy; charitable; helpful to others;
+learned; of
+a high rank; frequents foreign lands as well as pilgrimages.
+Makara:
+ Servile and toilsome; bereft of physical pleasures; lacks strength;
+indulgent
+in forbidden deeds; irreligious; coward; lives in distant lands.
+Kumbha:
+Sickly; greedy; loses money; lacks wisdom; attached to the wife of
+his
+ preceptor; suffers from abdominal and dental diseases. According to
+Varahamihira, Jupiter in Kumbha gives the same results as in Karka.
+Meena:
+Versed in Vedas and other scriptures; adorable; famous; hairy body.
+Aspects on Jupiter in Different
+Signs
+1. In the signs of Mars
+(a)    Sun: Very
+pious, religious and truthful; famous; hairy body .
+(b)       Moon:
+ Soft-mannered; loved by his wife; religiously inclined; a
+scholar.
+(c)    Mars:
+Brave; aggressive; destroys the pride of his opponents; leader of
+many.
+(d)    Mercury:
+Sinner; a cheat; keen to notice the shortcomings of others;
+polite; resorts to
+falsehood.
+(e)    Venus: A
+coward; blessed with good clothes, ornaments, women and
+other physical
+pleasures.
+(f)     Saturn:
+Ugly; greedy; unstable in friendship.
+2. In the signs of Venus
+
+<<<PAGE 296>>>
+(a)    Sun:
+Wanderer; learned; serves the ruler; blessed with vehicles, cattle,
+etc.
+(b)       Moon: Very
+ rich; beautiful body; adored by women; indulges in
+pleasures.
+(c)    Mars:
+Honoured by the ruler; liked by women and children; learned;
+wealthy.
+(d)    Mercury:
+Learned; clever; likeable; virtuous and good looking.
+(e)    Venus:
+Wealthy; famous; clean; enjoys comforts.
+(f)         Saturn:
+ Scholarly; wealthy; head of a village or a town; unclean;
+shunned by women.
+3. In the signs of Mercury
+(a)    Sun: Head
+of a village; large family; well known all around.
+(b)    Moon:
+Virtuous; very famous and wealthy; liked by his mother; good
+looking;
+unparalleled in good qualities.
+(c)    Mars: Ever
+indulgent in physical pleasures; ever victorious; wealthy;
+adorable; scars from
+injury to the body.
+(d)    Mercury:
+Proficient astrologer; sculptor; good speaker; blessed with
+wife and children.
+(e)    Venus:
+Blessed with wealth, wife, progeny, lands and houses; addicted
+to women of easy
+morals.
+(f)     Saturn:
+Head of a village or city; good in looks; honoured by the ruler.
+4. In the Moon’s sign
+(a)    Sun: Loss
+of wife’s wealth and progeny, followed by the acquisition of
+them all; leader
+of men.
+(b)       Moon: Controls
+ the king’s treasure; wealthy; high status; many
+comforts.
+(c)    Mars:
+Takes young girl for a wife; wealthy; scholarly; marks of injury
+on the body.
+(d)    Mercury:
+Favours his brothers; wealthy; quarrelsome; trustworthy.
+(e)    Venus:
+Many wives; very famous; fortunate.
+
+<<<PAGE 297>>>
+(f)     Saturn:
+Head of a village, a town or an army; excessive talker; physical
+pleasures in
+old age.
+5. In the Sun’s sign
+(a)    Sun:
+Inclined to excessive spending; famous; kind-hearted; a king.
+(b)    Moon: Very
+fortunate; earns wealth through the help of his wife.
+(c)       Mars:
+ Truthful to preceptors and friends; performs difficult tasks;
+pious; cruel; a
+leader.
+(d)       Mercury:
+ Builder; scientist; good orator; minister; a scholar and a
+leader.
+(e)    Venus:
+Fond of women; obtains status from the king; strong.
+(f)     Saturn:
+Excessive talker; bereft of comforts; conquered in battle; fallen
+from status.
+6. In its own signs
+(a)    Sun:
+Opposed to the ruler; shunned by friends and relatives.
+(b)    Moon:
+Several comforts; desired by women; arrogant from possession
+of wealth and
+status.
+(c)    Mars:
+Injured in battle; cruel; hurtful; helps others.
+(d)    Mercury: A
+minister or a king; pleases all; blessed with wealth, sons
+and good fortune.
+(e)    Venus:
+Wealthy; contented; famous; learned; long-lived.
+(f)     Saturn:
+Unclean; coward; fallen from status.
+7. In the signs of Saturn
+(a)       Sun:
+ Learned; a king; good looking; brave; blessed with several
+physical comforts.
+(b)    Moon:
+Sharp intellect; religiously inclned; proud; respectful to parents;
+wealthy and
+learned.
+(c)    Mars:
+Brave; fights for the king; arrogant; courageous; honoured.
+(d)    Mercury:
+Ever yielding to women; leader of a group; rich; religiously
+inclined; driver
+of a vehicle; many friends.
+
+<<<PAGE 298>>>
+(e)    Venus:
+Loved by women; blessed with numerous physical pleasures
+and possessions.
+(f)     Saturn:
+Of a high moral character; learned; famous; equal to a king;
+given to physical
+comforts.
+Venus in Different Signs
+Mesha:
+Leader of an army, a town or a group of people; addicted to women
+not his own;
+suffers imprisonment because of women; eager to go abroad;
+undependable; keen
+to oppose others; likely to suffer night blindness.
+Vrisha:
+ Blessed with many women and children; taken to agriculture and
+cattle rearing;
+fond of scents and flowers; bereft of enemies; good in looks.
+Mithuna:
+Well versed in scriptures; very famous; beautiful body; engaged in
+writing;
+ poet; friendly; earns from song and dance; devoted to God and
+Brahmins;
+sensuous.
+Karka:
+Engaged in good deeds; learned; strong; religiously inclined; blessed
+with
+objects of desire; good looking; balanced in judgement; clever talker;
+two
+wives; suffers sickness from indulgence in women and liquor.
+Simha:
+ Monetary gains from women; few children; servile to women;
+destroyer of
+ enemies; devoted to the preceptor and Brahmins; generally
+comfortable and wealthy.
+Kanya:
+ Very rich; clever in talking to women; simple natured; visits holy
+places;
+lacks physical comforts; learned.
+Tula:
+Earns money through his efforts; fond of garlands and good clothes;
+likes
+foreign visits; learned; religiously inclined; lacks firmness in difficult
+situations.
+Vrischika:
+ Quarrelsome; hated by others; irreligious; excessive talker;
+shunned by
+brothers; infamous; skilled in physical violence; poor; disease of
+private
+parts of the body.
+Dhanu:
+Given to virtuous deeds; liked by others; wealthy; learned; high rank;
+obese
+and tall; adored by those around him.
+Makara:
+Very sensuous; addicted to women older in age; spendthrift; lean
+body; indulges
+ in prohibited deeds; suffers from heart disease; impotent;
+
+<<<PAGE 299>>>
+covets the wealth of
+others.
+Kumbha:
+Addicted to other people’s wives; irreligious; opposed to his own
+preceptors
+and children; ugly; bereft of good clothes; worrisome.
+Meena:
+Very wealthy; overcomes his opponents; famous; given to charities;
+favoured by
+the ruler; fond of swimming; soft-spoken; learned.
+Aspects on Venus in Different
+Signs
+1. In the signs of Mars
+(a)    Sun:
+Favoured by the ruler; tormented by his wife; scholarly.
+(b)       Moon: Very
+ fickle; suffers incarceration; tormented by excessive
+sexual urge.
+(c)    Mars:
+Bereft of money and status; servile.
+(d)    Mercury:
+Cruel hearted; wicked; shunned by relatives; earns through
+illegitimate means.
+(e)    Jupiter:
+Good looking; given to charities; tall; good wife; pleasant in
+manners.
+(f)     Saturn:
+Indolent; ugly; wanderer; thievish; has secret possessions.
+2. In its own signs
+(a)    Sun:
+Beautiful wife; associates with beautiful women; wealthy.
+(b)    Moon: Son
+of a virtuous mother; blessed with sons, wealth and status;
+good looks;
+associates with women of easy morals.
+(c)    Mars:
+Bereft of home and comforts; sensuous; subjugated in battle.
+(d)    Mercury:
+Learned; good mannered; sensuous; virtuous and famous.
+(e)    Jupiter:
+Obtains all objects of desire, like friends, women, children,
+vehicles, houses,
+etc.
+(f)     Saturn:
+Poor; wicked; sickly; husband of a wicked woman.
+3. In the signs of Mercury
+(a)    Sun:
+Serves women; wise; rich; enjoys comforts.
+(b)    Moon:
+Beautiful hair and eyes; youthful in looks; blessed with various
+comforts.
+
+<<<PAGE 300>>>
+(c)       Mars:
+ Fortunate; sensuous; skilful in sexual act; wastes money on
+women.
+(d)    Mercury:
+Learned; good looking; wealthy; leader of a group of people.
+(e)       Jupiter:
+ Learned; preceptor; an artist or photographer; blessed with
+many comforts.
+(f)     Saturn:
+Suffers humiliation; miserable; shunned by people in general.
+4. In the Moon’s sign
+(a)    Sun:
+Easily angered; wealthy wife; troubled by opponents.
+(b)    Moon:
+Daughter as the first issue, followed by sons; treats his mother
+and
+step-mother with equal regards.
+(c)    Mars:
+Versed in various arts; wealthy; troubled by women; favourable
+to his relatives.
+(d)    Mercury:
+Learned; husband of a learned wife; rich; wanderer.
+(e)       Jupiter:
+ Blessed with wealth, sons, servants, vehicles and friends;
+favoured by the
+king.
+(f)     Saturn:
+Overcome by women; poor; fallen; bereft of comforts.
+5. In the Sun’s sign
+(a)    Sun: Jealous;
+tormented by sexual urge; earns with the help of women.
+(b)    Moon:
+Inconsistent; two mothers; famous; suffers because of women.
+(c)       Mars:
+ Favoured by the ruler; famous; fond of women; addicted to
+others’ wives;
+wealthy.
+(d)    Mercury:
+Hoards things; greedy; given to falsehood; excessive sexual
+urge.
+(e)    Jupiter:
+High status; blessed with several women and children; rich.
+(f)     Saturn:
+Equal to a king; good looking; husband of a widow.
+6. In the signs of Jupiter
+(a)    Sun: Short
+tempered; learned; wealthy; strong; visits foreign countries.
+(b)       Moon:
+ Famous; high status; very strong; blessed with numerous
+physical pleasures.
+
+<<<PAGE 301>>>
+(c)    Mars:
+Hates women; blessed with varied comforts; leader by instinct.
+(d)    Mercury:
+Enjoys ornaments, good dress, good food and good vehicles.
+(e)    Jupiter:
+Many wives and children; very wealthy; numerous physical
+pleasures.
+(f)     Saturn:
+Fortunate; rich; indulgent in physical pleasures; earns well.
+7. In the signs of Saturn
+(a)    Sun:
+Consistent nature; famous; wealthy and powerful; truthful.
+(b)    Moon:
+Valorous; powerful; beautiful; wealthy.
+(c)    Mars:
+Sickly; exhausted by physical labour; suffers penury.
+(d)    Mercury:
+Learned; accumulates wealth; truthful; very scholarly.
+(e)    Jupiter:
+Youthful; versed in song and music; associates with worthy
+women; fond of good
+perfumes, garlands and fine clothes.
+(f)     Saturn:
+Dark complexion; blessed with servants and physical comforts.
+Saturn in Different Signs
+Mesha:
+Weak body; troubled by indulgence in excessive physical labour and
+pleasures;
+ill-tempered; deceitful; opposed to his near and dear ones; wicked;
+unclean;
+hated by others; a sinner.
+Vrisha:
+ Poor; servile; attached to elderly women; associates with wicked
+people;
+ yielding to wives of others; versatile; follows socially prohibited
+norms in
+the selection of his mate.
+Mithuna:
+Tormented by debts; imprisonment and physical labour; deceitful;
+inclined to
+sexual pleasures; lazy; wicked.
+Karka:
+ Weak constitution; bereft of mother; poor; sickly in childhood;
+learned;
+opposed to his relatives and friends; famous.
+Simha:
+ Skilful writer; quarrelsome; deviates from accepted social norms;
+miserable;
+servile; bereft of wife and friends; indulges in prohibited deeds;
+easily
+angered.
+Kanya:
+ Wicked; a failure; fickle; of the nature of a eunuch; addicted to
+women of easy
+morals; a sculptor; helpful to others; possesses wealth and
+
+<<<PAGE 302>>>
+progeny.
+Tula:
+Equal to a king; excessively given to sexual pleasures; good speaker;
+honoured
+in an assembly; wanderer; associates with women who are given
+to dance or
+wickedness.
+Vrischika:
+ Injury from fire, weapon or poison; ill-tempered; conceited;
+capable of
+aquiring others’ wealth; indulges in prohibited deeds; insincere;
+suffers
+losses and illness.
+Dhanu:
+ Widely famous; contented; good earnings; well versed in several
+branches of
+knowledge; good children; man of a few words; honoured by all.
+Makara:
+ Devoted to the ruler; controls women and property belonging to
+others; learned;
+ sculptor; adorable; famous; visits foreign countries;
+courageous.
+Kumbha:
+Very rich; deceitful; given to drinking; addicted to other people’s
+wives;
+wicked and fickle; irreligious.
+Meena:
+Widely respected; helpful to others; wealthy; engaged in religious
+pursuits;
+ mild mannered; cool tempered; possesses knowledge about
+precious stones.
+Aspects on Saturn in Different
+Signs
+1. In signs of Mars
+(a)    Sun: Given
+to agriculture; rich; rears cattle.
+(b)    Moon:
+Associates with low people; fickle; wicked; addicted to wicked
+and ugly women.
+(c)    Mars:
+Wretched; cruel to animals; leader of thieves; indulges in meat,
+women and wine.
+(d)    Mercury:
+Quarrelsome; irreligious; voracious eater; a famous thief.
+(e)     Jupiter:
+Religiously inclined; fortunate; high status with the king; a
+minister;
+wealthy.
+(f)     Venus:
+Ever changeable nature; ill-looking; addicted to others’ wives;
+destitute.
+2. In the signs of Venus
+(a)    Sun: Lacks
+wealth; learned; weak of body; speaks clearly.
+
+<<<PAGE 303>>>
+(b)    Moon: High
+status with the ruler; liked and helped by women; good
+clothes and ornaments.
+(c)    Mars:
+Skilled in warfare; kind-hearted; excessive talker; rich.
+(d)    Mercury:
+Very witty; keen to please women; liked by the king.
+(e)    Jupiter:
+Helpful to others; given to charities; skilful.
+(f)     Venus:
+Liked by the ruler; benefits from precious stones; indulges in
+wine and women.
+3. In the signs of Mercury
+(a)       Sun:
+ Bereft of wealth, pleasures and anger; religiously inclined;
+contented.
+(b)    Moon:
+Equal to a king; soft skin; loved and respected by women.
+(c)    Mars: A
+fighter or wrestler; wise; defective of limb; well known.
+(d)       Mercury:
+ Wealthy; skilled in fighting and dancing; talented singer,
+painter or sculptor.
+(e)    Jupiter:
+Favoured by the ruler; virtuous; liked by his friends.
+(f)         Venus:
+ Fond of women; versed in Yoga Shastra; skilful in serving
+women.
+4. In the Moon’s sign
+(a)    Sun: Loses
+his father in early age; bereft of money, wife and comforts;
+a sinner.
+(b)    Moon:
+Wealthy; hurtful to mother and brothers.
+(c)    Mars:
+Lacks strength; favoured by the ruler; worrisome.
+(d)    Mercury:
+Wanderer; deceitful; cruel; orator.
+(e)    Jupiter:
+Possesses friends, sons, lands and houses; wealthy.
+(f)     Venus:
+Bereft of comforts, despite being born in a good family.
+5. In the Sun’s sign
+(a)    Sun:
+Without money, comforts and good qualities; resorts to falsehood;
+fond of
+drinking; slim body; miserable.
+
+<<<PAGE 304>>>
+(b)       Moon:
+ Blessed with fame, wealth, women, and precious stones;
+favoured by the ruler.
+(c)    Mars:
+Wanderer; resides in a fort or on a mountain; cruel and fighter.
+(d)    Mercury:
+Deceitful; indolent; poor and ugly.
+(e)       Jupiter:
+ Leader of a village, town or a group of people; wealthy;
+virtuous.
+(f)     Venus:
+Good looking; wealthy; troubles from women.
+6. In the signs of Jupiter
+(a)    Sun:
+Famous; fond of others’ children.
+(b)    Moon:
+Deprived of mother; blessed with wife, sons and riches.
+(c)    Mars:
+Suffers from Vaata-related illnesses; lives in foreign lands.
+(d)    Mercury:
+Equal to a king; respectable; rich; good in looks.
+(e)    Jupiter:
+Equivalent to a king; commander of an army; powerful.
+(f)     Venus:
+Resides in a foreign land; two mothers or two fathers; follows
+several pursuits
+at a time.
+7. In its own sign
+(a)    Sun: Sickly;
+husband of an ugly woman; wanderer; miserable; carries
+loads.
+(b)    Moon:
+Possesses wealth and wife; opposed to mother; given to sexual
+excess.
+(c)    Mars:
+Courageous; famous; powerful; a leader of multitudes; cruel.
+(d)    Mercury:
+Powerful; easily angered; famous; possesses limited amounts
+of money.
+(e)    Jupiter:
+Famous; virtuous; long lived and healthy; beautiful body.
+(f)         Venus:
+ Very wealthy; sensuous; addicted to women not his own;
+follows no norms.
+Rahu
+Rahu is particularly favourable in Karka, Kanya, Dhanu
+and Vrischika.
+
+<<<PAGE 305>>>
+Rahu owns Kumbha (or Kanya, according to some) and is
+exalted in Vrisha.
+Its Moolatrikona sign is Mithuna.
+In the above mentioned signs, Rahu gives favourable
+results like increase in
+wealth, help from friends and the ruler, varied physical
+comforts, religious
+inclinations, new house and clothes, and foreign travel
+with honours.
+Ketu
+Ketu owns Vrischika (or Meena, according to some) and
+is also exalted in
+Vrischika. Its Moolatrikona is Dhanu.
+In these signs Ketu gives favourable results.
+In general, Rahu and Ketu give benefic results in the
+signs of Jupiter and
+Mercury or when they are associated with or aspected by
+Jupiter or Mercury.
+The results of various planets in different signs, and of
+aspects on these
+planets, have been taken from standard classical texts. These
+ must not be
+applied literally, but only with caution and scientific openness.
+For example,
+‘favours from the ruler’, in the present day context, may only
+ mean a
+promotion in a government job. Similarly, ‘death of wife’ may only
+signify a
+separation or a divorce. The classical dicta must only be applied
+after proper
+consideration of various other factors which are likely to
+ influence the
+results in a given chart.

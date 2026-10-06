@@ -1,0 +1,1504 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 72-106
+# compiled into: houses.json, planets.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 72>>>
+
+...V...
+Of Signs, Houses and Planets
+Neither is this surely a woman, nor is this a
+man, nor even is
+this a eunuch. It is protected by the very bodies which it
+acquires.
+Shvetashvatara
+Upanishad V/10
+We have already seen that there are
+twelve signs of the zodiac. One of
+the signs happens to be the sign rising at
+the eastern horizon at the time of
+birth. This rising sign is called the lagna
+or the ascendant. The lagna happens
+to be the first house of the horoscope. By
+this is meant that the houses and
+signs do not coincide. The first house has
+the label of the sign rising at the
+time of birth, the second bears the label
+of the sign that will rise next, and so
+on.
+The nine grahas (from the Sun to Ketu) or ‘planets’ are the
+occupants of
+these houses. The houses represent certain characteristics. The
+signs falling
+in these houses also represent certain characteristics, and the
+two intermingle
+to indicate something newer. Then the planets which occupy them
+ inflict
+further modifications.
+In order to be able to make any fruitful predictions, it is
+ essential to
+understand the meanings of the signs, houses and planets. These
+are briefly
+indicated in the pages that follow.
+A Horoscopic Chart
+Before going further, it is important to appreciate how
+ a horoscopic chart
+looks like.
+
+<<<PAGE 73>>>
+A. North Indian Chart is the one in which the order of
+the houses is fixed. It
+consists of four central rhomboidal houses (which are
+numbered 1, 4, 7 and
+10, starting from the upper central rhomboid) and eight
+triangular houses.
+The sign rising at the time of birth is marked in the first
+house or the upper
+central rhomboid, and the remaining signs marked in regular
+ order in an
+anti-clockwise direction.
+B. The South Indian Chart has the signs in a fixed
+order in the chart. The
+lagna is marked in the appropriate sign. The remaining
+houses are counted in
+a clock-wise manner.
+C. An Eastern Indian Chart, often used in Bengal and
+Orissa, also has the
+signs in a fixed order in the chart. The ascendant is
+ marked in the
+appropriate sign. The remaining houses are counted in an
+ anti-clockwise
+direction.
+
+<<<PAGE 74>>>
+Whatever the type of horoscopic chart preferred, the planets
+are placed in
+the houses bearing the signs in which the planets are located
+astronomically.
+The process of working out the lagna and the position of
+planets has been
+dealt with in Chapters VIII and IX.
+The Signs (or Rashis)
+The signs of the zodiac have special features which are
+being described here.
+
+<<<PAGE 75>>>
+1. Appearance and Habitat: The twelve signs of
+the zodiac each have a
+specific appearance and a habitat. This may be best
+ described by
+reproducing a dialogue between sage Pulastya and sage Narada, as
+mentioned in the Vamana Purana.
+Pulastaya addresses Narada, saying, “Sage Narada! Now I
+ narrate to you
+how these various signs look like, as also the areas they reside
+in or haunt.
+“The sign Mesha resembles a ram. It circulates
+among the goats, the sheep
+and regions holding wealth and precious stones. It
+wanders on grassy lands,
+and around lakes surrounded by vegetation.”
+“The sign Vrisha resembles a bull. Cowhouses and
+farmlands are its place
+of residence.”
+“A man and a woman bearing a trumpet and a harp
+ represent the sign
+Mithuna whose places of residence are the couch and
+ the lounge. It
+circulates amongst the singers, the dancers and the sculptors.
+This dual sign
+haunts the sports lovers and the pleasure houses.”
+“Karkata has the appearance of a crab and lives
+ in water. Its places of
+residence include water-filled garden beds, river banks
+ and un-inhabited
+lands.”
+“Simha (resembling a lion) resides in the
+ mountains, forests, caves,
+inaccessible places, deep ditches and the living
+places of hunters.”
+“Kanya (consists of a woman) standing in a boat
+and holding corn and a
+lamp in her hand, inhabits women’s pleasure rooms.”
+“Narada! Tula is represented by a man holding a
+balance in his hand, and its
+residences include lanes, bazaars, towns, routes
+and buildings.”
+“Vrishchika resembles the scorpion in
+appearance. It moves in crevices and
+pits. Its areas of residence include
+ poisons, animal excreta, stones and
+insects.”
+“Of Dhanu, the legs are like those of a horse.
+It is radiant and holds a bow
+and arrow. Well versed in horse riding, in
+ handling of arms and in doing
+daring and brave deeds, it resides in elephants,
+chariots, etc.”
+“O Brahmin! The mouth of Makara is like that of
+ a deer, shoulders like
+those of a bull and eyes like those of an elephant. It
+moves in the rivers and
+
+<<<PAGE 76>>>
+resides in the ocean.”
+“Kumbha resembles a man wearing wet clothes and
+ holding on his
+shoulders an empty pitcher. It moves in gambling houses and
+ resides in
+drinking dens.”
+“The sign Meena consists of two fishes lying
+side by side, the head of one
+being beside the tail of the other. It circulates
+in the places of pilgrimage and
+in the oceans. It haunts pious places, temples
+ of gods and houses of
+Brahmins.”
+2. Parts of the body: The various signs from
+Mesha onwards represent (1)
+head, (2) face, (3) shoulders, (4) chest, (5) heart
+and stomach, (6) abdomen,
+(7) lower abdomen and groin, (8) external genitalia,
+(9) thighs, (10) knees,
+(11) calves, and (12) feet.
+3. Stature: Of short stature are signs Mesha,
+Vrisha, Kumbha and Meena
+(i.e., 1,2, 11 and 12).
+Of tall stature are the signs Simha, Kanya, Tula and
+Vrischika (i.e., 5, 6, 7
+and 8).
+Of even stature are the signs Mithuna, Karka, Dhanu and
+Makara, (i.e., 3, 4,
+9 and 10).
+Note: Stature here has nothing to do with signs of long
+ascension and those
+of short ascension.
+4. Diurnal strength: Strong during night are the
+ signs Mesha, Vrisha,
+Mithuna, Karka, Dhanu and Makara. Except Mithuna, they
+rise by the hind
+side (Prishtodaya). Strong during day are Simha, Kanya, Tula,
+Vrischhika,
+Kumbha and Meena. Except Meena, they rise by the head
+(Sheershodaya).
+Mithuna too rises by the head.
+Meena rises both by the head and the tail (Ubhayodaya).
+5. Malefic/Male: Odd signs, viz., 1, 3, 5, 7, 9
+and 11.
+6. Benefic/Female: Even signs, viz., 2, 4, 6, 8,
+10 and 12.
+7. Movable or otherwise:
+Signs 1, 4, 7 and 10 are movable; they indicate change
+and mobility.
+Signs 2, 5, 8 and 11 are fixed; they indicate stability
+and fixity.
+
+<<<PAGE 77>>>
+Signs 3, 6, 9 and 12 are mixed; they indicate a balance
+between the fixed and
+movable signs.
+8. Directions:
+East    :     signs 1, 5 and 9.
+South :     signs 2, 6 and 10.
+West  :     signs 3, 7 and 11.
+North :     signs 4, 8 and 12.
+9. Inherent nature:
+Fiery   :     signs 1, 5 and 9.
+Earthly     :     signs 2, 6 and 10.
+Airy     :     signs 3, 7 and 11.
+Watery    :     signs 4, 8 and 12.
+10. Biological characters:
+Quadrupeds: signs 1, 2, 5, posterior half of 9, and
+anterior half of 10.
+Bipeds: signs 3, 6, 7, 11, and anterior half of 9.
+Insect (Keeta): signs 4 and 8.
+Those inhabiting water: signs 12, and rosterior half of
+(Jalachara) 10.
+11. Constituent character:
+Mineral (Dhatu):signs 1, 4, 7 and 10.
+Vegetable (Moola):signs 2, 5, 8 and 11.
+Animal (Jeeva): signs 3, 6, 9 and 12.
+12. Caste:
+Kshatriya: signs 1, 5 and 9.
+Vaishya: signs 2, 6 and 10.
+Shudra: signs 3, 7 and 11.
+Brahmin: signs 4, 8 and 12.
+13. Lords:
+
+<<<PAGE 78>>>
+Of the twelve signs, starting from Mesha, the lords are
+respectively Mars,
+Venus, Mercury, the Moon, the Sun, Mercury, Venus, Mars,
+Jupiter, Saturn,
+Saturn and Jupiter.
+The Houses
+The twelve houses of a horoscope deal with all conceivable
+aspects of
+life. The most important of all houses is the lagna or the first
+house. The
+remaining houses are basically related to the first house only. The
+planets in
+the horoscopic chart are subservient to the lagna, and their
+original nature
+undergoes modifications depending upon the lagna.
+1. The Kendras (or Quadrants): Houses 1, 4, 7
+and 10. These are highly
+significant houses.
+2. The Panapharas (or Successant Houses): Houses
+2, 5, 8 and 11.
+3. The Apoklimas (or Cadent Houses): Houses 3,
+6, 9 and 12.
+4. The Trikonas (or Trines): Houses 1, 5 and 9.
+These are highly auspicious
+and, along with the Kendras, determine the health,
+wealth, status, dignity,
+rise and virtue of a native. The lagna, being both a
+kendra and a trikona, is
+the most significant of all houses.
+5. The Upachayas: Houses 3, 6, 10 and 11. These
+houses indicate struggle,
+competition and material achievement.
+6. The Trika Houses: Houses 6, 8 and 12. These
+are considered bad houses
+(Duhsthanas). They indicate debt, disease, loss and
+misery.
+7. The Ayu-sthanas (or houses of longevity):
+Houses 8 and 3 (8th from the
+8th). They indicate the length of life and,
+therefore, also the death.
+8. The Maraka-sthanas (or killer houses): Houses
+2 and 7.
+9. The two halves of a horoscope:
+(a) Houses 1 to 7 indicate the
+invisible half and houses 7 to 1 indicate the
+visible half of the horoscope.
+(b) Houses 10 to 4 indicate
+the eastern half and houses 4 to 10 indicate
+the western half of the horoscope.
+The significations of the twelve houses have been
+listed elsewhere.
+
+<<<PAGE 79>>>
+The Planets
+Nine main planets are employed in Vedic astrology. Their
+ English
+equivalents and symbols are given in Table V-1.
+Table - V-1
+Vedic Name : English equivalent
+Ravi (Surya) : Sun
+Chandra : Moon
+Mangala : Mars
+Budha : Mercury
+Guru (Brihaspati) : Jupiter
+Shukra : Venus
+Shani : Saturn
+Rahu : Rahu (Dragon’s head)
+Ketu : Ketu (Dragon’s tail)
+1. Physical Attributes
+The Sun has a square build, scanty but curly hair, lovely
+ appearance,
+good intelligence, impressive voice, medium stature, red eyes, dark
+ red
+complexion, strong bones, bilious nature, firm temperament and saffron
+robes.
+The Moon has a slim but roundish body, beautiful appearance,
+ lovely
+eyes, sweet tongue, phlegm and wind in his composition, white
+complexion,
+short curly hair, amiable nature, Sattvika inclination,
+discriminating wisdom,
+restless nature, excessive sexual urge, white robes.
+Mars is characterised by fierce red eyes, short stature,
+tough and youthful
+body, fickle but generous disposition, short but shining and
+ curly hair,
+valorous nature, Tamasika inclination, eagerness to hurt, easy
+ excitability,
+bilious disposition and fair complexion.
+Mercury has a slim and beautiful body, large reddish eyes,
+dark green
+complexion, healthy skin, medium height, clear and witty speech,
+expression
+with multiple meanings, Rajasika inclination, plenty of energy,
+ bile, wind
+and phlegm in his composition, and green robes.
+
+<<<PAGE 80>>>
+Jupiter has a big belly and a fat body, pale eyes, virtuous
+ disposition,
+phlegmatic temperament, knowledge of scriptures and sciences,
+ bright
+yellow complexion, Sattvika inclination, sharp intelligence, keenness in
+religious pursuits, forgiving nature and yellow-coloured dress.
+Venus is dark brown and handsome, of symmetrical limbs and
+dark curly
+hair, writer of poetry, and has an amorous disposition. He has long
+ arms,
+broad chest, excessive seminal fluid, windy and phlegmatic temperament,
+Rajasika inclination, grace, vigour, wisdom and intelligence, and
+ multi-
+coloured robes.
+Saturn has a tall, lean and weak body, dark complexion,
+stiff hair and
+limbs, large teeth, lazy disposition, windy temperament, cruel
+ nature,
+Tamasika inclination, lame, dark and shabby robes.
+Rahu and Ketu have a bluish complexion resembling smoke,
+ wild in
+bearing, intelligent, and of windy disposition.
+2. Planetary Lordship
+The Sun owns Simha
+The Moon owns Karka
+Mars owns Mesha and Vrischika
+Mercury owns Mithuna and Kanya
+Jupiter owns Dhanu and Meena
+Venus owns Vrisha and Tula
+Saturn owns Makara and Kumbha
+3. Castes
+Brahmins:     Jupiter, Venus
+Kshatriyas:   Sun, Mars
+Vaishyas:      Moon, Mercury
+Shudra:   Saturn
+4. Essential nature
+Sattvika (good and noble): Sun, Moon, Jupiter
+Rajasika (active and just): Mercury, Venus
+Tamasika (dark and base): Mars, Saturn
+
+<<<PAGE 81>>>
+5. Rulership in respect of the Kaala-Purusha (or the
+time personified)
+Sun:  Soul
+Moon:  Mind
+Mars:  Essence
+Mercury:  Speech
+Jupiter:  Wisdom and comforts
+Venus:  Seminal fluid
+Saturn:  Miseries
+6. Social status
+King:  Sun, Moon
+Commander-in-chief:  Mars
+Heir-apparent:  Mercury
+Ministers:  Jupiter, Venus
+Servant:  Saturn
+Army:  Rahu and Ketu
+7. Gender
+Masculine:  Sun, Mars, Jupiter
+Feminine:  Moon, Venus
+Eunuchs:  Mercury, Saturn
+8. Rulership over body constituents
+Sun:  Bones
+Moon:  Blood
+Mars:  Marrow
+Mercury:  Skin
+Jupiter:  Fat
+Venus:  Seminal fluid
+Saturn:  Nerves
+9. Places represented
+Sun:  Temple
+Moon:  Watery place
+
+<<<PAGE 82>>>
+Mars:  Place of fire
+Mercury:  Playground
+Jupiter:  Treasure house
+Venus:  Bedroom
+Saturn:  Dirty places, sites of refuse disposal
+10. Directions
+Sun:  East
+Moon:  North West
+Mars:  South
+Mercury:  North
+Jupiter:  North East
+Venus:  South East
+Saturn:  West
+Rahu:  South west
+11. Directional strength
+Mercury, Jupiter: East (Lagna or the 1st
+house)
+Sun, Mars: South (10th house)
+Moon, Venus: North (4th house)
+Saturn: West (7th house)
+12. Benefics and Malefics
+Natural benefics: Moon, Mercury, Jupiter,
+Venus
+Natural malefics: Sun, Mars, Saturn, Rahu,
+Ketu
+The waning Moon and afflicted Mercury too
+behave as malefics.
+13. Exaltation, Debilitation and Moola Trikona
+Planets are strong and favourable when placed in their
+exaltation signs or
+in Moola Trikona signs. Six signs or 180 degrees away from
+its exaltation
+point lies the debilitation point of a planet.
+
+<<<PAGE 83>>>
+14. Natural Mutual Relationship of Planets.
+Planets according to their nature, are disposed as friends
+or enemies or
+neutrals towards other planets. The great Varahamihira sponsors
+the view of
+Satyacharya in determining the natural mutual relationship of
+ planets.
+According to this view, a planet’s friends are the lord of its
+exaltation sign as
+also the planets owning houses 2, 12, 5, 9, 4 and 8 from its
+Moola Trikona
+sign. Table V-3 shows the natural mutual relationship of planets
+according to
+the above view.
+
+<<<PAGE 84>>>
+15. Temporal relationship
+Besides their natural disposition as friends, enemies or
+equals (neutrals)
+towards each other, planets become friends or enemies of each
+ other
+depending upon their location in a horoscopic chart.
+Temporal friends: Planets located in houses 2, 12, 3, 11, 4
+and 10 from
+any planet become its temporal friends.
+Temporal enemies: Planets located in houses 1 (i.e.,
+ conjunction), 7
+(opposition), 5, 9, 6 and 8 from any planet become its temporal
+enemies.
+16. Five grades of relationship
+On the basis of their natural and temporal disposition
+towards each other,
+planets may have any of the five grades of relationships
+given below:
+17. Aspects, Combustion and Retrogression
+Planets exert their influence on the houses and planets that
+they aspect.
+All planets fully aspect the seventh house, or planets located
+therein, from
+their own position. In addition, the outer planets (Mars, Jupiter
+and Saturn)
+have been granted special aspects. Thus Mars also fully aspects
+houses 4 and
+8, Jupiter houses 5 and 9, and Saturn houses 3 and 10. The
+remaining planets
+cast a quarter glance on houses 3 and 10, half an aspect on
+houses 5 and 9,
+and three-quarter aspect on houses 4 and 8.
+Planets when close to the Sun tend to lose their strength
+and vitality, and
+are considered to be combust. A combust planet loses its
+capacity to do good
+and produces adverse results. Planets also become
+retrograde when, during
+their motion, they appear to be moving in a reverse
+direction. The Sun and
+
+<<<PAGE 85>>>
+the Moon do not become retrograde while Rahu and Ketu
+(almost) always
+move in a retrograde direction. A retrograde planet produces
+ unexpected
+results and is generally adverse for health. A retrograde planet
+also exerts
+influence from its preceding house.
+
+<<<PAGE 86>>>
+
+...VI...
+Nature of Planets
+The man of knowledge
+too acts in accordance with his own
+nature. All beings follow their nature.
+ What can obstinacy
+accomplish?
+Gita III/33
+Analysis of a horoscopic chart
+requires a thorough understanding of the
+nature of planets. It is on the basis
+of a proper knowledge of the nature of
+planets that good and bad results can be
+predicted with any accuracy. Before
+venturing into predictive aspect of
+astrology, it is imperative on the part of a
+practitioner of astrology to spend
+ some time mastering the principles that
+govern the benevolence and malevolence
+of planets.
+Planets may be benefic or malefic by nature. Or they become
+benefic or
+malefic depending upon the nature of the rising sign in a horoscope.
+Benefic
+and malefic planets produce their results when their appropriate dashas
+operate. Dashas thus help us in the timing of events.
+The nature of various planets is determined on the basis of
+ standard
+astrological principles mentioned by the classical writers. These
+principles
+have been discussed in details in the Essentials of Medical
+Astrology by the
+author. The following account is primarily a reproduction
+ of the same
+principles.
+Malefics and Benefics by nature
+Planets may be malefic or benefic depending upon their
+inherent nature.
+Thus, Jupiter, Venus, waxing Moon and well-associated Mercury
+are natural
+
+<<<PAGE 87>>>
+benefics. Similarly, the Sun, Mars, Saturn, Rahu and Ketu, waning
+ Moon
+and afflicted Mercury are natural malefics. The Moon and Mercury are
+naturally weak. The Moon though a mild and benevolent planet, behaves as
+a
+malefic when too close to the Sun. Mercury gets influenced too easily; it
+thus
+behaves as a benefic under benefic influence and as a malefic under
+malefic
+ influence. Rahu and Ketu too can behave as benefics especially
+when placed in
+the signs of Jupiter and Mercury.
+Benefics and Malefics for different Lagnas
+Parashara’s Principles
+Planets behave as benefics and malefics depending on the
+houses they
+own. The ownership would naturally vary from one lagna to the
+other. In
+other words, for a given lagna, certain planets will behave as
+benefics while
+others will behave as malefics or neutrals. This will be independant
+of their
+inherent nature as already described. Planets thus are subservient to
+ the
+lagna. On the basis of the principles discussed hereunder, a natural
+benefic
+may assume the role of a malefic while a natural malefic may assume a
+benefic role. The standard principles in this regard, as laid down by the sage
+Parashara in his celebrated Brihat Parashara Hora Shastra are being given
+below.
+Principles - Part I
+(a)Natural benefics as lords of quadrants (houses 1,4,7
+and 10) shed their
+beneficence.
+(b)Natural malefics as lords of quadrants shed their
+malefic nature.
+Note:
+(i)Natural benefics
+ are the Moon, Mercury, Jupiter and Venus; natural
+malefics are the Sun, Mars,
+Saturn, Rahu and Ketu.
+(ii)Lordship of
+ quadrants has a neutralising influence on the nature of
+planets. The natural
+ benefics thus lose the capacity to give benefic
+results, while the natural
+malefics lose their capacity to do harm.
+(iii)   Only the
+ownership of quadrants does not convert benefics into
+malefics, and vice versa.
+
+<<<PAGE 88>>>
+(c)Lords of trines (houses 1,5 and 9) give benefic
+results no matter whether
+by their inherent nature they are benefics or
+malefics.
+Note: Lord
+of the lagna is both the lord of a quadrant and a trine. It is
+thus supposed to
+give benefic results irrespective of it’s inherent nature.
+(d)Lords of the third, the sixth and the eleventh
+houses are always malefic.
+(e)Lords of the second, the twelfth and the eighth
+houses behave as neutrals.
+They give results according to their location as
+well as association.
+Note: Lords of the 2nd, 12th and 8th houses
+are impressionable neutrals.
+Principles - Part II
+The twelve houses in a horoscope have been divided into four
+ groups
+above: (a) the quadrants; (b) the trines; (c) the 3, 6, 11 group; and
+(d) the 2,
+12, 8 group. In each group the relative strength of the various
+house lords is
+described thus:
+(a)Of the lords of the quadrants, the 4th lord is more
+powerful than the lagna
+lord; the 7th lord is more powerful than the 4th lord;
+and the 10th lord is
+more powerful than the 7th lord.
+(b)Of the trine lords, the 5th lord is more powerful
+than the lagna lord, while
+the 9th lord is more powerful than the 5th lord.
+(c)Of the 3, 6, 11 group, the sixth lord is more
+powerful than the 3rd lord
+while the 11th lord is more so than the 6th lord.
+(d)Of the 2, 12, 8 group, the 12th lord is more
+powerful than the 2nd, while
+the 8th lord is more so than the 12th.
+Principles - Part III
+The lord of the 8th house, though considered a neutral
+ above, has a
+special propensity to do evil. The eighth house represents obstructions,
+obstacles, failures, intrigues, ailments, death and the like. The following
+points must be remembered while considering the 8th house.
+(a)Eighth house is the 12th from 9th (indicating loss
+of Bhagya); hence its
+lord is ever malefic.
+Note:
+
+<<<PAGE 89>>>
+(i)Twelfth house
+ from lagna indicates loss. Twelfth house from any
+house indicates loss of that
+ house. Since the ninth house stands for
+Bhagya (luck), virtues, pious deeds,
+ religious inclinations, father, etc.,
+the twelfth from it (i.e., the 8th)
+indicates the loss of all these. Loss of
+fortune or luck is considered the
+biggest loss.
+(ii)When the 8th
+ lord is also the lagna lord, the benefic nature of the
+lagna lordship prevails,
+ and the 8th lord tends to behave as a benefic
+unless it is particularly
+afflicted or ill-placed.
+(b)The eighth lord is still more malefic when it also
+lords over the 3rd or the
+11th house.
+Note:
+(i)For Pisces
+ascendant, Venus is the lord of the third and the 8th houses
+and is bad.
+(ii)For Virgo
+ ascendant, Mars is the lord of the third and the eighth
+houses and, therefore,
+adverse.
+(iii)   For Taurus
+ascendant, Jupiter is the lord of the 8th and the 11th
+houses, and is adverse.
+(iv)   For Scorpio
+ascendant, Mercury as the lord of the 8th and the 11th
+houses is bad.
+(c)The eighth lord becomes a benefic when it also owns
+a trine.
+Note:
+(i)Jupiter and
+ Mercury for Leo and Aquarius ascendants respectively
+own the 5th and 8th
+houses, and behave as benefics.
+(ii)For Gemini
+ascendant, Saturn as the lord of the 8th house as well as
+the 9th house (a trine)
+ does not become an outright benefic, and,
+according to the Bhavartha Ratnakara,
+gives mixed results only.
+(d)The evil effects of the eighth house lordship do not
+apply to the Sun or
+the Moon.
+Note: The Moon is the
+8th lord for Sagittarius ascendant, and the Sun for
+Capricorn ascendant.
+According to the sage Parashara, the Sun and the
+Moon remain un-afflicted by
+the eighth house lordship. This, however,
+may not hold true in actual practice,
+at least in medical astrology.
+
+<<<PAGE 90>>>
+Principles - Part IV
+(a)When a planet owns both a quadrant and a trine, it
+becomes particularly
+useful and is called a Raja-yoga-karaka (doer of great
+ benefit). It gives
+additional benefit if it is also located in a quadrant or a
+trine.
+Note:
+(i)Mars for Cancer
+ and Leo ascendants, Venus for Capricorn and
+Aquarius ascendants, and Saturn for
+ Taurus and Libra ascendants,
+become Yoga-karakas because of the ownership of a
+trine and a quadrant.
+(ii)Some people
+ doubt the efficacy of Saturn as a benefic for Taurus
+ascendant despite its
+ownership of the 9th and the 10th houses (a trine
+and a quadrant respectively).
+This is because the 9th lord is considered a
+Badhaka (an obstructing agent) for
+ a fixed lagna like Taurus. This,
+however, is not the view of Parashara which,
+ in our opinion, is more
+authentic.
+(b)Only the ownership of a quadrant does not convert a
+ malefic into a
+benefic. The malefic must also own a trine to completely shed
+ its
+malevolence.
+Note: Saturn, as the
+ lord of the 10th and the 11th houses for Aries
+ascendant, as lord of the 3rd
+and the 4th houses for Scorpio ascendant,
+and as the lord of the 6th and the
+7th houses for Leo ascendant, remains a
+malefic despite owning a quadrant in
+each case.
+(c)The blemish of kendra lordship (ownership of
+quadrants), as applicable to
+benefics, increases progressively from the Moon,
+to Mercury, to Jupiter, to
+Venus.
+(d)Full Moon, Mercury, Jupiter and Venus, in this
+order, are progressively
+more powerful as benefics.
+(e)Waning Moon, the Sun, Saturn and Mars, in this
+order, are progressively
+more powerful as malefics.
+Principles - Part V (Raja Yogas)
+When the lord of a quadrant is in some way related to the
+lord of a trine,
+a Raja Yoga (or a highly benefic combination) is formed.
+ Benefic
+combinations in a horoscope neutralise affliction and are good for remaining
+
+<<<PAGE 91>>>
+free from disease. Relationship between any two house lords can be in one
+of
+the following ways:
+(a)By location in the same house (conjunction).
+(b)By mutual aspect.
+(c)By an exchange of houses (Parivartana Yoga).
+(d)When one of them is placed in the other’s house and
+this latter aspects the
+former.
+Note: When
+the lords of quadrants and trines are related in one of the
+ways indicated
+above, they still do not produce a Raja yoga if they also
+own the Papasthanas
+(adverse houses), i.e., houses 3, 6 and 11.
+Principles - Part VI (Rahu and
+Ketu)
+(a)Rahu and Ketu give results according to the house
+where they are located,
+and according to the planet (i.e., the lord of a house)
+whom they join.
+(b)Rahu and Ketu become Yogakarakas (productive of Raja
+Yoga) in the
+following situations:
+(i)When they are
+placed in a quadrant, and join a trine lord; or
+(ii)When they are
+placed in a trine, and join a quadrant lord.
+(c)Rahu also behaves as Saturn and Ketu also as Mars.
+Trika Houses and their Lords
+Houses 6, 8 and 12 are known as Trika houses. While these
+houses and
+their lords, as well as the planets that associate with these houses
+and their
+lords, are productive of adverse results, they are particularly
+ adverse in
+relation to health. The sixth house and the sixth lord, among other
+things,
+indicate disease and accidents. The eighth house and the eighth lord
+indicate
+chronic disease, incurable disease, or death. The twelfth house and
+its lord
+indicate suffering and also hospitalisation. The dasha periods of the
+planets
+associated with these houses and their lords must be carefully watched
+for
+determining illness.
+The Marakas (Death Inflictors)
+
+<<<PAGE 92>>>
+The Marakas are planets which are supposed to cause death.
+ It has
+already been stated that the eighth house governs longevity. The eighth
+from
+the 8th (i.e., the third house) is the alternate house of longevity. We
+are also
+aware that the twelfth house from any house signifies the loss of that
+house.
+Twelfth from the eighth house is the 7th house; twelfth from the third
+house
+is the 2nd. The 2nd and the 7th houses thus indicate loss of longevity,
+in
+other words death. These houses are called the Maraka houses. Planets
+which
+(i) own these houses, (ii) occupy these houses, or (iii) associate with
+the
+lords of these houses assume the role of Marakas or death inflictors. The
+dashas and antardashas of these planets are significant in causing death. It
+may be remembered, however, that death does not occur every time the
+dashas and
+ antardashas of these planets operate; under normal
+circumstances, these dashas
+disturb health.
+It is appropriate to study a chart carefully and work out
+the span of life
+according to the standard principles of astrology. Death
+ during childhood
+must be excluded by judging the horoscope for Balarishta.
+Thereafter, the
+length of life must be classified as being Alpayu (short life;
+upto 32 years),
+Madhyayu (medium life; 64 years) or Poornayu (long life; 100
+years). It is
+the coinciding of a maraka dasha with the culmination of the span
+of life that
+causes death. At other times, the dashas of marakas should be
+watched for
+health.
+It is not necessary that the time of death will always
+coincide with the
+dashas and antardashas of planets concerned with the second
+ and seventh
+houses or their lords. Other planets too can assume this role when
+the dashas
+of the marakas stated above are not operating. In this connection,
+ the
+following factors are of importance:
+(a)Lord of the twelfth house;
+(b)Planets associated with the lord of the twelfth
+house;
+(c)Antardashas of the 6th, 8th or 12th lords operating
+ in the dasha of a
+maraka planet;
+(d)Lords of the 2nd and 12th houses from the Moon if
+they happen to be
+malefics;
+(e)Saturn assumes the most potent maraka status when
+ associated with
+planets having maraka potential.
+
+<<<PAGE 93>>>
+(f)Death sometimes occurs in the dasha or antardasha of
+the most malefic
+planet in the horoscope.
+Note:
+(a)Saturn and Rahu can behave as unqualified killers if
+ their dasha and
+antardasha are operating at a time coinciding with the expected
+span of life.
+(b)A maraka planet does not kill in its dasha, in the
+antardasha of a benefic
+planet related to it. It can, however, kill in the
+antardasha of an unrelated
+malefic planet.
+(c)Lords of the 2nd and the 12th houses become potent
+ marakas in their
+mutual dasha-antardashas.
+(d)Similarly, lords of the 6th and the 8th houses can
+ cause death in their
+mutual dasha-antardashas.
+(e)Dasha of the 8th lord occupying the ascendant is
+also important.
+(f)If two or more sons of a native run the Rahu dasha
+ simultaneously, it
+forebodes death for the native. This is a marvellous example
+of the principle
+of inter-related destinies.
+Relationship of Planets to Various Lagnas
+It is appropriate now to tabulate the relationship of
+planets to the various
+lagnas on the basis of the aforesaid principles.
+
+<<<PAGE 94>>>
+
+<<<PAGE 95>>>
+Miscellaneous Adverse Factors
+While the above information must suffice to decide about the
+nature of a
+planet, there are other factors too which need attention. This is
+particularly
+true of the adverse factors since a knowledge about them is of
+importance in
+obtaining the warning signals and taking appropriate remedial
+ measures.
+Some such sensitive adverse factors are mentioned below. It is
+ stressed,
+however, that the aim of making a mention of these is not to frighten
+ a
+consulter but to help him to the utmost extent by advising appropriate
+corrective steps.
+1. The twenty-second Drekkana: The twenty-second
+ Drekkana is the
+Drekkana that falls exactly seven houses away from the lagna.
+It thus falls in
+the 8th house on the same degrees as those of the lagna. Place
+the degrees of
+the lagna in the sign occupying the 8th house of the birth chart
+ and
+determine its Drekkana. The lord of that sign and the planets falling in
+that
+sign in the Drekkana chart are evil and capable of causing death and
+disease.
+When a Drekkana chart is cast, the 8th house of this chart indicates
+the 22nd
+Drekkana. The lord of this house as well as the planets falling in
+that house
+prove malefic.
+
+<<<PAGE 96>>>
+2. The sixty-fourth Navamsha. Whereas the 22nd
+ Drekkana is calculated
+from the lagna, the 64th Navamsha is calculated from the
+ Moon. It falls
+exactly seven houses away from the Moon. Place the degrees of
+the Moon in
+the sign 8th from it, and determine the Navamsha of that sign. The
+lord of
+that Navamsha is the lord of the 64th Navamsha, and, along with planets
+falling therein in the Navamsha chart, behaves as a malefic. In the usual
+Navamsha chart, the sign falling in the 4th house from the Moon happens to
+be
+the lord of the 64th Navamsha; this lord as also its associates, and the
+planets falling in that house in the Navamsha Chart behave as evil planets.
+3. Sarpa Drekkana. The second and third Drekkana
+of the sign Karka, the
+first and the second of the sign Vrishchika, and the
+last Drekkana of the sign
+Meena are termed the Sarpa (serpent) Drekkanas.
+ Planets falling in these
+Drekkanas tend to produce ill health during their
+periods and sub-periods if
+other factors also indicate thus.
+
+<<<PAGE 97>>>
+
+...VII...
+Significations of Houses and Planets
+Whatever a great man does, the same is done
+ by others
+too.Whatever standard he sets, the same the world follows.
+Gita III/21
+The twelve houses of the zodiac
+represent all the aspects of existence at
+the terrestrial as well as the
+individual level. Likewise, the nine planets also
+indicate the varied areas of
+existence. In order to analyse a horoscopic chart,
+it is essential to
+understand what the different houses of the horoscope, and
+the nine planets
+located therein, signify. An understanding of the interaction
+between planets
+ and houses, integrated with the dasha systems and other
+specific techniques,
+provides a basis for accurate predictions.
+An attempt is being made here to provide adequate
+information about all
+that the planets and the houses signify. However, this
+ information is not
+exclusive, particularly in view of the fact that several new
+meanings must
+emerge when the standard principles are applied in the modern
+context. It
+only underlines the fact that astrology is ever a live and
+expanding subject.
+Significations of the Twelve Houses
+The houses from the lagna to the seventh represent the right
+half of the
+body of the native (and the left half of the body of his spouse).
+Those from
+the seventh to the lagna represent his left half, and the right half
+ of his
+spouse.
+First
+House: Body,
+fame, character, strength, courage, knowledge or lack of
+it, residence, place
+ of birth, dignity, honour, ancestry, livelihood, the
+
+<<<PAGE 98>>>
+beginning, the present,
+ wisdom, wealth, comforts and discomforts, self-
+respect, peace of mind,
+happiness and un-happiness, detachment, virtues and
+vices, health of parents.
+In medical astrology: Body in neral, limbs, complexion,
+marks or moles
+on the body, sound and unsound health, skin texture, longevity,
+sleep, head,
+brain, texture of hair, stamina.
+Second
+House: Wealth,
+speech, physical enjoyments, trading in ornaments,
+pearls and diamonds, buying
+or selling in general, accumulation of wealth,
+earning through self-effort,
+ acquisitions from father, truthfulness and
+falsehood, inclinations, food,
+taste, clothes, eloquence, humility, steadiness
+of mind, learning, education,
+letters, anger, deceitfulness, family members,
+friends, enemies, servants,
+close followers, self-control, death.
+In medical astrology: Face, teeth, tongue, oral cavity,
+nose, nails, speech,
+eyes (right eye).
+Third
+ House: Courage
+ and valour, physical fitness, hobbies, talent,
+education, good qualities,
+ siblings, longevity of parents, tolerance,
+capability, quality and nature of
+ food, selfishness, sports, fights, refuge,
+trading, dreams, sorrows, stability
+of mind, neighbourhood, near relations,
+friends, army, inheritance, ornaments,
+cleverness, short journeys.
+In medical astrology: Ears (right ear), neck, throat,
+ shoulders, bones,
+upper limbs, mental instability, physical growth, longevity.
+Fourth
+House: Near and dear ones, caste and ancestry, mother, relatives on
+mother’s side, lands and houses, agriculture, farming, gardens, orchards,
+installations, buildings, parliament, favours from the ruler, medicine,
+education, knowledge of land and geography, hidden treasures, comforts and
+discomforts, courage, faith, victory and defeat, perfumes, clothes, milk,
+digging, agricultural produce, vehicles, possession of cattle, horses and
+elephants.
+In medical astrology: Chest, lungs, heart, breast, potent
+medicine.
+Fifth
+ House: Progeny,
+ father, mental ability, learning, knowledge,
+scholarship, character,
+ conception, prosperity, acquisitions through wife,
+fascination (for women),
+sharp wisdom, discrimination and analytical skill,
+capability, devotion to
+ gods, means of earning, official seal, good or bad
+
+<<<PAGE 99>>>
+memory, speculation,
+ humiliation, authorship, Shruti (Vedas), Smriti,
+knowledge of mantras, karmas
+of past lives.
+In medical astrology: Heart, upper abdomen, liver, gall
+ bladder, mind,
+mental illness, problems related to pregnancy.
+Sixth
+ House: Enemies,
+ opposition, mental agitation, injuries, accident,
+disease, wounds sustained in
+ war, loans, debts, losses, disappointments,
+obstacles, poisons, slanders,
+ humiliation, cruelty, indulgence in prohibited
+acts, theft, quarrels,
+ imprisonment, maternal uncles, maternal aunt, step-
+mother, pets, cattle,
+ quadrupeds, flavours of food, servants, subordinates,
+nuisances in general.
+In medical astrology: Intestines, umbilical region,
+ phlegmatic illness,
+tuberculosis, eye disease, poisoning, accidents,
+operations.
+Seventh
+ House: Spouse, sex partner, marriage, adultery, lust or passion,
+nature and character of spouse, sexual union, secret love affairs, journey,
+deviation from one’s path, partnership in business, overt enemies, quarrels,
+theft, loss of memory, recovery of lost wealth, progress, attainment of status,
+grandfather, brother’s son, death.
+In medical astrology: Lower urinary tract, anal canal,
+ semen, seminal
+vesicles, urethra, prostrate, sexual act.
+Eighth
+ House: Marital status of a woman, longevity, death, obstacle,
+disgrace,
+defeat, discontinuity, suddenness, unexpectedness, misery, loss of
+memory, sin,
+ killing a living being, capital punishment, nature of death,
+place of death,
+wickedness, father’s indebtedness, deviation from expected
+norms, frightful
+place, difficult route, crevices, finding faults, humiliation,
+wife’s wealth,
+sudden unexpected gain, hidden talents, spiritual pursuits and
+attainments,
+inheritance, son of the elder sister.
+In medical astrology: External genitalia, incurable or
+ chronic disease,
+loss of a limb, longevity, cause of death, severe mental
+anguish.
+Ninth
+ House: Virtuous
+ deeds, pilgrimages, worship, religious inclination,
+devotional and religious
+ learning, karmas of the present birth, splendour,
+association with the
+virtuous, auspiciousness, the preceptor or guru, father,
+austerity, penance,
+charity, kindness, wisdom, knowledge, devotion towards
+
+<<<PAGE 100>>>
+the preceptor, spiritual
+ initiation, mental quietude, fame and fortune,
+progeny, temples, Vedic rituals,
+long journeys, travel by the sea.
+In medical astrology: Hips, thighs, nourishment.
+Tenth
+ House: Profession,
+ function, source of livelihood, governmental
+service, honour from the king,
+ business, status, wealth, political power,
+fame, progress, nature of work,
+ professional inclination, the treating
+physician, hidden treasure, prescribed
+ course, teaching capability, self-
+control, dominance, sacrificing nature,
+proficiency, father’s wealth and well-
+being, foreign travel, financial status,
+ place of residence, performance of
+sacred and religious deeds.
+In medical astrology: Knee joint, knee cap.
+Eleventh
+ House: Gains
+ of all nature, income, acquisition, fulfilment of
+desires, nature of earning,
+ arrival, rewards, recognition, favours from the
+ruler, special status,
+ proficiency, learning, ancestral property, fondness for
+precious stones, lost
+wealth, pursuit of pious and religious deeds, profits and
+returns, elder
+ brother, paternal uncle, longevity of mother, material
+enjoyments.
+In medical astrology: Legs, left ear, left upper limb,
+ recovery from
+disease.
+Twelfth
+House:
+Expenditure, loss of wealth, spending money for prescribed
+or prohibited
+pursuits, pleasures of the bed, bedroom, mental anguish, loss of
+sleep,
+physical disease, wickedness, penury, loss or disease of a limb, loss of
+authority, imprisonment, confinement in an enemy’s house, loss of spouse,
+exit
+from the world, emancipation, renunciation, distant travel, foreign land,
+emigration, loss in travel, paternal property,spiritual learning, secret
+learning, fear from overt and covert enemies.
+In medical astrology: Sleep disorders, mental imbalance,
+hospitalisation,
+feet, left eye, death.
+Significations of the Planets
+Planets too, like houses, have their significations. They
+are as follows:
+The
+Sun: Physical
+ strength, dominance, influence, courage, valour, bitter
+taste, land,
+ enlightenment, soul, father, father’s comforts, king, royal
+
+<<<PAGE 101>>>
+favours, kingly
+ pursuits, high status, undisguised conduct, mental purity,
+kingdom, travelling,
+summer (Grishma), heat, fire, stones, trees with thorns,
+grass, forests,
+ mountains, eastern direction, half a year, river banks, body,
+face, anger,
+ indignation, hostility, good nature, administration, leader,
+physician,
+ competence, gold, copper, pearls, ruby, ornaments, timber,
+quadruped, short
+ stature, thick yarn, victory, devotion to lord Shiva,
+Kshatriyas (the 2nd in
+order in the four-castes system), red cloth, saffron,
+lotus, cow with its calf,
+the world of mortals.
+In medical astrology: Soundness of health, old age, stomach,
+bile, heart,
+right eye, bones, fever, inflammation, diseases of the head,
+ headache,
+baldness, biliary disease, injuries from falls, epilepsy, injuries
+sustained from
+quadrupeds.
+The
+ Moon: Mother, comforts to and from mother, beauty, facial lustre,
+gracefulness, fame, happiness, vehicles, mind, mental capabilities,
+intelligence,
+sense of humour, woman’s inclination, mental agility, nature of
+an individual,
+contentment, laziness, sleep, liquids,water, milk, curd, honey,
+saline, eating,
+ delicious fruits, fish and aquatic animals, snakes and other
+reptiles, flowers,
+ perfumes, blossoms, fine clothes, white colour, crystals,
+silver, bronze,
+ pearls, royal insignia, well, tank, lake, expanses of water,
+pilgrimage,
+ pleasures, splendour, shyness, modesty, mildness, kindness,
+love, lover,
+ affection, royal favour, wheat, white rice, sugarcane, salt,
+Brahmins,
+ north-west direction, rainy season (Varsha), a muhurta (a time
+period
+equivalent to 48 minutes), middle age, world of the Manes.
+In medical astrology: Mental llness, epilepsy, ulcers,
+acidity, phlegmatic
+disorders, pleurisy, tuberculosis, blood disorders, breast,
+ left eye, malarial
+fever, fevers associated with chills and rigors, sleep
+ disorders, menstrual
+problems, disease of shoulders, fear from watery animals.
+Mars: Courage, valour,
+ aggressiveness, anger, physical strength, pride,
+arrogance, combat,
+administrative capability, capacity to award punishment,
+skill in the use of
+weapons, risky ventures, archery, leadership, dominance,
+fame, victory, army,
+ fort, cruelty, adultery, strength of the enemy, king, a
+fool, arguments, injury,
+surgery, criticism of others, sword, an axe or hatchet,
+knife, leadership of a
+ village or a town, royal, famous, commander of an
+army, independance,
+ controlling wild animals, non-vegetarian food, fickle
+nature, heat, summer
+ (Grishma), southern direction, burns, fire,
+
+<<<PAGE 102>>>
+steadfastness, service of the
+ ruler, home, a house, land, soil, burnt place,
+earthenware, goldsmith, gold,
+ copper, good food, craving, persistence,
+obstinacy, speech, siblings
+ (especially younger ones), snake, red colour,
+blood, gore, red clothes, red
+flowers, poison, bitter taste, pungent taste, sight,
+day, tree.
+In medical astrology: Bile, marrow, haemoglobin (red pigment
+ in the
+blood), muscles, menstrual cycle in women, accidents, injuries, burns,
+surgical operations, biliary disease, blood disorders, cuts and wounds,
+dysuria, head injuries, physical fitness and vitality.
+Mercury: 
+Education,
+knowledge, 
+learning, 
+sholarship, 
+grammer,
+mathematics, astrology, astronomy,
+writing, script, philosophical knowledge,
+oratory, speech, good conversation,
+ power of expression, witty language,
+intelligence, humility, fear,
+ discrimination, editorship, printer, a minister,
+conversation studded with
+multiple meanings, a trader, commerce, treasury,
+pilgrimage, temples, bad
+dreams, sculptor, religious rites, devotion, mental
+quietude, fickleness,
+ friends, black magic, self control, birds, horses,
+knowledge of scriptures and
+Vedanta, renunciation, skill in mantras, yantras
+as well as tantric pursuits,
+ dancing, substances of mixed hues, eunuch,
+Shudras (the last in order in
+four-caste system), seasons, autumn (Sharad),
+skin moisture, northern
+direction, green colour, a prince, a youth, a child,
+maternal uncle, maternal
+grandfather, younger coborns, physician, towers of
+temples, dust, balanced
+outlook, skill in precious stones, crosswise looks.
+In medical astrology: Skin, diseases of the skin, navel,
+ sexual organs,
+neck, throat, nose, lungs, mental aberrations, nervous
+ breakdown, speech
+disorders, vertigo, impotence.
+Jupiter: Successors, sons and
+ daughters, grandchildren, disciples, wealth,
+treasure, classical learning,
+philosophical learning, judicial learning, Sanskrit
+language, higher education,
+astrology, astronomy, grammer, Shastras, logic,
+religious study, Dharma or
+ righteous conduct, status, grandfather, elders,
+teachers, Brahmins (the 1st in
+order in four-caste system), old age, place of
+pilgrimage, sharp intellect,
+ wisdom, proficiency, eloquence, fame and
+renown, capacity to understand,
+self-respect, arrogance, indignation, writer
+of books, long poems, mantras or
+incantations, lecturing and delighting an
+audience, helpful nature, a man of
+ law, a judge, devotion, beneficence,
+penance, self control, royal throne,
+ physical health, valour, progress,
+
+<<<PAGE 103>>>
+understanding the minds of others, knowledge
+ of scriptures, decorations,
+yellow cloth, yellow topaz, yellow colour, precious
+ stones, gold, honey,
+turmeric, salt, cows, buffaloes, elephants, chariot,
+ mansion, elder brother,
+friends, north-east direction, early half of winter
+ (Hemanta), spending on
+sacred deeds, charities, trader, fat in the body.
+In medical astrology: Diseases of liver and gall bladder,
+obesity, diabetes,
+pancreas and spleen, disease of digestive organs, knee,
+ anaemias, ear
+trouble, laziness, chronic disease.
+Venus: Wife, woman,
+marriage, conjugal bliss, sexual adventures, romantic
+conversation, amorous
+sports, love sports in water, overindulgence in sex,
+sexual perversions,
+ romance, adultery, possessing many women, beauty,
+youth, fame, flowers, love of
+ fragrances, tenderness, dealing in perfumes,
+clothes and articles of beauty,
+ pride in ancient culture, servants, fortune,
+kingdom, royal favours, radiance,
+ornaments, talents, wealth, knowledge of
+the scriptures, diamonds, pearls,
+cotton, physical comforts, fame, fine arts,
+music, dance, singing, poetry,
+ drama, vehicles, elephants, horses, cattle,
+playing on flute or
+ violin,voluptuous gait, well-proportioned limbs, spring
+season (Vasanta),
+ south-east direction, middle age, agriculture, family
+members, bedroom, white
+ flowers, ghee, curd, gold, silver, land, good
+fortune, good food, the Vaishyas
+(3rd in order in the four-caste system).
+In medical astrology: Venereal disease, eye disease,
+ diseases of the
+urinary system, intestinal disease, diabetes, typhoid,
+ appendicitis,
+exhaustion.
+Saturn:
+ Longevity, sufferings, misery, ill-health, obstruction, sorrow,
+distress, death, humiliation, servility, stupidity, covetousness, allegation,
+punishment, incarceration, outcaste, a maid servant, separation, slavery,
+falsehood, illiteracy, exhaustion, exertion, indignation, ugliness, dirty
+dress,
+shabby looks, eunuch, illegitimate, sins, cruelty, skill in law and
+judiciary,
+renunciation, detachment, philosophical attitude, directed
+ downwards,
+Shudras, western direction, second half of winter (Shishira), means
+ of
+livelihood, old age, infamy, firmness, indebtedness, penury, income,
+association with the wicked, benefit from inferiors, hunter, a wanderer,
+horses, elephants, goats, buffaloes, asses, dogs, oil, wood, black metal, iron,
+lead, black grains, precious stones, ashes, agriculture or farming, sexual
+
+<<<PAGE 104>>>
+indulgence, happiness from a woman, long lasting, the servant class,
+multitudes, labourers.
+In medical astrology: Chronic disease, incurable disease,
+ legs, feet,
+tendons, skin, ugly hair, lameness, mutilated limbs, amputation,
+depression,
+insanity, idiocy, exhaustion and fatigue.
+Rahu: Sudden happening,
+ disinclination, faulty logic, harsh speech,
+irreligious, adultery with a wicked
+woman, falsehood, sin, wickedness, royal
+status, royal insignia, benefits from
+ outcastes, foreign travel or residence,
+long travel, pilgrimage, a muhurta (48
+ minutes), air, space, breathing, old
+age, hesitation, poison, snakes, reptiles,
+south-west direction, wandering in
+difficult terrain, going to the mountains,
+ maternal grandfather, gambling,
+blue cloth, dark flower, emerald, dense forest,
+ sudden disaster, technical
+eduction.
+In medical astrology: Bones, chronic disease, incurable
+disease, insanity,
+hiccup, phobias, leprosy, weeping wounds, poisoning, snake
+bites, malignant
+tumors.
+Ketu: Knowledge of the self,
+renunciation, knowledge of the mantras and
+tantras, secret learning,
+detachment, bath in holy rivers, pilgrimage, penance,
+hunger, vow of silence,
+ Vedantic philosophy, disease, physician, a flag,
+association with hunters,
+ fortune, suffering, luxuries, paternal grandfather,
+vultures, dogs, deer,
+cocks, pain, injury, surgical treatment, horned animals,
+thorn, stone, trouble
+from enemies.
+In medical astrology: Chronic disease, tuberculosis, viral
+ diseases,
+eruptive fevers, epidemics, worm infestations, non-healing wounds,
+mental
+instability, diseases causing diagnostic confusion.
+Planets as Significators for Houses
+Each of the twelve houses has one or more significators or
+Karakas for it.
+A significator is an additional indicator of the functions of a
+house. A house
+may have more than one significator. The various significators
+for different
+houses are as follows:
+Lagna = Sun
+Second House = Jupiter
+
+<<<PAGE 105>>>
+Third House = Mars
+Fourth House = Moon, Mercury
+Fifth House = Jupiter
+Sixth House = Mars, Saturn
+Seventh House = Venus
+Eighth House = Saturn
+Ninth House = Sun, Jupiter
+Tenth House = Sun, Mercury, Jupiter, Saturn
+Eleventh House = Jupiter
+Twelfth House = Saturn
+Predictive use of significators
+A significator for a house must be considered when events
+pertaining to a
+house are being judged. For example, when one wants to know
+about mother
+(4th house), the Moon (significator for 4th house as well as
+mother) must
+also be examined. Or while judging in respect of brother (3rd
+house), Mars
+(significator for 3rd house as well as brother) must also be
+judged. Besides,
+the following scheme must be adhered to:
+1. Whatever is considered from the 9th (father), the
+10th and the 11th houses
+from the lagna, must also be examined from the 9th,
+10th and 11th from the
+Sun.
+2. Whatever is considered from the 1st, the 2nd, the
+4th, the 9th and the 10th
+houses from the lagna, must also be considered from
+similar houses from the
+Moon.
+3. Whatever is considered from the 3rd from lagna, must
+also be considered
+from the 3rd house from Mars.
+4. Whatever is considered from the 6th house (disease,
+ enemy, maternal
+uncle) from the lagna must also be judged from the 6th from
+Mercury.
+5. For progeny, consider the 5th house from lagna and
+the 5th from Jupiter.
+6. For spouse, consider the 7th from lagna and the 7th
+from Venus.
+
+<<<PAGE 106>>>
+7. Indications of the 8th (death, longevity) and the
+12th from the lagna must
+be considered from such houses from Saturn also.
+8. Whatever be the indications of the house, these must
+also be judged from
+the lord of that house.

@@ -1,0 +1,1203 @@
+{
+  "@@locale": "en",
+  "appTitle": "PocketAstro",
+  "@appTitle": {
+    "description": "PocketAstro"
+  },
+  "navCompatibility": "Compatibility",
+  "@navCompatibility": {
+    "description": "Compatibility"
+  },
+  "navLanguage": "Language",
+  "@navLanguage": {
+    "description": "Language"
+  },
+  "navLearn": "Learn astrology",
+  "@navLearn": {
+    "description": "Learn astrology"
+  },
+  "navRashifal": "Daily reading",
+  "@navRashifal": {
+    "description": "Daily reading"
+  },
+  "homeToday": "Today",
+  "@homeToday": {
+    "description": "Today"
+  },
+  "homeYourCharts": "Your charts",
+  "@homeYourCharts": {
+    "description": "Your charts"
+  },
+  "homeYourChartsSub": "Tap a name to read the whole chart.",
+  "@homeYourChartsSub": {
+    "description": "Tap a name to read the whole chart."
+  },
+  "homeReadYourDay": "Read your day",
+  "@homeReadYourDay": {
+    "description": "Read your day"
+  },
+  "homeLearnCard": "Learn astrology",
+  "@homeLearnCard": {
+    "description": "Learn astrology"
+  },
+  "homeLearnCardSub": "Fifteen lessons, from what a chart is to what it cannot say.",
+  "@homeLearnCardSub": {
+    "description": "Fifteen lessons, from what a chart is to what it cannot say."
+  },
+  "homeLearnProgress": "{done} of {total} lessons",
+  "@homeLearnProgress": {
+    "description": "{done} of {total} lessons",
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "homeLearnStart": "Start learning",
+  "@homeLearnStart": {
+    "description": "Start learning"
+  },
+  "rashifalTitle": "Daily reading",
+  "@rashifalTitle": {
+    "description": "Daily reading"
+  },
+  "rashifalSub": "Where the grahas are today, counted from each moon sign.",
+  "@rashifalSub": {
+    "description": "Where the grahas are today, counted from each moon sign."
+  },
+  "rashifalPickSign": "Choose your moon sign",
+  "@rashifalPickSign": {
+    "description": "Choose your moon sign"
+  },
+  "rashifalYours": "Yours",
+  "@rashifalYours": {
+    "description": "Yours"
+  },
+  "rashifalYoursFor": "Yours · {name}",
+  "@rashifalYoursFor": {
+    "description": "Yours · {name}",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "rashifalMoonSign": "Moon sign",
+  "@rashifalMoonSign": {
+    "description": "Moon sign"
+  },
+  "rashifalWhatMoves": "What is moving today",
+  "@rashifalWhatMoves": {
+    "description": "What is moving today"
+  },
+  "rashifalLineTitle": "{graha} · {house} house",
+  "@rashifalLineTitle": {
+    "description": "rashifalLineTitle",
+    "placeholders": {
+      "graha": {
+        "type": "String"
+      },
+      "house": {
+        "type": "String"
+      }
+    }
+  },
+  "rashifalObstructed": "Obstructed",
+  "@rashifalObstructed": {
+    "description": "Obstructed"
+  },
+  "rashifalHelps": "Helps",
+  "@rashifalHelps": {
+    "description": "Helps"
+  },
+  "rashifalPresses": "Presses",
+  "@rashifalPresses": {
+    "description": "Presses"
+  },
+  "rashifalQuiet": "Quiet",
+  "@rashifalQuiet": {
+    "description": "Quiet"
+  },
+  "rashifalBetterRead": "Read this against your own chart",
+  "@rashifalBetterRead": {
+    "description": "Read this against your own chart"
+  },
+  "rashifalBetterReadSub": "Your chart reads the same transits against your birth Moon, your period and your ashtakavarga.",
+  "@rashifalBetterReadSub": {
+    "description": "rashifalBetterReadSub"
+  },
+  "rashifalNoChart": "Not sure of your moon sign? Add a birth chart and the app will work it out.",
+  "@rashifalNoChart": {
+    "description": "rashifalNoChart"
+  },
+  "panchangaToday": "{tithi} · {nakshatra} · {vara}",
+  "@panchangaToday": {
+    "description": "{tithi} · {nakshatra} · {vara}",
+    "placeholders": {
+      "tithi": {
+        "type": "String"
+      },
+      "nakshatra": {
+        "type": "String"
+      },
+      "vara": {
+        "type": "String"
+      }
+    }
+  },
+  "storedOnDevice": "Your charts stay on this device. Only birthplace search goes online, and only when you ask.",
+  "@storedOnDevice": {
+    "description": "storedOnDevice"
+  },
+  "emptyTitle": "Read a birth chart, offline",
+  "@emptyTitle": {
+    "description": "Read a birth chart, offline"
+  },
+  "emptyBody": "Add a birth date, time and place. No account needed; your charts never leave this device.",
+  "@emptyBody": {
+    "description": "emptyBody"
+  },
+  "enterBirthDetails": "Enter birth details",
+  "@enterBirthDetails": {
+    "description": "Enter birth details"
+  },
+  "loadDemo": "Load demo: 14 Apr 1992, Kathmandu",
+  "@loadDemo": {
+    "description": "Load demo: 14 Apr 1992, Kathmandu"
+  },
+  "newChart": "New chart",
+  "@newChart": {
+    "description": "New chart"
+  },
+  "editChart": "Edit chart",
+  "@editChart": {
+    "description": "Edit chart"
+  },
+  "deleteTitle": "Delete this chart?",
+  "@deleteTitle": {
+    "description": "Delete this chart?"
+  },
+  "deleteBody": "Remove {name} from this device.",
+  "@deleteBody": {
+    "description": "Remove {name} from this device.",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete"
+  },
+  "timeUnknownShort": "time unknown",
+  "@timeUnknownShort": {
+    "description": "time unknown"
+  },
+  "notFound": "Not found",
+  "@notFound": {
+    "description": "Not found"
+  },
+  "fieldName": "Name",
+  "@fieldName": {
+    "description": "Name"
+  },
+  "fieldDateTime": "Date and time (local at birth)",
+  "@fieldDateTime": {
+    "description": "Date and time (local at birth)"
+  },
+  "switchTimeUnknown": "Birth time unknown",
+  "@switchTimeUnknown": {
+    "description": "Birth time unknown"
+  },
+  "switchTimeUnknownSub": "The rising sign and the twelve houses will be withheld rather than guessed. Your Moon reading still works.",
+  "@switchTimeUnknownSub": {
+    "description": "The rising sign and the twelve houses will be withheld rather than guessed. Your Moon r..."
+  },
+  "fieldTimeSource": "Time source",
+  "@fieldTimeSource": {
+    "description": "Time source"
+  },
+  "fieldBirthPlace": "Birth place",
+  "@fieldBirthPlace": {
+    "description": "Birth place"
+  },
+  "invalidLocation": "Invalid location data. Please enter a valid place name.",
+  "@invalidLocation": {
+    "description": "Invalid location data. Please enter a valid place name."
+  },
+  "hintTypePlace": "Type any town or city",
+  "@hintTypePlace": {
+    "description": "Type any town or city"
+  },
+  "searchOnline": "Search online",
+  "@searchOnline": {
+    "description": "Search online"
+  },
+  "searchingPlaces": "Searching…",
+  "@searchingPlaces": {
+    "description": "Searching…"
+  },
+  "placeSearchMinChars": "Type at least three letters, then search.",
+  "@placeSearchMinChars": {
+    "description": "Type at least three letters, then search."
+  },
+  "placeLookupOffline": "Could not reach the place search. Saved and built-in places still work.",
+  "@placeLookupOffline": {
+    "description": "placeLookupOffline"
+  },
+  "placeLookupRetry": "Try again",
+  "@placeLookupRetry": {
+    "description": "Try again"
+  },
+  "sectionOnDevice": "Places on this device",
+  "@sectionOnDevice": {
+    "description": "Places on this device"
+  },
+  "sectionOnlineResults": "Online results",
+  "@sectionOnlineResults": {
+    "description": "Online results"
+  },
+  "placeOnlineNote": "Only this search leaves your device. Your chart is never sent anywhere.",
+  "@placeOnlineNote": {
+    "description": "placeOnlineNote"
+  },
+  "useCoordinates": "Enter coordinates instead",
+  "@useCoordinates": {
+    "description": "Enter coordinates instead"
+  },
+  "fieldLatitude": "Latitude",
+  "@fieldLatitude": {
+    "description": "Latitude"
+  },
+  "fieldLongitude": "Longitude",
+  "@fieldLongitude": {
+    "description": "Longitude"
+  },
+  "fieldTimezone": "Time zone",
+  "@fieldTimezone": {
+    "description": "Time zone"
+  },
+  "hintTimezone": "An IANA zone id, such as Asia/Kathmandu",
+  "@hintTimezone": {
+    "description": "An IANA zone id, such as Asia/Kathmandu"
+  },
+  "invalidCoordinates": "Latitude runs −90 to 90, longitude −180 to 180, and the zone must be a real IANA id.",
+  "@invalidCoordinates": {
+    "description": "invalidCoordinates"
+  },
+  "useThisPlace": "Use this place",
+  "@useThisPlace": {
+    "description": "Use this place"
+  },
+  "selectedPlace": "Selected: {place} ({zone})",
+  "@selectedPlace": {
+    "description": "Selected: {place} ({zone})",
+    "placeholders": {
+      "place": {
+        "type": "String"
+      },
+      "zone": {
+        "type": "String"
+      }
+    }
+  },
+  "saveAndRead": "Save and read the chart",
+  "@saveAndRead": {
+    "description": "Save and read the chart"
+  },
+  "tabOverview": "Overview",
+  "@tabOverview": {
+    "description": "Overview"
+  },
+  "tabKundali": "Kundali",
+  "@tabKundali": {
+    "description": "Kundali"
+  },
+  "tabLifeAreas": "Life areas",
+  "@tabLifeAreas": {
+    "description": "Life areas"
+  },
+  "tabTiming": "Timing",
+  "@tabTiming": {
+    "description": "Timing"
+  },
+  "tabAsk": "Ask",
+  "@tabAsk": {
+    "description": "Ask"
+  },
+  "tabLearn": "Learn",
+  "@tabLearn": {
+    "description": "Learn"
+  },
+  "learnTitle": "Learn astrology",
+  "@learnTitle": {
+    "description": "Learn astrology"
+  },
+  "learnSub": "Fifteen lessons from the ground up, each one ending in your own chart.",
+  "@learnSub": {
+    "description": "learnSub"
+  },
+  "learnProgress": "{done} of {total} lessons done",
+  "@learnProgress": {
+    "description": "{done} of {total} lessons done",
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "learnContinue": "Continue",
+  "@learnContinue": {
+    "description": "Continue"
+  },
+  "learnStart": "Start the course",
+  "@learnStart": {
+    "description": "Start the course"
+  },
+  "learnNextUp": "Next up",
+  "@learnNextUp": {
+    "description": "Next up"
+  },
+  "learnFinished": "You have been through the whole course.",
+  "@learnFinished": {
+    "description": "You have been through the whole course."
+  },
+  "learnFinishedSub": "Go back to any lesson at any time. Nothing here expires.",
+  "@learnFinishedSub": {
+    "description": "Go back to any lesson at any time. Nothing here expires."
+  },
+  "learnLevelProgress": "{done}/{total}",
+  "@learnLevelProgress": {
+    "description": "{done}/{total}",
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "learnMinutes": "{minutes} min read",
+  "@learnMinutes": {
+    "description": "{minutes} min read",
+    "placeholders": {
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "learnLessonOf": "Lesson {number} of {total}",
+  "@learnLessonOf": {
+    "description": "Lesson {number} of {total}",
+    "placeholders": {
+      "number": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "learnInYourChart": "In your chart",
+  "@learnInYourChart": {
+    "description": "In your chart"
+  },
+  "learnCheck": "Check yourself",
+  "@learnCheck": {
+    "description": "Check yourself"
+  },
+  "learnShowAnswer": "Show the answer",
+  "@learnShowAnswer": {
+    "description": "Show the answer"
+  },
+  "learnHideAnswer": "Hide the answer",
+  "@learnHideAnswer": {
+    "description": "Hide the answer"
+  },
+  "learnMarkDone": "Mark as read",
+  "@learnMarkDone": {
+    "description": "Mark as read"
+  },
+  "learnMarkNotDone": "Read",
+  "@learnMarkNotDone": {
+    "description": "Read"
+  },
+  "learnNextLesson": "Next lesson",
+  "@learnNextLesson": {
+    "description": "Next lesson"
+  },
+  "learnReset": "Reset progress",
+  "@learnReset": {
+    "description": "Reset progress"
+  },
+  "learnResetTitle": "Start the course again?",
+  "@learnResetTitle": {
+    "description": "Start the course again?"
+  },
+  "learnResetBody": "This clears every lesson you have marked as read. The lessons themselves stay where they are.",
+  "@learnResetBody": {
+    "description": "learnResetBody"
+  },
+  "learnEmpty": "The syllabus could not be loaded.",
+  "@learnEmpty": {
+    "description": "The syllabus could not be loaded."
+  },
+  "learnFootnote": "A syllabus, not a certification. PocketAstro teaches the classical method and is explicit about where that method stops.",
+  "@learnFootnote": {
+    "description": "learnFootnote"
+  },
+  "tabToday": "Today",
+  "@tabToday": {
+    "description": "Today"
+  },
+  "todayReckoned": "Reckoned from sunrise at {place}",
+  "@todayReckoned": {
+    "description": "Reckoned from sunrise at {place}",
+    "placeholders": {
+      "place": {
+        "type": "String"
+      }
+    }
+  },
+  "todaySunTimes": "Sunrise {sunrise} · Sunset {sunset}",
+  "@todaySunTimes": {
+    "description": "Sunrise {sunrise} · Sunset {sunset}",
+    "placeholders": {
+      "sunrise": {
+        "type": "String"
+      },
+      "sunset": {
+        "type": "String"
+      }
+    }
+  },
+  "todayEstimatedLight": "The Sun does not cross the horizon here on this date, so the day’s windows fall back to a 6am–6pm convention.",
+  "@todayEstimatedLight": {
+    "description": "todayEstimatedLight"
+  },
+  "todayPanchanga": "The five limbs",
+  "@todayPanchanga": {
+    "description": "The five limbs"
+  },
+  "todayPanchangaSub": "What today is, before it is anything about you.",
+  "@todayPanchangaSub": {
+    "description": "What today is, before it is anything about you."
+  },
+  "todayUntil": "until {time}",
+  "@todayUntil": {
+    "description": "until {time}",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "todayAllDay": "until sunrise tomorrow",
+  "@todayAllDay": {
+    "description": "until sunrise tomorrow"
+  },
+  "todayMoonStrength": "Your Moon today",
+  "@todayMoonStrength": {
+    "description": "Your Moon today"
+  },
+  "todayMoonStrengthSub": "Today’s Moon measured against the Moon you were born under.",
+  "@todayMoonStrengthSub": {
+    "description": "Today’s Moon measured against the Moon you were born under."
+  },
+  "todayTarabala": "Tarabala",
+  "@todayTarabala": {
+    "description": "Tarabala"
+  },
+  "todayTarabalaValue": "{name} — star {count} of 27",
+  "@todayTarabalaValue": {
+    "description": "{name} — star {count} of 27",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "todayChandrabala": "Chandrabala",
+  "@todayChandrabala": {
+    "description": "Chandrabala"
+  },
+  "todayChandrabalaValue": "{house} house from your birth Moon",
+  "@todayChandrabalaValue": {
+    "description": "{house} house from your birth Moon",
+    "placeholders": {
+      "house": {
+        "type": "String"
+      }
+    }
+  },
+  "todayKakshya": "Kakshya count",
+  "@todayKakshya": {
+    "description": "Kakshya count"
+  },
+  "todayKakshyaValue": "{score} of 7 grahas carry a bindu",
+  "@todayKakshyaValue": {
+    "description": "{score} of 7 grahas carry a bindu",
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+  "todayNoKakshya": "The kakshya count needs a birth time — the ascendant is the eighth contributor to the ashtakavarga.",
+  "@todayNoKakshya": {
+    "description": "todayNoKakshya"
+  },
+  "todayLeanInto": "Lean into",
+  "@todayLeanInto": {
+    "description": "Lean into"
+  },
+  "todayLeanIntoSub": "What today is classically suited to.",
+  "@todayLeanIntoSub": {
+    "description": "What today is classically suited to."
+  },
+  "todayHoldOff": "Hold off on",
+  "@todayHoldOff": {
+    "description": "Hold off on"
+  },
+  "todayHoldOffSub": "What today is classically unsuited to. None of it is a prohibition.",
+  "@todayHoldOffSub": {
+    "description": "What today is classically unsuited to. None of it is a prohibition."
+  },
+  "todayWindows": "Windows in the day",
+  "@todayWindows": {
+    "description": "Windows in the day"
+  },
+  "todayWindowsSub": "Fractions of the daylight, counted from sunrise.",
+  "@todayWindowsSub": {
+    "description": "Fractions of the daylight, counted from sunrise."
+  },
+  "todayWindowNow": "on now",
+  "@todayWindowNow": {
+    "description": "on now"
+  },
+  "todayGuidance": "Guidance",
+  "@todayGuidance": {
+    "description": "Guidance"
+  },
+  "todayPeriodToday": "Your period today",
+  "@todayPeriodToday": {
+    "description": "Your period today"
+  },
+  "todayCarrying": "Carrying today",
+  "@todayCarrying": {
+    "description": "Carrying today"
+  },
+  "todayFootnote": "Muhurta is the last filter, not the first. Your chart and your running period decide what is possible; the day only decides how it feels.",
+  "@todayFootnote": {
+    "description": "todayFootnote"
+  },
+  "todayWorkingOut": "How today was graded",
+  "@todayWorkingOut": {
+    "description": "How today was graded"
+  },
+  "todayScoreLine": "Filters tallied to {score}.",
+  "@todayScoreLine": {
+    "description": "Filters tallied to {score}.",
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+  "savePdf": "Save as PDF",
+  "@savePdf": {
+    "description": "Save as PDF"
+  },
+  "risingTitle": "{sign} rising",
+  "@risingTitle": {
+    "description": "{sign} rising",
+    "placeholders": {
+      "sign": {
+        "type": "String"
+      }
+    }
+  },
+  "moonTitle": "Moon in {sign}",
+  "@moonTitle": {
+    "description": "Moon in {sign}",
+    "placeholders": {
+      "sign": {
+        "type": "String"
+      }
+    }
+  },
+  "noTimeLead": "Your mind and instincts are read from the Moon.",
+  "@noTimeLead": {
+    "description": "Your mind and instincts are read from the Moon."
+  },
+  "moonSunLine": "Moon in {moon} · Sun in {sun}",
+  "@moonSunLine": {
+    "description": "Moon in {moon} · Sun in {sun}",
+    "placeholders": {
+      "moon": {
+        "type": "String"
+      },
+      "sun": {
+        "type": "String"
+      }
+    }
+  },
+  "birthStarLine": "Birth star {nakshatra}, pada {pada}",
+  "@birthStarLine": {
+    "description": "Birth star {nakshatra}, pada {pada}",
+    "placeholders": {
+      "nakshatra": {
+        "type": "String"
+      },
+      "pada": {
+        "type": "String"
+      }
+    }
+  },
+  "periodTitle": "You are in a {lord} period",
+  "@periodTitle": {
+    "description": "You are in a {lord} period",
+    "placeholders": {
+      "lord": {
+        "type": "String"
+      }
+    }
+  },
+  "periodSub": "Currently the {lord} sub-period, to {date}",
+  "@periodSub": {
+    "description": "Currently the {lord} sub-period, to {date}",
+    "placeholders": {
+      "lord": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "periodRange": "{start} – {end}",
+  "@periodRange": {
+    "description": "{start} – {end}",
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "periodProgress": "{percent}% through · about {years} years left. A period is a chapter, not a sentence.",
+  "@periodProgress": {
+    "description": "{percent}% through · about {years} years left. A period is a chapter, not a sentence.",
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      },
+      "years": {
+        "type": "String"
+      }
+    }
+  },
+  "periodClosed": "This period has closed.",
+  "@periodClosed": {
+    "description": "This period has closed."
+  },
+  "whatSupports": "What this chart supports",
+  "@whatSupports": {
+    "description": "What this chart supports"
+  },
+  "whatSupportsSub": "Where the chart helps, and where it asks for effort.",
+  "@whatSupportsSub": {
+    "description": "Where the chart helps, and where it asks for effort."
+  },
+  "standoutPatterns": "Standout patterns",
+  "@standoutPatterns": {
+    "description": "Standout patterns"
+  },
+  "standoutPatternsSub": "Combinations the classics single out in your chart.",
+  "@standoutPatternsSub": {
+    "description": "Combinations the classics single out in your chart."
+  },
+  "disclaimerOffline": "PocketAstro reads your chart offline from 56 classical and modern sources. It is interpretive, not medical, legal or financial advice, and it will not predict death or diagnose illness.",
+  "@disclaimerOffline": {
+    "description": "PocketAstro reads your chart offline from 56 classical and modern sources. It is interp..."
+  },
+  "noTimeNote": "No birth time on file, so the rising sign, the twelve houses and everything built on them are withheld. The Moon still carries a full reading. Add a time to unlock the rest.",
+  "@noTimeNote": {
+    "description": "No birth time on file, so the rising sign, the twelve houses and everything built on th..."
+  },
+  "northIndian": "North Indian",
+  "@northIndian": {
+    "description": "North Indian"
+  },
+  "southIndian": "South Indian",
+  "@southIndian": {
+    "description": "South Indian"
+  },
+  "hintNorth": "Houses stay in place; the signs move with your rising sign.",
+  "@hintNorth": {
+    "description": "Houses stay in place; the signs move with your rising sign."
+  },
+  "hintSouth": "Signs stay in place; your rising sign is marked “Asc”.",
+  "@hintSouth": {
+    "description": "Signs stay in place; your rising sign is marked “Asc”."
+  },
+  "showShading": "Show house shading",
+  "@showShading": {
+    "description": "Show house shading"
+  },
+  "hideShading": "Hide house shading",
+  "@hideShading": {
+    "description": "Hide house shading"
+  },
+  "tapGraha": "Tap a graha to see what it influences",
+  "@tapGraha": {
+    "description": "Tap a graha to see what it influences"
+  },
+  "tapGrahaSub": "Its aspects are drawn onto the houses it reaches.",
+  "@tapGrahaSub": {
+    "description": "Its aspects are drawn onto the houses it reaches."
+  },
+  "influencesHouses": "It influences {count} houses",
+  "@influencesHouses": {
+    "description": "It influences {count} houses",
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "whyColour": "Why this colour?",
+  "@whyColour": {
+    "description": "Why this colour?"
+  },
+  "advancedTitle": "Exact positions and the Western wheel",
+  "@advancedTitle": {
+    "description": "Exact positions and the Western wheel"
+  },
+  "advancedSub": "Degrees, nakshatras, dignities and aspects",
+  "@advancedSub": {
+    "description": "Degrees, nakshatras, dignities and aspects"
+  },
+  "colGraha": "Graha",
+  "@colGraha": {
+    "description": "Graha"
+  },
+  "colSidereal": "Sidereal",
+  "@colSidereal": {
+    "description": "Sidereal"
+  },
+  "colHouse": "House",
+  "@colHouse": {
+    "description": "House"
+  },
+  "colNakshatra": "Nakshatra",
+  "@colNakshatra": {
+    "description": "Nakshatra"
+  },
+  "colDignity": "Dignity",
+  "@colDignity": {
+    "description": "Dignity"
+  },
+  "westernWheelTitle": "Western wheel (tropical)",
+  "@westernWheelTitle": {
+    "description": "Western wheel (tropical)"
+  },
+  "houseNumber": "House {number}",
+  "@houseNumber": {
+    "description": "House {number}",
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "sheetSign": "Sign",
+  "@sheetSign": {
+    "description": "Sign"
+  },
+  "sheetRuledBy": "Ruled by",
+  "@sheetRuledBy": {
+    "description": "Ruled by"
+  },
+  "sheetRulerIn": "{lord}, sitting in house {house}",
+  "@sheetRulerIn": {
+    "description": "{lord}, sitting in house {house}",
+    "placeholders": {
+      "lord": {
+        "type": "String"
+      },
+      "house": {
+        "type": "String"
+      }
+    }
+  },
+  "sheetGrahasHere": "Grahas here",
+  "@sheetGrahasHere": {
+    "description": "Grahas here"
+  },
+  "sheetNoGrahas": "None — the result runs through its ruler, which is normal",
+  "@sheetNoGrahas": {
+    "description": "None — the result runs through its ruler, which is normal"
+  },
+  "sheetInfluencedBy": "Influenced by",
+  "@sheetInfluencedBy": {
+    "description": "Influenced by"
+  },
+  "sheetPointCount": "Point count",
+  "@sheetPointCount": {
+    "description": "Point count"
+  },
+  "sheetPointValue": "{count} of 56, against an average of 28",
+  "@sheetPointValue": {
+    "description": "{count} of 56, against an average of 28",
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "sheetTopics": "Classical topics",
+  "@sheetTopics": {
+    "description": "Classical topics"
+  },
+  "whatHelps": "What helps here",
+  "@whatHelps": {
+    "description": "What helps here"
+  },
+  "whatPresses": "What presses on it",
+  "@whatPresses": {
+    "description": "What presses on it"
+  },
+  "houseSheetNote": "A house reading is a guide to where the chart helps, not a prediction. Pressure has a cause and a remedy; it is never a verdict on how your life turns out.",
+  "@houseSheetNote": {
+    "description": "A house reading is a guide to where the chart helps, not a prediction. Pressure has a c..."
+  },
+  "twelveAreas": "The twelve areas of your life",
+  "@twelveAreas": {
+    "description": "The twelve areas of your life"
+  },
+  "twelveAreasSub": "Tap any one to see exactly what shapes it.",
+  "@twelveAreasSub": {
+    "description": "Tap any one to see exactly what shapes it."
+  },
+  "readingsInFull": "Readings in full",
+  "@readingsInFull": {
+    "description": "Readings in full"
+  },
+  "readingsInFullSub": "The same chart, in the classical language.",
+  "@readingsInFullSub": {
+    "description": "The same chart, in the classical language."
+  },
+  "lifeNoTimeNote": "The twelve houses need a birth time. Without one, PocketAstro withholds them rather than showing something that looks precise and is not.",
+  "@lifeNoTimeNote": {
+    "description": "The twelve houses need a birth time. Without one, PocketAstro withholds them rather tha..."
+  },
+  "lifeInPeriods": "Your life in periods",
+  "@lifeInPeriods": {
+    "description": "Your life in periods"
+  },
+  "lifeInPeriodsSub": "The Vimshottari cycle, measured from your Moon.",
+  "@lifeInPeriodsSub": {
+    "description": "The Vimshottari cycle, measured from your Moon."
+  },
+  "insidePeriod": "Inside the {lord} period",
+  "@insidePeriod": {
+    "description": "Inside the {lord} period",
+    "placeholders": {
+      "lord": {
+        "type": "String"
+      }
+    }
+  },
+  "insidePeriodSub": "Sub-periods narrow a chapter to a few months.",
+  "@insidePeriodSub": {
+    "description": "Sub-periods narrow a chapter to a few months."
+  },
+  "nextTwoYears": "What the next two years look like",
+  "@nextTwoYears": {
+    "description": "What the next two years look like"
+  },
+  "nextTwoYearsSub": "Windows where two techniques agree.",
+  "@nextTwoYearsSub": {
+    "description": "Windows where two techniques agree."
+  },
+  "nextTwoYearsNone": "Nothing stands out. That is a normal result.",
+  "@nextTwoYearsNone": {
+    "description": "Nothing stands out. That is a normal result."
+  },
+  "noWindowNote": "No standout window in the next twenty-four months. This does not mean nothing happens — it means no two techniques line up strongly enough for PocketAstro to call one.",
+  "@noWindowNote": {
+    "description": "No standout window in the next twenty-four months. This does not mean nothing happens —..."
+  },
+  "whereThingsStand": "Where things stand now",
+  "@whereThingsStand": {
+    "description": "Where things stand now"
+  },
+  "nowLabel": "now",
+  "@nowLabel": {
+    "description": "now"
+  },
+  "confidenceFootnote": "Confidence {value} of a possible 75.",
+  "@confidenceFootnote": {
+    "description": "Confidence {value} of a possible 75.",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "askHint": "Ask anything about this chart…",
+  "@askHint": {
+    "description": "Ask anything about this chart…"
+  },
+  "askAction": "Ask",
+  "@askAction": {
+    "description": "Ask"
+  },
+  "readingYourChart": "Reading your chart",
+  "@readingYourChart": {
+    "description": "Reading your chart"
+  },
+  "howWorkedOut": "How this was worked out ({count} steps)",
+  "@howWorkedOut": {
+    "description": "How this was worked out ({count} steps)",
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "hideSteps": "Hide the steps",
+  "@hideSteps": {
+    "description": "Hide the steps"
+  },
+  "readFullAnswer": "Read the full answer",
+  "@readFullAnswer": {
+    "description": "Read the full answer"
+  },
+  "askEmptyNote": "Ask in your own words, or tap one of the suggestions above. You will see each step of the reading as it happens, and which of the source books each rule came from.",
+  "@askEmptyNote": {
+    "description": "Ask in your own words, or tap one of the suggestions above. You will see each step of t..."
+  },
+  "askFootnote": "Two techniques must agree before anything is called likely. This method never claims more than 75 out of 100.",
+  "@askFootnote": {
+    "description": "Two techniques must agree before anything is called likely. This method never claims mo..."
+  },
+  "twoChartsNeeded": "Two charts needed",
+  "@twoChartsNeeded": {
+    "description": "Two charts needed"
+  },
+  "twoChartsNeededSub": "Add both people right here, or pick from charts you have already saved.",
+  "@twoChartsNeededSub": {
+    "description": "twoChartsNeededSub"
+  },
+  "firstPerson": "First person",
+  "@firstPerson": {
+    "description": "First person"
+  },
+  "secondPerson": "Second person",
+  "@secondPerson": {
+    "description": "Second person"
+  },
+  "choosePerson": "Choose",
+  "@choosePerson": {
+    "description": "Choose"
+  },
+  "matchAddNew": "Add a new chart",
+  "@matchAddNew": {
+    "description": "Add a new chart"
+  },
+  "matchChooseSaved": "Choose a saved chart",
+  "@matchChooseSaved": {
+    "description": "Choose a saved chart"
+  },
+  "matchNoSaved": "No charts saved yet.",
+  "@matchNoSaved": {
+    "description": "No charts saved yet."
+  },
+  "matchSavedNote": "Anyone you add here is saved to your charts too.",
+  "@matchSavedNote": {
+    "description": "Anyone you add here is saved to your charts too."
+  },
+  "matchClear": "Remove",
+  "@matchClear": {
+    "description": "Remove"
+  },
+  "saveAndCompare": "Save and compare",
+  "@saveAndCompare": {
+    "description": "Save and compare"
+  },
+  "swap": "Swap",
+  "@swap": {
+    "description": "Swap"
+  },
+  "pickTwoNote": "Pick two different people to compare. Everything is computed on this device.",
+  "@pickTwoNote": {
+    "description": "Pick two different people to compare. Everything is computed on this device."
+  },
+  "outOfMax": "of {max}",
+  "@outOfMax": {
+    "description": "of {max}",
+    "placeholders": {
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "traditionallyBand": "Traditionally {band}",
+  "@traditionallyBand": {
+    "description": "Traditionally {band}",
+    "placeholders": {
+      "band": {
+        "type": "String"
+      }
+    }
+  },
+  "pairTitle": "{first} and {second}",
+  "@pairTitle": {
+    "description": "{first} and {second}",
+    "placeholders": {
+      "first": {
+        "type": "String"
+      },
+      "second": {
+        "type": "String"
+      }
+    }
+  },
+  "eightParameters": "The eight parameters",
+  "@eightParameters": {
+    "description": "The eight parameters"
+  },
+  "eightParametersSub": "What each one weighs, and how these two scored.",
+  "@eightParametersSub": {
+    "description": "What each one weighs, and how these two scored."
+  },
+  "whatChartSaid": "What the chart said",
+  "@whatChartSaid": {
+    "description": "What the chart said"
+  },
+  "beyondScore": "Beyond the score",
+  "@beyondScore": {
+    "description": "Beyond the score"
+  },
+  "beyondScoreSub": "What the two whole charts say about each other.",
+  "@beyondScoreSub": {
+    "description": "What the two whole charts say about each other."
+  },
+  "matchNote": "A score describes classical parameters, not two people. A living, consensual relationship outranks any number on this screen, and PocketAstro will never tell you to leave someone or predict harm to a partner.",
+  "@matchNote": {
+    "description": "A score describes classical parameters, not two people. A living, consensual relationsh..."
+  },
+  "saveComparison": "Save this comparison as a PDF",
+  "@saveComparison": {
+    "description": "Save this comparison as a PDF"
+  },
+  "manglikTitle": "Manglik (Kuja dosha)",
+  "@manglikTitle": {
+    "description": "Manglik (Kuja dosha)"
+  },
+  "manglikNone": "Neither chart carries Kuja dosha, so this parameter does not apply here.",
+  "@manglikNone": {
+    "description": "Neither chart carries Kuja dosha, so this parameter does not apply here."
+  },
+  "manglikBoth": "Both charts carry it, which classically cancels it. This is the commonest resolution, and it is a clean one.",
+  "@manglikBoth": {
+    "description": "Both charts carry it, which classically cancels it. This is the commonest resolution, a..."
+  },
+  "manglikOne": "{name}’s chart carries Kuja dosha. It describes someone who brings a lot of force into intimacy — a compatibility setting, not a defect, and one that is cancelled more often than not.",
+  "@manglikOne": {
+    "description": "{name}’s chart carries Kuja dosha. It describes someone who brings a lot of force into ...",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "manglikBadgeNone": "Does not apply",
+  "@manglikBadgeNone": {
+    "description": "Does not apply"
+  },
+  "manglikBadgeCancelled": "Cancelled",
+  "@manglikBadgeCancelled": {
+    "description": "Cancelled"
+  },
+  "manglikBadgeOne": "One chart",
+  "@manglikBadgeOne": {
+    "description": "One chart"
+  },
+  "manglikCancellations": "Classical ways this is cancelled:",
+  "@manglikCancellations": {
+    "description": "Classical ways this is cancelled:"
+  },
+  "howCancelled": "How it is cancelled",
+  "@howCancelled": {
+    "description": "How it is cancelled"
+  },
+  "manglikFootnote": "PocketAstro will never use Manglik to predict harm to a partner, and will never tell you a marriage will fail.",
+  "@manglikFootnote": {
+    "description": "PocketAstro will never use Manglik to predict harm to a partner, and will never tell yo..."
+  },
+  "whyThis": "Why this?",
+  "@whyThis": {
+    "description": "Why this?"
+  },
+  "hideDetail": "Hide detail",
+  "@hideDetail": {
+    "description": "Hide detail"
+  },
+  "confidenceSemantic": "Confidence {value} out of 75, the highest this method allows",
+  "@confidenceSemantic": {
+    "description": "Confidence {value} out of 75, the highest this method allows",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "legendBenefic": "Helpful graha",
+  "@legendBenefic": {
+    "description": "Helpful graha"
+  },
+  "legendMalefic": "Demanding graha",
+  "@legendMalefic": {
+    "description": "Demanding graha"
+  },
+  "legendSupported": "Supported area",
+  "@legendSupported": {
+    "description": "Supported area"
+  },
+  "legendSteady": "Steady area",
+  "@legendSteady": {
+    "description": "Steady area"
+  },
+  "legendStrained": "Area under pressure",
+  "@legendStrained": {
+    "description": "Area under pressure"
+  },
+  "helpfulHere": "Helpful here",
+  "@helpfulHere": {
+    "description": "Helpful here"
+  },
+  "demandingHere": "Demanding here",
+  "@demandingHere": {
+    "description": "Demanding here"
+  }
+}

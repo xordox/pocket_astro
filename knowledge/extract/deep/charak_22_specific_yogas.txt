@@ -1,0 +1,718 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 335-350
+# compiled into: yogas.json (mahapurusha, chandra, ravi, misc)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 335>>>
+
+...XXII...
+Specific and Miscellaneous Yogas
+But you cannot see Me with this (human) eye
+ of yours;
+Ibestow on you the supernatural eye. Behold My divine yoga.
+Gita XI/8
+The Nabhasa yogas, and the yogas
+ dependant upon the ownership of
+houses by the planets, have been described
+already. Besides these there are
+numerous other yogas mentioned in the
+ classical texts, by authors from
+Parashara downwards, which deserve special
+mention. As usual, these yogas
+are also specific planetary dispositions which
+usually, though not invariably,
+involve two or more planets to effect their
+ formation. They give their
+specific results which are subject to modifications
+ depending upon such
+conditions as:
+(a) The nature of planets forming a particular yoga.
+(b) Ownership of houses by the planets constituting the
+yoga.
+(c) The house or houses occupied by the yoga-forming
+planets.
+(d) Strength of the constituents of a yoga.
+(e) Modifications as are appropriate to the ancient dicta,
+keeping in view the
+modern context.
+Since there is no limit to the number of yogas mentioned in
+the classical
+texts, only some important ones will be mentioned here. For a
+ similar
+reason, it is also not easy to classify them though a crude attempt is
+being
+made to group them into some categories. There is some overlap amongst
+the categories; for example, the Gajekesari yoga, involving the Moon, has
+
+<<<PAGE 336>>>
+been
+described under a category separate from that concerned with the yogas
+associated with the Moon.
+We now proceed to discuss some of these miscellaneous
+yogas.
+I. Pancha-Mahapurusha Yogas
+They are not yogas in the strictest sense since they depend
+only on one
+planet. They are thus single-planet ‘combinations’. Five different
+ yogas
+arise, based on the strength and location of the five planets, viz.,
+ Mars,
+Mercury, Jupiter, Venus and Saturn, in a horoscope. These five yogas are:
+1. Ruchaka yoga: Formed when Mars, exalted or in its
+own house, is located
+in a kendra from the lagna.
+2. Bhadra yoga: When Mercury, exalted or in its own
+house, is located in a
+kendra.
+3. Hamsa yoga: When Jupiter, exalted or in its own
+house, is located in a
+kendra.
+4. Malavya yoga: When Venus, exalted or in its own
+house, is located in a
+kendra.
+5. Shasha yoga: When Saturn, exalted or in its own
+house, is located in a
+kendra.
+1. Ruchaka yoga
+The native born under this yoga is bold and courageous, good
+looking,
+having a prominent face, full of strength and vigour, dark haired,
+ with
+beautiful eyebrows, eager for battle, cruel, annihilator of opponents,
+kingly,
+discriminating, with slim lower limbs, versed in the sacred hymns as
+well as
+magic spells, commander of an army or a leader of a gang of thieves. He
+is
+keen on all adventurous pursuits, suffers scars (or death) from fire and
+weapons,
+and lives happily to an age of seventy years.
+2. Bhadra yoga
+This yoga brings forth a native with the face of a tiger,
+the majestic gait
+of an elephant, large chest and shoulders, a commanding
+stature, skilled in
+the technique of ‘yoga’, very learned, intelligent, of
+ beautiful body parts,
+dark haired, sensuous, of a ‘Sattvika’ nature, knower of
+the sacred scriptures,
+
+<<<PAGE 337>>>
+blessed with friends wife, children and physical
+ comforts, enjoying high
+status, and lives to an age of eighty years.
+3. Hamsa yoga
+One born under this yoga is fair-complexioned, with the
+voice like that of
+a swan. He has beautiful limbs and face, a phlegmatic
+(‘Kapha’) disposition,
+fondness for water sports, a thirst for the knowledge of
+sacred scriptures, a
+virtuous nature, an intense sexual urge, and comforts of
+ all sorts at his
+disposal. He is blessed with a beautiful wife, a lovely
+ physical form, and
+lives to a ripe age of a hundred years.
+4. Malavya yoga
+One born under Malavya yoga has a graceful appearance, slim
+ waist,
+handsome body, beautiful lips, long arms, deep voice and sparkling
+teeth. He
+is blessed with children, wife, wealth and physical comforts,
+ indulges in
+extra-marital relationships, is well versed in sacred scriptures
+and attains an
+age of seventy years.
+5. Shasha yoga
+This yoga confers on the native a cruel nature, leadership
+over an army, a
+group or a village, acquisition of wealth, courage and valour.
+ He is
+competent, learned and finds fault in others. He roams around in jungles,
+mountains, forts and other odd places. He takes to metallurgy, acquires the
+wealth and women of others and is devoted to his mother. Of medium height
+and
+slim waist, he lives upto an age of seventy years.
+Note:
+(a) The
+ Pancha-Mahapurusha yogas indicate five different natives
+depending upon the predominent
+influence of each of the five planets,
+from Mars to Saturn. Mars signifies
+ strength and aggression; Mercury
+signifies learning and intelligence; Jupiter
+signifies oratory and wisdom;
+Venus stands for grace and pleasures; Saturn
+indicates mass appeal.
+(b) The
+Pancha-Mahapurusha yogas yield results only when the Sun and
+the Moon are also
+ strong. Else, they produce ordinarily good results
+during their relevant
+dashas.
+(c) The disposition
+of the yoga-causing planets must also be seen in the
+divisional charts to
+ assess the extent to which the results indicated by
+
+<<<PAGE 338>>>
+yoga would fructify.
+II. The Chandra Yogas
+Yogas arising primarily from the Moon, the Lunar yogas, are
+as follows:
+1. Sunapha Yoga
+When the second house from the Moon is occupied by a planet,
+other
+than the Sun, the Sunapha yoga arises. This yoga bestows upon the native
+status, huge wealth, capacity to earn his fortune, religious inclination,
+virtuous pursuits and a quiet nature.
+Note: The exact nature of this yoga will depend upon the
+nature of planet
+or planets causing this yoga. Several varieties of this yoga
+ thus arise
+depending upon which planet occupies the second house from the Moon,
+and
+whether it is a single occupant or has other associates.
+2. Anapha Yoga
+This arises when there is a planet, other than the Sun,
+ occupying the
+twelfth house from the Moon. This yoga makes a native healthy,
+amiable,
+famous and renowned, an orator, virtuous, capable, wealthy, given to
+varied
+comforts, and happy.
+Note: Whereas the stress in the Sunapha yoga is on
+accumulation and
+possession, in the Anapha yoga it is on spending and
+enjoyment. As in the
+case of Sunapha yoga, there are numerous varieties of the
+Anapha yoga also,
+depending upon the nature and the number of the occupants of
+the twelfth
+house from the Moon.
+3. Durudhara Yoga
+Presence of planets in both the second and the twelfth from
+the Moon
+causes this yoga. Here again, the Sun is not to be considered. One
+born in
+this yoga earns renown through good speech, learning, valour and
+ virtue.
+This yoga confers upon the native wealth, vehicles, servants, physical
+comforts and freedom from enemies.
+Note:
+(a) In Durudhara
+yoga, the stress is both on possession and enjoyment.
+When a Durudhara is
+formed by benefics, it is very auspicious. When
+
+<<<PAGE 339>>>
+malefics form this yoga, it has
+a constricting influence on the Moon and
+yields adverse results.
+(b) The same
+principles can be extended to medical astrology also. When
+benefics surround
+the lagna or the lagna lord, they prove good for health.
+When malefics do so,
+they produce adverse results.
+(c) The strength of
+these yogas depends upon the strength of the Moon.
+4. Kemadruma Yoga
+When the second and the twelfth houses from the Moon are
+unoccupied,
+it leads to the adverse Kemadruma yoga. The presence of the Sun in
+these
+houses does not make any difference.
+When the Kemadruma yoga exists in any chart, the native is
+bereft of
+wife, progeny, learning and mental peace. He suffers misery, penury,
+physical illness and humiliation. A Kemadruma yoga destroys the benefic
+effects
+of Raja yogas.
+Cancellation of the Kemadruma
+A Kemadruma is said to attain
+ cancellation under the following
+circumstances:
+(a) Presence of
+planets in kendras from the lagna.
+(b) Presence of
+planets in kendras from the Moon.
+(c) All planets
+aspecting the Moon.
+(d) Strong Moon in
+ a kendra aspected by or associated with benefics
+(Mercury, Jupiter or Venus).
+Note: The Moon
+needs a support on either side; else it proves adverse.
+5. Adhi Yoga
+This yoga is produced by the occupation of the sixth,
+seventh and eighth
+houses from the Moon by benefics (Mercury, Jupiter and
+Venus). This gives
+rise to high status, the command of an army, kingship and
+ governmental
+recognition. This yoga further ensures good health, long life and
+prosperity.
+Note: This yoga demands that the three benefics must occupy
+the three
+houses (6, 7 and 8) from the Moon jointly or singly (in whatever
+combination!). The presence of malefics in these houses spoils this yoga.
+
+<<<PAGE 340>>>
+6. Dhana yoga from the Moon
+All the three benefics occupying Upachaya houses (i.e.,
+houses 3, 6, 10
+or 11) from the Moon produce a very wealthy individual; two of
+the benefics
+placed in such houses give medium wealth, and only one benefic
+planet in
+any of these houses from the Moon ensures only ordinary wealth.
+Note:
+(a) Upachaya houses
+are houses of expansion.
+(b) Depending upon
+ the location of the Moon being in a kendra or a
+panaphara or an apoklima house
+as reckoned from the Sun, the wealth
+and learning of the individual is
+ordinary, medium or plenteous.
+(c) The results
+indicated by the Chandra yogas take precedence over the
+results indicated by
+other yogas.
+III. The Ravi Yogas
+Yogas arising from the Sun, the Solar yogas, are as
+follows:
+1. Veshi Yoga
+Caused by the occupation of the second house from the Sun by
+a planet
+other than the Moon. Such a native is truthful, lazy, having a long
+stature and
+a balanced outlook, and has only ordinary wealth. When benefics
+cause this
+yoga, the native is eloquent and wealthy. When malefics cause it,
+the native
+is destitute and associates with wicked people.
+2. Voshi Yoga
+Caused by the occupation of the twelfth house from the Sun
+by a planet
+other than the Moon. This yoga bestows upon the native good
+ learning,
+eloquence, charitable nature, sharp memory and generally virtuous
+disposition. When benefics cause this yoga, the native is intelligent, learned,
+strong, wealthy and engaged in scientific pursuits. Malefics causing this
+yoga
+lead to cruel nature, ugly looks, lack of intelligence and excessive lust.
+3. Ubhayachari Yoga
+Caused by planets other than the Moon occupying the second
+ and the
+twelfth houses from the Sun. This produces a native with strong
+physique,
+capability to shoulder great responsibility, learning, good looks,
+wealth, and
+
+<<<PAGE 341>>>
+numerous objects of pleasure. When malefics cause this yoga, the
+native is
+destitute, servile and ailing.
+Note: No adverse yoga results if the Sun is not associated
+with a planet
+on either side of it.
+IV. Diverse Yogas
+Some of the very important yogas are included in this
+section. They are
+being briefly described below in a random order.
+1. Gaja-Kesari Yoga
+This yoga is produced when Jupiter occupies a kendra
+from the Moon. One
+born in this yoga is wealthy, famous, learned, virtuous and
+honoured by the
+king.
+Note:
+(a)This is an important yoga. It occurs frequently in
+ horoscopes and,
+therefore, must be studied judiciously.
+(b)The yoga fructifies only if Jupiter is not combust,
+and is associated with
+or aspected by benefics. The Moon too should not be
+combust or debilitated,
+and must be under benefic influence.
+(c)The exact nature of the yoga, and the extent to
+which it yields results, will
+depend upon such factors as:
+(i) Exaltation or
+debilitation, i.e., strength or weakness, of both Jupiter
+and the Moon;
+(ii) Placement of
+Jupiter in the first, fourth, seventh or tenth house from
+the Moon;
+(iii) The houses
+occupied by Jupiter and the Moon, when reckoned from
+the lagna;
+(iv) The signs or
+rashis in which the two planets are located;
+(v) Concurrent
+planetary influences on either or both of them;
+(vi) The dasha
+pattern.
+(d)A strong Gaja-Kesari yoga leads to lasting fame.
+
+<<<PAGE 342>>>
+Chart XXII-1 shows an exalted Jupiter in the tenth house
+from the Moon,
+producing a powerful Gaja-Kesari yoga. There are several planets
+ in the
+twelfth house from the Moon producing an Anapha yoga. Accumulation of
+planets in the eighth house has its own special meaning as this house gains
+prominence in the horoscope. Of course, it is important to go into
+consideration of the vargas for finer analysis. The chart belongs to a
+prominent cinema artiste who dominated the screen world for several years
+in
+the recent past.
+It will be appreciated that the best Gaja-kesari can occur
+ only if the
+Moon and Jupiter occupy Karka, which is the own house for the Moon
+and
+the exaltation sign for Jupiter. It cannot form with both planets exalted
+or
+both in their own houses.
+2. Amalaa (or Amala-Kirti) Yoga
+This yoga is said to exist when a natural benefic occupies
+the tenth house
+from the lagna or the Moon. Such a person is revered by the
+ruler, enjoys
+physical pleasures, is charitably disposed, likeable and helpful.
+Note: The tenth house is an extremely important house of the
+horoscope.
+When benefics influence this house, one pursues legitimate and
+honourable
+means of earning, and enjoys fame as a consequence. A strong Amalaa
+yoga
+ensures lasting fame for the native.
+3. Kartari Yogas
+These are of two types:
+(a)Shubha-Kartari, when natural benefics occupy houses
+2 and 12 from the
+lagna. This yoga ensures health, wealth and fame for the
+native.
+
+<<<PAGE 343>>>
+(b)Papa-Kartari, when natural malefics occupy houses 2
+ and 12 from the
+lagna. This yoga leads to criminal tendencies, ill health and
+impure food.
+Note: This yoga is equivalent to the Durudhara yoga which
+forms around
+the Moon. The reader is referred to Chart XXIV-1 where the lagna
+ is
+surrounded by the Sun in the twelfth house, and Mars and Rahu in the
+second
+house. When malefics surround the lagna or the lagna lord, health
+suffers.
+4. Parvata Yoga
+It has two variants:
+(a)The sixth and the eighth houses being vacant, or
+ occupied only by
+benefics, and benefics occupying the kendras; or
+(b)The lord of the lagna and that of the twelfth house
+ placed in mutual
+kendras, and aspected by benefics.
+A native with this yoga in his horoscope is famous, wealthy,
+charitable,
+fortunate, orator, a leader, learned and lustful.
+5. Chaamara Yoga
+This also has two variants:
+(a)Exalted lagna lord placed in a kendra and aspected
+by Jupiter; or
+(b)Two benefics conjoined in the lagna, the seventh
+house, the ninth house
+or the tenth house.
+Such a native is a king or honoured by a king, an
+orator, skillful, wise, and
+versed in sacred scriptures.
+6. Shankha Yoga
+This again has two variants:
+(a)The fifth lord and the sixth lord are in mutual
+kendras, and the lagna is
+strong; or
+(b)Lords of the lagna and the tenth house occupy Chara
+ rashis (movable
+signs), and the ninth lord is strong.
+A native with either of the above combinations in his
+chart is kind, virtuous,
+learned, long-lived, morally sound, blessed with wife
+ and children, owns
+lands and enjoys prosperity.
+
+<<<PAGE 344>>>
+Note: This yoga confers on the native the authority to
+ discipline or
+punish.
+7. Lakshmi Yoga
+This yoga arises when the lagna lord is strong, and the
+ninth lord is in a
+kendra identical with its own house, Moolatrikona or
+exaltation.
+One born in this yoga is good in looks, virtuous, very
+wealthy, widely
+renowned, honoured by the king, blessed with wives and
+children.
+8. Lagnadhi Yoga
+When benefics occupy houses seven and eight from the lagna,
+bereft of
+malefic association or aspect, this yoga is said to arise. This gives
+rise to a
+native who is learned and comfortable.
+Note: Lagnadhi yoga is an equivalent of the (Chandra) Adhi
+ yoga
+already mentioned. Perhaps here, the sixth house from the lagna must also
+be
+considered for occupation by benefics as in case of the Chandradhi yoga. It
+confers on the native virtue, high status, learning and capability of
+compilation or writing.
+9. Maha-Bhagya Yoga
+The formation of this yoga involves the following:
+A.In the horoscope of a male:
+(a) Birth during
+daytime;
+(b) Odd sign rising
+in the lagna;
+(c) The Sun in an
+odd sign;
+(d) The Moon also
+in an odd sign.
+B.In the horoscope of a female:
+(a) Birth during
+night time;
+(b) Even sign
+rising in the lagna;
+(c) The Sun in an
+even sign;
+(d) The Moon also
+in an even sign.
+One born in Maha-Bhagya yoga is pleasant to look at,
+liberal, renowned,
+of good character, owner of lands and equivalent to a king.
+Women having
+
+<<<PAGE 345>>>
+this yoga in their chart are blessed with all feminine qualities
+and virtues,
+good fortune, good character and lots of wealth.
+Note: Odd signs are masculine signs and even signs are
+feminine signs. It
+is desirable to have the lagna, the Moon and the Sun in odd
+ signs in the
+horoscopes of males, and in even signs in the horoscope of
+females.
+Chart XXII-2 belongs to the late Indian Prime Minister, Mr.
+ Morarji
+Desai. The lagna, the Sun and the Moon are all situated in odd or
+masculine
+signs. Even the Navamsha lagna (Dhanu in this case) happens to be
+odd. The
+birth occurred during daytime. There is a Vipreeta Raja yoga occurring
+in
+the eighth house.
+Mrs. Indira Gandhi, another late Prime Minister of India,
+has her birth
+occurring at night time, and the lagna, the Moon and the Sun all
+falling in
+even signs (Chart XXII-3). Even the Navamsha lagna (Meena) falls in
+an
+even sign.
+The chart is characterised by three sets of exchanges:
+
+<<<PAGE 346>>>
+(a) Between the
+lagna lord and the seventh lord;
+(b) Between the
+second lord and the fifth lord; and
+(c) Between the
+sixth lord and the eleventh lord.
+A Maha-Bhagya yoga is a highly fortunate combination.
+10. Vipareeta Raja Yoga
+This yoga has been discussed in the preceding chapter. It
+arises from the
+lords of the sixth or the eighth or the twelfth houses
+occupying one of these
+houses (other than their own).
+11. Chandra Mangala Yoga
+This too finds mention in the previous chapter. It is a
+combination for
+financial prosperity.
+12. Shakata Yoga
+This results when Jupiter, located in a house other than a
+ kendra,
+occupies the sixth, the eighth or the twelfth from the Moon. This yoga
+produces a native who is destitute, ever toiling, disliked by all, with ever
+fluctuating fortunes.
+Note:
+(a) Jupiter and the
+Moon in mutually adverse (six/eight or two/twelve)
+relationship are not
+ supposed to augur well for the native. It must,
+however, be realised that
+Jupiter’s location in the 6th, the 7th or the 8th
+house from the Moon is also a
+constituent of the Chandradhi yoga. This
+placement, thus, cannot be considered
+adverse in all circumstances.
+(b) Another
+important aspect to be considered is whether the Moon and
+Jupiter are strong or
+weak. In Chart XXII-4, Jupiter is located in the sixth
+house from the Moon,
+thus producing a typical Shakata yoga. However,
+both the planets occupy their
+ own houses, and Jupiter additionally
+happens to be in its Moolatrikona sign.
+The lagna is strong because of the
+placement of the lagna lord in the lagna
+itself. This chart belongs to Mr
+Jawaharlal Nehru, the first Prime Minister of
+India.
+
+<<<PAGE 347>>>
+13. Chatussaagara yoga
+This combination arises when:
+(a) All planets
+occupy the four kendras; or
+(b) All planets
+occupy the Chara rashis (i.e., signs 1, 4, 7 and 10).
+This yoga destroys numerous Arishta yogas and ensures
+ wealth and high
+status to the native.
+Note: According to one view, this yoga is said to exist when
+ all four
+kendras are occupied. See the horoscope of Lord Rama, Chart XXII-5, in
+this connection. Four planets are exalted and one is located in its own house.
+A strong Gaja-Kesari yoga is obtained in the lagna while three
+ Pancha-
+Mahapurusha yogas, involving the lagna., the fourth house and the
+seventh
+house are also there. All four kendras are occupied by planets. The
+kendras
+are the pillars of a horoscope and their occupation bestows immense
+strength
+upon them. A malefic in the fourth house deprived lord Rama of
+comforts at
+home; another malefic in the seventh house led to separation from
+wife.
+
+<<<PAGE 348>>>
+14. Daridra Yoga
+A special Daridra yoga has been described to obtain when the
+ seven
+planets from the Sun to Saturn are placed in contiguous houses in such a
+manner that a planet next in natural order is placed in the preceding house.
+In
+other words, Venus is placed in the second house from Saturn, Jupiter in
+the
+ second from Venus, Mercury in the second from Jupiter, Mars in the
+second from
+Mercury, the Moon in the second from Mars, and the Sun in the
+second from the
+ Moon. This yoga is said to cause extreme penury and
+destitution.
+Note: It will be appreciated that such a yoga cannot exist
+in the Rashi
+chart. It is perhaps intended to be examined in the Navamsha
+chart. Classical
+writers have given us certain peculiar combinations without
+giving any hints
+about their application. A great field exists for a serious
+ researcher of
+astrology.
+15. Hatha-Hantaa Yoga
+This yoga arises when the Moon is located in the eleventh
+house and the
+Sun in the Moon’s sign (Karka). The native with this yoga in the
+horoscope
+suffers humiliation (or death!) as a consequence of some stupid
+action of his.
+16. Neecha-Bhanga Raja Yoga
+This yoga indicates cancellation of debilitation of a
+planet. Cancellation
+of debilitation is supposed to produce benefic results or
+give rise to a Raja
+yoga.
+A planet achieves Neecha-Bhanga when:
+(a) The lord of the
+ house where a planet is debilitated (i.e., the
+debilitation lord of the planet)
+is in a kendra from the lagna or the Moon.
+(b) The exaltation
+lord of the debilitated planet is in a kendra from the
+lagna or the Moon.
+(c) The debilitated
+planet is associated with or aspected by its debilitation
+lord.
+(d) The debilitated
+planet is associated with or aspected by its exaltation
+lord.
+(e) The debilitated
+planet exchanges houses with its debilitation lord.
+
+<<<PAGE 349>>>
+(f) Two debilitated
+planets aspect each other.
+Note: Neecha planets, because of their inherent weakness,
+generally give
+adverse results during their dashas. When a Neecha-Bhanga yoga
+is present,
+the debilitation yields place to a benefic situation.
+Chart XX-3 (see Nabhasa yogas) shows two planets, Mars and
+Jupiter,
+debilitated in the lagna and the seventh house. A typical
+ Neecha-Bhanga
+obtains here as Mars recieves the aspect of its Uchcha-naatha
+ (lord of
+exaltation sign) and Jupiter associates with its Uchcha-naatha, the
+Moon, as
+well as its Neecha-naatha (lord of debilitation sign) Saturn.
+V. Pravrajya Yogas
+These yogas, also known as Sanyasa yogas, lead to a
+ renunciation or
+giving up of worldly attachments. There are several
+ combinations which
+lead to detachment from woldly things. Some of these are
+being mentioned
+here.
+1.      When the
+lord of the tenth house associates with four planets in a
+kendra or in a
+trikona, the native achieves emancipation after death.
+Note: It is desirable that such a combination does not occur
+in adverse
+houses, and no planet participating in this yoga formation should be
+combust. Else it leads to a fall from the state of final emancipation, the
+Yoga-Bhrashta of the Gita.
+Chart XXII-6 belongs to Acharya Rajneesh. Five planets,
+including the
+lord of the tenth house, are posited together. But the
+combination occurs in
+the eighth house of interruptions, obstacles, intrigues
+and uncertainties. If the
+Gita is to be believed, such a native must return with
+ considerable yogic
+merit in his karmic balance.
+
+<<<PAGE 350>>>
+2.      The Moon in
+the Drekkana of Saturn aspected by Mars and Saturn,
+or in the Navamsha of Mars
+aspected by Saturn.
+3.      Lord of the
+Moon sign aspected by Saturn alone and by no other
+planet.
+4.      Lord of the
+Moon sign aspected by the remaining planets situated
+together in one house.
+5.      Jupiter
+occupying the ninth house, and the lagna, the Moon and
+Jupiter all aspected by
+Saturn: Such a native attains recognition because
+of founding a system of
+philosophy.

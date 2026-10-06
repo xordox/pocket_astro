@@ -1,0 +1,531 @@
+{
+  "file": "_OceanofPDF.com_The_Astrology_of_Success_-_Jan_Spiller.pdf",
+  "size_bytes": 4955835,
+  "error": null,
+  "pages": 150,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Title Page",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "Copyright",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "About The Author",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "Also By Jan Spiller",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "Contents",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "Preface",
+      "page": 12
+    },
+    {
+      "level": 1,
+      "title": "Introduction",
+      "page": 14
+    },
+    {
+      "level": 1,
+      "title": "The Basic Formula",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "EXAMPLE CHARTS",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": "ELEMENTS",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "ASPECTS",
+      "page": 22
+    },
+    {
+      "level": 2,
+      "title": "DEFINITION OF ASTROLOGICAL TERMS",
+      "page": 25
+    },
+    {
+      "level": 1,
+      "title": "How To Use This Book",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "FINDING YOUR MIDHEAVEN (MC):",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "FINDING THE HOUSE CONTAINING YOUR 10TH HOUSE RULER:",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "FINDING PLANETS LOCATED IN YOUR 10th HOUSE:",
+      "page": 30
+    },
+    {
+      "level": 2,
+      "title": "FINDING THE HOUSES RULED BY YOUR 10th HOUSE PLANETS:",
+      "page": 31
+    },
+    {
+      "level": 2,
+      "title": "EXAMPLE CHARTS:",
+      "page": 33
+    },
+    {
+      "level": 1,
+      "title": "CHAPTER 1: KEY TO SUCCESS",
+      "page": 35
+    },
+    {
+      "level": 2,
+      "title": "ARIES MIDHEAVEN PEOPLE",
+      "page": 35
+    },
+    {
+      "level": 2,
+      "title": "TAURUS MIDHEAVEN PEOPLE",
+      "page": 40
+    },
+    {
+      "level": 2,
+      "title": "GEMINI MIDHEAVEN PEOPLE",
+      "page": 44
+    },
+    {
+      "level": 2,
+      "title": "CANCER MIDHEAVEN PEOPLE",
+      "page": 48
+    },
+    {
+      "level": 2,
+      "title": "LEO MIDHEAVEN PEOPLE",
+      "page": 52
+    },
+    {
+      "level": 2,
+      "title": "VIRGO MIDHEAVEN PEOPLE",
+      "page": 55
+    },
+    {
+      "level": 2,
+      "title": "LIBRA MIDHEAVEN PEOPLE",
+      "page": 59
+    },
+    {
+      "level": 2,
+      "title": "SCORPIO MIDHEAVEN PEOPLE",
+      "page": 64
+    },
+    {
+      "level": 2,
+      "title": "SAGITTARIUS MIDHEAVEN PEOPLE",
+      "page": 67
+    },
+    {
+      "level": 2,
+      "title": "CAPRICORN MIDHEAVEN PEOPLE",
+      "page": 71
+    },
+    {
+      "level": 2,
+      "title": "AQUARIUS MIDHEAVEN PEOPLE",
+      "page": 75
+    },
+    {
+      "level": 2,
+      "title": "PISCES MIDHEAVEN PEOPLE",
+      "page": 80
+    },
+    {
+      "level": 1,
+      "title": "CHAPTER 2: RESOURCES FOR PURSUING GOALS",
+      "page": 84
+    },
+    {
+      "level": 2,
+      "title": "1ST HOUSE",
+      "page": 84
+    },
+    {
+      "level": 2,
+      "title": "2ND HOUSE",
+      "page": 85
+    },
+    {
+      "level": 2,
+      "title": "3RD HOUSE",
+      "page": 87
+    },
+    {
+      "level": 2,
+      "title": "4TH HOUSE",
+      "page": 88
+    },
+    {
+      "level": 2,
+      "title": "5TH HOUSE",
+      "page": 90
+    },
+    {
+      "level": 2,
+      "title": "6TH HOUSE",
+      "page": 91
+    },
+    {
+      "level": 2,
+      "title": "7TH HOUSE",
+      "page": 92
+    },
+    {
+      "level": 2,
+      "title": "8TH HOUSE",
+      "page": 93
+    },
+    {
+      "level": 2,
+      "title": "9TH HOUSE",
+      "page": 95
+    },
+    {
+      "level": 2,
+      "title": "10TH HOUSE",
+      "page": 96
+    },
+    {
+      "level": 2,
+      "title": "11TH HOUSE",
+      "page": 97
+    },
+    {
+      "level": 2,
+      "title": "12TH HOUSE",
+      "page": 98
+    },
+    {
+      "level": 1,
+      "title": "CHAPTER 3: SPECIAL TALENTS",
+      "page": 101
+    },
+    {
+      "level": 2,
+      "title": "THE SUN IN THE 10TH HOUSE",
+      "page": 101
+    },
+    {
+      "level": 2,
+      "title": "THE MOON IN THE 10TH HOUSE",
+      "page": 104
+    },
+    {
+      "level": 2,
+      "title": "MERCURY IN THE 10TH HOUSE",
+      "page": 107
+    },
+    {
+      "level": 2,
+      "title": "VENUS IN THE 10TH HOUSE",
+      "page": 109
+    },
+    {
+      "level": 2,
+      "title": "MARS IN THE 10TH HOUSE",
+      "page": 112
+    },
+    {
+      "level": 2,
+      "title": "JUPITER IN THE 10TH HOUSE",
+      "page": 115
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN THE 10TH HOUSE",
+      "page": 117
+    },
+    {
+      "level": 2,
+      "title": "URANUS IN THE 10TH HOUSE",
+      "page": 121
+    },
+    {
+      "level": 2,
+      "title": "NEPTUNE IN THE 10TH HOUSE",
+      "page": 124
+    },
+    {
+      "level": 2,
+      "title": "PLUTO IN THE 10TH HOUSE",
+      "page": 127
+    },
+    {
+      "level": 2,
+      "title": "NORTH NODE IN THE 10TH HOUSE",
+      "page": 129
+    },
+    {
+      "level": 2,
+      "title": "SOUTH NODE IN THE 10TH HOUSE",
+      "page": 131
+    },
+    {
+      "level": 2,
+      "title": "IF TWO OR MORE PLANETS RESIDE IN THE 10TH HOUSE",
+      "page": 133
+    },
+    {
+      "level": 2,
+      "title": "IF NO PLANETS RESIDE IN THE 10TH HOUSE",
+      "page": 134
+    },
+    {
+      "level": 1,
+      "title": "CHAPTER 4: ADDITIONAL ASSETS FOR SUCCESS",
+      "page": 136
+    },
+    {
+      "level": 2,
+      "title": "1ST HOUSE",
+      "page": 136
+    },
+    {
+      "level": 2,
+      "title": "2ND HOUSE",
+      "page": 137
+    },
+    {
+      "level": 2,
+      "title": "3RD HOUSE",
+      "page": 138
+    },
+    {
+      "level": 2,
+      "title": "4TH HOUSE",
+      "page": 138
+    },
+    {
+      "level": 2,
+      "title": "5TH HOUSE",
+      "page": 139
+    },
+    {
+      "level": 2,
+      "title": "6TH HOUSE",
+      "page": 140
+    },
+    {
+      "level": 2,
+      "title": "7TH HOUSE",
+      "page": 140
+    },
+    {
+      "level": 2,
+      "title": "8TH HOUSE",
+      "page": 141
+    },
+    {
+      "level": 2,
+      "title": "9TH HOUSE",
+      "page": 142
+    },
+    {
+      "level": 2,
+      "title": "10TH HOUSE",
+      "page": 142
+    },
+    {
+      "level": 2,
+      "title": "11TH HOUSE",
+      "page": 143
+    },
+    {
+      "level": 2,
+      "title": "12TH HOUSE",
+      "page": 144
+    },
+    {
+      "level": 1,
+      "title": "CHAPTER 5: YOUR SATURN SIGN",
+      "page": 145
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN ARIES",
+      "page": 146
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN TAURUS",
+      "page": 147
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN GEMINI",
+      "page": 147
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN CANCER",
+      "page": 147
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN LEO",
+      "page": 147
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN VIRGO",
+      "page": 148
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN LIBRA",
+      "page": 148
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN SCORPIO",
+      "page": 148
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN SAGITTARIUS",
+      "page": 148
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN CAPRICORN",
+      "page": 149
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN AQUARIUS",
+      "page": 149
+    },
+    {
+      "level": 2,
+      "title": "SATURN IN PISCES",
+      "page": 149
+    },
+    {
+      "level": 1,
+      "title": "Conclusion",
+      "page": 150
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "The Astrology of Success: A Guide to Illuminate Your Inborn Gifts for Achieving Career Success and Life Fulfillment",
+    "author": "Spiller, Jan",
+    "subject": "",
+    "keywords": "",
+    "creator": "eCore v0.9.12.751 [ http://www.epubor.com/ecore.html ]",
+    "producer": "eCore v0.9.12.751 [ http://www.epubor.com/ecore.html ]",
+    "creationDate": "D:20221108165212+00'00'",
+    "modDate": "D:20221108165212+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": false,
+  "text_chars": 16501,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "text": "OceanofPDF.com\n"
+    },
+    {
+      "page": 4,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "text": "OceanofPDF.com\n"
+    },
+    {
+      "page": 6,
+      "text": "The opinions expressed in this manuscript are solely the opinions of the\nauthor and do not represent the opinions or thoughts of the publisher. The\nauthor has represented and warranted full ownership and/or legal right to\npublish all the materials in this book.\nThe Astrology of Success\nA Guide to Illuminate Your Inborn Gifts for Achieving Career Success and Life\nFulfillment\nAll Rights Reserved\nCopyright © 2014 Jan Spiller\nV8.0 R1.1\nCover Photo © 2014 JupiterImages Corporation. All rights reserved - used\nwith permission.\nAstrological glyphs by Kerry Tinney\nThis book may not be reproduced, transmitted, or stored in whole or in part\nby any means, including graphic, electronic, or mechanical without the\nexpress written consent of the publisher except in the case of brief\nquotations embodied in critical articles and reviews.\nOutskirts Press, Inc.\nhttp://www.outskirtspress.com\nOutskirts Press and the “OP” logo are trademarks belonging to Outskirts\nPress, Inc.\nPRINTED IN THE UNITED STATES OF AMERICA\nOceanofPDF.com\n"
+    },
+    {
+      "page": 7,
+      "text": "About The Author\nJAN SPILLER is known throughout the world as a trusted\nand perceptive leader in astrology. She is an innovator in\nusing astrology as a definitive tool that links her readers to\ntheir individual spiritual path. Thus her books both\nilluminate her readers’ way and empower them to manifest\ntheir dreams. Her books are based on her unique personal\napproach to the inner working of the human psyche and its\nconnection with spiritual empowerment.\nShe has websites both in America and Japan, teaches\nregularly at New Age and astrology conferences, and is a\nhighly sought after radio and television guest.\nHer books, Cosmic Love, Astrology for the Soul, New\nMoon Astrology, and Spiritual Astrology are published\ninternationally, and are currently available in 18 languages.\nShe is currently working on another book soon to be\nreleased with an in-depth look at the Sun Signs, as well as a\nbook on the North Node Houses. Jan lives in New York City;\nDel Mar, California; and Charleston, South Carolina.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 23,
+      "text": "For example, if the planet ruling the 7th\nHouse (marriage)\nis in an harmonious aspect (trine or sextile) to a planet\nlocated in the 10th\n House (career), the individual will feel\nthere is no problem between having a happy marriage or\npartnership and a successful career. In fact, they will have\ngood luck in creating both, and these areas of their life will\nwork together harmoniously (see Oprah Winfrey’s chart).\nConversely, if the ruler of one house is in difficult aspect\n(a square or opposition) to a planet in that house - or the\nrulers of each house are in a difficult aspect with each other\n- the person will experience an internal tug of war and feel\nthat they can’t have both simultaneously.\nFor example, if the native has a square between a planet\nin the 7th\nHouse (marriage) and one in the 10th\n(career) it is\nnot their fate to “fall into” both a happy marriage and a\nsuccessful \ncareer \nworking \ntogether \nharmoniously.\nSomething within drives them to feel that they have to\n“choose” one thing or the other. Even if they do find\nthemselves in a relationship that will support their career,\nsubconsciously they will do something to either remove the\nrelationship or neglect their career. For whatever reason, it\nmay simply not be their destiny to experience both\nsimultaneously in this lifetime (see the chart of Muhammad\nAli).\nAs another example, I have a client who has the ruler of\nher 7th\n House (marriage) in her 1st\n House (autonomy) -\nopposing a planet in her 7th\n House. This creates internal\nconflict between her need for independence and her urge to\npartner in a marriage. She tends to lose herself in marriage,\nand then feels she has to leave the relationship in order to\nreclaim her independence. She is not “wired” to be able to\nsee how she can be in a marriage and still maintain her\nindependence.\n"
+    },
+    {
+      "page": 39,
+      "text": "partnership and the accord of others that keeps them from\nfinding or following their own path.\nPast lives spent in developing strong partnerships as a\nkey to their security are indicated here. The Aries\nMidheaven person has been a spouse, a partner, the\nsupport person for another in situations where the strength\nof the partnership ensured their own survival. Carried into\ntheir present adult life, fear of disrupting the “safety” of the\ncurrent peace may tempt them to suppress their instinctive\nresponses to people and situations. In this life, it is their\ninstincts that best guide their way.\nGOOD CAREER CHOICES\nAries Midheaven people are happiest in professions where\nthey have plenty of room to initiate actions and “do their\nown thing.” They need a career that allows them to\nindependently follow their own impulses in reaching their\ngoals.\nTheir chief talent lies in being a warrior whose energy and\ncourage lead to the new beginnings that start them off in\nthe right direction. This could be any field where they are\nrequired to be a self-starter. Their strong suit is in taking\ncharge and initiating projects, inspiring others to back them\nup with support.\nSelf-contentment is assured through allowing the world to\nsee them as a person of integrity. By being honest and\ndirect in saying what they think, the Aries Midheaven person\nwill be perceived as an independent, self-sufficient leader:\nambitious, ready to lead the way, and unswayed when their\ninstincts are at odds with social proprieties.\n"
+    },
+    {
+      "page": 55,
+      "text": "personal preferences. In some ways, they were never fully\nable to experience being a child.\nPast lives spent within strong group bonds are indicated\nhere, along with a tendency to look beyond their desires to\nthe bigger picture of what is good for all involved. There is\nalso a tendency to put others on a pedestal, to yield to\nothers’ Light rather than stepping forward to display their\nown. Yet in this life, it is precisely through displaying their\nindividual gifts and feelings that happiness is their natural\nreward.\nGOOD CAREER CHOICES\nLeo Midheaven people are happiest in a profession that\nallows them to express their creative talents! They are\ngifted in fields involving children, the entertainment\nindustry, and creative endeavors of all sorts. Being onstage\nis certainly an area where they can shine. They need to feel\nlike a “star” in their own world.\nIn their profession, they are at their best when there’s\nplenty of room for them to draw upon their qualities of\nstrength, leadership, determination, and enthusiasm. To\nachieve the greatest happiness in their career, they must\nfeel that their innate creativity can continue to grow and be\nexpressed.\nSelf-contentment is theirs when they allow the world to\nsee them as a person of power, creativity, forthright\nexpression, and emotional generosity.\nVIRGO MIDHEAVEN PEOPLE\n"
+    },
+    {
+      "page": 71,
+      "text": "adventure tours. They have an innate desire to inspire\nothers to reach beyond their limitations and discover\nsomething new. Depending upon their interests, they could\nalso be a great religious leader or an inspirational speaker.\nFor them to be happy in their career, they need to feel\nthat there’s a component of inspiration in it… an\nacknowledgment of the higher principles of ethics, law, and\na trust in a beneficent cosmic order. Sagittarius Midheaven’s\nnatural optimism and belief in positive outcomes are the\nassets they bring to the table. Their job choice also must\nprovide plenty of room for them to express their spontaneity\nand follow their sense of adventure. They are happiest in\nprofessions that emphasize expansion, rather than staying\nwithin logical limits.\nSelf-contentment is assured through allowing the world to\nsee them as serious thinkers and seekers of philosophical\ntruth; holding noble and inspiring aims; concerned with\nintegrity, morality, and ethics; and ready to teach and\ninspire others through sharing their larger perspective of\nlife.\nCAPRICORN MIDHEAVEN PEOPLE\nCREATING SUCCESS\nCapricorn Midheaven people achieve successful outcomes\nwhen they rise above emotional situations, take charge, and\n"
+    },
+    {
+      "page": 87,
+      "text": "Their purpose is also linked to their capacity to make\nmoney independently. They have a natural understanding of\nmoney, which is one of the assets they bring to their career.\nFor them, money is a barometer of whether or not they are\ndeveloping the qualities of character they are scheduled to\nactivate and claim in this lifetime. In the process of gaining\ngreater control over their financial situation, they grow in\ntheir skills and maturity. Dealing with money in a way that\ngives them a feeling of self-respect is a path of learning that\ncan bring them great happiness.\n3RD\nHOUSE\nIf the Ruler of the 10th\n House falls in the 3rd\n House,\nhappiness and success will result from choosing a career\nwhere they can utilize their gifts for communication, writing,\nteaching, sales, information-gathering, and logical planning.\nThis person draws on these “people skills” for gaining an\nunderstanding of how others think and how words affect\nthem. This can be a huge asset in any business that\ninvolves being able to reach people through words and\nmentally connect with them to exchange ideas. It is through\nthese tools and abilities that they can advance their career,\nand reach those personal goals that are important to them.\nTheir purpose has to do with gaining new ideas and ways\nof viewing life that can further develop and align their way\nof thinking. They are realizing the empowerment of logic. As\n"
+    },
+    {
+      "page": 103,
+      "text": "“weight goal” and devise a sensible plan for reaching it –\nincluding a deadline.\nIn this lifetime, their Soul has contracted for further\ngrowth through refining and integrating their innate\nleadership ability. Since this is mostly a matter of character\ndevelopment, it requires a willingness to grow in terms of\ntheir intentions, motivation, integrity, and maturity. This\nincludes finding out what the others involved in any\nsituation want to accomplish and setting a goal that creates\na win-win outcome for everyone – not yielding to the\ntemptation to misuse their creative abilities to reach only\ntheir own personal goals.\nIn every area of their life – career, relationships, and\nfamily – the native is learning how to more effectively\nengage others through expressing their innate gifts. It is a\nlifetime process of learning how to express their creative\nleadership abilities in ways that lead to greater self-respect,\nthe respect of others, and achieving leadership positions.\nIf others are resisting the native’s leadership in any area\nof their life, it is likely that they have yielded to temptation\nand pursued their own personal goals at the expense of\nothers. When this happens, their best bet is to ask others\ntheir goal – what they\nwould like to happen in the situation.\nThen they can reconsider how to readjust the goal – or the\nmanner in which they are taking charge – to better meet the\nneeds of all concerned.\nAs the native learns – often through trial and error – how\nto successfully manifest their innate leadership skills, they\nwill achieve greater success in taking charge. And as they\ngain more public influence, their growth in this area can be\nmeasured by the degree to which others recognize and\nappreciate them and happily follow their leadership.\n"
+    },
+    {
+      "page": 119,
+      "text": "It’s important for them to set clear, practical goals in\nevery aspect of their life. Having a definite aim to work\ntoward stimulates their self-discipline, empowers them to\ntake charge, and fuels their ability to succeed in any area!\nFor example, if their relationship with their mate has\nbecome less satisfying, creating a specific goal to improve it\n(create more intimacy, have more fun together, or open the\nlines of communication) inspires them to take responsibility\nwith a plan of action to create success.\nWhen they have a goal, it engages their discipline, their\nserious side, and their ability to see things through to\ncompletion. The native must be willing to take total\nresponsibility for creating a success, to be the CEO in their\nown life. They can delegate, but they need to be the person\nin charge of the outcome. So for instance, if they want to\nlose or gain weight, their strongest position is to decide on a\n“weight goal” and set up a sensible plan to achieve it. In\nfact, the pressure of a specific time deadline fires up their\nself-discipline even more!\nIn this lifetime, their Soul has contracted for further\ngrowth through refining and integrating their leadership\nskills. It is a lifelong process of learning how to be the “CEO”\nand express their authority with greater integrity, thus\ncreating more positive results. This is mostly a matter of\ncharacter development, requiring a willingness to grow to\ngreater maturity and self-empowerment within this part of\nthemselves.\nTheir Achilles Heel is the temptation to usurp the\nauthority of another in pursuit of their own aims. However, if\nthey indulge in this misuse of their influence, the results will\nbe surprisingly embarrassing and they will learn the hard\nway that they can’t run roughshod over others.\n"
+    },
+    {
+      "page": 135,
+      "text": "Although the desire for public attention and making a\ndifference in the public sector doesn’t motivate them, they\ndo want others to recognize and respect what they do.\nHappily, this will be a natural outcome of wholeheartedly\npursuing those attributes revealed by the Sign ruling their\n10th\nHouse.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 148,
+      "text": "SATURN IN VIRGO\nFor your best success, consciously utilize these qualities of\nyour Saturn Sign in the workplace: being of service;\nawareness of others’ physical needs; organization; attention\nto detail. Helping co-workers in practical ways goes a long\nway toward creating your success.\nSATURN IN LIBRA\nFor your best success, consciously utilize these qualities of\nyour Saturn Sign in the workplace: teamwork skills;\nsupporting others; peacemaking; diplomacy; cheerleading;\ncreating attractive presentations. Being aware of fairness in\nrelationships with co-workers helps to create your success.\nSATURN IN SCORPIO\nFor your best success, consciously utilize these qualities of\nyour Saturn Sign in the workplace: bonding for mutual\nempowerment; creating joint partnerships for mutual gain;\ninitiating transformational changes; being aware of the\npsychology of others—their needs and motives.\nSATURN IN SAGITTARIUS\nFor your best success, consciously utilize these qualities of\nyour Saturn Sign in the workplace: optimism; awareness of\n‘silver linings’; trusting life; chivalry; helping others because\nit’s the right things to do.\n"
+    },
+    {
+      "page": 149,
+      "text": "SATURN IN CAPRICORN\nFor your best success, consciously utilize these qualities of\nyour Saturn Sign in the workplace: management skills;\nexecutive mind-set; discipline; talent for achieving goals.\nBeing willing to ‘be the boss’ and take responsibility for\ncreating positive outcomes goes a long way toward\nestablishing your success.\nSATURN IN AQUARIUS\nFor your best success, consciously utilize these qualities of\nyour Saturn Sign in the workplace: friendliness; objectivity;\ntaking a scientific approach; seeing the ‘big picture’ and\nconveying it to others to create a group success.\nSATURN IN PISCES\nFor your best success, consciously utilize these qualities of\nyour \nSaturn \nSign \nin \nthe \nworkplace: \ncompassion;\nunderstanding the plights of others; gentleness; sensitive\ncommunication; \nhelping \nothers \nthrough \nhealing \nand\nsoothing.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 150,
+      "text": "Conclusion\nI hope that the information presented in this book has\nhelped illuminate the ways in which you can use your inborn\ngifts and talents for achieving worldly aims. Many people\nask: “Will I be successful?” The answer is, it’s up to you. We\nalways have free will, and it’s a matter of how you choose to\nalign with your own internal design.\nAnother more theoretical question is: For purposes of\nevolution, did the Soul consciously choose to incarnate in\nthe moment that gives the native certain predictable\nexperiences -- areas of conflict or ease? Does each of us\nhave a greater purpose or intention behind our individual\ninternal wiring as revealed in our astrology chart? If so, then\nperhaps the difficult aspects in our charts show areas that\nwe didn’t handle correctly in a past life (karma). By focusing\non these areas with greater awareness and personal depth,\nwe can fully understand and consciously resolve them in\nthis lifetime (dharma).\nThe troubled Houses in our chart certainly give us a lot of\nmotivation to more deeply understand the areas of life ruled\nby the Houses involved. Out of this internal conflict comes\nthe benefit of outecreative action that furthers humankind,\nwhether the stage is the people in our immediate circle or in\na public arena.\nOceanofPDF.com\n"
+    }
+  ],
+  "tech_pages": [],
+  "full_text": null
+}

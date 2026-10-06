@@ -1,0 +1,560 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 368-384
+# compiled into: interpretation.json (health topic)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 368>>>
+
+...XXIV...
+Astrology of Health and Disease
+For the one who has attained a body made of
+the fire of Yoga,
+there exists neither disease nor senescence nor death.
+Shvetashvatara
+Upanishad II/12
+Analysis of an astrological chart
+in respect of health and disease is often
+a matter of fine judgement. It
+ requires a judicious balancing of the often
+conflicting factors which tend to
+ cause ill-health on the one hand, and
+protect the native on the other. This
+means that a horoscope has to be judged:
+(a) For inherent strength, which ensures good health
+ and recovery from
+disease; and
+(b) For inherent weakness which manifests as illness at
+times indicated by
+the dasha pattern.
+Status of Health
+The folowing factors must be considered in order to
+ determine the
+soundness, or otherwise, of health.
+1. The lagna: The single most
+ important factor for sound health is the
+soundness of the lagna (and its lord).
+A lagna is strong and ensures good
+health if it is:
+(a) Occupied by its
+own lord;
+(b) Aspected by its
+own lord;
+
+<<<PAGE 369>>>
+(c) Occupied by
+natural benefics;
+(d) Aspected by
+natural benefics;
+(e) Occupied by
+strong or exalted planets;
+(f) Occupied or
+aspected by fuctional benefics;
+(g) Unaspected or
+un-occupied by natural or functional malefics.
+Note: The
+nearer a benefic planet is to the cusp of the lagna, the stronger
+does the
+ lagna become. Conjunctions within one degree have a very
+profound influence.
+A lagna becomes
+weak if it is:
+(a) Neither
+occupied nor aspected by its own lord;
+(b) Neither
+occupied nor aspected by natural benefics;
+(c) Neither
+occupied nor aspected by functional benefics;
+(d) Occupied or
+aspected by natural malefics and functional malefics;
+(e) Occupied by
+debilitated or weak planets.
+Note: If a
+debilitated or a weak planet is placed within one degree of the
+cusp of the
+lagna, it has an adverse influence on the soundness of health.
+2. The lagna lord: For a
+sound health, the lagna lord must be:
+(a) Strong or
+exalted in the Rashi chart as well as the vargas;
+(b) Associated with
+benefics;
+(c) Aspected by
+benefics;
+(d) Placed in
+benefic houses.
+A lagna lord behaves adversely if
+it is:
+(a) Weak or
+debilitated in the Rashi chart and the vargas;
+(b) Associated with
+malefics;
+(c) Aspected by
+malefics;
+(d) Placed in
+adverse houses, e.g., houses 6, 8 or 12.
+Note:
+
+<<<PAGE 370>>>
+(a) Here again, a
+close association of the lagna lord with a benefic or a
+malefic is important.
+Planets located within one degree of the lagna lord
+exert a more intense
+influence.
+(b) When the lagna
+or the lagna lord are Vargottama (falling in the same
+sign in the Rashi as well
+ as the Navamsha charts), they become
+particularly strong and capable of
+ withstanding several adverse
+influences.
+3. Status of the Moon:
+Strength of the Moon is important for maintenance of
+sound health. Adverse
+ placement (in the sixth, eighth or twelfth) of the
+Moon leads to ill health in
+childhood (Balarishta). Association or aspect of
+malefics or opposition by
+ malefics is equally adverse. If there are
+combinations in the horoscope which
+ protect the native in childhood, ill
+health is likely to occur later when the
+cycle of dashas gets involved in the
+‘Balarishta’ combination. In other words,
+a Balarishta acts as a weakness in
+the horoscope which may manifest in later
+ years during an appropriate
+dasha.
+4. The role of Kendras and Trikonas:
+The kendras are like four pillars of a
+horoscope. Along with the trikonas, they
+form the most important houses of
+a horoscopic chart. Benefics located in the
+ kendras and the trikonas go a
+long way to ensure sound health for the native.
+When malefics are placed in
+these houses, they indicate disease.
+Note: Retrograde benefics do
+not protect against disease. Instead they cause
+ill health during their dasha
+or antardasha. Retrograde malefics are worse.
+Retrograde benefics aspected by
+ natural malefics, as also direct benefics
+aspected by retrograde natural
+malefics, also behave adversely.
+5. The Tri-shadayas: Houses
+3, 6 and 11 are considered bad houses. Their
+lords too behave adversely. When
+ natural malefics are located in these
+houses, they indicate sound health. It
+ may, however, be pointed out that
+while the presence of malefics in these
+houses protects the native against ill
+health in general, the dashas and
+ antardashas of these planets do disturb
+health. The lords of these houses also
+cause ill health during their dashas.
+6. The eighth house/eighth lord:
+The eighth house is the house of longevity.
+Malefics in the eighth house cause
+ chronic or incurable ailments. Saturn,
+
+<<<PAGE 371>>>
+though a malefic, is an exception; it
+ensures sound health and long life by its
+occupation of the eighth house.
+For good health and long life, the
+ eighth lord must be strong and under
+benefic influences.
+Note: If the lagna and the
+eighth house are strong in the Sarvashtakavarga, it
+is good for health. When
+these two houses are weak in the Sarvashtakavarga,
+they indicate poor health.
+7. Role of the Yogas: When
+strong and benefic yogas form in relation to the
+lagna or the lagna lord, they
+are good for health. One must carefully look
+for:
+(a) Formation of
+Raja yogas in the lagna.
+(b) Involvement of
+the lagna lord in the formation of the Raja yogas.
+(c) Benefic
+Durudhara formation around the lagna or the lagna lord.
+Note: A Durudhara is
+ generally described in relation to the Moon when
+planets other than the Sun
+occupy the second and the twelfth places from it.
+When benefics occupy the
+second and the twelfth places from the lagna or
+the lagna lord, it forms a
+ benefic Durudhara, or a ‘Shubha-kartari yoga’.
+When malefics form a Durudhara
+around the lagna or the lagna lord, they
+indicate adverse health. A direct
+ malefic in the twelfth house from the
+lagna/lagna lord, and a retrograde one in
+the second from it, is a particularly
+adverse combination since two malefics
+approach the lagna/lagna lord from
+the two sides and tend to strangulate it.
+8. Appropriate Dasha: It must
+ be realised that planetary disposition in a
+chart indicates a fixed promise.
+ This needs the operation of a dynamic
+component, in the form of an appropriate
+dasha, to manifest itself. Thus, ill
+health will only accrue if the
+relevant adverse dasha comes into operation.
+Thus, both the promise of ill
+health and the relevant dasha are important.
+The dasha results can be more
+accurately deciphered if planetary transits are
+combined with the dashas.
+Houses, Signs and Parts of the Body
+In order to locate the site of disease, one must be aware of
+the parts of
+the body indicated by each house of the horoscope or the sign of
+the zodiac.
+
+<<<PAGE 372>>>
+They are as follows:
+The Role of Drekkanas
+Drekkanas are supposed to have a special relevance to
+medical astrology.
+Depending upon which Drekkana is rising in the
+lagna, it may be possible to
+locate the site of disease in the body.
+The three Drekkanas represent three divisions of the
+body:
+(a) From the head
+to the mouth;
+(b) From the neck
+to the navel; and
+(c) From the pelvis
+to the feet.
+The various parts of the body depending upon the rising
+ Drekkana, are
+indicated in Table XXIV-1.
+
+<<<PAGE 373>>>
+The Planets
+Success in making any predictions depends on an
+understanding of the
+interaction among the planets, the houses as well as the
+ signs. Different
+planets provide specific indications relevant to medical
+ astrology. Very
+briefly, they are given below.
+Sun: Pitta
+(the bile element); heart and eye disease; gall bladder disease;
+burns.
+Moon: Kapha
+ (the phlegm element); mental stability; menstrual
+disorders; diseases of the
+breast.
+Mars: Pitta;
+ accidents and surgical operations; burns; menstrual
+disorders; the bone marrow.
+Mercury: All
+the three doshas, i.e., Vaata (the wind element), Pitta and
+Kapha;
+discrimination; nervous breakdown; temperament; skin disease.
+
+<<<PAGE 374>>>
+Jupiter: Kapha;
+liver; gall bladder; diabetes; obesity.
+Venus: Vaata
+and Kapha; sexual perversions; venereal disease; eye sight;
+urinary system;
+intestines; appendix.
+Saturn: Vaata;
+ chronic or incurable disease; paralysis; diseases of legs
+and feet.
+Rahu/Ketu: Chronic
+and incurable diseases; poisoning; snake bite; worm
+infestations; viral
+diseases; eruptive fevers.
+Diagnosis of an Illness
+It may be pointed out here that making a diagnosis on the
+ basis of a
+horoscopic chart is a difficult area. The modern allopathic
+ diagnosis
+demands an elaborate understanding of the pathogenesis of a disease
+ and
+requires long years of training. The astrological methods could not be any
+simpler. To make any coherent diagnosis on astrological grounds, without
+understanding the process of disease, is not at all possible. Some self-styled
+astro-diagnosticians may resent these strong remarks. However, at best, they
+can only indicate that a given native is suffering from a heart disease or a
+kidney ailment or   some intestinal trouble. This information is often
+provided by the patient himself and the astrologer need not go into the
+rigours
+of his techniques. An astrologer can only be helpful if he is able to
+provide
+ an elaborate scientific diagnosis, and guide the physician in his
+treatment
+process.
+Unfortunately, the allopathic system has not strived to
+ understand the
+basis of the erstwhile vastly prevalent, and far more efficient,
+ system of
+Ayurveda. It is much easier to use astrology to indicate the basis of
+an illness
+according to the Ayurvedic principles. Some method of translating the
+ancient Ayurveda into modern allopathy, and vice versa, has to be evolved
+for
+the benefit not only of astrology but of allopathy and Ayurveda as well.
+Until
+then, the actual diagnosis of disease is best left to the physician or the
+researching astro-physician.
+Timing an Illness
+Far less tedious than making an astrological diagnosis is the
+ area of
+timing a likely illness and determining its outcome. This needs the
+
+<<<PAGE 375>>>
+application of some standard principles of astrology. They are briefly
+discussed below.
+1.Dasha of functional malefics: Elsewhere, while
+ discussing the nature of
+planets, mention has been made of planets which behave
+ as malefics
+depending upon the lordship of houses in a horoscopic chart.
+ Natural
+benefics can behave as malefics if they own adverse houses. It is the
+lagna
+which decides the nature of various planets.
+Since the lagna stands for the body of the native, planets
+ adversely
+disposed toward a particular lagna can indicate ill health. It is
+important to
+carefully study the nature of planets whose dasha is operating at
+ a given
+time.
+2.Role of the Trik houses/Trik lords:
+ Particularly important in causing ill
+health are the dashas and antaradashas of
+the lords of the Trik houses, or
+houses 6, 8 and 12. Lords of these houses
+transmit their maleficence to other
+planets whom they aspect or associate with.
+Planets placed in Trik houses
+are also adverse and cause chronic ailments.
+3.Retrograde planets: Dashas of rerograde
+planets, more so when they are
+located in the kendras or in association with
+the lagna lord, produce ill health
+during their dasha periods.
+4.Weak planets: Dashas of planets which are
+ combust, ill-placed or
+debilitated, particularly if they do not regain strength
+in the Navamsha or
+other divisional charts, are also adverse for health. If the
+dasha lord is weak,
+there is poor resistance against disease and general lack
+of strength.
+5.The Rahu-Ketu Axis (RKA): The RKA falling
+on the lagna or the dasha lords
+tends to afflict them and ensures ill health,
+if other indications for ill health
+exist in the chart.
+6.Lords of 22nd Drekkana/64th Navamsha: These
+ are additional adverse
+factors for health.
+7.Protective influences: Whenever a chart is
+being examined for health and
+disease, particular attention should be paid
+ toward factors that protect
+against illness. When there are strong influences
+protecting a native, mild
+fluctuations in dasha sequence do not disturb health.
+ In this connection,
+
+<<<PAGE 376>>>
+favourble transits must also be taken note of. Unfavourable
+ transits have
+contrary influence.
+8.The dasha sequence: This is important in
+deciding the outcome of disease.
+In general, the dasha sequence has the
+following influence:
+(a) Favourable
+dasha followed by an unfavourable dasha: Occurrence of
+disease
+(b) Unfavourable
+dasha followed by a favourable dasha: Recovery.
+(c) Unfavourable
+ dasha followed by another unfavourable dasha:
+Prolongation of disease;
+complications.
+(d) Unfavourable
+dasha, followed by an unfavourable dasha, followed by
+another unfavourable
+dasha: Non-recovery or death. The native may not
+survive until the third
+unfavourable dasha.
+Pre-requisites for chart analysis
+Medical astrology is a very specialised area. In order to
+ obtain sound
+results, the data must be very accurate and the chart must be
+subjected to a
+thorough analysis using several methods at any given time. At
+ least the
+following data must be worked out:
+1.The Rashi chart along with accurate calculation of
+the cusp of the lagna
+and the longitudes of houses.
+2.The Drekkana, the Navamsha, the Dwadashamsha and,
+ preferably, the
+Trimshamsha charts.
+3.The Vimshottari dasha worked from Mahadasha (MD) through Antaradasha
+(AD) to Pratyantaradasha (PD). Particular attention must be paid to work
+out
+the dasha operating at the time of birth. 
+4.Additional tools for confirmation:
+(a) At least one
+additional dasha, e.g., the Yogini, or the Chara dasha of
+Jaimini.
+(b) Ashtakavarga.
+(c) Varshaphala or
+the annual chart for the relevant year(s).
+(d) Transits.
+
+<<<PAGE 377>>>
+(e) Prashna or the
+Horary system, where appropriate.
+Illustrations
+Chart XXIV-1 shows the
+ presence of the eighth lord in the lagna. The
+lagna lord is located in an
+inimical sign and aspected by the sixth lord, the
+Moon. The lagna is variously
+afflicted in the Navamsha, the Drekkana as
+well as the Dwadashamsha chart. Some
+ relief is provided by Jupiter
+aspecting the lagna lord in the Rashi, Navamsha
+and the Drekkana charts,
+and additionally the lagna in the Navamsha.
+The native was born in Mars-Jupiter. In Mars-Saturn he was
+detected to
+have developed allergy to milk and egg proteins. This worsened
+during the
+AD of Mercury. Mercury is
+particularly bad as the lord of the eighth house
+and also of the 22nd Drekkana.
+Mars is a functional malefic. Jupiter owns
+the 64th Navamsha. The child also
+suffers from Autism.
+
+<<<PAGE 378>>>
+The native of Chart XXIV-2
+had multiple stones removed from his right
+kidney and ureter during the
+Vimshottari MD/AD of Sun-Ketu. The lagna
+is
+occupied by a debilitated natural malefic while the lagna lord occupies the
+adverse sixth house in association with Ketu. There is no benefic aspect
+either
+on the lagna or the lagna lord. Also there are no benefics in either the
+kendras or the trikonas. The native is thus prone to ill health.
+
+<<<PAGE 379>>>
+
+<<<PAGE 380>>>
+In the Navamsha, the lagna lord is debilitated, associated
+with a natural
+malefic Mars and aspected by another malefic Saturn. No benefics
+occupy
+the kendras although three benefics lie along the 5/11 axis which may be
+considered as favourable.
+The MD of the Sun
+coincided with ill health. The Sun is associated with a
+functional malefic for
+Karka lagna and is aspected by a retrograde sixth lord.
+The Sun also owns and
+occupies the 64th Navamsha. Ketu the AD
+lord is
+located in the sixth house along with the lagna lord. In the Drekkana,
+Ketu is
+associated with the eighth lord, and in the Dwadashamsha it occupies
+the
+eighth house.
+It may also be noted that both the lagna and the Moon fall
+ in the
+Gandanta (q.v.).
+The subsequent MD of
+ the Moon is not totally without blemish as the
+Moon is variously afflicted, by
+placement or by natural/functional malefics,
+in all the divisional charts.
+The native of Chart XXIV-3
+ is a doctor with a powerful Dhana yoga
+caused by the placement of the lagna
+lord in the second house, the second
+lord in the eleventh house, and the
+eleventh lord in the lagna. Two planets
+are debilitated. Of these, the Sun is
+at its exact debilitation point and located
+in the lagna. The lagna receives
+the aspect of Saturn, and the lagna lord of
+Mars. The lagna is afflicted in all
+the charts.
+
+<<<PAGE 381>>>
+
+<<<PAGE 382>>>
+Since the onset of the Rahu dasha, the native has been
+suffering from
+progressive rheumatoid polyarthritis, with joint deformities.
+ Rahu (a
+malefic) in the sixth house should normally indicate sound health.
+However,
+it must give the results of the sixth house (disease) during its own
+ dasha
+particularly when the lagna is so weak and afflicted. In the Rashi,
+Navamsha
+as well as the Drekkana, Rahu is aspected by Mars; in the Dwadashamsha
+it
+is aspected by Saturn.
+
+<<<PAGE 383>>>
+Chart XXIV-4 shows the
+ placement of the eighth lord, the Sun, in the
+lagna, and the Moon in the eighth
+house, in a typical Balarishta combination.
+The Moon is also in Gandanta
+(q.v.), falls in the 22nd Drekkana, and owns
+the 64th Navamsha. It receives the
+ adverse aspect of Saturn which also
+aspects the Sun and the lagna. Malefics
+alone occupy the kendras. The only
+benefic aspect on the lagna is that of
+Jupiter, which is retrograde.
+
+<<<PAGE 384>>>
+The Balarishta manifested in the MD of the Moon and AD of
+ Saturn
+(operative from Feb 19, 1994 to Sept 20, 1995). Mercury is the
+retrograde
+sixth lord located in the twelfth house. It is thus the MD of the seventh lord (a
+maraka) placed in the
+eighth house, and the AD of the sixth
+lord (disease)
+located in the twelfth house (hospitalisation, etc). The native
+has developed
+an incurable serious illness, a particular type of a lymphoma.
+The important
+point here is the existence of a Balarishta which manifests at a
+time when the
+appropriate dasha operates. There is no Arishta-Bhanga as the
+ birth is at
+night time (Sun’s longitude greater than the cusp of the lagna!)
+while the
+lunar phase is Krishna-paksha.
+For greater details regarding astrological aspects of health
+and disease,
+the reader is referred to the Essentials of Medical Astrology
+by the author.

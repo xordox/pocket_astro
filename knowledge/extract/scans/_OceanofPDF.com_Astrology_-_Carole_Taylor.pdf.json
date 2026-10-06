@@ -1,0 +1,752 @@
+{
+  "file": "_OceanofPDF.com_Astrology_-_Carole_Taylor.pdf",
+  "size_bytes": 5891743,
+  "error": null,
+  "pages": 236,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Contents",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "THE STORY OF ASTROLOGY 10",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "What Is Astrology? 12",
+      "page": 9
+    },
+    {
+      "level": 3,
+      "title": "Astrology Through the Ages 14",
+      "page": 11
+    },
+    {
+      "level": 3,
+      "title": "Astrology Today 16",
+      "page": 13
+    },
+    {
+      "level": 3,
+      "title": "Astrology and Psychology 18",
+      "page": 15
+    },
+    {
+      "level": 3,
+      "title": "The Astrological Mindset 20",
+      "page": 17
+    },
+    {
+      "level": 3,
+      "title": "It’s More Than Just Your Sun Sign 22",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "THE ZODIAC SIGNS 24",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "An Overview 26",
+      "page": 22
+    },
+    {
+      "level": 3,
+      "title": "Polarity, Elements, and Modes 28",
+      "page": 24
+    },
+    {
+      "level": 3,
+      "title": "Aries March 21–April 20 32",
+      "page": 28
+    },
+    {
+      "level": 3,
+      "title": "Taurus April 21–May 21 34",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "Gemini May 22–June 21 36",
+      "page": 32
+    },
+    {
+      "level": 3,
+      "title": "Cancer June 22–July 22 38",
+      "page": 34
+    },
+    {
+      "level": 3,
+      "title": "Leo July 23–August 22 40",
+      "page": 36
+    },
+    {
+      "level": 3,
+      "title": "Virgo August 23–September 22 42",
+      "page": 38
+    },
+    {
+      "level": 3,
+      "title": "Libra September 23–October 22 46",
+      "page": 41
+    },
+    {
+      "level": 3,
+      "title": "Scorpio October 23–November 21 48",
+      "page": 43
+    },
+    {
+      "level": 3,
+      "title": "Sagittarius November 22–December 21 50",
+      "page": 45
+    },
+    {
+      "level": 3,
+      "title": "Capricorn December 22–January 19 52",
+      "page": 47
+    },
+    {
+      "level": 3,
+      "title": "Aquarius January 20–February 18 54",
+      "page": 49
+    },
+    {
+      "level": 3,
+      "title": "Pisces February 19–March 20 56",
+      "page": 51
+    },
+    {
+      "level": 2,
+      "title": "THE PLANETS 58",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "An Overview 60",
+      "page": 54
+    },
+    {
+      "level": 3,
+      "title": "The Sun Identity and life purpose 62",
+      "page": 56
+    },
+    {
+      "level": 3,
+      "title": "The Moon Instinct and protection 64",
+      "page": 58
+    },
+    {
+      "level": 3,
+      "title": "Mercury Communication and learning 66",
+      "page": 60
+    },
+    {
+      "level": 3,
+      "title": "Venus Love and pleasure 68",
+      "page": 62
+    },
+    {
+      "level": 3,
+      "title": "Mars Assertion and action 70",
+      "page": 64
+    },
+    {
+      "level": 3,
+      "title": "Jupiter Growth and opportunity 74",
+      "page": 67
+    },
+    {
+      "level": 3,
+      "title": "Saturn Authority and maturity 76",
+      "page": 69
+    },
+    {
+      "level": 3,
+      "title": "Uranus Change and liberation 78",
+      "page": 71
+    },
+    {
+      "level": 3,
+      "title": "Neptune Imagination and transcendence 80",
+      "page": 73
+    },
+    {
+      "level": 3,
+      "title": "Pluto Power and transformation 82",
+      "page": 75
+    },
+    {
+      "level": 3,
+      "title": "Chiron Healing and compassion 84",
+      "page": 77
+    },
+    {
+      "level": 2,
+      "title": "THE HOUSES 86",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "An Overview 88",
+      "page": 80
+    },
+    {
+      "level": 3,
+      "title": "1st House Self and personality 90",
+      "page": 82
+    },
+    {
+      "level": 3,
+      "title": "2nd House Possessions, money, and finance 92",
+      "page": 84
+    },
+    {
+      "level": 3,
+      "title": "3rd House Communication 94",
+      "page": 86
+    },
+    {
+      "level": 3,
+      "title": "4th House Home and family 96",
+      "page": 88
+    },
+    {
+      "level": 3,
+      "title": "5th House Creativity and children 98",
+      "page": 90
+    },
+    {
+      "level": 3,
+      "title": "6th House Health and well-being 100",
+      "page": 92
+    },
+    {
+      "level": 3,
+      "title": "7th House Relationships 104",
+      "page": 95
+    },
+    {
+      "level": 3,
+      "title": "8th House Intimacy and shared possessions 106",
+      "page": 97
+    },
+    {
+      "level": 3,
+      "title": "9th House Quest and adventure 108",
+      "page": 99
+    },
+    {
+      "level": 3,
+      "title": "10th House Career and vocation 110",
+      "page": 101
+    },
+    {
+      "level": 3,
+      "title": "11th House Friendship and community 112",
+      "page": 103
+    },
+    {
+      "level": 3,
+      "title": "12th House Service and sacrifice 114",
+      "page": 105
+    },
+    {
+      "level": 2,
+      "title": "YOUR BIRTH CHART 116",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "An Overview 118",
+      "page": 108
+    },
+    {
+      "level": 3,
+      "title": "The Ascendant-Descendant 120",
+      "page": 110
+    },
+    {
+      "level": 3,
+      "title": "The MC-IC 122",
+      "page": 112
+    },
+    {
+      "level": 3,
+      "title": "The Moon’s Nodes 124",
+      "page": 114
+    },
+    {
+      "level": 3,
+      "title": "The Wheel of Rulership 126",
+      "page": 116
+    },
+    {
+      "level": 3,
+      "title": "The Aspects 130",
+      "page": 119
+    },
+    {
+      "level": 3,
+      "title": "Aspect Patterns 132",
+      "page": 121
+    },
+    {
+      "level": 3,
+      "title": "Casting a Birth Chart 136",
+      "page": 125
+    },
+    {
+      "level": 3,
+      "title": "Reading the Whole Birth Chart 138",
+      "page": 127
+    },
+    {
+      "level": 3,
+      "title": "Case Study 1: Amanda 144",
+      "page": 132
+    },
+    {
+      "level": 3,
+      "title": "Case Study 2: Jack 148",
+      "page": 136
+    },
+    {
+      "level": 2,
+      "title": "UNDERSTANDING YOURSELF 152",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "An Overview 154",
+      "page": 141
+    },
+    {
+      "level": 3,
+      "title": "Identity 156",
+      "page": 143
+    },
+    {
+      "level": 3,
+      "title": "Change 158",
+      "page": 145
+    },
+    {
+      "level": 3,
+      "title": "Uncertainty 160",
+      "page": 147
+    },
+    {
+      "level": 3,
+      "title": "Troubled Times 162",
+      "page": 149
+    },
+    {
+      "level": 3,
+      "title": "Habit 164",
+      "page": 151
+    },
+    {
+      "level": 3,
+      "title": "Health & Well-being 168",
+      "page": 154
+    },
+    {
+      "level": 3,
+      "title": "Leisure 170",
+      "page": 156
+    },
+    {
+      "level": 3,
+      "title": "Personal Projects 172",
+      "page": 158
+    },
+    {
+      "level": 3,
+      "title": "Relationships 174",
+      "page": 160
+    },
+    {
+      "level": 3,
+      "title": "Relatives 176",
+      "page": 162
+    },
+    {
+      "level": 3,
+      "title": "Friendship 178",
+      "page": 164
+    },
+    {
+      "level": 3,
+      "title": "Romance & Sex 180",
+      "page": 166
+    },
+    {
+      "level": 3,
+      "title": "Marriage 182",
+      "page": 168
+    },
+    {
+      "level": 3,
+      "title": "Professional 186",
+      "page": 171
+    },
+    {
+      "level": 3,
+      "title": "Career 188",
+      "page": 173
+    },
+    {
+      "level": 3,
+      "title": "Money 190",
+      "page": 175
+    },
+    {
+      "level": 3,
+      "title": "Motivation 192",
+      "page": 177
+    },
+    {
+      "level": 3,
+      "title": "Beliefs 194",
+      "page": 179
+    },
+    {
+      "level": 2,
+      "title": "LIFE EVENTS 196",
+      "page": -1
+    },
+    {
+      "level": 3,
+      "title": "An Overview 198",
+      "page": 182
+    },
+    {
+      "level": 3,
+      "title": "Meeting New People 200",
+      "page": 184
+    },
+    {
+      "level": 3,
+      "title": "Planning Celebrations 202",
+      "page": 186
+    },
+    {
+      "level": 3,
+      "title": "Taking a Risk 204",
+      "page": 188
+    },
+    {
+      "level": 3,
+      "title": "Key Moments in Relationships 208",
+      "page": 191
+    },
+    {
+      "level": 3,
+      "title": "Starting a Family 210",
+      "page": 193
+    },
+    {
+      "level": 3,
+      "title": "Parenting Decisions 212",
+      "page": 195
+    },
+    {
+      "level": 3,
+      "title": "Competing 214",
+      "page": 197
+    },
+    {
+      "level": 3,
+      "title": "Handling Disagreements 218",
+      "page": 200
+    },
+    {
+      "level": 3,
+      "title": "Fights and Tension 220",
+      "page": 202
+    },
+    {
+      "level": 3,
+      "title": "Separation—Should I Stay or Go? 222",
+      "page": 204
+    },
+    {
+      "level": 3,
+      "title": "Saying Sorry 224",
+      "page": 206
+    },
+    {
+      "level": 3,
+      "title": "Changing Careers 226",
+      "page": 208
+    },
+    {
+      "level": 3,
+      "title": "Relocating 230",
+      "page": 211
+    },
+    {
+      "level": 3,
+      "title": "Taking Time Off 232",
+      "page": 213
+    },
+    {
+      "level": 3,
+      "title": "Finances 234",
+      "page": 215
+    },
+    {
+      "level": 3,
+      "title": "Health Issues 236",
+      "page": 217
+    },
+    {
+      "level": 3,
+      "title": "Facing Retirement 238",
+      "page": 219
+    },
+    {
+      "level": 3,
+      "title": "Bereavement 240",
+      "page": 221
+    },
+    {
+      "level": 2,
+      "title": "Resources 244",
+      "page": 224
+    },
+    {
+      "level": 2,
+      "title": "Glossary 246",
+      "page": 226
+    },
+    {
+      "level": 2,
+      "title": "Index 248",
+      "page": 228
+    },
+    {
+      "level": 2,
+      "title": "Acknowledgments 256",
+      "page": 236
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.7",
+    "title": "Astrology",
+    "author": "Dorling Kindersley",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign CC 13.1 (Macintosh)",
+    "producer": "Adobe PDF Library 15.0",
+    "creationDate": "D:20180807145109+05'30'",
+    "modDate": "D:20190903125814+10'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": true,
+  "text_chars": 72147,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": "ASTROLOGY\nUsing the wisdom of the stars in your everyday life\n"
+    },
+    {
+      "page": 2,
+      "text": "CONTENTS\nTHE STORY OF ASTROLOGY \n10\nWhat Is Astrology? \n12\nAstrology Through the Ages  \n14\nAstrology Today  \n16\nAstrology and Psychology  \n18\nThe Astrological Mindset \n20\nIt’s More Than Just Your Sun Sign  \n22\n"
+    },
+    {
+      "page": 3,
+      "text": "THE ZODIAC SIGNS \n24\nAn Overview \n26\nPolarity, Elements, and Modes \n28\nAries  \nMarch 21–April 20 \n32\nTaurus  \nApril 21–May 21 \n34\nGemini   \nMay 22–June 21 \n36\nCancer  \nJune 22–July 22 \n38 \nLeo \nJuly 23–August 22 \n40\nVirgo  \nAugust 23–September 22 \n42\nLibra  \nSeptember 23–October 22 \n46\nScorpio  \nOctober 23–November 21 \n48\nSagittarius  November 22–December 21 \n50\nCapricorn  \nDecember 22–January 19 \n52\nAquarius  \nJanuary 20–February 18 \n54\nPisces  \nFebruary 19–March 20 \n56\nTHE PLANETS \n58\nAn Overview \n60\nThe Sun  \nIdentity and life purpose \n62\nThe Moon \nInstinct and protection \n64\nMercury  \nCommunication and learning \n66\nVenus \nLove and pleasure \n68\nMars \nAssertion and action \n70\nJupiter \nGrowth and opportunity \n74\nSaturn  \nAuthority and maturity \n76\nUranus  \nChange and liberation \n78\nNeptune  \nImagination and transcendence \n80\nPluto  \nPower and transformation \n82\nChiron  \nHealing and compassion \n84\n"
+    },
+    {
+      "page": 4,
+      "text": "THE HOUSES \n86\nAn Overview \n88\n1st House \nSelf and personality \n90\n2nd House \nPossessions, money, and finance \n92\n3rd House \nCommunication  \n94\n4th House \nHome and family \n96\n5th House \nCreativity and children \n98\n6th House  Health and well-being \n100\n7th House  \nRelationships \n104\n8th House  Intimacy and shared possessions \n106\n9th House  Quest and adventure  \n108\n10th House  Career and vocation \n110\n11th House  Friendship and community \n112\n12th House  Service and sacrifice \n114\nYOUR BIRTH CHART \n116\nAn Overview \n118\nThe Ascendant-Descendant \n120\nThe MC-IC \n \n122\nThe Moon’s Nodes \n124\nThe Wheel of Rulership \n126\nThe Aspects  \n130\nAspect Patterns \n132\nCasting a Birth Chart \n136\nReading the Whole Birth Chart  \n138\nCase Study 1: Amanda \n144\nCase Study 2: Jack \n148\n  Ac\n"
+    },
+    {
+      "page": 5,
+      "text": "UNDERSTANDING YOURSELF \n152\nAn Overview \n154\nIdentity \n156\nChange \n158\nUncertainty \n160\nTroubled Times \n162\nHabit \n164\nHealth & Well-being  \n168\nLeisure \n170\nPersonal Projects \n172\nRelationships \n174\nRelatives \n176\nFriendship \n178\nRomance & Sex \n180\nMarriage \n182\nProfessional \n186\nCareer \n188\nMoney \n190\nMotivation \n192\nBeliefs \n194\nResources \n244\nGlossary \n246\nIndex \n248\nAcknowledgments \n256\nLIFE EVENTS \n196\nAn Overview \n198\nMeeting New People \n200\nPlanning Celebrations \n202\nTaking a Risk \n204\nKey Moments in Relationships \n208\nStarting a Family \n210\nParenting Decisions \n212\nCompeting \n214\nHandling Disagreements \n218\nFights and Tension \n220\nSeparation—Should I Stay or Go? \n222\nSaying Sorry \n224\nChanging Careers \n226\nRelocating \n230\nTaking Time Off \n232\nFinances \n234\nHealth Issues \n236\nFacing Retirement \n238\nBereavement \n240\n"
+    },
+    {
+      "page": 6,
+      "text": "8\nForeword\nFOREWORD\nAN INWARD ART\nF\nor many centuries, astrology \nheld an honored position  \nas a source of wisdom, \nself-knowledge, and connection  \nto a magical world beyond or  \nbehind the mundane and material \nsphere of life.\nAstrology was first formed  \nin ancient societies in which \nhumankind viewed itself as \nintrinsic to the living whole—not \ndetached observers, but participants \nin the drama of the skies. Over the \ncenturies, it has been part of  \nthe great flow of thought that \nconstitutes the Western esoteric  \nor mystery tradition, alongside \nalchemy, Kabbalah, and magic.  \nIt is the product of a philosophy \nthat places us inside an ensouled \ncosmos in which everything is \ninterconnected and everything  \nhas meaning. \nAs such, it stands in contrast to \nthe contemporary view that we are \nisolated within the universe and \nthat life is a biological accident,  \nwith no inherent meaning or \npurpose. The birth chart is thus \nboth your individual map, showing \npersonal character and calling, as \nwell as reflecting something \nbigger—your unique place in the \never-turning wheel. \nEsoteric simply means “inner”  \nor “hidden,” so astrology is, \nessentially, an inward art that \nplaces the focus on interior \nexperience and the exploration  \n"
+    },
+    {
+      "page": 7,
+      "text": "9\nForeword\nThe personal horoscope encompasses every conceivable area of  \nlife, from birth to death and all stages in between. It reveals your \nmotivations and needs—what drives you to do what you do, go \nwhere you go, and seek what you seek. \nof the hidden patterns that  \nunderlie each human life, and \nindeed life itself. From this place  \nof self-knowledge, we can begin  \nto understand better the world \naround us—our relationships with \nother people and the experiences \nwe encounter.\nThe personal horoscope \nencompasses every conceivable \narea of life, from birth to death  \nand all stages in between. It reveals \nyour motivations and needs—what \ndrives you to do what you do, go \nwhere you go, and seek what you \nseek. It describes both the literal \nand the psychological and gathers \nup past, present, and future into \none integrated model. \nIn short, we might say that your \nchart is a map of your soul’s intent \nand how you manifest this in the \nworld through being the person \nthat you are.\nAt the same time, astrology \n is also a very practical form of \nknowledge. It opens up \npsychological awareness, shows \nyou the talents and skills at your \ndisposal, and shows how you  \nmight become the best version of \nyourself. But it also allows you to \ndevise helpful strategies and ways \nforward in times of crisis, difficulty, \nand doubt. \nIn this book, you will find all these \nlayers—a guide to the richness and \ndepth of your own inner world, as \nwell as a practical guide to life.\nCAROLE TAYLOR\n"
+    },
+    {
+      "page": 13,
+      "text": "16\nThe Story of Astrology\nASTROLOGY  \nTODAY\nA REVIVAL OF INTEREST IN CONTEMPORARY TIMES \nThe Sun-sign column \nIn 1930, an astrologer named R. H.  \nNaylor wrote an article for a Sunday \nnewspaper about the horoscope of  \nthe new princess, Margaret. The article \nproved popular, and he was asked to \nproduce more, this time writing a piece \nthat predicted an aircraft disaster later \nthat year. When a British airship \ncrashed in France, Naylor was \napplauded for his accuracy and offered  \na weekly slot. Soon other British \nnewspapers started their own \nastrological columns.\nNaylor invented a system based on \nthe 12 zodiac signs. He placed in order \neach sign in the position of the  \nfirst astrological house, noting where \nthe planets fell around the wheel. Thus, \nfor anyone born with the Sun in Aries, \nthe sign of Aries is placed in the position \nof the 1st house; for anyone with the \nSun in Taurus, the sign of Taurus is \nplaced in 1st house position; and so  \non. This allowed him to create 12 short \nforecasts based on the one piece of \ninformation everyone knows: their own \nbirth date.\nSun-sign columns have waxed and \nwaned in popularity. Many professional \nMost people first encounter astrology via Sun-sign columns \nand yet this is a relatively recent invention, a commercial \napplication whose simplicity belies the complexities of the  \nfull horoscope.\n"
+    },
+    {
+      "page": 19,
+      "text": "22\nThe Story of Astrology\nIT’S MORE THAN  \nJUST YOUR SUN SIGN \nYOUR PLANETS AND ZODIAC SIGNS\nThe Sun-sign column is a recent conception, invented to fit  \nthe format of newspapers and magazines. Astrology is more \ncomplex than this, based on the horoscope or birth chart. \nContaining all the planets, signs, and much more, the chart  \nis a holistic map of the individual.\nMost people know their  \n“Sun sign,” the sign occupied by the \nSun at the time of birth. But this is \nonly one component of a birth chart, \nand therefore only one part of a \nperson’s character. Astrologically \nspeaking, a person is much more  \nthan just their Sun sign.\nIf you go to see an astrologer or \nsign up for a course of study (or read \nthis book!), you will be introduced to \nthe concept of the horoscope—the \nbirth chart or natal chart. This is a \nstylized map of the heavens as seen \nfrom Earth, at the exact time and \nplace of your birth. The chart reflects \nyour character and what motivates \nyou, saying something about the \ncircumstances of your life and what \nyou hope to achieve. It is a meeting \nplace of past experiences and \nfamily threads, present \nsituations and desires, and \nfuture possibilities and potentials.\nYour Birth Chart  see pp.116-151\nYOUR SUN SIGN\nWe say “she’s a Scorpio” or “he’s a \nGemini” as shorthand to indicate the zodiac \nsign occupied by the Sun when that person \nwas born. When someone asks you your \n“star sign,” this is what they are referring to. \nThe Sun is the heart center of a birth chart, \nrepresenting the person’s individual \ncreative gift and sense of identity which, \nlike the gold of the alchemists, develops \nslowly throughout life. \nThe Sun \nsee pp.62-63 \nYOUR MOON SIGN\nThe Moon is equal in importance \nto the Sun and represents our basic \nneeds, instinctive responses, and inner \nemotional life. Together, the Sun and \nMoon are termed the “luminaries,” since \nthey are the two largest and brightest \ncelestial bodies we see in the sky. In a \nchart, then, they represent perhaps the \ntwo most central forces.\nThe Moon  see pp.64-65\nTHE BIRTH CHART AS YOUR INDIVIDUAL MAP\n"
+    },
+    {
+      "page": 25,
+      "text": "29\nPolarity, Elements, and Modes\nTA\nUR\nUS\nA\nQU\nA\nRI\nUS\nCA\nP\nRI\nCO\nRN\nCA\nNC\nER\nLE\nO\nVI\nRG\nO\nGE\nMI\nNI\nSC\nOR\nPI\nO\nLI\nB\nRA\nSA\nGI\nTT\nA\nRI\nUS\nFI\nXE\nD\nC\nAR\nDI\nN\nAL\nM\nU\nTA\nBL\nE\nFI\nX\nED\nC\nA\nR\nDI\nN\nAL\nC\nAR\nDI\nN\nA\nL\nFI\nX\nED\nM\nU\nTA\nBL\nE\nM\nU\nTA\nBL\nE\nFI\nX\nED\nCA\nR\nDI\nN\nAL\nM\nU\nTA\nBL\nE\nE\nAR\nT\nH\nFI\nR\nE\nW\nAT\nE\nR\nAI\nR\nEA\nR\nTH\nW\nAT\nE\nR\nFI\nRE\nE\nAR\nTH\nAI\nR\nW\nAT\nE\nR\nAI\nR\nFI\nRE\nNE\nGA\nTI\nV\nE\nPO\nSI\nTI\nVE\nN\nEG\nAT\nIV\nE\nPO\nSI\nTI\nVE\nNE\nG\nAT\nIV\nE\nNE\nGA\nTI\nVE\nP\nOS\nIT\nIV\nE\nN\nEG\nAT\nIV\nE\nPO\nSI\nTI\nVE\nNE\nGA\nTI\nVE\nPO\nSI\nTI\nVE\nPO\nSI\nTI\nVE\n"
+    },
+    {
+      "page": 31,
+      "text": "SLOW AND STEADY AFTER THE SPRING \nRUSH OF ARIES, TAURUS IS CALM AND \nCONSIDERED, SLOW AND DELIBERATE. \nENDURING & PERSISTENT\nOnce you have committed yourself  \nto a course of action, you stick with \nit—even at times when making a \nchange might be beneficial.\nTHE GIFT OF PATIENCE\nOne of your most \nvaluable skills is knowing \nthat good things can \ncome to those who wait. \nYou can sit back patiently \nwith calm acceptance.\nSLOW TO ANGER Taureans are known for being \ncalm and placid—most of the time! But you can have a \nformidable temper when goaded or pushed.\nTHE PHYSICAL WORLD\nTaureans feel at home in the \nbody and the natural world, \nappreciating simple sensory \npleasures such as delicious \nfood, music, and the arts.\nSENSUALITY \nTaurus is ruled by Venus,  \nthe goddess of fertility and \nsexual love. Your planets here \nare responsive to the delights \nof sensual experience and \nwill seek out such pleasures.\nPOSSESSIVE\nPlanets in Taurus can be \nacquisitive, seeking to own \nand possess—this sign is \noften reluctant to let go of \nobjects, situations, or people.\nLOVE OF SECURITY\nA TAUREAN VALUES STABILITY AND \nDISLIKES CHANGE AND UPHEAVAL.\nMONEY AND \nMATERIAL SUCCESS\nWith planets in Taurus,  \nyou can have a gift for \nmaterial accumulation  \nand sound financial sense. \nNEGATIVE TRAITS\nThe bull can be \nimmensely stubborn, \nsometimes to its own \ndetriment. As fixed \nearth, Taurus can at \ntimes be covetous or \nself-indulgent.\n"
+    },
+    {
+      "page": 37,
+      "text": "GLAMOUR & SPARKLE\nPlanets in Leo can have an  \nair of authority and a sense \nof grandeur. Leos hate to \nget their hands dirty and \nprefer to delegate.\nCREATIVITY\nThose with \nplanets in Leo may \nneed to indulge \nregularly in creative pursuits \nand hobbies to express their \nsense of being special.\nME, MYSELF, AND I  WITH THE SUN AS \nRULER, LEOS HAVE AN INDEPENDENT WILL \nAND A FOCUS ON ACCOMPLISHMENT. THE EGO \nCAN BE STRONG WITH LEO.\nBOLD & COURAGEOUS\nLeos tend to be daring, self-reliant, \nand self-possessed. Planets here \nwill be brave and spirited.\nWARM & GENEROUS\nThose with planets in \nLeo are generous with \ntheir time and energy \nand find it easy to \nmotivate others.\nSENSE OF FUN Leo is a playful sign; planets here are \nspontaneous. Leos connect easily to the innocent and \nuncomplicated world of children. \nLOOKING TO \nTHE FUTURE\nLeos are positive and \nforward-looking—optimistic, \nconfident, and full of hope.\nTHE PERFORMER\nLeo loves the limelight \nand puts on a show— \nthis is where we thrive \non attention, admiration, \nand respect.\nNEED TO BE SEEN \nLEOS TEND TO BE LARGER THAN \nLIFE AND NEED TO FEEL SPECIAL.\nHONOR In a position of trust, Leos are honorable \nand honest. Integrity is important to this sign.\nNEGATIVE TRAITS\nYou can display \narrogance and \nself-centeredness, or \neasily suffer hurt pride. \nTurn this around by \ndeveloping faith in \nyour creative power.\n"
+    },
+    {
+      "page": 43,
+      "text": "48\nThe Zodiac Signs\nTHE 8TH SIGN OF THE ZODIAC\nSCORPIO\nOCTOBER 23–NOVEMBER 21\nScorpio takes us into the depths. This is a complex and \nintense sign, concerned with processes of transformation. \nNegative fixed water is inward-moving and conjures \nthe image of “still waters running deep.” Scorpios  \nare masters of controlled passion.\nSymbol  ♏\nPolarity  Negative\nMode  Fixed\nElement  Water\nRuling planets  Mars and Pluto\nParts of the body  Reproductive organs and eliminatory system\nThe Sun in Scorpio\nYour life purpose is to develop resilience. There is often a story  \nof survival against the odds, and your “solar gold” is the inner \nfortitude this brings. \nYour planets in Scorpio\nPlanets here will act with passion, intensity, and stoic courage, \ncapable of going into the fire and being reborn in a purer and \nstronger form. \nScorpio on the cusp of a house\nThis area of your life is subject to cyclical processes  \nof crisis, elimination, and renewal. Here, you go to the depths  \nand are disinclined to compromise.\n"
+    },
+    {
+      "page": 49,
+      "text": "54\nThe Zodiac Signs\nTHE 11TH SIGN OF THE ZODIAC\nAQUARIUS\nJANUARY 20–FEBRUARY 18\nHighly independent, Aquarius is also paradoxically a very sociable sign. \nPositive fixed air is outgoing, encouraging involvement in groups  \nand the exchange of ideas. Aquarians often have strong social \nawareness and a humanitarian vision of a more ideal future  \nalong with the determination to bring this about. \nSymbol  ♒ \nPolarity  Positive\nMode  Fixed\nElement  Air\nRuling planets  Saturn and Uranus\nParts of the body  Shins and ankles\nThe Sun in Aquarius\nYour life purpose is to find your place within the group while  \nat the same time asserting your own unique vision. An ideal  \nof social equality may form an important foundation.\nYour planets in Aquarius\nPeople with planets in this sign usually march to the \nbeat of their own drum. Planets here tend to show a \ncool detachment in their expression.\nAquarius on the cusp of a house\nYou are likely to approach this area of your life from an \nalternative or highly individual perspective, forming your  \nown ideas and flouting conventions.\n"
+    },
+    {
+      "page": 55,
+      "text": "61\n\n\nNeptune \nOur ideal vision and \nwhat inspires us  \nto devotion\n\nUranus \nThe force of \nenlightenment and \nsudden change\n\nPluto \nThe force that \nbrings about \ntransformation\nSaturn \nThe principle of \ncontraction, structure, \nand boundaries\n\nChiron \nThe wounded healer\nThe planets in your chart\nIn your birth chart, each planet represents a basic drive \nwithin you, and each can have an array of potential \nexpressions, all flowing from a central idea. Venus, for \ninstance, represents the force of beauty, cohesion, and \ncooperation in the cosmos; from this, we get the idea of its \nastrological role as signifier of our capacity to relate and find \ncommon ground with others, the notion of romantic love,  \nand our aesthetic and artistic potentials.\nEach person’s chart contains all the planets, but from chart \nto chart, the planets will occupy different zodiac signs and \ndifferent houses, and they will bear different relationships  \nto each other around the wheel of the chart (in other words, \ndifferent “aspects”). Thus, each chart offers its own completely \nunique picture, with the planets expressing themselves \naccording to that individual’s own particular pattern. \nPlanetary protocol\nAstrology divides the planets into three main groupings, \naccording to their distance from the Sun. \nThe Sun, Moon, Mercury, Venus, and Mars are the “personal \nplanets,” representing the most personal of the planetary \ndrives and the core of our character. (Astrology refers to the \nSun and Moon as “planets,” too, for brevity.) The Sun and \nMoon are also called the “luminaries,” with the Sun as ruler  \nof the daytime world and the Moon as ruler of the night sky. \nThese two bodies play the most central role in a chart.\nJupiter and Saturn are the “social planets,” so called because \nthey represent the processes of socialization and adjustment \nwithin our contexts of family and society—Jupiter, as the \nprinciple of expansion, connects us to the world at large via \neducation, travel, philosophy, and religious beliefs; Saturn, as \nthe principle of contraction, calls on us to adjust to the rules \nand regulations that are an inevitable part of human life.\nUranus, Neptune, and Pluto are the “collective,” \n“transpersonal,” or “generational” planets. This is because \nthey have very slow orbits and spend a much greater length \nof time in one zodiac sign. The zodiac sign they occupy tends \nto describe the collective political and social ideals and \npreoccupations prevalent during that particular era. \nChiron is a maverick and does not fit neatly into the \nscheme, orbiting mostly between Saturn and Uranus, so  \nits symbolism unites personal, social, collective, and  \nancestral themes.\nCOLLECTIVE PLANETS\nBRIDGING \nSOCIAL & COLLECTIVE\n"
+    },
+    {
+      "page": 61,
+      "text": "67\nMERCURY THROUGH THE SIGNS\nMERCURY IN YOUR CHART\nCommunication Mercury suggests \nthe voice itself and how we express \nto the outside world the ideas that \nare generated within. Whether our \nearly development of speech and \nlanguage was easy or difficult, we \nwould expect to find this reflected \naround Mercury.\nConnection Mercury bridges  \nthe gap between two sides and \nrepresents our need and capacity  \nto make connections, recognize \npatterns, and create networks.  \nHere, we might often find ourselves \nacting as an agent or go-between.\nTrade and commerce Mercury \ngoverns trade and commerce, \nactivities that involve the  \nexchange of money and goods.  \nIn the ancient world, this hinged \naround the traveling trader, whose \ndomain was the crossroads and  \nthe marketplace. \nEducation Early education  \nbelongs to this planet—the \nelementary stages of learning,  \nas well as the learning style that \nsuits us best. It can thus reflect our \neducational needs and childhood \nlearning experiences.\nYouthful This planet possesses a \nyouthful quality and the capacity  \nfor dexterity, craftsmanship, and \ningenuity. Where Mercury is in our \nchart, we are likely to show a \nversatile, inventive, inquisitive,  \nand curious—even childlike or \nmischievous—response.\nRestless Mercury might incline  \nus toward a particular brand of \nhumor and reflect a lightness  \nof touch. And where this planet  \nis, we are often restless, either \nphysically or mentally, and need  \nroom to move.\nTHOUGHTS   |   OPINIONS   |   MIND   |   FAC\nTUAL MEMORY\nAries  You are good at clear thinking and \ndecision-making. Communication is direct and \nforthright, with the ability to cut to the chase.\nTaurus  Your thoughts tend to be unhurried and \nconsidered. You prefer methodical learning, where \nyou can study at your own pace.\nGemini  You are always ready with a witty response. \nCuriosity inclines you toward diverse interests and a \ncolorful tapestry of knowledge.\nCancer  You probably have a retentive memory, \nabsorbing information intuitively. There may be  \nan interest in history.\nLeo  Leo encourages an extroverted and confident \nspeaking style. You can hold an audience with the \npower of your voice.\nVirgo  Systems of classifying and sorting data \nmay appeal to you. You might be good with your \nhands, possessing practical skills at crafts or DIY.\n♎Libra  There are gifts of diplomacy and tact, an ability \nto charm and persuade others, with this placement. \nYou make sure everyone’s opinion is given equal time.\nScorpio  This is the probing mind of the detective, \nresearching deeply and sensing motivations. You have \nthe courage to voice things that no one else dares.\nSagittarius  Your open-minded outlook and broad \nknowledge of the world make you fun and interesting \nto be around.\nCapricorn  Your practical mind is capable of \ndischarging tasks very efficiently. You may have an \ninclination toward structured, goal-driven learning.\n♒Aquarius  This placement suggests a scientific bent\nand a capacity to think logically. Rational discussion \nand truthful, honest communication interest you.\nPisces  Yours is an imaginative mind, good at making \nup stories and giving dry information a magical spin. \nYou learn best in an unstructured environment.\nThe influence of this planet will be felt according to where it resides and its relationship to other planets.\nConsider how this planet expresses itself according to the sign that it occupies.\n"
+    },
+    {
+      "page": 67,
+      "text": "JUPITER\nGROWTH AND OPPORTUNITY\nThe largest planet in the solar system, Jupiter’s main feature is its  \nGreat Red Spot—a vast storm reminiscent of the thunderbolts of  \nZeus (Jupiter’s Greek equivalent). Jupiter is a lawgiver, but a charitable \none—its alternative name of Jove gives us our word “jovial.”\nRules  Sagittarius; co-rules Pisces\nDay of the week  Thursday \nMetal  Tin\nColor  Purple\nSymbol  \nJupiter in the sky\nJupiter’s circuit through the zodiac takes just under  \n12 years, with the planet spending about 1 year in  \neach sign. Consistent with the image of the well-fed  \nbenefactor, Jupiter bulges in the middle.\nJupiter in myth\nThe equivalent of Roman Jupiter is Greek Zeus and  \nBabylonian Marduk—high gods ruling over their respective \npantheons, both beneficent and autocratic. From this,  \nwe gain our astrological idea of Jupiter as lawmaker.\nJupiter in the world around us\nUnder Jupiter’s umbrella sit lawyers and legal systems, \nuniversities and colleges, religious organizations,  \npublishing houses, and the gambling industry. A Jupiterian  \nobject might be a lottery ticket or a hot-air balloon.\nOPPORTUNITIES   |   ABUNDANCE   \n|   HORIZONS   |   POSSI\nBILITIES\nGOOD FORTUNE  |   BL\nESSINGS   |   ENTHU\nSIASM   |   ZEST FOR LIFE\n"
+    },
+    {
+      "page": 73,
+      "text": "NEPTUNE\nIMAGINATION AND TRANSCENDENCE \nPictures of Neptune show a wistful and ethereal blue-green  \nplanet. In our chart, Neptune represents the desire  \nto move beyond the material world into the  \nlimitless imagination.\nRules  Co-rules Pisces\nDay of the week  No allotted day \nMetal  Neptunium\nColor  Sea green\nSymbol  \nNeptune in the sky\nFirst sighted in 1795, astronomers were unsure what Neptune \nwas; it was only officially discovered in 1846. Its orbital period  \nis almost 165 years, meaning that it takes about 14 years  \nto go through a sign. \nNeptune in myth\nGod of the sea, Neptune is the Roman equivalent of Greek \nPoseidon. An invisible god of storms and chaos, Poseidon \nruled over the ocean depths, a symbol for the mysterious \nworld of the collective unconscious.\nNeptune in the world around us\nNeptune can symbolize music, poetry, art, the film industry, \nphotography, and fashion. Mystics, visionaries, and priests  \ncome under Neptune, along with hospitals, prisons, monasteries, \nand other places of retreat or collective confinement.\nDREAMS & FANTASIES   |   IMAGINA\nTION   |   SPIRITUALISM\nIDEALISM   |   ROMA\nNCE   |   SACRIFICE   |\n   CHAOS & DISINTEGRATION\n"
+    },
+    {
+      "page": 79,
+      "text": "4\nCHAPTER\nTHE \nHOUSES\n"
+    },
+    {
+      "page": 85,
+      "text": "93\nThe Houses\nTake a look at which planets fall in your 2nd house to reveal \nhow they influence your energies and focus. A full house will \npoint to this being a highly significant area of your life.\nRefine the picture by considering the signs in which your \n2nd-house planets reside and the sign on the cusp of the 2nd \nhouse in your chart.\nThe Sun  Connecting to the material world or earning your \nown income might feel like a marker of success or a reflection \nof your creative power.\nThe Moon  Emotional and material security are powerfully \nconnected, and possessions are invested with emotional \nsignificance. You like to have a nest egg.\nMercury  Communication skills can be an important resource, \nperhaps the basis for an income. Treasured possessions might \nbe books and other objects that value language. \nVenus  There is a sensual quality at play here, a desire for \nphysical contact or to be surrounded by beautiful things  \nthat bring material pleasure.\nMars  You might possess an ambitious drive to improve your \nmaterial conditions. It can be important to you to survive on \nyour own resources.\nJupiter  Feelings of abundance and a confident attitude \ntoward money mean it naturally flows in. You can feel \nfinancially buoyant no matter what your bank balance.\nSaturn  Careful and canny with money, your approach might \nbe to work hard for it and expect nothing for free. You value \npractical goods and self-sufficiency.\nUranus  Financial fortunes might be subject to sudden \nchanges, perhaps a result of not playing it safe. Income might \ncome from independent freelance sources.\nNeptune  Your value system might be guided more by a \ncharitable principle than practical considerations. Imagination \nor artistic gifts can be a source of income and self-worth.\nPluto  Material resources can be subject to change, which \nmight feel like a metaphorical death and resurrection. Such \ntimes test your survival skills and create inner strength.\nChiron  Through your own experience, you might be \nsensitive to the notion of poverty or lack of resources. Your \nwork might involve providing assistance to others.\nAries  Planets in Aries here will take action to establish and \nmaintain security. Aries on the cusp gives an independent and \nself-motivated approach to personal finance.\nTaurus  Taurus sits happily here, being associated with slow \naccumulation and the delights of the tangible. You might feel \nin rhythm with the natural world.\nGemini  Gemini brings a sense of light playfulness—so \nperhaps you don’t take this area of your life too seriously. \nIncome might come from two sources.\nCancer  You may feel a need to guard possessions, as well as \nsensitivity toward the ebb and flow of income. But you can \nalso be resourceful around personal finances.\nLeo  Your material assets can perhaps bring you a sense of \npride and self-value. Things you like to own or collect might \nhave a gilt edge to them—you enjoy good quality.\nVirgo  Thrift might be the hallmark here, and a skill at taking \ncare of the pennies so that the dollars take care of \nthemselves—with a spreadsheet to keep it all in check.\n♎Libra  Libra desires harmony, artistry, and good taste, an \napproach you apply to your possessions and material assets. \n“Going Dutch” might suit you.\nScorpio  Scorpio here can bring cycles of boom and bust, with \neach crisis building resilience and greater acumen. You prefer \nto keep your financial life private.\nSagittarius  You might prefer to make a splash than count \nthe pe"
+    },
+    {
+      "page": 91,
+      "text": "99\nThe Houses\nTake a look at which planets fall in your 5th house to reveal \nhow they influence your energies and focus. A full house will \npoint to this being a highly significant area of your life.\nRefine the picture by considering the signs in which your \n5th-house planets reside and the sign on the cusp of the 5th \nhouse in your chart.\nThe Sun  You can be a natural performer or creative artist, \nhappy to take a place in the spotlight or put your heart into \nyour creative work. You seek attention and praise.\nThe Moon  Attuned to the playful world of children, you \nhave an easy creativity and fun-loving side. You might also \nwant your personal needs to be placed center stage.\nMercury  Your creative impulse might involve words and \ncommunication—inventive writing or storytelling. You seek \npraise for this, since this is a side of you that can shine.\nVenus  Romance needs to be at the heart of a relationship for \nyou, a sense that your worth and attractiveness are admired. \nCreative skills might involve design or fashion.\nMars  For you, sexual potency might be a form of \nself-expression. Games are competitive, and having children \ncould bring your fighting spirit to life.\nJupiter  You might opt to have a large family or just enjoy \nindulging in vacations and recreation. Taking time out to play \ncan be rejuvenating.\nSaturn  Your chosen pastime might be chess or something \nequally strategic. Creative work can become a honed skill,  \nfrom event planning to sculpture or pottery. \nUranus  You have potential for genuine creative originality, \nalthough your challenge might be to allow it to land and take \nform, because each idea is rapidly superseded by the next.\nNeptune  Music or poetry might appeal to you, and you may \nfind it easy to lose yourself in artistic activities. These can \nbring a sense of emotional and spiritual fulfillment.\nPluto  Having children, or being creative in other ways, can \nbe an all-consuming and transformative experience, giving \nrise to a deep and unassailable power within yourself.\nChiron  Perhaps adoption or surrogate children are part of \nyour experience. Any form of play can help to nurture the \nwounded child within, both in yourself and in others.\nAries  Sports might need to be action-packed, a way for you \nto use up spare energy, or perhaps with an edge of danger. \nTaking a risk might come naturally to you.\nTaurus  Earthy media might appeal when it comes to your \nchoice of creative activity—making tangible objects. A \nsensuous quality pervades romantic encounters.\nGemini  For you, a love affair might be a meeting of minds, \nand attraction to lovers relies on intellectual connection. Your \nform of creativity is likely to be verbal.\nCancer  It might be your caretaking skills that give you a \nsense of pride—or the family you have created. A vacation by \nthe ocean or in a place of retreat might suit you.\nLeo  Leo here reinforces the power of creativity as a means by \nwhich to feed a sense of life being joyful and meaningful. You \nbring warm-heartedness to love and romance.\nVirgo  You apply precision to your creative projects but might \nalso have a tendency to hide your creative light. A working \nvacation might suit you more than complete relaxation.\n♎Libra  For you, a creative work must be beautiful and \nwell-designed, and you aim for perfection in this respect.\nWith lovers, too, you find classical beauty attractive.\nScorpio  Romance can be supported by loyalty and passion— \nalthough it might sometimes be broken by"
+    },
+    {
+      "page": 97,
+      "text": "106\nThe Houses\n8th HOUSE\nINTIMACY AND SHARED POSSESSIONS\nThe 8th is a house where we encounter many of the darker aspects of life. Here, we \ncan experience loss and emotional crisis, but also deep transformation. The 8th covers \nthe intimacies of relationships and the complexities of shared finance.  \nDeep, dark, and mysterious\nDeath, loss, and compromise \nof power are all dimensions \nof the 8th house, \nchallenging our sense  \nof personal control. Much  \nof what belongs here is \ndeeply private and arouses \nprimitive and powerful \nemotions. \nShared resources\nThe 8th house describes \nshared money and assets, \nmaking this a potentially \ndeadly battle ground if we \nare not careful. The 8th is  \na territory of trust and \nmistrust, and a house  \nof debt and financial \nobligation.\nIntimate relationships\nAfter the contractual \nrelationships of the  \n7th, the 8th house takes us \ninto the murkier territory  \nof emotional bonds and \nunder the surface of our \nrelationships: the power \nplays, the unspoken \ncontracts, and deeper \nintimacies. \nDeath and transformation\nCrisis and loss followed by \nregeneration tend to be \nexperienced here. Often \nwhat we encounter in the \n8th are the suppressed \nemotions of the past,  \nbut experiences of \ndisempowerment can \nbecome a place of  \nenormous inner strength.\n"
+    },
+    {
+      "page": 103,
+      "text": "112\nThe Houses\n11th HOUSE\nFRIENDSHIP AND COMMUNITY\nThe 11th house is where we find our place within the wider group, through \nfriendships and social networks of all kinds. Your planets here suggest the \nunique role you play as a member of the team. \nFriends and allies\nIf the 5th is the house  \nof play, the 11th is the \nplayground, where we share \nspace and time with others \nand create a social circle of \nfriends and acquaintances. \nHere, we find our allies and \nsupporters, those whose \nactions benefit us. \nTeamwork\nAside from our social circle, \nthe 11th suggests all kinds \nof group endeavors— \ncouncils, committees, and \nclubs—and therefore our \nmode of participating in  \nand contributing to \nsomething larger than  \nour individual concerns. \nHopes and wishes \nThe 11th reflects our hopes \nfor the future and the \nextent to which we believe \nlife will buoy and support \nus. It shapes our attitude \ntoward making plans and \nthe strategies we can \nusefully employ to bring \nthem to fruition.\nCommon goals\nThe 11th says a good deal \nabout our political views \nand social ideals—our view \nof utopia and how society \nshould be. The extent to \nwhich we are prepared to \nlay aside personal glory  \nfor the good of the group  \nis revealed here.\n"
+    },
+    {
+      "page": 109,
+      "text": "119\nYour Birth Chart: An Overview\nAscendant\nWhere the zodiac \nintersects with the \nhorizon in the east. It \nsymbolizes birth and \nnew beginnings.\nBirth chart basics\nHere, we can see the symbols, \nangles, houses, and aspects to \nlook out for in your own chart. \nAspects \nAngular relationships between \nplanets and other points in the \nchart. They create the chart’s \ninner dynamics. \nZodiac signs \nEach planet and point in the \nchart occupies one of the  \n12 zodiac signs.\nHouses \nThe 12 sections of the \nchart, each representing a \nparticular territory or area \nof life experience.\nPlanets \nAstrology recognizes 10 planets, including the \nSun, Moon, and Pluto. Chiron can also be included. \nEach represents a particular human drive.\nNodes \nWhere the paths of the Sun and \nMoon cross in space. Symbolizes fated \nmeetings and experiences and the \nbalancing of past and future.\n Mc\n Ic\n Dc\n Ac\n\n\n\n\n\n\n \n\n\n\n\n☊\n☋\nDescendant\nWhere the zodiac \nintersects with the \nhorizon in the west, \nexactly opposite the \nAscendant. It symbolizes \nrelationships.\nMC\nWhere the zodiac intersects with  \nthe meridian above the horizon. It \nsymbolizes career and achievement.\nIC\nWhere the zodiac intersects with \nthe meridian below the horizon. It \nsymbolizes home, roots, and family.\n"
+    },
+    {
+      "page": 115,
+      "text": "125\nThe Moon's Nodes\nSouth or Descending Node \n(cauda draconis—the tail of the dragon )\nNorth or Ascending Node\n(caput draconis—the head of the dragon)\nThe Nodal Axis\nMoon at its  \nhighest point\nThe Sun\n's path (t\nhe eclipti\nc)\nThe Moo\nn's pat\nh\n☊\n☋\nThe Nodes represent cycles of crisis, re-evaluation, \nrelease, and then forward motion, a pattern that  \ncontinues throughout life.\n"
+    },
+    {
+      "page": 121,
+      "text": "132\nYour Birth Chart\nNot strictly an aspect pattern, this is a conjunction of at least three  \nplanets occupying the same sign or house. It creates a concentrated,  \neven obsessive, focus on one area of life. Conjunctions have a subjective \nquality, so with a multiple conjunction the person may resist challenge \nfrom outside opinions and influences. Equally, it can represent an area  \nof expertise.\nASPECT PATTERNS\nDYNAMIC FORMS IN THE CHART\nAstrology recognizes a number of patterns \nformed from particular combinations of \naspects. Each pattern represents a \ncomplex psychological dynamic, a \nsource of tremendous talent and \npotential but also its own \ninherent challenges. \nTHE STELLIUM\nPlanetary connections\nAspect patterns are combinations of three or more \nplanets which together create an inherent pattern  \nof behaviour within you.\nPlanet 3\nPlanet 1\nPlanet 2\nThe T-square (or T-cross) \nThe Grand Cross\nThe Kite \nThe Grand Trine\nThe Minor Grand Trine\nThe Hard Rectangle \nThe Mystic Rectangle\nThe Finger of the World\nThe Yod\nKEY\n"
+    },
+    {
+      "page": 127,
+      "text": "Your Birth Chart\n138\nREADING THE  \nWHOLE BIRTH CHART\nFIRST STEPS\nBefore you apply your knowledge to interpreting your birth \nchart, it is helpful to methodically review the role each chart \nfactor plays in building the whole picture of \nyour character and life story. Here is an \noverview of what you need to consider.\nTake notes along the way.\nSTEP 1: FIRST IMPRESSIONS\nA missing polarity, mode, or element will powerfully shape a  \nperson’s character and motivations. We can also consider the  \ndistribution of planets around the chart.\n› Polarity/element/mode balance \nUse just the seven personal and social planets\n(Sun through Saturn) and the Ascendant. \n\nThe Sun \n\nThe Moon \n\nMercury \n\nVenus \n\nMars \nPERSONAL PLANETS\n\nJupiter \n\nSaturn \nSOCIAL PLANETS\n› Distribution of planets\nThis reveals basic orientation \ntoward spheres of public/\nprivate and self/other.\nFor this, use all 10 planets \nplus Chiron. \nUpper half \nThe upper half is above the horizon. Having the \nmajority of planets here suggests orientation \ntoward the outside world and public life.\nEast\nHaving the majority of planets  \nin the eastern half suggests a \nfocus on the self. \nWest\nHaving the majority of planets in \nthe western half suggests focus  \non relationships and collaboration. \nLower half \nThe lower half is below the horizon. Having the \nmajority of planets here suggests a life away \nfrom the limelight in a more private space.\nExample aspect pattern \nLook for any aspect patterns \n(see step 6) such as this kite. \nThese will carry significant \ninfluence in your chart.\n"
+    },
+    {
+      "page": 133,
+      "text": "145\nCase Study 1\nSun in Virgo conjunct the MC\nMercury in Virgo in the 9th \n(apex of Minor Grand Trine)\nPluto in the 9th \nUranus in the \n8th conjunct the \nNorth Node\nMars in Libra \nin the 11th \nStellium in Libra  \nin the 11th\nMoon in  \nScorpio in the 12th\nAscendant \nin Scorpio\nAmanda's birth chart \nThe 9th, 10th, and 11th are key houses, connecting \nAmanda to areas of travel and philosophy, as well as \ncommunity and the need for a public role or profile.\nCONTINUED\n46'\n24°\n00°\n07°\n46'\n27'\n07°\n23°\n25°\n03°\n12°\n16°\n13°\n20°\n12° 03°\n21°\n16°\n00°\n35°\n02°\n35'\n53'\n55'\n25°\n12°\n11°\n20°\n09'\n20°\n11°\n12°\n25°\n02°\n00°\n00°\n12°\n09'\n55'\n32'\n28'\n38'\n53'\n53'\n35'\n35'\n46'\n46'\n11'\n03'\n♌\n♍\n♎\n♎\n♏\n♎\n♎\n♎\n♎\n♎\n♏\n♏\n♐\n♒\n♐\n♋\n♌\n♊\n♉\n♈\n♈\n♓\n♓\n♑\n♉\n♊\n♊\n♌\n♌\n♍\n♍\n\n\n\n\n\n\n\n\n\n\n\n\n\n*\n13'\n59'\n14'\n29'\n13'\n00'\n53'\n38'\n□\n△\n•\n* * *\n*\n△\n△△\n△\n*\n*\n*\n Mc\n  Dc\n Ic\n Ac\n"
+    },
+    {
+      "page": 139,
+      "text": "151\nCase Study 2\nUranus, Saturn, and Neptune in the 4th suggest  \nthat home and family is a key area for Jack.\nWork\nWorking in service to an ideal, behind \nthe scenes or in a supportive role \nmight also be of interest to Jack. With \nhis current work as an estate agent, \nhe seems focused around his 4th \nhouse planets, perhaps in particular \nfeeling anchored at present by the \nsafety of Saturn in Capricorn in the \n4th – but other areas of his chart  \nmay come into prominence later in his life. Chiron in Cancer  \nin the 10th could suggest a professional mentoring role for \nhim, connected to compassion and caring – and the tight  \ntrine to his Pisces Sun might put this at the heart of his life.\n› Sun in Pisces, Sun rules the 12th \n› Virgo Ascendant\n› Chiron in Cancer in the 10th trine Sun in Pisces\nSpiritual quest\nThere is perhaps also a search for \nfaith and meaning, involving tests \nand challenges. Nothing in this area \nof Jack’s life seems easy – the \nT-squares are both linked to his\n9th house (a place where we seek \nmeaning) and his Nodes pick up the \nsquare between the Pisces Sun and \n9th house Jupiter, planet of faith and \nbelief. At some point in his life, all this may lead him towards  \na spiritual or religious crisis or quest.\n› Venus rules the 9th house and is apex of a T-Square\n› Mars and Jupiter in the 9th – Mars is part of both \nT-squares and Jupiter squares the Nodes\n› Sun conjunct the North Node in Pisces (and squares \nJupiter)\n› Low fire – only the Moon occupies a fire sign\nHome and family\nHome and family are highlighted, but \nwith conflicting needs in this area of \nlife. Uranus in the 4th seeks freedom \nand change, but Saturn (particularly \nin sensible Capricorn) seeks to feel \ngrounded and safe. His IC is in \nSagittarius, ruled by Jupiter in the \n9th, so it is no wonder he has the \ndesire to live abroad – but at times \nthis may leave him feeling like a stranger, cut off from his \nroots (Uranus in 4th) and longing for home (Neptune in 4th).\n› Stellium in the 4th house – Uranus, Saturn, and Neptune\n› Saturn-Neptune tightest aspect in the chart\n› IC in Sagittarius ruled by Jupiter in the 9th \nTravel\nJack has identified a desire to go \nabroad. There are two planets in the \n9th house of travel: Jupiter and Mars. \nJupiter is itself the long-distance \nplanet and here suggests enthusiasm \nfor far-flung places – it aspects (and \nco-rules) the Pisces Sun, and also \nrules the Sagittarius IC making it a \nperfect symbol for “living abroad”. \nMars brings an intrepid spirit of discovery and is connected  \nto the Moon (our homing instinct) and to the ruler of the 9th, \nVenus, reinforcing the travel theme.\n› Mars and Jupiter in the 9th house\n› Jupiter rules the IC and squares/rules the Sun\n› Mars squares the Moon and 9th-house ruler Venus\n"
+    },
+    {
+      "page": 145,
+      "text": "158\nUnderstanding Yourself\nCertain signs respond to change more favorably than \nothers. In particular, the signs of Taurus, Cancer, \nand Scorpio are conscious of security in one form  \nor another and will tend to hold on rather than let \nthings flow. If you have personal planets here, the \ndevil you know might feel more reassuring than a \nchange of scene. By contrast, Aries or Gemini \nwelcomes periodic change.\nThe cardinal signs Aries tends to deal best with \nchange, having all the fiery impetus of being the first \nsign. Cancer, Libra, and Capricorn possess the cardinal \ncapacity to get on with things, but the cardinal signs \nprefer to be in control. For a person with personal \nplanets in cardinal signs, change tends to be welcome \nonly if it has been self-initiated. \nThe fixed signs Lots of fixity in a chart suggests  \na tendency to stay with what you know, come hell  \nor high water. The instinct of the fixed signs is to \nstabilize—the winds of change might blow around, \nbut the person remains anchored. \nThe mutable signs These usually \nrespond positively when change  \nis in the air. If you have personal  \nplanets in these signs, you probably \nhate for things to be static and will \nspontaneously generate movement in \norder to reassure yourself that there is \nalways an alternative—even if this is just to move \nthe furniture around from time to time or choose  \na different place to go on vacation. \nYOUR ZODIAC SIGNS \nCHANGE\nHOW TO NEGOTIATE LIFE’S TURNING POINTS\nChange is inevitable, woven into the fabric of life—indeed, \nmany of us actively seek it. We each deal with it in \ndifferent ways; while some embrace it and prefer never to \nlook back, others can feel it as unwelcome upheaval.\n The instinct of the fixed signs  \n is to stabilize.\n"
+    },
+    {
+      "page": 151,
+      "text": "164\nUnderstanding Yourself\nAs the part of us that governs  \neveryday needs, attachments, and  \nsafe havens, the Moon has a lot to say \nabout the habit patterns we build up.\n\nThe Moon As the part of us that governs everyday \nneeds, attachments, and safe havens, the Moon has \na lot to say about the habit patterns we build up, often \nwithout being aware we are doing it. Being the Moon, \nmuch of this is likely to be rooted in childhood. Early \natmospheres and dynamics in our family of birth— \nparticularly fears and uncertainties, learned behaviors, \nanxieties around separation or abandonment, lack of \nsecurity, or not having our needs met—can become \ncrystallized as negative behavior patterns in later life, \nparticularly those connected to lunar things such as \neating habits and emotional intimacy. The Moon’s \npatterns are therefore the hardest to break, because  \nthey are likely to be the most deeply embedded. But \nawareness is a good start. \nIf you have the Moon in Taurus, for instance, a stress \nresponse might be to dig your heels in and become \nimmovable or to comfort yourself through food, sex,  \nor physical contact. With the Moon in Gemini, you might \nfeel stressed in very emotional situations and cut out  \nif things get too highly charged. Wherever the Moon is  \nin your chart, you can begin to examine the habits you \nhave built up and try to see where they have come from.\nUnhelpful patterns and addictions can also build up \naround the hard aspects in a chart. Venus \nsquare to Saturn suggests that the desire  \nnature has somehow not been given room to  \ngrow, which in relationships might emerge as \nbarriers to intimacy or believing that one is \nunlovable. Or Neptune opposite the Sun might \nreflect a sense of loss in connection to the father and \ntherefore a longing for the masculine power that  \nthe Sun represents. These kinds of deeper dynamics  \ncan become crystallized as entrenched beliefs we have \nabout ourselves, about other people, or about life itself. \nSelf-awareness helps to release us from these.\nYOUR PLANETS\nHABIT\nHOW TO RECOGNIZE AND CHANGE BAD HABITS\nSometimes even a good habit can eventually become a bad one if it outlives its \nusefulness. Your chart will show what kind of habits you might fall into and how  \nyou might work to break them at times when they compromise your well-being.\n"
+    },
+    {
+      "page": 157,
+      "text": "171\nLeisure\n\nMars  If you want to take up a \nsport, it is worth assessing your \nMars and playing to its strengths. If \nyou have Mars in Virgo in the 3rd,  \nfor instance, you might be better off \nchoosing a solitary activity (Virgo is  \na self-contained sign) that allows you \nto explore the local area—walking \nwould suit this. Or if you \nhave Mars in Aries, you \nmight prefer something \nmore heated and \ncompetitive, such as \nboxing or mixed \nmartial arts. Mars in \nLibra suggests fencing \nor tennis (two people on \nopposing sides politely \noutdoing each other according to a \nstrict set of rules); Mars in Sagittarius \nmight favor long-distance running.\nMars shows how you like to work  \nup a sweat—or if you like to do this  \nat all. For some, the slow burn keeps \nthem on track far better than a  \nfull-on boot-camp workout.\nChoosing a hobby or a sport\nAside from the 5th house and Mars, \nthere will always be clues in the rest \nof your chart as to what you might be \ninterested in doing in your spare time \nor what kind of athletic activity you \nmight be best suited to. For instance, if \nyou have a prominent Neptune, you \nmight be a keen photographer or enjoy \nswimming.  Or with a powerfully \nplaced Saturn, perhaps mountain \nclimbing is your thing. Chess suits  \nthe strategically minded—perhaps \nMercury in Capricorn. Calligraphy \nmight appeal to anyone with a \nMercury-Venus contact or Venus \nin the 3rd, signifying “beautiful \nwriting.” As with most things, many \naspects of your chart will be \nimplicated in your choice of pastime, \nand you might draw on a number of \ndifferent factors which, combined \ntogether in some particular activity, \ncreate the perfect day off.\nYOUR ZODIAC SIGNS \nYOUR PLANETS\nThe mix of signs in your chart creates \nyour basic temperament, which in \nturn inclines you to enjoy certain \nactivities and not others. \n\nThe fire signs tend to be \nnaturally playful, particularly  \nLeo, with Sagittarius needing \nopen space and Aries the cut  \nand thrust of competition. \n\nThe earth signs are \npractical and focused on  \nthe physical—Taurus might incline \nto gardening, Virgo to crafts, and \nCapricorn to model-making or DIY. \n\nThe air signs tend to  \nprefer civilized pursuits or  \nones involving sociable company— \nGemini enjoys reading or taking  \na class, Libra might favor the  \ngentle movements of yoga or tai  \nchi, and Aquarius likes something \nintellectually stimulating. \n\nThe water signs imply  \nthe use of imagination or \nemotional involvement: Cancer  \nmight like nothing better than a \nmagical day by the ocean, Scorpio  \ntends toward activities that involve \nendurance, and Pisces (like its ruler \nNeptune) suggests image-making, \nperhaps watercolors or photography.\nThe Planets see pp.62-85\n"
+    },
+    {
+      "page": 163,
+      "text": "177\nRelatives\nIt is possible to see your relationship to sisters \nreflected in Venus in your chart and your \nrelationship to brothers reflected in Mars. \nYOUR ZODIAC SIGNS \nYOUR PLANETS\n\nThe Sun and Saturn round out the picture of \nauthority in different ways. Again, this can attach \nitself to either parent, although the Sun often has a \nmasculine quality, and we find it being descriptive of the \nrelationship we make to our father, as well as the kind of \nfather a man might become.\n\nThe Moon is a traditional significator of the mother, \nalthough more accurately it describes our need for \ncaretaking and nourishment and the relationship we \nmake to those who provide it—as well as the kind of \nmother, caretaker, cook, and provider we might become.\nIt is also possible to see your relationship to sisters \nreflected in Venus in your chart and your relationship  \nto brothers reflected in Mars as symbolic images of the \nyoung feminine and the young masculine respectively. \nMercury can suggest your relationship to your siblings.\nThe mix of signs in your chart can be helpful in \nunderstanding the role you play within your family.\nFor instance, each element behaves quite differently.  \nIf you have a predominance of water in your chart but \nyour family has an emphasis on air, you might feel like you \nspeak a different language to the rest of the household, \none that requires you to rationalize your intuitions.  \nTwo parents with strong earth content in their chart may \nstruggle to understand their fire child, who seems like a \ncuckoo in the nest: boisterous, fearless, and full of life.\nAside from this, certain signs are associated more readily \nwith certain sorts of relationships. For instance, Gemini is \nthe sign of the twins, and if you have personal planets in \nGemini (particularly your Sun or Moon, or your chart ruler), \nthen your siblings may have played quite a formative role \nin your life. Alternatively, Cancer suggests an affinity with \na mothering role, and perhaps by extension a particular \ncloseness to mother herself—and Capricorn to father.\nThe Planets see pp.62-85\nZodiac Signs see pp.32-57\n"
+    },
+    {
+      "page": 169,
+      "text": "183\nMarriage \n\nSaturn initializes a process of development  \nwithin each of us that demands our dedication. If \nSaturn falls in one of your relationship houses, or it \naspects the Moon or Venus in your chart, you might seek \na long-term commitment.\n\nThe Moon will always be conjured in a marriage or \nromantic partnership—the Moon is our basic ground, \nthe needs that must be met in order for us to thrive.\n\nVenus is the beautiful garden of attraction, respect, \nand sensual love that makes a marriage more than \njust an exercise in mutual caretaking. \nYOUR ZODIAC SIGNS \nYOUR PLANETS\nWe can get an overview of the signs by exploring how  \nthe three modes—cardinal, fixed, and mutable  \nsigns—might operate in relationship. Apply this to your own \nchart by counting the number of planets in each mode. You \ncan also look at the signs on the cusp of your relationship \nhouses, the 7th and the 8th.\nThe cardinal signs (Aries, Cancer, Libra, and Capricorn) \nlike to keep things moving—a relationship may need to feel \nas though it is going somewhere. Even for safety-conscious \nCancer, a partnership may begin to feel stale if there is no \nclear trajectory or sense of development.\nThe fixed signs (Taurus, Leo, Scorpio, and Aquarius)  \nfare best when there is stability and time to put down \nroots. Although Scorpio conjures the idea of deep \ntransformation, this tends to happen over a long period  \nof time. For these signs, it is important to stay the course.\nThe mutable signs (Sagittarius, Gemini, Virgo, and \nPisces) can be wary of commitment. If you have these \nsigns dominant, this does not mean you are incapable of a \nlong-term relationship, merely that the relationship needs \nto have built-in flexibility or variety to engage your focus \nyear after year—otherwise, you can feel trapped or bored. \nFreedom is a key ingredient.\nThe Modes see pp.28-31\nThe Planets see pp.62-85\n"
+    },
+    {
+      "page": 175,
+      "text": "190\nUnderstanding Yourself\nThe 2nd house – what’s mine is mine  \nIf you want a window onto your own \npersonal finances, look to your 2nd house. As \never, the 2nd consists of an interweave of factors – \nany planets here and the planets they are making aspects  \nto, plus the sign on the cusp and its planetary ruler/s. What \nyou will find here describes both your attitude to money and \nyour material circumstances, the latter arguably arising from \nthe former.\n \nThe 8th house  \n– what’s ours might be a problem\nThe 8th describes everything to do with money and goods \nthat are shared with a partner – anything from major items \nsuch as a mortgage or a shared bank account to everyday \nthings such as the weekly shared shopping. They say that \nmoney is one of the flash points in any relationship and we \ncan perhaps see the connection here to the deeper meanings \nof the 8th, as a place where a relationship can easily slip into \na power battle. No doubt many an argument might be averted \nby understanding better the kind of feelings that are evoked \nfor us when \nit comes to \njoint decisions \nover money.\nImplicit with the 8th is \nthe idea of indebtedness, so \nwhatever planets and signs you have \nhere will show how comfortable you feel around \nthis. For example, Aries on the cusp of the 8th might mean \nyou charge headlong into financial arrangements. On the \nother hand, a water sign on this cusp might suggest an \nemotional approach and being best guided by your instincts.\nYOUR HOUSES \nMONEY\nHOW TO HANDLE FINANCIAL MATTERS\nThe axis of the 2nd and 8th houses supplies much of our information \nconcerning money and finance, showing the interplay  \nbetween personal and shared material resources.  \nVenus adds to our definition of worth and value. \n2nd house see pp.92-93\n8th house see pp.106-07\n"
+    },
+    {
+      "page": 181,
+      "text": "7\nCHAPTER\nASTROLOGY IN\nLIFE EVENTS\n"
+    },
+    {
+      "page": 187,
+      "text": "Planning Celebrations\nThe Sun\nJupiter\n203\n\nThe Sun and Jupiter \nboth have a celebratory feel \nto them—or at least, whatever signs \nand houses they occupy in your \nchart will say something about \nwhat, or who, brings out a sense  \nof goodwill, generosity, and \nplayfulness in you. \nWith the Sun in the 7th, for \ninstance, you can make other \npeople feel special and golden—or in \nthe 6th, work colleagues can bring \nout your sunny side.\nJupiter in Sagittarius or Leo might \nnaturally lean toward joviality and \ngood cheer—Jupiter in Capricorn or \nVirgo might be more circumspect but \nare more likely to keep the party \nbudget under control.\nYOUR PLANETS \nThe Sun see pp.62-63\nJupiter see pp.74-75\nYOUR ZODIAC SIGNS \nSome signs are naturally more celebratory than others, and inevitably \nit tends to be people with the fire and air signs well-represented in \ntheir charts who enjoy a good party. Water and earth signs tend to \nbe more introverted as a rule, and if your chart has a predominance  \nof personal planets in these signs, you might be more inclined toward \nlow-key events.\nEach sign will have its own style of celebrating—if you are a  \nLeo, you enjoy being at the center, bringing sunny warmth to the \nproceedings; by contrast, Cancer suggests a preference  \nfor family gatherings or enjoying time with  \ntrusted friends. \nKEY TRANSITS\nTransits of Jupiter can bring optimism and party spirit, \nputting you in the mood for festivities or indicating a time \nwhen you would rather play than work.\nYou can also chart the transiting Sun through the houses in your chart—it \ntakes 1 year to go around. The weeks when it travels through your 5th will \nfeel very different to its passage through the 12th, the former a time to be \ncreative and festive, and the latter a time for escape or solitude. The Sun returns \nto its own place at your birthday—a day of celebration, naturally.\nLeo see pp.40-41\nCancer see pp.38-39\n"
+    },
+    {
+      "page": 193,
+      "text": "210\nLife Events\nYOUR HOUSES \nThe 5th house The experience of pregnancy and birth is  \nreflected here, and the powerful, creative act of bringing a child  \ninto the world.\nIf you have Jupiter here, perhaps you want a large family, and  \nchildren feel like gifts from the gods. Saturn slows things down,  \nperhaps bringing children later in life or placing the focus on solo \nparenting or developing parental self-reliance. Chiron here might \nmanifest as adoption or fostering. \n \nThe 4th house is the house of home, the crucible or container  \nof the family. It is our foundation, reaching down into the past— \n it offers a sense of family legacy and dynasty.\n \nThe 10th house suggests your role of parent as responsible \nguardian; any planets you have here, and the sign on the cusp,  \nwill color this for you.\n\nThe Moon is a key player when  \nit comes to having children and \nlooking after a family. Your own style of \ncaretaking will be shown by your Moon \nplacement by sign, house, and aspect, \nand you can think about what your \nstrengths and challenges might be in \nthis respect.\nFor instance, if you have the Moon  \nin Leo, you can easily identify with the \nplayful world of children and be master \nof the bedtime story or coming up with \nfun things to do on a rainy afternoon. \nBy contrast, if you have the Moon in \nVirgo, your focus may be toward \nphysical well-being and establishing \nregular routines.\nYOUR PLANETS \nSTARTING \nA FAMILY\nHAVING CHILDREN AND BEING A PARENT\nThey say there is never a right time to have children, but astrology shows \nthat children come along when a key aspect of a chart is highlighted—\nclassically, the 5th house of children. Indeed, your child’s chart represents \nyour transits at that time, reflecting what the experience means for you.\n5th house see pp.98-99\n4th house see pp.96-97\n10th house see pp.110-111\nThe Moon see pp.64-65\n"
+    },
+    {
+      "page": 199,
+      "text": "\"EVERY TRANSIT HAS A \nPURPOSE AND CARRIES \nA PERSONAL MESSAGE \nIF WE ARE PREPARED  \nTO ASK THE RIGHT \nQUESTIONS AND \nENGAGE WITH WHAT \nIS GOING ON.\"\nClare Martin, Mapping the Psyche:  \nVolume 3: Kairos—the Astrology of Time\n"
+    },
+    {
+      "page": 205,
+      "text": "Separation \nNeptune\nPluto\nUranus\n223\nCase study\nThe key houses in Melanie’s chart are \nthe 4th and 5th. The 4th contains her \nchart ruler Moon in Virgo, and a tight \nVenus-Pluto conjunction in Libra. This \nplaces great emphasis on family life and \non relationship as its foundation. \nPerhaps she perceived her own parents \nas tightly bonded—a “power couple” \n(Venus-Pluto in Libra in 4th). \nFive planets in the 5th, including the \nSun, makes this house hugely important, \ntoo. It is the house of children, but also of \nromance and of creativity. For Melanie, \nMars-Uranus here indicates a need for \nromantic excitement—very different \nfrom the stable, mature partner of \nher Capricorn Descendant. \nTransiting Pluto was on \nher Descendant at the time, \nsoon to square the \nMars-Uranus. The \nrelationship might prevail \nif she can release this \nenergy within herself \nthrough feeding her \ncreative independence.\nYOUR ZODIAC SIGNS \nYour Descendant sign\nThe sign on your Descendant is potently \ninvoked in relationships, so it is worth \nexploring this because it reflects  \nexperiences that can make or break  \na partnership. For instance, with a \nTaurus Descendant, you might \nlook for material security from your \npartner and feel let down if this is \ncompromised. Similarly, a Scorpio \nDescendant implies an exchange \nbased on deep passion—unconscious \ntesting of your partner’s loyalty can \nsee the relationship falter by  \nbringing about the betrayal that \nScorpio most dreads.\nMelanie has been married to \nPaul for 15 years, and they have \ntwo children. She is no longer in \nlove with him and feels restless.\nThe Descendant see pp.120-121\nPeople often break up under transits to the Descendant or its ruler, to planets in  \nthe 7th or 8th houses, or to Venus or the Moon; transits from Uranus, Neptune, \nor Pluto are often at work during a relationship’s critical times.\nUranus transits coincide with sudden events and realizations—this planet \ncan bring separation or make us act without caution. Neptune transits \ncan feel like moving through fog, and one strategy is not to make a \ndecision until it clears. Pluto can feel inexorable, taking away \nour control—perhaps the only way is to submit and trust \nour eventual emergence from darkness into  \na new chapter.\nKEY TRANSITS\n"
+    },
+    {
+      "page": 211,
+      "text": "230\nLife Events\nYOUR HOUSES \n \nThe IC and the 4th house describe \nhome, both as a physical place and as \nan inner sense of roots, safety, and \nfoundation.  \nIf you have Jupiter in the 4th, it might \nfeel natural to you to travel around, or you \nmight even choose to live abroad—or with \nUranus here, you may experience many \nchanges of address. With the Sun or Moon in \nthe 4th, you might be so strongly connected \nto home and homeland that uprooting \nyourself will not be easy—your Sun here \nsuggests your life revolves around home in  \nsome way, and the Moon that your emotional \nwell-being is closely tied to it.\n\nThe Moon is our interior sense of safety—not just  \nour own behavior patterns that bring this about, but  \nalso the kinds of people, experiences, places, and \natmospheres that help us to thrive. Just the sign your \nMoon occupies will give major clues as to how you might \nfeel about relocating; the Moon in Aries, for instance, \nimplies willingness to leap into the unknown, whereas  \nthe Moon in Cancer might find it hard to cut ties.  \nA strategy with Moon in Pisces might be  \nto choose a peaceful environment and take \nyour time to settle into the energy of your \nnew place.\nYOUR PLANETS \nRELOCATING\nNAVIGATING A CHANGE OF RESIDENCE\nRelocating tends to be one of life’s more \nstressful events. This is perhaps not surprising, \nsince from an astrological point of view, the \nareas of the chart that indicate home are also \nplaces of deep emotional connection.\nThe Moon see pp.64-65\nThe IC see pp.122-123\n4th house see pp.96-97\n"
+    },
+    {
+      "page": 217,
+      "text": "236\nLife Events\nYOUR HOUSES \n \nThe 6th house suggests the approach you can \ntake to support efficient physical (and therefore \nemotional) functioning. Health issues may not arise \nunder transits to the 6th, but if they do, it is useful  \nto strengthen your natal planets there and try to \nunderstand the deeper significances of the transit.\n \nThe 12th house is traditionally the house of \nsickness. That’s not to say that you are likely to \nget ill if you have planets here—more that they can \nrepresent unresolved emotional material. For instance, \nif you have the Moon here, you might not express \nhow you feel—a transit to that Moon might release \nthose feelings, coinciding with a period of emotional \nand physical stress. \nEach planet can be thought of as a process—Mercury \nmoves things from A to B, Jupiter expands, Saturn \ncontracts, and so on. Like the signs and houses, these \nprocesses are both physical and psychological, and \nunderstanding the stresses you are under psychologically \ncan help you to understand physical symptoms in a wider \ncontext, and vice versa; the one often echoes the other.\nIn this sense, your whole chart is the key to health, and  \na health issue can arise under a transit to any planet—\nperhaps the soul speaks through symptoms, expressing \nsome of the deeper issues connected to each planet.\nYOUR PLANETS \nHEALTH ISSUES \nSUPPORTING YOUR WELL-BEING\nWhen you acknowledge the needs and rhythms of your chart, it can support your health and \nwell-being. The 6th and 12th houses are traditionally the houses of health and illness, although \nultimately your whole \nchart is involved.\n6th house see pp.100-101\n12th house see pp.114-115\nThe planets see pp.62-85\n"
+    },
+    {
+      "page": 223,
+      "text": "      \"BECOME   \nWHAT \n YOU ARE!\"\n \nDennis Elwell, Cosmic Loom:  \nThe New Science of Astrology\n"
+    },
+    {
+      "page": 229,
+      "text": "249\nIndex\nC \nCancer 27, 38–39, 158, 165, 171, 173, 177, \n183, 193, 203, 211, 225, 234\ncharacteristics 38, 39\nChiron in 85\ndates 38\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nJupiter in 75\nMars in 71, 205, 218\nMercury in 67\nMoon in 65, 159, 212, 230\nnegative traits 39\nparts of the body 38, 237\nPluto in 83\nruling planet 38, 127\nSaturn in 77\nSun in 38, 63, 179\nUranus in 79\nVenus in 69\nCapricorn 27, 52–53, 158, 162, 171, 173, 177, \n187, 191, 232\nAscendant 193\ncharacteristics 52, 53\nChiron in 85\ndates 52\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115, 234\nJupiter in 75, 160, 203\nMars in 71, 159, 192, 218\nMercury in 67\nMoon in 65\nnegative traits 53\nparts of the body 52, 237\nPluto in 83\nruling planet 52, 127\nSaturn in 77\nSun in 52, 63, 126, 157, 179\nUranus in 79\nVenus in 69, 175, 208\ncardinal signs 28, 29\nsee also Aries; Cancer; Capricorn; Libra\ncareer and vocation 110, 122, 188–89, \n226–27\nsee also working life and relationships\ncasting a birth chart 136–37\nby hand 136\nplace of birth 136\nsoftware 136\ntime of birth 136, 137\ncelebrations 202–3\nchange 79, 158–59\nchaos and confusion 81\ncharacter delineation 19\nchild, inner 156\nchildren and child-rearing 98, 176, 210–13\nChiron 61, 84–85, 140, 168, 170, 173, 176, \n178, 202, 210, 221\ncharacteristics 84–85\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nmythology of 84\ntransits 198, 214\nin your chart 85\ncommitment, wariness of 183, 204, 208\ncommunity 55, 112\ncompassion 57, 84, 101, 105, 111, 114, 214\ncompatibility 174\ncompetitiveness 33, 71, 178, 214–15\nconfidence 75, 134\nconjunctions 131, 132, 144\nconnections and networks, making 67\ncorrespondence 20\ncourage 41, 63, 67, 71, 77, 85, 98\ncreativity 41, 55, 57, 63, 98, 156, 172–73, \n189\ncrisis and re-evaluation 124, 162\ncusp of a house 118, 120, 126, 136\nD \ndeath and loss 106, 240–41\ndeath and rebirth 83\ndebt and financial obligation 106, 234\nDescendant 23, 88, 89, 119, 120–21, 136, \n139, 223\ndetermination 49, 111, 150, 159\ndifficult times, coping with 162–63\ndisagreements, handling 218–21\ndisempowerment 83, 85, 106\ndisillusionment 57, 81\ndress and presentation 200, 235\nE \nearly education 67, 94\nearth (element) 28, 29, 30–31, 134, 161, \n163, 171, 175, 177, 179, 181, 195, 201, \n203, 204, 215, 221, 232, 235, 241\neating habits 65\neducational needs and experiences 67, 94, \n108\nelements 28, 29, 30–31, 138\nsee also air; earth; fire; water\nenergy 33, 62, 71, 90, 133, 159, 187, 192\nenthusiasm 28, 75, 146, 175\nephemeris 198\nequivocation 160, 192\nethical principles 75, 108\n"
+    },
+    {
+      "page": 234,
+      "text": "254\nAstrology\ntransits 198, 209, 211, 213, 227, 233, \n234, 239, 241\nin your chart 77\nScorpio 27, 48–49, 158, 171, 181, 183, 215, \n219, 225\nAscendant 156, 169, 200\ncharacteristics 48, 49\nChiron in 85\ndates 48\nDescendant 223\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nJupiter in 75\nMars in 71, 192\nMercury in 67\nMoon in 65, 163, 208\nnegative traits 49\nparts of the body 48, 237\nPluto in 83\nruling planets 48, 127\nSaturn in 77\nSun in 48, 63\nUranus in 79\nVenus in 69\nsecrecy 83, 187\nself-care 65, 163, 165\nself-containment 77, 178, 181\nself-expression 98, 99\nself-knowledge 18, 154, 164\nself-reflection 18, 124\nselflessness 81, 114\nsemisextiles 130, 131\nsemisquares 130, 131, 135, 192\nsensitivity 57, 147, 178\nseparation 176, 222–23\nservice, giving 81, 100, 114\nsesquiquadrates 130, 131, 135, 192\nsextiles 130, 131, 134, 135\nsexual drive and intimacy 71, 180–81\nsibling relationships 94, 176, 177, 178\nsocial awareness 112, 147\nsocial interaction 37, 61, 112, 134, 150, 193, \n200–201\nsolar potential 63, 188\nsorry, saying 224–25\nspiritual quest 81, 151\nspirituality 15, 17, 81, 194–95\nsports and exercise 51, 71, 165, 169,  \n170–71\nsquares 130, 131, 192\nGrand Cross 133\nT-square (T-cross) 133, 187\nstability 105, 158, 162, 183, 208\nstatus 23, 53, 110, 238\nstellium 132\nstoicism 77, 162, 240, 241\nstructure and clarity 77\nSun 20, 22, 26, 60, 61, 62–63, 124, 125, \n126, 140, 141, 157, 163, 164, 170, 173, \n174, 177, 179, 188, 189, 201, 203, 226, \n232, 238, 239, 240\ncharacteristics 62–63\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nmythology of 62\nin the signs 63\ntransits 198, 201, 203, 211, 227, 233\nin your chart 63\nSun-sign columns 16–17, 22\nsymbols, symbolism 21, 118, 154\nnumber symbolism 130\nT \nT-square (T-cross) 133, 187\nTaurus 27, 34–35, 158, 165, 169, 171, 191, \n231, 235\nAscendant 193\ncharacteristics 34, 35\nChiron in 85\ndates 34\nDescendant 223\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nJupiter in 75\nMars in 71, 192\nMercury in 67\nMoon in 65, 164\nnegative traits 35\nparts of the body 34, 237\nPluto in 83\nruling planet 34, 127\nSaturn in 77\nSun in 34, 63\nUranus in 79\nVenus in 69, 218\nteamwork 42, 111, 112\ntime of birth 136, 137\naccuracy 136, 137\nunknown 136\ntrade and commerce 67\ntranscendence 80, 107, 114\ntransformation and regeneration 49, 83, \n106, 146\ntransits 198\ntravel 51, 94, 108, 151, 178, 193, 230\ntrines 130, 131, 135\nGrand Trine 134\nKite 134\n"
+    },
+    {
+      "page": 235,
+      "text": "255\nIndex\nMinor Grand Trine 134\ntrue path 63\ntwins, birth charts and 118, 137\nU \nunaspected planets 141\nuncertainty 17, 18, 79, 160–61, 164\nunconventional behavior and ideas 55, 69, \n79, 115, 202\nuniqueness of you 118, 154\nUranus 18, 61, 78–79, 159, 161, 168, 172, \n176, 178, 187, 189, 208, 224, 226\ncharacteristics 78–79\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nmythology of 78\nin the signs 79\ntransits 198, 201, 205, 209, 219, 221, \n223, 227, 231\nin your chart 79\nV \nvacations, sabbaticals, and breaks 232–33\nvanity 69\nvengefulness 49, 69\nVenus 21, 23, 60, 61, 68–69, 156, 164, 170, \n171, 172, 175, 177, 179, 180, 181, 183, \n191, 208, 218, 224, 225, 235\ncharacteristics 68–69\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nmythology of 68\nin the signs 69\ntransits 198, 201, 224\nin your chart 69\nVirgo 27, 42–43, 126, 165, 173, 181, 191, \n192, 225\nAscendant 159\ncharacteristics 42, 43\nChiron in 85\ndates 42\nin the houses 91, 93, 95, 97, 99, 101, 105, \n107, 109, 111, 113, 115\nJupiter in 75, 203\nMars in 71, 171, 237\nMercury in 67\nMoon in 65, 210\nnegative traits 43\npart of the body 42, 237\nPluto in 83\nruling planet 42, 127\nSaturn in 77\nSun in 63, 189\nUranus in 79\nVenus in 69\nvitality 63, 90, 156, 180, 232\nW \nwarrior spirit 33, 71, 157, 221\nwater (element) 28, 29, 30–31, 134, 161, \n163, 171, 177, 179, 181, 195, 201, 203, \n204, 215, 221, 232, 241\nwealth, intangible 92\nwillpower 49\nwithdrawal 39, 49, 77, 114, 204, 238\nworking life and relationships 100, 110, \n151, 174, 186–87, 188–89, 226–27\nworth and value 69, 92\nwounded feelings 85\nY \nyin and yang 28\nYod (Finger of Fate/Finger of God) 135\nyouthfulness 67\nZ \nzodiac 12, 13, 14\nzodiac signs 23, 26–57, 119\nelements 28, 29, 30–31\nmodes 28, 29\noverview 26–27\npolarities 28, 29\n"
+    },
+    {
+      "page": 236,
+      "text": "256\nAstrology\nABOUT THE AUTHOR\nCarole Taylor, BA (Cantab), MA, FFAstrolS, is a \nfull-time astrologer who combines teaching, writing,  \nand client work. She is Director of Studies at the Faculty \nof Astrological Studies, where she was awarded a \nfellowship. Carole is co-author and co-editor of Journey \nACKNOWLEDGMENTS\nAuthor’s Acknowledgments\nThe author would like to thank Sue Tompkins, who over \nmany years has been an inspirational tutor, colleague, friend, \nand trusted astrological guide.\nPublisher’s Acknowledgments\nDK would like to thank Katie Hardwicke for proofreading,  \nMarie Lorimer for the index, and Megan Lea and Alice Horne \nfor editorial assistance. \nCharts  created using Solar Fire v. 9, published by Astrolabe, \nInc., www.alabe.com\nThrough Astrology. She is also a past editor of the \njournal of the Astrological Association of Great Britain \nand holds an MA in Myth, Cosmology, and the Sacred \nfrom Canterbury Christ Church University. She lives  \nin West Sussex, England.\n"
+    }
+  ],
+  "tech_pages": [
+    {
+      "page": 227,
+      "text": "Glossary 247\nmeridian at the MC and IC, the chart’s \nnorth-south axis.\nModes The three modes are cardinal, \nfixed, and mutable. Each zodiac sign is \nconnected to one of the modes. \nMutable signs Gemini, Virgo, Sagittarius, \nand Pisces.\nNatal Pertaining to birth. The natal chart is \nthe birth chart.\nNegative signs The negative zodiac signs \nare the earth and water signs.\nNodes or Nodal Axis The crossing points \nof the paths of the Sun and Moon as seen \nfrom Earth.\nOrb The space (in zodiac degrees) either \nside of an exact aspect between two \nplanets, in which the aspect is still held to \nbe effective.\nPlacidus A house system, i.e. a method for \ndividing a birth chart into the 12 houses. \nThe Placidus system is based on dividing \nthe wheel in terms of time as the Earth \nturns on its axis, rather than division \naccording to space. In the Placidus system, \nthe MC and the IC form the cusps of the \n10th and 4th houses respectively. \nPolarity The two polarities are positive \nand negative. Each zodiac sign is connected \nto one of the polarities.\nPositive signs The positive zodiac signs \nare the fire and air signs.\nQuadruplicities Division of the zodiac \ninto three groups of four signs each, \naccording to the three modes.\nQualities An alternative name for the \nthree modes. \nRetrograde An optical illusion whereby \nplanets (although not the Sun or Moon) can \nappear to move “backwards” in the sky, \ncontrary to their usual “direct” motion. This \noccurs when the Earth overtakes a \nslower-moving planet or is overtaken by a \nfaster-moving one. Retrograde motion is \nnecessary in working with transits. Many \nastrologers believe that when a planet is \nretrograde in a birth chart, it indicates a \nmore introspective or philosophical \nexpression of that planet. The idea of \nbackwards movement also suggests that \nthe person is less sure of themselves in this \narea of life, maybe feeling they need \ncontinually to digest and review, or that \nthey go against the conventional way of \ndoing things.\nRulership Each planet “rules” either one \nor two zodiac signs. The ruler of an angle  \nor house is the planet ruling the sign \noccupied by the angle or house cusp; this \nruler has influence over the affairs of that \nangle or cusp.\nSignificator A chart factor taken to \n“signify” a particular desire, drive, object, \nemotion, or type of experience. For \ninstance, Mercury is a significator for \ncommunication, the Descendant is a \nsignficator for relationships.\nSingleton A planet which alone occupies \na particular polarity, mode, or element. It \nforms the main funnel for the qualities of \nthat polarity, mode, or element.\nTable of houses A reference book used \nby astrologers when calculating a birth \nchart by hand. It lists the zodiacal position \nof the Ascendant, MC and intervening \nhouse cusps for different times of day at \ndifferent latitudes.\nTransit The movement of a planet around \nthe chart. Each planet moves through \nhouses and crosses over angles, planets \nand other chart points, giving rise to \ndynamic life events.\nTriplicities Division of the zodiac into four \ngroups of three signs each, according to the \nfour elements. \nWater signs Cancer, Scorpio and Pisces.\nZodiac The “circle of animals” based on the \n12 main constellations which lie along the \necliptic (the apparent path of the Sun \nduring the year).\n"
+    }
+  ],
+  "full_text": null
+}

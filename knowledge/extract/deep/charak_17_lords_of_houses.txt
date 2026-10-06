@@ -1,0 +1,755 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 249-262
+# compiled into: houses.json (144 lord-in-house cells)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 249>>>
+
+...XVII...
+Placement of Lords of Houses
+With his hands and feet everywhere, with
+ eyes, heads and
+faces on all sides, with ears on all sides, He dwells in the
+world, enveloping all.
+Gita XIII/13
+Just as different houses of a
+ horoscope govern specific areas of an
+individual’s life, so also do the various
+planets on account of their being the
+lords of those houses. For example, the
+first house or the lagna governs the
+body or the health of the individual.
+Various aspects relating to a person’s
+body and health are, consequently,
+ judged from the lord of the lagna.
+Similarly, matters pertaining to wealth are
+judged from the second house as
+well as its lord, or those pertaining to the
+siblings from the third house and
+the third lord, and so on.
+Placement of the lord of a house in any of the twelve houses
+has specific
+relevance to matters pertaining to both houses (i.e., the house
+owned as well
+as the house occupied).
+Given below, in accordance to the classical works of
+astrology, is a brief
+account of the results produced by the placement of the
+different house lords
+in various houses. These results must be applied to
+individual charts with
+appropriate flexibility. Additional factors that must be
+considered during an
+interpretation include:
+(i)The inherent nature of the involved planet (besides
+its lordship).
+(ii)Its associations or aspects.
+(iii)The state of the planet in the vargas or
+divisional charts.
+
+<<<PAGE 250>>>
+(iv)The operating dasha to determine the time when a
+promise fructifies.
+Lagna lord in different houses
+The lord of the lagna, no matter
+whether a benefic or a malefic by nature,
+promotes the promise of the house it occupies.
+First House: Of sound health;
+long-lived; valourous; thoughtful; very fickle;
+having two wives; adulterous; owns
+and benefits from landed property.
+Second House: Learned;
+prosperous; religiously inclined; long-lived; sober;
+selfrespecting; having
+several wives; blessed with many virtues; earns from
+land and horses.
+Third House: Very courageous;
+like a lion; prosperous; wise; selfrespecting;
+having two wives; blessed with
+brothers and relatives.
+Fourth House: Derives
+ comforts from mother; having several brothers;
+sensuous; virtuous; good in
+looks; long-lived; devoted to mother and father;
+small appetite.
+Fifth House: Easily angered;
+proud; honoured by the ruler; ordinary comfort
+from children; his first born
+doesn’t survive; long-lived; given to virtuous
+deeds.
+Sixth House: Good health;
+ destroys his opponents; frugal and rich; earns
+from lands. If afflicted, there
+occurs poor health and troubles from enemies.
+Seventh House: Brilliant;
+good looking and good natured wife. If the lagna
+lord is malefic by nature:
+bereft of wife; detached; poor or a king; wandering
+in foreign lands.
+Eighth House: Long-lived;
+ accumulates wealth; ill-health; adulterous;
+thievish; a gambler; easily
+angered; good for spiritual pursuits. If the 8th lord
+is a malefic by nature,
+he suffers from eye diseases and if benefic then good
+looking.
+Ninth House: Fortunate;
+ learned; beloved of all; worships Lord Vishnu;
+benevolent talker; endowed with
+wife, sons and wealth; very famous.
+Tenth House: Learned;
+ honoured by the ruler; all comforts from father;
+attains fame and wealth
+through his own prowess.
+
+<<<PAGE 251>>>
+Eleventh house: Manifold
+benefits; good qualities; multiple wives; famous;
+has long-lived sons; lives in
+comfort.
+Twelfth House: Bereft of
+ bodily comforts; engaged in unworthy pursuits;
+lives in a foreign land. If
+there is no benefic association or aspect on the 12th
+house: futile
+expenditure; easily angered. Benefic aspect/association reduces
+affliction.
+Second Lord in Different Houses
+Lord of the second house is a
+wealth-earner.
+First House: Wealthy;
+thrifty; cruel; blessed with many comforts; endowed
+with sons; ever ready to
+help others but like a thorn in the flesh of his own
+family members.
+Second House: Wealthy; earns
+well; enjoys comforts; proud; having two or
+three wives; son-less; inclined to
+oppose others.
+Third House: Virtuous; wise;
+valourous; greedy; sensuous.
+Note: Second lord malefic in nature: develops
+differences with his co-borns.
+Second lord benefic by nature:
+opposed to the ruler.
+Mars as 2nd lord in the 3rd house: a
+thief.
+Second lord associated with malefics
+in the 3rd house: speaks ill of the gods
+(‘devas’ or virtuous beings).
+Fourth House: Endowed with
+ wealth; truthful; long-lived; benefits from
+father. If exalted, or associated
+with Jupiter or Venus, the native is equivalent
+to a king. Mars as 2nd lord
+here is a maraka.
+Fifth House: Wealthy; famous
+for his efficiency; blessed with several sons;
+capable of earning wealth;
+sickly.
+Sixth House: Accumulates
+ wealth; destroys his enemies; earns wealth
+through his enemies.
+If associated with malefics: loss of
+wealth, and disease of anal region and
+breast.
+Seventh House: Sensuous and
+money earning wife. If afflicted by malefics,
+he becomes a physician. He and
+his wife indulge in adultery.
+
+<<<PAGE 252>>>
+Eighth House: Income from
+lands and property; diminished comforts from
+wife; bereft of comforts from
+elder brother; harmful to others; lives on alms
+and charities; suicidal
+tendencies.
+Ninth House: Wealthy;
+ industrious; ill health in childhood; healthy and
+comfortable later, till his
+end; good speaker.
+Tenth House: Sensuous;
+ self-respecting; learned; blessed with several
+women; bereft of comforts from
+progeny; earns wealth through the ruler.
+Eleventh House: Widely known;
+ efficient; respectable; ever benefitting;
+wealthy; looks after the needs of the
+many.
+Twelfth House: Courageous;
+ laborious; devoid of comforts from his elder
+child; likely to lose his wealth.
+If the second lord is benefic in nature, he is a
+renowned trader.
+Third Lord in Different Houses
+The third lord indicates activity,
+including sexual activity
+First House: Man of courage
+and self-effort; wealthy; valourous; wise but
+illiterate; inclined to adultery;
+a forger.
+Second House: Covets others’
+ wife and wealth; without valour; obese;
+disinterested in commencing a venture;
+ devoid of comforts; short-lived;
+opposed to his own people.
+Third House: Healthy;
+valourous; comforts from brothers; blessed with sons,
+wealth and comforts;
+helpful family and friends; devoted to his preceptors
+and gods.
+Fourth House: Enjoys
+comforts; wealthy; wise; opposed to his mother; has a
+cruel wife.
+Fifth House: Virtuous; blessed with
+ sons; long-lived; ever engaged in
+helping others. If malefics conjoin or aspect
+it, the wife is cruel.
+Sixth House: Enmity with
+brothers; very rich; little comfort from maternal
+uncle; desires his maternal
+aunt; eye diseases; sickly.
+Seventh House: Troubled in
+childhood, comfortable later; follower of a king;
+good natured wife.
+
+<<<PAGE 253>>>
+Eighth House: Thief; servile;
+capital punishment from the ruler; adverse for
+the siblings.
+Ninth House: Acquires fortune
+ through women; no comfort from father;
+receives help from his children;
+learned.
+Tenth House: Earns wealth
+through his own efforts; varied comforts; looks
+after a wicked woman; honoured
+by the ruler.
+Eleventh House: Foolish;
+ weak; sickly; servile; courageous; earns wealth
+through his own efforts;
+indulges in physical pleasures.
+Twelfth House: Wastes money
+in wicked pursuits; father is cruel; becomes
+fortunate through women; opposed
+to his relatives and friends; wanders in
+foreign countries.
+Fourth Lord in Different Houses
+The fourth lord deals with material
+possessions and comforts at home.
+First House: Comforts from
+mother; blessed with education, lands, vehicles,
+virtues, etc.
+Second House: Owns property;
+ courageous; proud; has a big family; an
+enchanter; given to physical pleasures.
+Third House: Generous;
+ talented; courageous; gives alms; blessed with
+servants; earns wealth through
+ his own efforts; a source of trouble to his
+parents.
+Fourth House: Owns vast
+ property; clever; sober; ever in comfort; a
+minister; well informed; proud;
+attached to his wife; a source of wealth and
+status to his father; given to religious
+pursuits.
+Fifth House: Enjoys physical
+comforts; loved by all; devoted to God; earns
+through his own efforts;
+long-lived; benefits from his father.
+Sixth House: Bereft of
+ comforts from mother; short tempered; wicked;
+thoughful; an adulterer. If 4th
+lord is a malefic, he brings bad name to father;
+if a benefic, accumulates
+wealth.
+Seventh House: Knows several
+ subjects; gives up father’s (ancestral)
+property; unable to express in an
+assembly.
+
+<<<PAGE 254>>>
+Eighth House: Lacks home
+comforts; impotent; little help from father and
+mother; cruel; sickly; wicked;
+born of a low woman.
+Ninth House: Beloved of all;
+blessed with many comforts; proud; virtuous;
+no help from father; stays away
+ from father; learned; worshipper of lord
+Vishnu.
+Tenth House: Honoured by the
+ruler; very good health; many comforts; self-
+controlled; has knowledge of
+chemicals; father may have two wives.
+Eleventh House: Generous;
+ helpful to others; talented; given to charities;
+sickly; devoted to his father;
+performs virtuous deeds.
+Twelfth House: Homeless;
+ foolish; wicked; indolent; father resides in a
+foreign land.
+Fifth Lord in Different Houses
+Lord of the fifth house deals with
+the results of one’s past karmas.
+First House: Shrewd; learned;
+ devoid of comforts of progeny; wastes the
+money of others; renowned.
+Second House: Many sons; much
+wealth; renowned; liked by women; versed
+in song and music.
+Third House: Liked by his
+siblings; an enchanter; back-biter; thrifty; selfish;
+sweet tongued; his
+children look after his brothers.
+Fourth House: Comforts from
+ mother; wealthy; wise; a minister or a
+preceptor; follows his ancestral
+vocation; devoted to his mother.
+Fifth House: Blessed with
+ learning, pride and progeny; foremost amongst
+the famous; virtuous. Fifth lord
+under benefic influence: good for progeny;
+under malefic influence: childless.
+Sixth House: Illness to
+ child; opposed by his son; many enemies; sickly;
+poor; lacks respect.
+Seventh House: Religiously
+inclined; proud; helpful to others; blessed with
+sons; devoted to gods and
+preceptors; virtuous wife.
+Eighth House: Short tempered;
+cruel; miserable; bad for progeny; disease of
+the respiratory system.
+
+<<<PAGE 255>>>
+Ninth House: High status for
+the son; renowned among his family members;
+writer of books; versed in poetry
+and music; good looking; honoured by the
+king.
+Tenth House: Famous like a
+ king; many physical pleasures; indulges in
+virtuous pursuits; good for mother.
+Eleventh House: Very learned;
+wealthy; renowned; skilled in book writing;
+blessed with many sons; firm in
+friendship; brave; enjoys royal comforts.
+Twelfth House: Deprived of
+ comforts from his children (or childless!);
+wanders in foreign lands.
+Sixth Lord in Different Houses
+Lord of the sixth house signifies
+struggle and hostility.
+First House: Ill-health;
+ proud; renowned; wealthy by his own efforts;
+virtuous; courageous; opposed to
+his own relatives and siblings; overcomes
+his enemies; reliable; good health if
+under benefic influences.
+Second House: Renowned in his
+ family; courageous; an orator; lives in a
+foreign land; duty bound; ailing;
+earns and accumulates wealth.
+Third House: Hostile to his
+ brothers; easily angered; devoid of personal
+effort; suffers in battle; wicked
+servants.
+Fourth House: No comforts
+from mother; thoughtful; hostile to others, and
+fickle, still rich; mutual
+hostility towards father; ailing father.
+Fifth House: Inconstant
+ friends and wealth; hostile to his own progeny;
+selfish; kind and happy;
+suffers at the hands of his children.
+Sixth House: Hostile to his
+own fellowmen; friendly to outsiders; ordinary
+wealth; good health.
+Seventh House: Bereft of
+ pleasures from wife; blessed with wealth and
+virtues; courageous; hostile and
+short-tempered wife; incapable of bearing
+his progeny.
+Eighth House: Ailing; hostile
+ to the virtuous; ever eager to possess the
+wealth and woman of others; unclean.
+Note: Cause of death
+depending upon the nature of 6th lord in the 8th house:
+
+<<<PAGE 256>>>
+Saturn as 6L in 8H:
+Abdominal ailments.
+Mars as 6L in 8H:
+Snake bite.
+Mercury as 6L in 8H: Poisons (and septicaemia).
+Moon as 6L in 8H:
+Hypothermia; watery diseases.
+Sun as 6L in 8H:
+Lion (carnivorous animals).
+Jupiter as 6L in 8H:
+Distorted wisdom (mental illness).
+Venus as 6L in 8H:
+Eye disease.
+Ninth House: Deals in wood;
+ fluctuating income; a non-believer in
+scriptures; opposed to his brothers;
+lame.
+Tenth House: Well known in
+his family; orator; not devoted to his father;
+opposed to his mother; lives in
+comfort in a foreign land.
+Eleventh House: Courageous;
+ proud; virtuous; gains from his opponents;
+dies at the hands of his enemies;
+suffers thefts; benefits from quadrupeds.
+Twelfth House: Hostile to the
+ learned; wastes money in wicked pursuits;
+killer of living beings; loses money
+ through quadrupeds; a wanderer; a
+fatalist.
+Seventh Lord in Different Houses
+Lord of the seventh house signifies
+partnerships and relationships.
+First House: Adulteror;
+ wicked; very clever; good in looks; given to
+physical pleasures; attached to
+ his own wife; suffers from Vaata-related
+ailments.
+Second House: Associates with
+ several women; abstains from women
+despite proximity; earns through women; slow
+in action.
+Third House: Possesses
+ spiritual strength; affectionate; wife suffers
+miscarriage.
+Fourth House: Truthful and
+religious; wife resorts to adultery; dental illness;
+associates with the
+enemies of his father.
+Fifth House: Wealthy; proud;
+virtuous; contented; his wife is looked after by
+his son.
+
+<<<PAGE 257>>>
+Sixth House: Ailing wife;
+mutual hostility toward wife; easily angered, and
+miserable; suffers at the
+hands of his wife.
+Seventh House: Good wife;
+learned; well known; suffers from Vaata-related
+diseases.
+Eighth House: Ailing or
+wicked wife; bereft of wife; adulteror; miserable.
+Ninth House: Ever inclined to
+associate with women; famous; good natured.
+Tenth House: Religiously
+ inclined; blessed with wealth and progeny;
+disobedient wife; given to physical
+pleasures.
+Eleventh House: Earns through
+ his wife; more daughters; beautiful and
+virtuous wife.
+Twelfth House: Poor; a dealer
+in clothes; expenditure through wife; deceived
+by his wife.
+Eighth Lord in Different Houses
+Eighth lord stands for obstacles and
+deprivations.
+First House: Bereft of
+physical comforts; speaks ill of gods and Brahmins;
+physical injuries; engaged
+in prohibited deeds.
+Second House: Weak-armed;
+ small wealth; loses his earnings; short-lived;
+thievish; many enemies; punished
+by the ruler.
+Third House: Indolent; bereft
+of comforts from brothers; weak; opposed to
+friends and brothers; fickle.
+Fourth House: Deceives his
+friends; bereft of comforts from mother, home,
+lands, etc.; opposed to his
+father.
+Fifth House: Limited progeny;
+wealthy; long lived; poor intelligence; suffers
+after birth of child.
+Sixth House: Ailing in
+childhood; overcomes his foes; fear from water and
+reptiles.
+Note:
+Sun as 8L in 6H:
+Opposed to the ruler.
+Moon as 8L in 6H:
+Ailing.
+
+<<<PAGE 258>>>
+Mars as 8L in 6H:
+Easily angered.
+Mercury as 8L in 6H:
+Coward.
+Jupiter as 8L in 6H:
+Diseased limbs.
+Venus as 8L in 6H:
+Eye disease.
+Saturn as 8L in 6H:
+Disease of the oral cavity.
+Seventh House: Two wives;
+abdominal disease; wicked. When the 8th lord is
+associated with a malefic,
+there is loss in business and suffering at the hands
+of wife.
+Eighth House: Long life; good
+health; deceitful; famous. If the 8th lord is
+weak, he has medium life span.
+Ninth House: Atheist; a
+sinner; covets the wife and wealth of others; wicked
+wife; a killer of living
+beings; disease of the oral cavity.
+Tenth House: Bereft of
+ comforts from father; disinclined to put in effort;
+serves the ruler.
+Eleventh House: Miserable in
+childhood; prosperous in late age; poor, if ill-
+associated; long-lived, if well
+associated.
+Twelfth House: Spends on
+wicked pursuits; cruel; sickly body; thievish.
+Ninth Lord in Different Houses
+The ninth lord denotes fortune and
+virtue.
+First House: Learned; good
+looking; honoured by the king; fortunate; small
+appetite; devoted to gods and
+preceptors.
+Second House: Sensuous;
+ blessed with wife and sons; wealthy; learned;
+likeable; disease of oral cavity.
+Third House: Very good
+looking; wealthy; virtuous; blessed with siblings,
+relatives and a beautiful
+wife.
+Fourth House: Devoted to his
+mother; famous; possesses house, lands and
+vehicles.
+Fifth House: Devoted to his
+ preceptors; religiously inclined; learned;
+fortunate sons; virtuous.
+
+<<<PAGE 259>>>
+Sixth House: Tormented by
+ enemies; no comfort from maternal uncle;
+engaged in religious pursuits; sickly.
+Seventh House: Blessed with a
+truthful, beautiful and devoted wife; virtuous.
+Eighth House: Unfortunate;
+bereft of comforts from elder brother; killer of
+living beings; wicked;
+irreligious.
+Ninth House: Very fortunate;
+good looking; virtuous; blessed with brothers;
+religiously inclined.
+Tenth House: Virtuous;
+renowned; of a high status with the king; engaged in
+religious pursuits;
+devoted to parents.
+Eleventh House: Virtuous;
+pious; continuous inflow of money; long-lived;
+engaged in religious pursuits;
+wealthy and famous.
+Twelfth House: Unfortunate;
+ loses wealth in religious deeds and charities;
+honoured in foreign lands;
+scholarly; good in looks.
+Tenth Lord in Different Houses
+The tenth lord indicates functions
+of the native.
+First House: Learned;
+virtuous; sickly in childhood, healthy later; attains to
+progressively
+increasing wealth; devoted to father; hostile to mother.
+Second House: Virtuous;
+wealthy; honoured by the ruler; given to charities;
+opposed to his mother;
+avaricious.
+Third House: Valorous;
+ virtuous; good speaker; righteous; blessed with
+brothers, servants, etc.;
+inclined to oppose his near and dear ones.
+Fourth House: Prosperous;
+virtuous; blessed with lands, horses, vehicles and
+physical comforts; devoted
+to his mother and father.
+Fifth House: Blessed with
+wealth, progeny and learning; healthful; engaged
+in pious deeds; favoured by
+the ruler; fond of song and music.
+Sixth House: Tormented by
+foes; poor despite being skilled; no comfort from
+father; quarrelsome;
+healthful.
+Seventh House: Good wife;
+virtuous; thoughtful; engaged in pious deeds.
+Eighth House: Long-lived;
+ talks ill of others; reluctant to undertake a
+venture; cruel; wickedly
+disposed.
+
+<<<PAGE 260>>>
+Ninth House: Blessed with
+ wealth and sons; a king or his equal; good-
+natured; worthy friends.
+Tenth House: Truthful;
+valorous; very efficient, and blessed with comforts;
+benevolent towards his
+mother.
+Eleventh House: Blessed with
+ riches, sons and virtues; truthful; ever
+contented; long-lived; cared for by
+the mother.
+Twelfth House: Clever;
+ worrisome; frightened by opponents; suffers
+expenditure through the king. If
+the 10th lord is a malefic, native wanders or
+works in a foreign land.
+Eleventh Lord in Different Houses
+The eleventh lord is a multiplier.
+First House: Wealthy; of
+Sattvika nature; writer of poetry; treats everyone
+equally; regular inflow of
+money; strong and brave; short-lived (according to
+some).
+Second House: Very wealthy;
+blessed with comforts and spirituality; given to
+religious pursuits and
+charities; sickly; short-lived.
+Third House: Very efficient;
+many brothers; destroys his enemies; afflicted
+by abdominal pains.
+Fourth House: Wealthy through
+the mother; blessed with lands and houses;
+goes on pilgrimages; long-lived;
+ devoted to his father; inclined to do the
+appropriate thing at the appropriate
+time.
+Fifth House: Learned; engaged
+ in religious pursuits; lives in comfort;
+virtuous sons; in mutual harmony with
+his father.
+Sixth House: Sickly; cruel;
+ tormented by foes; resides in a foreign land;
+powerful enemies. If the 11th
+ lord is a malefic: native suffers death in a
+foreign land at the hands of a
+thief.
+Seventh House: Virtuous;
+sensuous; generous; subservient to his wife; earns
+through women-folk;
+long-lived;high status.
+Eighth House: A failure;
+long-lived; his wife dies before him; sickly.
+
+<<<PAGE 261>>>
+Ninth House: Favoured by the
+ruler; wealthy; truthful; immersed in religious
+pursuits; very learned.
+Tenth House: Honoured by the
+ king; self-controlled; truthful; virtuous;
+follows his own religion;
+long-lived; devoted to his mother; hostile to father.
+Eleventh House: Gains from
+all pursuits; renowned through his learning and
+worldly possessions;
+ long-lived; blessed with many sons and grandsons;
+good in looks.
+Twelfth House: Associates
+with mlechchhas (non-believers of other lands);
+sensuous; physical comforts
+from several women; spends on religious deeds;
+given to misdeeds; suffers
+chronic illness.
+Twelfth Lord in Different Houses
+The twelfth lord is a divider or a
+subtractor.
+First House: Inclined to be
+spend-thrift; weak bodied; poor; stupid; resident
+in a foreign country; good in
+ looks; unmarried or impotent; suffers from
+Kapha-related illnesses.
+Second House: Religiously
+inclined; sweet tongued; spends on good deeds;
+comfortable; fear from thieves,
+fire and the king.
+Third House: Bereft of
+ brothers, or lives away from them; looking after
+himself alone; inimical to
+others; thrifty.
+Fourth House: Devoid of
+lands, home, vehicles or comforts from mother;
+sickly; opposed by his own sons;
+miserable.
+Fifth House: Spends for the
+ sake of his son; bereft of sons and learning;
+inclined to go on pilgrimages.
+Sixth House: Short tempered;
+miserable; a sinner; hostile to his own people;
+addicted to women other than
+his own; eye disease. Venus as the 12th lord in
+the 6th house leads to
+blindness.
+Seventh House: Expenditure on
+ wife; bereft of comforts from wife; weak
+and stupid; wicked; suffers at the
+hands of his own wife.
+Eighth House: Sweet tongued;
+ medium life span; blessed with good
+qualities; acquires wealth.
+
+<<<PAGE 262>>>
+Ninth House: Selfish; hostile
+ towards friends and preceptors; goes on
+pilgrimages.
+Tenth House: Little comfort
+from father; loss of money through association
+with the ruler; averse to
+other’s wives; accumulates wealth for his children.
+Eleventh House: Rich; suffers
+ losses even if there are combinations for
+wealth in the chart; long-lived;
+famous; truthful.
+Twelfth House: Spend-thrift;
+easily angered; sickly; short-lived; looks after
+the cattle; well-known.
+Points to Remember
+The above mentioned results must be applied cautiously.
+ The following
+points must be taken care of:
+1. Planets which own two houses represent both the
+houses and, therefore,
+give results pertaining to both the houses.
+2. When, because of the dual lordship, mutually
+ contradictory results are
+indicated, they get cancelled.
+3. When, because of the dual lordship, different
+results are indicated, they
+come to pass.
+4. Strong planets produce full results. When the
+planets are weak, the results
+manifest weakly.
+5. Any results indicated tend to occur when an
+appropriate dasha operates.
+Note:
+In the researches being published by our academic group in
+Delhi, we
+have been using the placements of different house lords in a very
+innovative
+way. For example, the 11th lord in the 12th house can mean an elder
+brother
+or sister settling in a foreign country, and also import or export
+business, etc.
+The new meanings in the context of changed times must not be
+lost sight of
+lest we commit mistakes in interpreting a chart.

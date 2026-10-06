@@ -1,0 +1,359 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 429-437
+# compiled into: transits.json (vedha + 12-house results)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 429>>>
+
+...XXIX...
+Gochara or Planetary Transits
+That moves, That moves not; That is far off,
+That is very near;
+That is within all this (manifestation), (and) That is
+without all
+this.
+Ishavasyopanishad, Sl
+5.
+A horoscopic chart is like a still
+ picture of the zodiac and the planets
+which are otherwise in a state of flux.
+The horoscopic chart indicates the
+position of planets at the time of birth.
+The constant movement of planets,
+however, continues, and in this process the
+ various planets transit over
+sensitive areas of the horoscope. This makes
+occurrence of specific events
+possible. The sequence of dashas indicates the
+ sequence of events that
+happen in an individual’s life at appropriate moments.
+ Transit of planets
+helps us clinch the moment of occurrence of events very
+accurately.
+By the foregoing it is meant that the horoscopic chart
+carries a promise
+which the dasha pattern unfolds in time. The transits confirm
+the unfolding
+of that promise at a given time. The transits are thus
+subservient to the natal
+chart and its dasha pattern. They confirm the promise
+ in the chart and
+indicate its fructification.
+Gochara from the lagna or the Moon?
+Classically, the transit of planets in different houses is
+considered from
+the position of the Moon in the natal chart. The sign occupied
+by the Moon
+in the natal chart is known as the Janma Rashi of the native.
+ Different
+planets are said to produce different results when they transit the
+ various
+
+<<<PAGE 430>>>
+houses considering the Janma Rashi as the lagna. In north India,
+astrologers
+make a separate Chandra Kundali, or the lunar chart, marking the
+Moon sign
+as the lagna. This is used as an alternate horoscope as well as a
+chart for
+reckoning transits.
+It may, however, be pointed out that transits considered
+from the lagna
+appear to be working as well in actual horoscopes. They must,
+therefore, be
+applied to the natal chart also. Their results are perhaps more
+individualised
+when they are considered from the lagna, than from the Moon.
+Since classical works mention the results of transits in
+ relation to the
+Moon, they will be briefly described here a such. They can be
+equally well
+applied to the lagna.
+Transits over Houses
+Different planets produce benefic or malefic results when
+ they transit
+various houses considered from the house occupied by the Moon in
+the natal
+chart. Good results produced by the planets transiting certain houses
+ are
+obstructed by other planets occupying certain other specific houses. These
+obstructing planets are said to produce what is called ‘Vedha’. Hereunder,
+the
+houses of benefic transits and the corresponding Vedha positions for each
+planet are being given.
+Sun
+Benefic transits:     3,   6,   10,       11
+Vedha positions:    9,   12,       4,   5
+Note: This means that the Sun produces benefic results
+when transiting the
+third house, unless there is an obstructing planet in the
+ninth house, from the
+Moon (or lagna!). Similarly, its sixth house transit is
+good unless obstructed
+from the twelfth house, and so on.
+Moon
+Benefic transits:     1,   3,   6,   7,   10,       11
+Vedha positions:    5,   9,   12,       2,   4,   8
+Mars
+Benefic transits:     3,   6,   11
+
+<<<PAGE 431>>>
+Vedha positions:    12  9,   5
+Mercury
+Benefic transits:     2,   4,   6,   8,   10,       11
+Vedha positions:    5,   3,   9,   1,   8,   12
+Jupiter
+Benefic transits:     2,   5,   7,   9,   11
+Vedha positions:    12  4,   3,   10,       8
+Venus
+Benefic transits:     1,   2,   3,   4,   5,   8,   9,   11,       12
+Vedha positions:    8,   7,   1,   10,       9,   5,   11,       3,   6
+Saturn and Rahu
+Benefic transits and Vedha positions are the same as in
+the case of Mars.
+Note:
+(a)The father-son duo (Sun and Saturn, or Moon and
+Mercury) do not cause
+Vedha to each other.
+(b)While a planet gives benefic results when transiting
+benefic houses, its
+transit over the corresponding Vedha positions gives
+ adverse results. For
+example, the Sun transiting the third house gives benefic
+ results, but its
+transit over the ninth house produces bad results. These bad
+ results are
+obstructed (or get subjected to Vedha) if another planet, other
+than Saturn,
+transits the third house at the same time. Thus Vedha obstructs
+ benefic
+results as also adverse results.
+Results of Transits
+The various planets transiting the twelve houses from the
+Moon (or the
+lagna) produce varying results as listed below.
+The Sun
+The effects of the Sun’s transit in the twelve houses
+are: (1) Ill health, travel;
+(2) Loss of wealth; (3) Health and wealth; (4)
+Illness, worries; (5) Mental
+anguish; (6) Annihilation of foes; (7) Travel,
+illness to wife; (8) Humiliation,
+
+<<<PAGE 432>>>
+disease; (9) Humiliation, mental anguish;
+(10) Success in undertakings; (11)
+High status; and (12) Losses and ill health.
+The Moon
+The results of the transit of the Moon in the several
+houses are: (1) Good
+fortune; (2)
+Loss of wealth; (3) Victory; (4) Apprehensions; (5) Depression;
+(6) Freedom
+ from illness; (7) Varied comforts; (8) Unexpected adverse
+events; (9) Ill
+health; (10) Success in undertakings; (11) Gains, happiness;
+and (12)
+Expenditure.
+Mars
+The results of Mars’ transit in the twelve houses are:
+(1) Mental torment; (2)
+Loss of wealth; (3) Victory; (4) Displacement from
+ place of work or
+residence; (5) Mental anguish; (6) Victory over enemy and
+ disease; (7)
+Discord with wife; (8) Unexpected tragedy, accident, etc.; (9)
+Loss of health
+and wealth; (10) Obstacles, physical exertion; (11) Gain of
+ health and
+wealth; and (12) Loss of wealth.
+Mercury
+The results of Mercury’s transit are: (1) Loss of
+wealth; (2) Gain of wealth;
+(3) Fear from foes; (4) Multiple gains; (5) Discord
+with wife and children;
+(6) Dominance over opponents; (7) Quarrels; (8) Gain of
+ wealth, loss of
+health; (9) Obstacles to undertakings; (10) All comforts; (11)
+Multiple gains;
+(12) Dominance by opponents.
+Jupiter
+The transit of Jupiter produces the following results:
+(1) Displacement and
+expenditure; (2) Gain of wealth; (3) Ill health; (4)
+Discord at home, increase
+of opponents; (5) Happiness, birth of a child; (6)
+Troubles from enemies; (7)
+Comforts from wife and children, auspicious journey;
+(8) Unwanted travel,
+loss of wealth; (9) Virtuous pursuits, many gains; (10)
+Apprehensions about
+career; (11) Acquisition of wealth and status; (12) Loss of
+wealth.
+Venus
+The results of transit of Venus are: (1) Physical
+ pleasures; (2) Inflow of
+wealth; (3) Varied gains; (4) Increase in the number
+of friends; (5) Birth of a
+son; (6) Misfortunes; (7) Troubles to or from wife;
+(8) Gain of health and
+
+<<<PAGE 433>>>
+wealth; (9) Varied comforts; (10) Quarrels; (11) Gain of
+ wealth,
+apprehensions, etc; (12) Acquisition of wealth.
+Saturn
+Saturn’s transit over the twelve houses causes: (1) Ill
+ health; (2) Loss of
+wealth; (3) Rise in status; (4) Discord at home; (5)
+Illness to chidren, and
+mental anguish; (6) Dominance over opponents; (7)
+Troublesome journey,
+and illness to wife; (8) Varied misfortunes; (9) Base
+acts, harm to father; (10)
+Obstacles to career; (11) Inflow of wealth, varied
+comforts; (12) Wastage of
+effort and money.
+Rahu
+Rahu’s transit in the twelve houses leads to: (1)
+Illness; (2) Loss of wealth;
+(3) Varied pleasures; (4) Miseries; (5) Loss of
+ wealth; (6) Comforts; (7)
+Humiliation; (8) Serious illness; (9) Losses; (10)
+ Comforts; (11) Good
+fortune; (12) Excessive expenditure.
+Points to Remember
+1.When a planet transits a benefic house identical with
+its debilitation sign or
+enemy’s house, its benefits are fore-shortened.
+Debilitation coinciding with
+bad transits leads to adverse results.
+2.Transits coinciding with exaltation or own house are
+favourable.
+3.Transits of malefics over the natal malefics are
+particularly harmful.
+4.The Sun and Mars produce results, immediately after
+ entering a sign;
+Jupiter and Venus produce results in the middle of a sign; the
+ Moon and
+Saturn produce their results when in the concluding one-third of a
+ sign;
+Mercury and Rahu produce their results throughout the transit of a sign.
+5.All transits are subservient to the static promise in
+the horoscope and the
+sequence of dashas.
+Transits over Nakshatras
+Transit of malefics over the following nakshatras is
+considered adverse:
+1.Birth nakshatra (Janma), and its trinal nakshatras,
+i.e., the tenth (Karma)
+and the nineteenth (Adhana) from it.
+
+<<<PAGE 434>>>
+2.Third (Vipat) from the birth nakshatra.
+3.Fifth (Pratyari) from the birth nakshatra.
+4.Seventh (Vadha) from the birth nakshatra.
+5.Twenty-second (Vainashaka) from the birth nakshatra.
+The Sade-Sati of Saturn
+Saturn takes approximately two and a half years to transit a
+ sign. Its
+transit in the three houses, falling in the twelfth, first and second
+from the
+Moon, and lasting a period of seven and a half years (Sade-Sati: seven
+and a
+half!), is considered particularly adverse. This period coincides with
+varied
+troubles, apprehensions, losses, tragedies, wanderings and physical
+ailments.
+Sade-sati recurs roughly after a cycle of thirty years. A
+person may have
+a maximum of three cycles of Sade-Sati. It is said that the
+first cycle of the
+Sade-Sati proves adverse for the parents of the native, the
+ second for the
+native himself, and the third for his progeny.
+While this transit of Saturn over the Moon and its two
+ surrounding
+houses has been widely condemned, it is important not to apply
+these results
+blindly. One must consider the location of the Moon in the natal
+chart, the
+sign occupied by the Moon, as also the planetary period (MD, AD, PD,
+etc.,)
+in operation. Only after considering all these factors should the
+ results of
+Sade-Sati be announced.
+Examples
+The native of Chart XXIX-1 was running the MD/AD of
+Jupiter-Rahu
+from April 2, 1992 to August 26, 1994. Jupiter is the retrograde
+eighth and
+eleventh lord in the eleventh house, whereas Rahu is located in the
+ sixth
+house along with a debilitated Sun. The MD/AD lords are placed 6/8 from
+each other.
+
+<<<PAGE 435>>>
+On November 5, 1993 the native was compulsorily retired by
+ official
+orders. Mars in transit aspects the tenth house from the natal Moon;
+Jupiter
+too does the same; Saturn, the debilitated retrograde lord of the tenth
+in the
+natal chart, occupies the fifth house (eighth from the tenth!) from the
+natal
+Moon. The Moon occupies the tenth house from the natal Moon on the day
+the retirement orders were received by the native.
+Transits in effect sensitise or activate specific houses so
+ that events
+pertaining to those houses take place. Jupiter transiting the
+ second house
+from the natal Moon and aspecting the second house from the lagna
+ensured
+good amount of money as terminal benefits.
+The native of Chart XXIX-2 was running the MD/AD/PD of
+Rahu-Mars-
+Sun from February 5, 1987 to February 24, 1987 during which he
+sustained
+a serious car accident (on February 15, 1987). Rahu involves the 3/9
+axis of
+movement, Mars is the planet of accidents aspecting the third lord,
+whereas
+the Sun is debilitated, associated with Mars and aspected by Saturn.
+
+<<<PAGE 436>>>
+In transit, the Sun was in the third house from the lagna
+ (hence the
+importance of lagna in transit), on natal Ketu (watch for malefics
+transiting
+the malefics in natal chart!). Saturn in transit occupied the lagna,
+and the
+seventh from the Moon (both adverse), and aspected the lord of the
+ third
+house. Mars transited the twelfth from the Moon. The Moon was in the
+ninth
+house aspecting the third house and transiting the RKA. The Moon’s
+transit
+in effect clinches the day an event occurs. Transit of the eleventh
+house from
+the Moon by Jupiter and Rahu acts as a protective factor.
+The native of Chart XXIX-3 had her marriage fixed for a day
+when five
+planets were located in the eighth house from her natal Moon. Three
+ of
+these, the Sun, Mars, and Rahu, are natural malefics while Mercury is a
+functionally bad planet considered from the Moon. The marriage party came
+to
+ her house, insulted her as well as her parents, and left without going
+
+<<<PAGE 437>>>
+through
+the marriage ceremony. There are too many malefics in the eighth
+house from the
+Moon. The transit Moon, in the fifth from the natal Moon,
+and the twelfth from the lagna, is no good. While
+ fixing a Muhurta for
+marriage, it is esential to ensure that the eighth house
+from the lagna as well
+as the Moon is free from affliction.

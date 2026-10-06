@@ -1,0 +1,313 @@
+{
+ "engine": "pocketastro-remedies",
+ "version": 1,
+ "sources": [
+  "Levacy, Beneath a Vedic Sky — ch. 16, Remedial Measures.",
+  "Charak, Elements of Vedic Astrology — propitiation in the health chapter.",
+  "Sutton, The Essentials of Vedic Astrology."
+ ],
+ "selection_rules": [
+  "Wear the stone of the lagna lord, of the running dasha lord, or of a graha you deliberately want to strengthen.",
+  "Never strengthen a functional malefic for your lagna. Check the functional table before recommending anything.",
+  "A gemstone is worn to strengthen a graha, not to appease one. To reduce a graha's pressure, use charity, fasting and mantra instead.",
+  "The stone must be natural, untreated, at least the listed minimum weight, and must touch the skin.",
+  "First worn on that graha's weekday, in that graha's hour, after the prescribed japa.",
+  "If a stone cannot be afforded, an upa-ratna of the same colour is acceptable. Never impoverish yourself for a remedy.",
+  "Test any stone — blue sapphire especially — for three days before committing."
+ ],
+ "honesty_clause": "PocketAstro states plainly what a remedy is: a structured intention. Mantra, charity and discipline change behaviour and attention, and behaviour is most of what a dasha actually operates on. No stone replaces sleep, a medical appointment, a lawyer, or leaving a job that is burning you. Every graha entry here carries a practical counterpart, and the practical counterpart is the one PocketAstro leads with.",
+ "never": [
+  "Never sell or recommend a remedy as a cure for illness, infertility, or legal jeopardy.",
+  "Never price a remedy, or imply that a costlier stone works better.",
+  "Never recommend a remedy for a dosha that has been cancelled.",
+  "Never use fear to motivate a remedy."
+ ],
+ "general_upaya": {
+  "yagya": "A Vedic fire ceremony performed by qualified priests; requires the birth nakshatra and a stated intention.",
+  "mantra": "Sound repeated correctly and consistently. Count matters less than regularity.",
+  "shanti": "Contact with a substance associated with the graha — wearing, eating or offering it.",
+  "dana": "Charity. Levacy's rule: when a chart shows a period of loss, lose on purpose, usefully.",
+  "vrata": "Fasting on the graha's weekday.",
+  "seva": "Service to the people that graha signifies — the elderly for Saturn, teachers for Jupiter, mothers for the Moon.",
+  "vastu": "Orientation and arrangement of living space by direction."
+ },
+ "by_house_affliction": {
+  "1": "Physical discipline and sleep before anything ritual.",
+  "2": "Speech discipline and a written budget.",
+  "4": "Settle the home. Repair the mother relationship or grieve it properly.",
+  "6": "Clear the debt, treat the illness, and reduce the workload. In that order.",
+  "7": "Say the unsaid thing to the partner. Most 7th-house remedies are conversations.",
+  "8": "Get the tax, insurance and medical paperwork current.",
+  "10": "Make the work visible. An afflicted 10th is usually good work nobody sees.",
+  "12": "Sleep, boundaries, and a real retreat practice."
+ },
+ "grahas": {
+  "Sun": {
+   "gem": "ruby (manikya)",
+   "upa_ratna": [
+    "red garnet",
+    "sunstone",
+    "red spinel"
+   ],
+   "min_carat": 3.0,
+   "metal": "gold or copper",
+   "finger": "ring finger",
+   "hand": "right",
+   "day": "Sunday",
+   "time": "sunrise, during the first hour after dawn",
+   "beej_mantra": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+   "japa": 7000,
+   "vedic": "Aditya Hridayam; Gayatri Mantra",
+   "deity": "Shiva; Surya Narayana",
+   "yantra": "Surya yantra",
+   "charity": [
+    "wheat",
+    "jaggery",
+    "copper",
+    "red cloth",
+    "a meal to a father figure"
+   ],
+   "fast": "Sunday, one meal, without salt (traditional)",
+   "colour": "copper-red, orange, gold",
+   "direction": "east",
+   "practical": "Surya Namaskar at dawn; deal with the father relationship directly; take the title or role rather than doing the work anonymously. A ruby will not substitute for asking to be recognised."
+  },
+  "Moon": {
+   "gem": "natural pearl (moti)",
+   "upa_ratna": [
+    "moonstone",
+    "white coral"
+   ],
+   "min_carat": 4.0,
+   "metal": "silver",
+   "finger": "little finger",
+   "hand": "right",
+   "day": "Monday",
+   "time": "evening, during the waxing fortnight",
+   "beej_mantra": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+   "japa": 11000,
+   "vedic": "Shiva Panchakshari; Annapurna Stotra",
+   "deity": "Parvati; Gauri",
+   "yantra": "Chandra yantra",
+   "charity": [
+    "rice",
+    "milk",
+    "silver",
+    "white cloth",
+    "sugar",
+    "care for a mother figure"
+   ],
+   "fast": "Monday",
+   "colour": "white, pale cream",
+   "direction": "north-west",
+   "practical": "Sleep on a schedule; water; a settled home base; repair or grieve the mother relationship honestly. Most Moon afflictions in a modern life are sleep debt and an unsettled home, and respond to that before they respond to a pearl."
+  },
+  "Mars": {
+   "gem": "red coral (moonga)",
+   "upa_ratna": [
+    "carnelian",
+    "red jasper"
+   ],
+   "min_carat": 6.0,
+   "metal": "gold or copper",
+   "finger": "ring finger",
+   "hand": "right",
+   "day": "Tuesday",
+   "time": "sunrise",
+   "beej_mantra": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+   "japa": 10000,
+   "vedic": "Hanuman Chalisa; Mangal Stotra",
+   "deity": "Kartikeya; Hanuman",
+   "yantra": "Mangal yantra",
+   "charity": [
+    "red lentils",
+    "copper",
+    "red cloth",
+    "jaggery",
+    "support for someone in the armed services or trades"
+   ],
+   "fast": "Tuesday",
+   "colour": "red",
+   "direction": "south",
+   "practical": "Hard physical training on a schedule. An honest outlet for anger, and a rule about not sending the message within 24 hours of a fight. Coral without an outlet just raises the temperature."
+  },
+  "Mercury": {
+   "gem": "emerald (panna)",
+   "upa_ratna": [
+    "green tourmaline",
+    "peridot",
+    "green onyx"
+   ],
+   "min_carat": 3.0,
+   "metal": "gold or silver",
+   "finger": "little finger",
+   "hand": "right",
+   "day": "Wednesday",
+   "time": "morning",
+   "beej_mantra": "Om Braam Breem Braum Sah Budhaya Namah",
+   "japa": 9000,
+   "vedic": "Vishnu Sahasranama; Budha Stotra",
+   "deity": "Vishnu",
+   "yantra": "Budha yantra",
+   "charity": [
+    "green gram (moong)",
+    "green cloth",
+    "books",
+    "support for a student"
+   ],
+   "fast": "Wednesday",
+   "colour": "green",
+   "direction": "north",
+   "practical": "Study something structured. Write things down. Read every contract twice. Nerve-calming basics — less caffeine, more walking — do more for an afflicted Mercury than any stone."
+  },
+  "Jupiter": {
+   "gem": "yellow sapphire (pukhraj)",
+   "upa_ratna": [
+    "citrine",
+    "yellow topaz",
+    "heliodor"
+   ],
+   "min_carat": 3.0,
+   "metal": "gold",
+   "finger": "index finger",
+   "hand": "right",
+   "day": "Thursday",
+   "time": "morning",
+   "beej_mantra": "Om Graam Greem Graum Sah Gurave Namah",
+   "japa": 19000,
+   "vedic": "Guru Stotra; Vishnu Sahasranama",
+   "deity": "Brahma; Dakshinamurti; Brihaspati",
+   "yantra": "Guru yantra",
+   "charity": [
+    "chana dal",
+    "turmeric",
+    "yellow cloth",
+    "books",
+    "support for a teacher or a temple"
+   ],
+   "fast": "Thursday",
+   "colour": "yellow, gold",
+   "direction": "north-east",
+   "practical": "Find an actual teacher and submit to actual correction. Teach something yourself. Jupiter remedies fail when the person collects wisdom and applies none of it."
+  },
+  "Venus": {
+   "gem": "diamond (heera)",
+   "upa_ratna": [
+    "white sapphire",
+    "white zircon",
+    "opal",
+    "white topaz"
+   ],
+   "min_carat": 0.5,
+   "metal": "silver, platinum or white gold",
+   "finger": "middle finger",
+   "hand": "right",
+   "day": "Friday",
+   "time": "sunrise or early evening",
+   "beej_mantra": "Om Draam Dreem Draum Sah Shukraya Namah",
+   "japa": 16000,
+   "vedic": "Shri Suktam; Lakshmi Stotra",
+   "deity": "Lakshmi; Shukracharya",
+   "yantra": "Shukra yantra",
+   "charity": [
+    "rice",
+    "white cloth",
+    "sugar",
+    "perfume",
+    "support for an artist"
+   ],
+   "fast": "Friday",
+   "colour": "white, pastels",
+   "direction": "south-east",
+   "practical": "Make something beautiful with your hands. Keep one room genuinely pleasant. Be honest about what you actually want from a partner — an afflicted Venus is usually an unspoken standard, not a missing gem."
+  },
+  "Saturn": {
+   "gem": "blue sapphire (neelam)",
+   "upa_ratna": [
+    "amethyst",
+    "lapis lazuli",
+    "blue spinel",
+    "iolite"
+   ],
+   "min_carat": 3.0,
+   "metal": "iron, panchdhatu or silver",
+   "finger": "middle finger",
+   "hand": "right",
+   "day": "Saturday",
+   "time": "evening, after sunset",
+   "beej_mantra": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+   "japa": 23000,
+   "vedic": "Hanuman Chalisa; Dasharatha Shani Stotra",
+   "deity": "Shani; Hanuman; Bhairava",
+   "yantra": "Shani yantra",
+   "charity": [
+    "black sesame",
+    "iron",
+    "black cloth",
+    "mustard oil",
+    "a hot meal for a labourer or someone unhoused"
+   ],
+   "fast": "Saturday",
+   "colour": "black, dark blue",
+   "direction": "west",
+   "caution": "Blue sapphire is the one stone every classical source warns about. Trial it for three days before committing, and only wear it if Saturn is a functional benefic for the lagna.",
+   "practical": "Show up on time for a year. Fixed sleep, honest accounts, unglamorous work done well. Saturn's remedy is almost entirely behavioural, and it works."
+  },
+  "Rahu": {
+   "gem": "hessonite (gomedh)",
+   "upa_ratna": [
+    "orange zircon",
+    "agate"
+   ],
+   "min_carat": 6.0,
+   "metal": "silver or panchdhatu",
+   "finger": "middle finger",
+   "hand": "right",
+   "day": "Saturday",
+   "time": "during Rahu kaal, or twilight",
+   "beej_mantra": "Om Bhraam Bhreem Bhraum Sah Rahave Namah",
+   "japa": 18000,
+   "vedic": "Durga Saptashati; Kalabhairava Ashtakam",
+   "deity": "Durga; Chandi",
+   "yantra": "Rahu yantra",
+   "charity": [
+    "black gram (urad)",
+    "blue or grey cloth",
+    "mustard oil",
+    "coconut",
+    "feeding strays or strangers"
+   ],
+   "fast": "Saturday",
+   "colour": "smoky grey",
+   "direction": "south-west",
+   "practical": "Reduce the input. Cut the feed, the leverage and the substance. Rahu's real remedy is a deliberate limit on appetite — a stone does nothing against an unlimited scroll."
+  },
+  "Ketu": {
+   "gem": "cat's eye (lehsunia)",
+   "upa_ratna": [
+    "tiger's eye"
+   ],
+   "min_carat": 3.0,
+   "metal": "silver or panchdhatu",
+   "finger": "ring or little finger",
+   "hand": "right",
+   "day": "Tuesday",
+   "time": "twilight",
+   "beej_mantra": "Om Sraam Sreem Sraum Sah Ketave Namah",
+   "japa": 17000,
+   "vedic": "Ganapati Atharvashirsha; Ketu Stotra",
+   "deity": "Ganesha; Matsya",
+   "yantra": "Ketu yantra",
+   "charity": [
+    "multi-coloured cloth",
+    "blankets",
+    "sesame",
+    "support for a spiritual or research institution"
+   ],
+   "fast": "Tuesday or Saturday",
+   "colour": "smoky, multi-coloured",
+   "direction": "north-west",
+   "practical": "Sit still daily. Finish what is already finished — the unclosed account, the relationship that ended years ago. Ketu is the one graha whose remedy is genuinely meditation."
+  }
+ }
+}

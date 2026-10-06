@@ -1,0 +1,830 @@
+{
+  "file": "_OceanofPDF.com_The_astrology_of_human_relationships_-_Frances_Sakoian.pdf",
+  "size_bytes": 2663338,
+  "error": null,
+  "pages": 404,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Contents\n",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "Preface\n",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "How to Use This Book\n",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "ORDERING A COMPUTER CHART\n",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "BASIC PROCEDURES\n",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "BASIC ASTROLOGY\n",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "For the Astrological Beginner\n",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "SUN SIGNS\n",
+      "page": 14
+    },
+    {
+      "level": 3,
+      "title": "HOUSES\n",
+      "page": 18
+    },
+    {
+      "level": 3,
+      "title": "TRIPLICITIES AND QUADRUPLICITIES\n",
+      "page": 21
+    },
+    {
+      "level": 3,
+      "title": "MASCULINE AND FEMININE GROUPINGS\n",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "ASPECTS\n",
+      "page": 32
+    },
+    {
+      "level": 2,
+      "title": "Basic Chart Calculation\n",
+      "page": 35
+    },
+    {
+      "level": 2,
+      "title": "Ill Analyzing Human Relationships\n",
+      "page": 45
+    },
+    {
+      "level": 3,
+      "title": "FIVE RULES OF HOROSCOPIC COMPARISONS\n",
+      "page": 47
+    },
+    {
+      "level": 3,
+      "title": "SIGNIFICANCE OF THE QUADRUPLICITIES\n",
+      "page": 50
+    },
+    {
+      "level": 3,
+      "title": "SIGNIFICANCE OF THE TRIPLICITIES OR ELEMENTS\n",
+      "page": 51
+    },
+    {
+      "level": 2,
+      "title": "The Roles of the Signs\n",
+      "page": 53
+    },
+    {
+      "level": 3,
+      "title": "ARIES\n",
+      "page": 53
+    },
+    {
+      "level": 3,
+      "title": "TAURUS\n",
+      "page": 54
+    },
+    {
+      "level": 3,
+      "title": "GEMINI\n",
+      "page": 54
+    },
+    {
+      "level": 3,
+      "title": "CANCER\n",
+      "page": 55
+    },
+    {
+      "level": 3,
+      "title": "LEO\n",
+      "page": 55
+    },
+    {
+      "level": 3,
+      "title": "VIRGO\n",
+      "page": 55
+    },
+    {
+      "level": 3,
+      "title": "LIBRA\n",
+      "page": 56
+    },
+    {
+      "level": 3,
+      "title": "SAGITTARIUS\n",
+      "page": 57
+    },
+    {
+      "level": 3,
+      "title": "CAPRICORN\n",
+      "page": 57
+    },
+    {
+      "level": 3,
+      "title": "AQUARIUS\n",
+      "page": 58
+    },
+    {
+      "level": 3,
+      "title": "PISCES\n",
+      "page": 58
+    },
+    {
+      "level": 1,
+      "title": "V The Influences of the Twelve Houses\n",
+      "page": 60
+    },
+    {
+      "level": 2,
+      "title": "FIRST HOUSE\n",
+      "page": 61
+    },
+    {
+      "level": 2,
+      "title": "SECOND HOUSE\n",
+      "page": 61
+    },
+    {
+      "level": 2,
+      "title": "THIRD HOUSE\n",
+      "page": 61
+    },
+    {
+      "level": 2,
+      "title": "FOURTH HOUSE\n",
+      "page": 62
+    },
+    {
+      "level": 2,
+      "title": "FIFTH HOUSE\n",
+      "page": 62
+    },
+    {
+      "level": 2,
+      "title": "SIXTH HOUSE\n",
+      "page": 63
+    },
+    {
+      "level": 2,
+      "title": "SEVENTH HOUSE\n",
+      "page": 63
+    },
+    {
+      "level": 2,
+      "title": "EIGHTH HOUSE\n",
+      "page": 64
+    },
+    {
+      "level": 2,
+      "title": "NINTH HOUSE\n",
+      "page": 64
+    },
+    {
+      "level": 2,
+      "title": "TENTH HOUSE\n",
+      "page": 64
+    },
+    {
+      "level": 2,
+      "title": "ELEVENTH HOUSE\n",
+      "page": 65
+    },
+    {
+      "level": 2,
+      "title": "TWELFTH HOUSE\n",
+      "page": 65
+    },
+    {
+      "level": 1,
+      "title": "VI Dispositors of the Planets\n",
+      "page": 67
+    },
+    {
+      "level": 1,
+      "title": "VII Sun\n",
+      "page": 70
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 70
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE CONJUNCTIONS\n",
+      "page": 76
+    },
+    {
+      "level": 2,
+      "title": "A’s Sun Conjunct B’s Sun (A’s O 6 B’s0)\n",
+      "page": 76
+    },
+    {
+      "level": 1,
+      "title": "VIII Moon\n",
+      "page": 102
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 102
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE CONJUNCTIONS\n",
+      "page": 108
+    },
+    {
+      "level": 1,
+      "title": "IX Mercury\n",
+      "page": 138
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 138
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE CONJUNCTIONS\n",
+      "page": 144
+    },
+    {
+      "level": 1,
+      "title": "Venus\n",
+      "page": 172
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 172
+    },
+    {
+      "level": 3,
+      "title": "A’s Venus in B’s Eighth House\n",
+      "page": 176
+    },
+    {
+      "level": 3,
+      "title": "A’s Venus in B’s Ninth House\n",
+      "page": 176
+    },
+    {
+      "level": 1,
+      "title": "XI Mars\n",
+      "page": 202
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 202
+    },
+    {
+      "level": 3,
+      "title": "A’s Mars in B’s Fourth House\n",
+      "page": 204
+    },
+    {
+      "level": 3,
+      "title": "A’s Mars in B’s Fifth House\n",
+      "page": 204
+    },
+    {
+      "level": 2,
+      "title": "A’s Mars Conjunct B’s Nadir Opposition B’s Midheaven (A’s S 6 B’s Nadir 8 B’s M.C.)\n",
+      "page": 215
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE SEXTILES\n",
+      "page": 215
+    },
+    {
+      "level": 1,
+      "title": "Xll Jupiter\n",
+      "page": 234
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 235
+    },
+    {
+      "level": 2,
+      "title": "A’s Jupiter in B’s First House\n",
+      "page": 235
+    },
+    {
+      "level": 2,
+      "title": "A’s Jupiter in B’s Second House\n",
+      "page": 235
+    },
+    {
+      "level": 3,
+      "title": "A’s Jupiter in B’s Third House\n",
+      "page": 236
+    },
+    {
+      "level": 2,
+      "title": "A’s Jupiter in B’s Sixth House\n",
+      "page": 238
+    },
+    {
+      "level": 2,
+      "title": "A’s Jupiter in B’s Seventh House\n",
+      "page": 238
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE CONJUNCTIONS\n",
+      "page": 241
+    },
+    {
+      "level": 2,
+      "title": "A’s Jupiter Conjunct B’s Sun\n",
+      "page": 241
+    },
+    {
+      "level": 2,
+      "title": "A’s Jupiter Conjunct B’s Moon\n",
+      "page": 241
+    },
+    {
+      "level": 1,
+      "title": "XIII Saturn\n",
+      "page": 264
+    },
+    {
+      "level": 2,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 265
+    },
+    {
+      "level": 2,
+      "title": "A’s Saturn in B’s First House\n",
+      "page": 265
+    },
+    {
+      "level": 3,
+      "title": "A’s Saturn in B’s Eighth House\n",
+      "page": 269
+    },
+    {
+      "level": 3,
+      "title": "A’s Saturn in B’s Ninth House\n",
+      "page": 269
+    },
+    {
+      "level": 3,
+      "title": "COMPARATIVE SEXTILES\n",
+      "page": 276
+    },
+    {
+      "level": 2,
+      "title": "XIV Uranus\n",
+      "page": 294
+    },
+    {
+      "level": 3,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 295
+    },
+    {
+      "level": 3,
+      "title": "A’s Uranus in B’s First House\n",
+      "page": 295
+    },
+    {
+      "level": 4,
+      "title": "A’s Uranus in B’s Eighth House\n",
+      "page": 300
+    },
+    {
+      "level": 4,
+      "title": "A’s Uranus in B’s Ninth House\n",
+      "page": 300
+    },
+    {
+      "level": 4,
+      "title": "A’s Uranus in B’s Tenth House\n",
+      "page": 301
+    },
+    {
+      "level": 2,
+      "title": "XV Neptune\n",
+      "page": 322
+    },
+    {
+      "level": 3,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 322
+    },
+    {
+      "level": 3,
+      "title": "A’s Neptune in B’s Twelfth House\n",
+      "page": 330
+    },
+    {
+      "level": 3,
+      "title": "COMPARATIVE CONJUNCTIONS\n",
+      "page": 330
+    },
+    {
+      "level": 4,
+      "title": "COMPARATIVE SEXTILES\n",
+      "page": 335
+    },
+    {
+      "level": 4,
+      "title": "COMPARATIVE TRINES\n",
+      "page": 342
+    },
+    {
+      "level": 1,
+      "title": "XVI\n",
+      "page": 348
+    },
+    {
+      "level": 2,
+      "title": "Pluto\n",
+      "page": 348
+    },
+    {
+      "level": 3,
+      "title": "COMPARATIVE HOUSE PLACEMENTS\n",
+      "page": 349
+    },
+    {
+      "level": 3,
+      "title": "A’s Pluto in B’s First House\n",
+      "page": 349
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Second House\n",
+      "page": 350
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Third House\n",
+      "page": 350
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Eighth House\n",
+      "page": 353
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Ninth House\n",
+      "page": 353
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Tenth House\n",
+      "page": 354
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Eleventh House\n",
+      "page": 354
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto in B’s Twelfth House\n",
+      "page": 355
+    },
+    {
+      "level": 3,
+      "title": "COMPARATIVE CONJUNCTIONS\n",
+      "page": 355
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Sun\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Moon\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Mercury\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Venus\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Jupiter\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Saturn\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Uranus\n",
+      "page": 356
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s Pluto (A’s ^ 6 B’s\n",
+      "page": 357
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s North Node Opposition B’s South Node (A’s ^ 6 B’s ft <9 B’s y)\n",
+      "page": 357
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Conjunct B’s South Node Opposition B’s North Node (A’s 'g' tf B’s y 8 B’s ft)\n",
+      "page": 357
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Venus\n",
+      "page": 360
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Mars\n",
+      "page": 360
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Jupiter\n",
+      "page": 360
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Saturn\n",
+      "page": 360
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Uranus\n",
+      "page": 360
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Neptune\n",
+      "page": 360
+    },
+    {
+      "level": 4,
+      "title": "A’s Pluto Sextile B’s Pluto (A’s ^ >)< B’s ^)\n",
+      "page": 360
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "ABBYY FineReader 11",
+    "creationDate": "D:16010101000000Z",
+    "modDate": "D:20131027202901-07'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": true,
+  "text_chars": 88740,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": "THE \nASTROLOGY \nOF HUMAN \nRELATIONSHIPS\n"
+    },
+    {
+      "page": 3,
+      "text": "To\nFrances Annanekian Simon \nWilma McIntyre \nFred Johnson \nand husband “Sark\" \nwho made this book possible\nA hardcover edition of this book is published by Harper 8c Row, Publishers, Inc. This \nperennial library edition was published in 1989. A reset perennial library edition \nin a smaller format was published in 1987.\nChapters I and II appeared originally in slightly different form in The Astrologer’s \nHandbook. Copyright © 1973 by Frances Sakoian. (Harper Se Row)\nthe astrolocy of human relationships. Copyright O 1976 by Frances Sakoian. All \nrights reserved. Printed in the United States of America. No part of this book may be \nused or reproduced in any manner whatsoever without written permission except in \nthe case of brief quotations embodied in critical articles and reviews. For information \naddress Harper & Row, Publishers, Inc., 10 East 53rd Street, New York, N.Y. 10022. \nPublished simultaneously in Canada by Fiuhenry Sc Whiteside Limited, Toronto.\nDesigned by Dorothy Schmiderer\nLibrary of Congress Cataloging-in-Publication Data \nSakoian, Frances.\nThe astrology of human relationships / Frances Sakoian and Louis Acker. — \nPerennial Library ed. \np. cm.\nIncludes index.\nISBN 0-06-2720309\n1. Astrology. I. Acker, Louis S. II. Title.\n[BFi7o8.i.S*44 1989]\n>33-5—dcl9 \n88-24403\nCIP\n03 02 01 00 99 RRD 10 9 8\n"
+    },
+    {
+      "page": 4,
+      "text": "Contents\nPreface ix \nHow to Use This Book xiii\nP A R T  I\nBASIC ASTROLOGY\nI. For the Astrological Beginner 3\nII. Basic Chart Calculation 24\nP A R T  I I\nBASIC CONCEPTS IN HOROSCOPIC COMPARISON\nIII. Analyzing Human Relationships 35\nFive Rules of Horoscopic Comparisons 37, Significance of the Quadru- \nplicities 40, Significance of the Triplicities or Elements 41\nIV. The Roles of the Signs 43\nAries 43, Taurus 44, Gemini 44, Cancer 45, Leo 45, Virgo 45, Libra 46, \nScorpio 46, Sagittarius 47, Capricorn 47, Aquarius 48, Pisces 48\nV. The Influences of the Twelve Houses 50\nFirst House 51, Second House 51, Third House 51, Fourth House 52, Fifth \nHouse 52, Sixth House 53, Seventh House 53, Eighth House 54, Ninth \nHouse 54, Tenth House 54, Eleventh House 55, Twelfth House 55\nVI. Dispositors of the Planets 57\n"
+    },
+    {
+      "page": 5,
+      "text": "P A R T  I I I\nCOMPARATIVE INFLUENCES OF THE PLANETS \nVII. Sun 61\nComparative House Placements 61, Comparative Conjunctions 67, Com­\nparative Sextiles 73, Comparative Squares 78, Comparative Trines 84, \nComparative Oppositions 88\nVIII. \nMoon 93\nComparative House Placements 93, Comparative Conjunctions 99, Com­\nparative Sextiles 107, Comparative Squares 112, Comparative Trines 118, \nComparative Oppositions 123\nIX. Mercury 129\nComparative \nHouse \nPlacements \n129, \nComparative \nConjunctions \n135, \nComparative Sextiles 142, Comparative Squares 148, Comparative Trines \n153, Comparative Oppositions 158\nX. Venus 163\nComparative \nHouse \nPlacements \n163, \nComparative \nConjunctions \n169, \nComparative Sextiles 174, Comparative Squares 179, Comparative Trines \n184, Comparative Oppositions 188\nXI. Mars 193\nComparative \nHouse \nPlacements \n193, \nComparative \nConjunctions \n200, \nComparative Sextiles 206, Comparative Squares 211, Comparative Trines \n216, Comparative Oppositions 220\nXII. Jupiter 225\nComparative \nHouse \nPlacements \n226, \nComparative \nConjunctions \n232, \nComparative Sextiles 238, Comparative Squares 242, Comparative Trines \n247, Comparative Oppositions 250\nXIII. \nSaturn 255\nComparative \nHouse \nPlacements \n256, \nComparative \nConjunctions \n263, \nComparative Sextiles 267, Comparative Squares 272, Comparative Trines \n277, Comparative Oppositions 281\nVi CONTENTS\n"
+    },
+    {
+      "page": 6,
+      "text": "XIV. \nUranus 285\nComparative \nHouse \nPlacements \n286, \nComparative \nConjunctions \n294, \nComparative Sextiles 299, Comparative Squares 303, Comparative Trines \n306, Comparative Oppositions 309\nXV. Neptune 313\nComparative \nHouse \nPlacements \n313, \nComparative \nConjunctions \n321, \nComparative Sextiles 326, Comparative Squares 330, Comparative Trines \n333, Comparative Oppositions 336\nXVI. Pluto 339\nComparative \nHouse \nPlacements \n340, \nComparative \nConjunctions \n346, \nComparative Sextiles 350, Comparative Squares 353, Comparative Trines \n356, Comparative Oppositions 358\nGlossary 361 \nIndex 365\nCONTENTS vii\n"
+    },
+    {
+      "page": 7,
+      "text": "Preface\nAs evidenced by the turmoil in our world, relational problems of one \nform or another constitute the most widespread cause of human misery \nand depression. Whether these problems manifest themselves on an inter­\nnational scale as disagreements between national, political, or economic \npowers or they directly affect the affinity of two individuals, their impor­\ntance must be recognized and understood.\nIn an effort to anticipate and ameliorate such differences and potential \ndifficulties, one of the most valuable and important contributions made \nby astrology is in the field of horoscopic comparison, the astrological \nanalysis of the relationship between two or more individuals. Unfortu­\nnately, many people exhibit such a superficial knowledge of astrology \nthat they frequently draw erroneous conclusions in this area. This is \nespecially true of judgments based simply upon the Sun signs of the \nnatives involved. Often, one hears such remarks as “I’m a Taurus. I can’t \nget along with you because you are a Leo, and you’re square my Sun \nsign.’’ Such statements reveal a fundamental misunderstanding related to \nthe oversimplification of astrology.\nConsideration of the general psychology and the level of consciousness \nof the individuals embraced by the relationship is mandatory. Even with \nmany favorable comparative aspects and positive transposed house place­\n"
+    },
+    {
+      "page": 17,
+      "text": "6 BASIC ASTROLOGY\nknow is actually revolving around the Sun). In astrology, this moment is \nknown as o° of Aries. It marks the beginning of what is known as the \n“tropical Zodiac,” the most commonly used Zodiac in Western astrology \nand the one on which this book is based.\nIn astrological terminology, a horoscope is called by many names: \nnativity, natal chart, natus, chart, map, wheel, etc. However, the signs of \nthe Zodiac always follow an unchanging pattern: Aries, Taurus, Gemini, \nCancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and \nPisces.\nAPPROXIMATE DATES OF THE SUN SIGNS*\nAries \nMarch 21-April 19\nTaurus \nApril 20-May 20\nGemini \nMay 21-June 21\nCancer \nJune 22-July 22\nLeo \nJu*y 23-August 22\nVirgo \nAugust 23-September 22\nLibra \nSeptember 23-October 22\nScorpio \nOctober 2 j-November 21\nSagittarius \nNovember 22-December 21\nCapricorn \nDecember 22-January 19\nAquarius \nJanuary 20-February 18\nPisces \nFebruary 19-March 20\n* \nNote: Because of leap years, time zones, \nand other factors, the exact day and time \nwhen the Sun enters a particular sign of the \nZodiac varies slightly from year to year. The \nexact time when the Sun enters a sign of the \nZodiac for a given year and locale must be \nascertained by means of an Ephemeris. (See \nsection on the manual casting of the horo­\nscope, on page 25.)\nThe Sun is in either one sign or another; it cannot be in two signs. The \ndividing line between two signs is called a cusp— hence the often-heard \nstatement, “I was born on a cusp.” In the case of those born on or near a \ncusp, it is necessary to compute the horoscope mathematically to deter­\nmine the Sun sign. (See Chapter II on how to erect a horoscope, or make \narrangements for the horoscope to be cast by computer.) For the calcula­\ntion to be accurate, one must know the month, day, year, hour (minute, \nif possible), and location of the birth.\nEach of the twelve signs of the Zodiac represents certain unique posi­\ntive characteristics, as well as unique negative characteristics, of human \nbehavior and development. Everyone has all twelve signs included in his \nhoroscope. Their effect on the various departments of his life is deter­\n"
+    },
+    {
+      "page": 27,
+      "text": ""
+    },
+    {
+      "page": 37,
+      "text": "26 BASIC ASTROLOGY\nPROCEDURE\n1. \nAssemble information and references. For this example I will use \nTime Changes in the U.S.A. (D. Doane), Longitudes and Latitudes in the \nU.S. (AFA), “Swiss” Zurich Ephemeris, and Dalton’s Table of Houses. \nAs an example I will use July 7, 1942; 9:30 a.m., Boston, Mass.\n2. Look up location in Time Changes in the U.S.A. to check for Day­\nlight Saving Time or Wartime. On page 78 note that July 7, 1942, falls \nduring World War II, so one hour must be subtracted from the birthtime. \nTherefore, birthtime was 8:30 a.m. Eastern Standard Time.\n3. \nLook up longitude and latitude in Longitudes and Latitudes in the \nU.S. to get location and time corrections. On page 46 note latitude 42N22, \nLMT (Local Mean Time) variation from ST is 4-/5 min, 44 sec; standard \ntime must be increased by 5 hrs (sum of two columns) to obtain GMT \n(Greenwich Mean Time). The GMT is then 8:30 + 5 = 7:30 p.m. July 7, \n1942. Also note GMT to LMT column of 4 hr, 44 min, 16 sec.\n4. Look up sidereal time at the previous noon in the Ephemeris (Swiss) \ncolumn \nlabeled \n“Stem-self.” \n(Use \nprevious \nmidnight \nwith \nany \nother \nephemeris.) On page 317 note that since birth was before noon (local \ntime) on July 7 the sidereal time at noon on July 6 must be used, which \nis 06 hr/55 min/21 sec.\n5. \nPerform calculation. Four items must be added. Make sure all four \nare present. They are:\na. The sidereal time at the previous noon (step 4).\nb. \nThe elapsed time from the previous noon to the local birth time—in \nthis case 12 hours from noon to midnight plus 8 hours, 45 minutes, \nand 44 seconds until birth.\nc. \nSidereal correction. The equivalent corrections are found in Dalton’s \nTable of Houses. In Table A, “Mean to Sidereal Correction,” on page \nv, look up the 20 hours, then the 45 minutes, then the 44 seconds \nseparately. Add the corrections.\nd. \nThe longitude sidereal correction term, calculated by using the value \nobtained in step 3 from the column labeled “To obtain GMT add to \nLMT.” This value must be looked up again in Dalton’s table on page \nv. The example in question is as follows:\n"
+    },
+    {
+      "page": 47,
+      "text": "ANALYZING HUMAN RELATIONSHIPS 37\ncomparative aspects and house placements can find themselves in diffi­\nculty if they differ greatly in intelligence, education, experience, social \nbackground, or spiritual outlook. Therefore, the authors wish to caution \nthe reader that the first rule in astrology is: Never try to change another \nindividual, the only person we can change is ourself.\nFIVE RULES OF HOROSCOPIC COMPARISONS\n1. Consider the nature and main purpose of the relationship.\nSome relationships, such as those between teacher and student, have \nfor their primary purpose the acquisition of knowledge. In such cases, the \nplanets Mercury, Jupiter, and Saturn assume special importance in the \nrelationship. Mercury deals with the basic communication of knowledge, \nand Jupiter with higher education and the conveying of a broad, philo­\nsophic understanding of the subject matter being studied. Saturn relates \nto the teacher’s role as organizer of the subject matter, disciplinarian, and \ntask master.\nIn romantic relationships, Venus, Mars, and the Sun will be of primary \nimportance. The Sun, natural ruler of the Fifth House, strongly affects \nromantic attraction. Venus and Mars, because they rule the female and \nmale \nsex \nprinciples \nrespectively, \nare \nimportant \nin \ndetermining \nsexual \nattraction, especially if they relate to the Fifth House or the ruler of the \nFifth House in the comparison. Comparative aspects between Venus and \nMars, Venus and the Moon, Venus and the Sun, Venus and Uranus, and \nVenus and Pluto are especially important in determining the romantic \npotential of a relationship.\nIn a marriage situation, these factors are also important, but the \nSaturn influences in the comparison must be considered as well. Saturn is \nthe exalted ruler of Libra and the Seventh House, the sign and house of \nthe \nmarriage \ninstitution. \nThese \nSaturn \ninfluences \nindicate \nthe \nnatives’ \nability to accept the serious responsibilities of marriage and to exercise \npatience and discipline to build an enduring relationship.\nIn family relationships, including marriage, the house placements and \naspects of the Moon are of major importance, since they show how the \nnatives adjust to each other’s emotional habit patterns, needs for security \nand creature comforts, and family background and conditioning. Jupiter \nand Neptune, which are exalted in Cancer, are also important in family \nrelationships, \nsince \nthey \nindicate \nthe \nnatives’ \ningrained, \nsubconscious,\n"
+    },
+    {
+      "page": 57,
+      "text": "THE ROLES OF THE SIGNS 47\nthere \ncan \nbe \nintense, \nbitter \ndisagreements \nor \nsmoldering \nresentments \nover the handling of joint finances, inheritances, business affairs, ali­\nmony, and over any sexual aspects of the relationship. Jealousy is likely \nto be a problem. On the positive side, the natives can share an interest in \noccult subjects, life after death, spirituality, or the more profound aspects \nof science and technology. In such a positive comparison, there is an \nability and willingness to confront the basic issues of survival and life’s \ndeeper meaning beyond the superficial veneer. The natives can bring out \nstrength, courage, and resourcefulness in each other.\nSAGITTARIUS\nA strong Sagittarius influence in a horoscopic comparison indicates a \nmutual concern \nwith \nand \ncompatible ideas \nabout religion, philosophy, \nhigher \neducation, \nforeign \ncultures, \ncultural \ntrends, \nand \ntravel. \nThe \nnatives usually make good traveling companions and will enjoy journeys \ntogether. A strong Sagittarius influence is often found in teacher-student \nand in guru-disciple relationships. In some cases, the natives share an \ninterest in sports and outdoor activities. In general, they will increase \neach other’s energy and enthusiasm, especially for some social or educa­\ntional cause or religious ideal. There will be mutual involvement in \nphilosophic \ndiscussions, \neducational \nand \ncultural \npursuits, \nor \nreligious \nactivities.\nIf adverse aspects are associated with this Sagittarius influence, the \nnatives may have major disagreements over religion or philosophy. On \nthe positive side, they will reinforce optimistic attitudes in each other.\nCAPRICORN\nA \nstrong \nCapricorn comparative influence indicates that the natives’ \ninteraction is based on professional concerns and a desire for material \nstatus and power. Financial security, fame, and prominence in the com­\nmunity will be a major motivational factor in the relationship. Capricorn \ninfluences are especially prevalent in business, professional, and political \nrelationships. The natives will stimulate each other’s ambjtion and desire \nto achieve status or prominence. The natives may tend to think in terms \nof how useful they are to each other; thus, the association is sometimes \ntinged with expediency. In real friendships with this combination, there\n"
+    },
+    {
+      "page": 67,
+      "text": "VI \nDispositors of the \nPlanets\nDispositors and sign rulerships can be used in a number of ways to \ndetermine the compatibility of two people. If the Sun signs or rising signs \nof both natives, or the Sun sign of one native and the rising sign of the \nother native, are ruled by the same planet, there will be a natural \nunderstanding and similar approach to life. Individuals with natal signs \nwhich would ordinarily seem incompatible, like Gemini and Virgo, be­\ncause of their square relationship, will get along to some extent because \nthey are both ruled by Mercury and, therefore, share a similar rational, \nmental approach to life which enables them to reason out differences \nlogically \nand \nimpartially. \nNatives \nwith \nsigns \nsuch \nas \nSagittarius \nand \nPisces, Taurus and Libra, or Aries and Scorpio will also get along better \nthan would otherwise be indicated by their square or inconjunct rela­\ntionship because they respect the same values as a result of having the \nsame planetary ruler.\nIf the ruler of one native’s Sun or ascending sign falls in the other \nnative’s Sun or ascending sign, there will be a natural understanding \nbetween the natives and an ability to direct their energies in pursuit of \nthe same goals. For example, if one native has the Sun in Gemini and \nMercury in Taurus conjunct the other native’s Ascendant, there would \nbe a strong mutual interest in practical, material values. Or if one native\n57\n"
+    },
+    {
+      "page": 77,
+      "text": "68 sun\nA’s Sun Conjunct B’s Moon (A’s O d B’s J)\nIn this comparative conjunction is found a natural yin-yang polarity of \ncreative and receptive principles. The Sun person tends to have a strong \neffect on the Moon person, influencing or molding unconscious emotional \nattitudes. This relationship works better if the Sun person is naturally in \na role of leadership, such as an employer with respect to an employee; \notherwise, the Moon individual may feel his position is threatened. In a \nmarriage \nrelationship, \nthis \ncomparative \naspect \ncan \nindicate \na \nstrong \nsexual attraction, especially if the conjunction is made by the man’s Sun \nto the woman’s Moon. If the situation is reversed, the woman may tend \nto psychologically dominate the man and threaten his masculine self- \nimage. If the relationship is a physical or emotional one, it tends to be \nmore difficult in this respect than otherwise.\nIn most cases, the individuals tend to be natural friends. Mutual \ncreative endeavors help to bring about an emotional understanding be­\ntween the individuals, and a spirit of cooperation.\nA’s Sun Conjunct B’s Mercury (A’s O o B’s S )\nThis comparative combination indicates a strong tendency for the Sun \nperson’s \nwill \nand \npower \npotential \nto \nstimulate \nthe \nMercury \nperson’s \nthinking. At the same time, the Mercury person’s ideas will inspire the \nSun person to greater effort toward creative, positive self-expression. The \ntwo individuals have common intellectual interests, and their relation­\nship is likely to be characterized by discussion about their work and all \ntopics of mutual interest. The ability to communicate with each other is \nusually a positive factor. However, because of the neutral nature of \nMercury, much depends on the nature of other aspects made to the Sun \nand Mercury in the comparison.\nA’s Sun Conjunct B’s Venus (A’s © d B’s 9 )\nStrong mutual attraction is indicated by this comparative combination. \nThe individuals enjoy each other’s company and have fun together. They \nare likely to share esthetic and cultural values and to go to concerts, \nplays, shows, and movies together. This can be a good comparative \ncombination \nfor \npartnerships \npertaining \nto \nbusiness, \nespecially \nif \nthe \nbusiness relates to art, luxury items, entertainment, music, or the per­\n"
+    },
+    {
+      "page": 87,
+      "text": "78 SUN\ncreative self-expression to achieve mutual goals and will help each other \ndevelop more confidence and better self-images. This comparative aspect \ncan \nindicate \nromantic and \nsexual attraction. It is also favorable for \nharmony in a marriage relationship.\nA’s Sun Sextile B’s Midheaven Trine B’s Nadir \n(A’s O >|< B’s M.C. A B’s Nadir)\nProfessional, political, domestic, and family cooperation are favored by \nthis \ncomparative \ncombination. \nThe \nSun \nindividual \nwill \nencourage \nthe \nMidheaven/Nadir \nindividual to greater \nambition \nand effort to achieve \nsocial status and professional success. Sometimes, the Midheaven/Nadir \nperson provides a home and base of operations for the Sun person, and is \ninstrumental in helping the Sun person to gain official support and \nrecognition for creative endeavors. This is particularly true if the Sun \nindividual is involved in artistic creativity. In family and marital rela­\ntionships, this comparative combination confers financial and emotional \nsecurity.\nA’s Sun Sextile B’s Descendant Trine B’s Ascendant \n(A’s O >)< B’s Desc. A B’s Asc.)\nThis comparative combination has basically the same significance as \n“A’s Sun Sextile B’s Ascendant Trine B’s Descendant.\" These natives, \nhowever, are more intellectually interested in the psychology of their \nrelationship.\nA’s Sun Sextile B’s Nadir Trine B’s Midheaven \n(A’s O >)< B’s Nadir A B’s M.C.)\nThis comparative combination has basically the same significance as \n\"A’s Sun Sextile B’s Midheaven Trine B’s Nadir.” However, these natives \nwill be more intellectually interested in the family and domestic aspects \nof their relationship and less interested in the professional aspects.\nCOMPARATIVE SQUARES\nContacts between natives with squares of the Sun in horoscopic com­\nparisons usually produce ego conflicts. The Sun individual tends to be\n"
+    },
+    {
+      "page": 97,
+      "text": "A’s Sun Trine B’s South Node Sextile B’s North Node\nSee A’s Sun Sextile B’s North Node Trine B’s South Node.\nA’s Sun Trine B’s Ascendant Sextile B’s Descendant\nSee A’s Sun Sextile B’s Descendant Trine B’s Ascendant.\nA’s Sun Trine B’s Midheaven Sextile B’s Nadir\nSee A’s Sun Sextile B’s Nadir Trine B’s Midheaven.\nA’s Sun Trine B’s Descendant Sextile B’s Ascendant\nSee A's Sun Sextile B’s Ascendant Trine B’s Descendant.\nA’s Sun Trine B’s Nadir Sextile B’s Midheaven\nSee A’s Sun Sextile B’s Midheaven Trine B’s Nadir.\n88 sun\nCOMPARATIVE OPPOSITIONS\nThese comparative oppositions make for strong and dynamic personal \ninteraction in the affairs ruled by the planet which the Sun opposes and \nby the houses occupied and ruled by the Sun. Oppositions of the Sun are \nfrequent in marriages and other partnerships because of the natural \nSeventh House/Libra significance of the opposition aspect. If Venus or \nthe ruler of the Fifth House is involved in the opposition, romantic \nattraction can result. If both natives are mature, they can cooperate \neffectively and dynamically, but, if they are not, ego conflicts are likely to \narise. Neither native should try to dominate the other.\nA’s Sun Opposition B’s Sun (A’s Q  8  B’s O)\nThis comparative combination is often found in marriages and other \nclose personal relationships, inasmuch as the opposition aspect is basically \na relationship aspect. The natives can balance each other and comple­\nment each other’s deficiencies. There can be a strong attraction, and the \nnatives are important to each other. However, there can also be a clash of\n"
+    },
+    {
+      "page": 107,
+      "text": "98 moon\nThe career and status of the Tenth House individual in this combina­\ntion will affect the home and domestic conditions, as well as the emo­\ntional well-being, of the Moon individual, either favorably or unfavor­\nably. \nThe \nTenth \nHouse \nindividual \nwill, \nthrough \nprofessional \nactivities, \nprovide status and financial security for the Moon individual. The Moon \nindividual can, in turn, help the Tenth House individual by providing a \nhome or base of operations.\nThis combination is often found in professional or business relation­\nships, \nespecially \nwhere \nfinances \nare \nconcerned. \nThe \nnatives’ \nbusiness \nassociations can relate to food, real estate, building, and household items \nor domestic goods and services.\nThe natives may be brought together through similar family back­\ngrounds or through family connections, and the parents of one or both \nnatives may be a significant factor in the relationship. Some relationships \nwith this placement are entered into because of a desire on the part of \none or both natives for security and status.\nA’s Moon in B’s Eleventh House\nThis combination is good for friendships and group associations. The \nnatives will treat each other like members of their own families. They \nwill be able to share their feelings and emotional reactions, and are likely \nto spend a great deal of time in each other’s homes. There can also be \ncooperation in social activities centered around family or domestic issues \nor around cooking and entertaining for group and organizational gather­\nings. The natives will have a common interest in everyday family and \nbusiness occurrences, and they will often form friendships as a result of \nfamily connections or everyday business transactions.\nThe Eleventh House individual can help the Moon person expand \nintellectual and social horizons and will introduce new and interesting \nfriends and acquaintances. The Moon individual can, in turn, provide a \nhome or meeting place for the friendly get-togethers or group and organi­\nzational activities of the Eleventh House individual.\nA’s Moon in B’s Twelfth House\nBecause this combination makes for a strong emotional and intuitive \nlink, the natives will be intensely aware of each other’s subconscious\nA’s Moon in B’s Tenth House\n"
+    },
+    {
+      "page": 117,
+      "text": "108 MOON\nintellectual \npursuits \nand \nfor \ncommunications \namong \nfriends \nand \nrelatives.\nThere is apt to be a mutual sharing of intellectual and educational \nactivities in the home. This comparative aspect helps communication in \nfamily, domestic, financial, and emotional issues, especially in areas of \ndiet and hygiene.\nThis comparative aspect can help the natives to resolve any emotional \ndifficulties in the relationship through the ability it confers to communi­\ncate and talk about problems. This is a good comparative aspect for \ncooperation in business, especially businesses related to food, home and \ndomestic products.\nA’s Moon Sextile B’s Venus (A’s 5) >|< B’s 9 )\nThis is a good comparative aspect for romantic attraction and mar­\nriage. The natives tend to be sympathetic toward and considerate of each \nother and to share social, musical, artistic, and other refined cultural \nactivities and appreciations. They will share an interest in creating a har­\nmonious, beautiful home and domestic life, and they are likely to have \nmany friends in common.\nIf \nother factors in the comparison are agreeable, the natives will \ngenerally have a sympathetic, emotional understanding of each other’s \nmoods and feelings, which can border on the intuitive level. The Venus \nindividual can bring social and artistic activities into the home and \nfamily life of the Moon individual. The Moon individual can provide \ndomestic security and emotional support for the social and artistic ex­\npressions of the Venus individual.\nThis is a good combination for parent-child relationships; it increases \nlove and sympathetic understanding. It can contribute to sexual and \nromantic attraction if other factors are favorable. It is also a good \ncombination for business partnerships pertaining to luxury items, art, \nfine clothing, perfumes, flowers, and luxury items for the home.\nA’s Moon Sextile B’s Mars (A’s D >)< B’s S )\nThis is a good combination for dynamic cooperation in action, espe­\ncially in areas of business and home improvement. It favors enterprise in \nbusiness partnerships and cooperation in corporate affairs.\nThe Mars individual can help the Moon individual overcome psycho­\nlogical inertia and fear based on past experiences, while the Moon\n"
+    },
+    {
+      "page": 127,
+      "text": "Il8 MOON\nA’s Moon Square B’s Midheaven Square B’s Nadir \n(A’s 5 □ B’s M.C. □ B’s Nadir)\nThe family backgrounds and emotional habit patterns and condition­\nings of these natives tend to conflict. The families of one or both natives \ncan interfere with the relationship. There can be conflict between the \nnatives’ domestic and career ambitions, and they can have serious dis­\nagreements over family and domestic matters. The emotional instability \nof the Moon individual can hamper the ca.eer efforts of the Midheaven/ \nNadir individual, hurting status and prestige.\nA’s Moon Square B’s Descendant Square B’s Ascendant\nSee A’s Moon Square B’s Ascendant Square B’s Descendant.\nA’s Moon Square B’s Nadir Square B’s Midheaven\nSee A’s Moon Square B’s Midheaven Square B’s Nadir.\nCOMPARATIVE TRINES\nThese comparative combinations make for good emotional compatibil­\nity in romantic, parent-child, business, and family relationships. There \nwill be a natural empathy and harmony of feelings and emotions in the \naffairs ruled by the Moon in A’s horoscope and the planet trining the \nMoon in B’s horoscope. These comparative aspects are also helpful in \nbusiness, especially those related to food, farming, real estate, home, and \ndomestic products and services. The natives are likely to agree on reli­\ngious and philosophic values with regard to family life.\nA’s Moon Trine B’s Sun\nSee A’s Sun Trine B’s Moon.\nA’s Moon Trine B’s Moon (A’s 5 A B’s 5 )\nGood emotional rapport and harmony between the natives are indi­\ncated by this comparative combination. It is favorable for those who are \nmembers of the same family or who live in the same household. It confers\n"
+    },
+    {
+      "page": 137,
+      "text": "A’s Moon Opposition B’s Midheaven Conjunct B’s Nadir\nSee A’s Moon Conjunct B’s Nadir Opposition B’s Midheaven.\nA’s Moon Opposition B’s Descendant Conjunct B’s Ascendant\nSee A’s Moon Conjunct B’s Ascendant Opposition B’s Descendant.\nA’s Moon Opposition B’s Nadir Conjunct B’s Midheaven\nSee A’s Moon Conjunct B’s Midheaven Opposition B’s Nadir.\n128 MOON\n"
+    },
+    {
+      "page": 147,
+      "text": "138 MERCURY\nthe Jupiter individual as too impractical, superstitious, or unscientific, \nwhile \nthe \nJupiter \nindividual \nmay \nregard \nthe \nMercury \nindividual \nas \nnarrow in outlook, nit-picking, overly critical, too concerned with details, \nand lacking in intuitive wisdom.\nGenerally speaking, this is one of the most favorable of all comparative \naspects: it helps the natives to communicate with mutual consideration \nand gives them common spiritual, cultural, and intellectual interests. It \nprovides a broad basis for mutual compatibility which goes beyond mere \nemotional and sexual attraction and contributes to durability in roman­\ntic and marital relationships.\nA’s Mercury Conjunct B’s Saturn (A’s a 6 B’s >?)\nThis is a good comparative combination for business and professional \nrelationships \nif \nboth \nindividuals \nare \nmature. \nThere \ncan \nbe \na strong \nmutual sense of purpose and responsibility. The Saturn individual is \nlikely to make heavy demands on the Mercury individual in terms of \ndiscipline and concentration. If the individuals are mentally polarized, \nthere can be a mutual interest in business, scientific, or mathematical \ninterests. \nThis \ncombination \noccurs \nfrequently \nin \nbusiness, \nprofessional, \nand employer-employee relationships. It is good for cooperation in areas \nrequiring discipline, hard work, attention to detail, accuracy, and preci­\nsion. This can be an excellent comparative aspect for teacher-student \nrelationships, provided the teacher is reasonably open-minded and the \nstudent is mature enough to accept discipline.\nIf Mercury and Saturn are afflicted in either horoscope or in the \ncomparison, difficulties in communication can arise. The Saturn indi­\nvidual can have a negative, wet-blanket attitude toward the ideas of the \nMercury \nindividual. \nThe \nMercury \nindividual \nis \nlikely \nto \nregard \nthe \nSaturn individual as negative, too conservative, slow, ignorant, preju­\ndiced, or biased. The natives may be mistrustful of each other, suspecting \nulterior motives, especially in financial matters or things pertaining to \nprestige and advancement. The Saturn individual will tend to demand \nmental discipline from the Mercury individual and expect more work \nand concentration.\nThis aspect does not indicate romance, but it can lead to a greater \nsense of mutual responsibility in a marital relationship, and it gives the \nnatives the ability to face mutual responsibilities in a practical way.\n"
+    },
+    {
+      "page": 157,
+      "text": "148 MERCURY\nA’s Mercury Sextile B’s Midheaven Trine B’s Nadir \n(A’s a B’s M.C. A B’s Nadir)\nThe ideas and planning ability of the Mercury individual can help the \nMidheaven/Nadir \nindividual \nto \norganize \ncareer \nand \ndomestic \naffairs. \nThe Midheaven/Nadir individual can help the Mercury individual im­\nplement ideas by providing a base of operations for them and by helping \nto \ngain \nrecognition \nand \nofficial \nsupport \nfor \nthe \nMercury \nindividual’s \nideas.\nA’s Mercury Sextile B’s Descendant Trine B’s Ascendant \n(A’s 5 >(c B’s Desc. A B’s Asc.)\nThe significance of this comparative combination is basically that of \n“A’s Mercury Sextile B’s Ascendant Trine B’s Descendant,’’ except that \nthese natives will be more intellectually concerned with their relation­\nship and with psychological affairs and less with personal self-expression.\nA’s Mercury Sextile B’s Nadir Trine B’s Midheaven \n(A’s S * B’s Nadir A B’s M.C.)\nThis comparative combination has basically the same significance as \n“A’s Mercury Sextile B’s Midheaven Trine B’s Nadir,” except that these \nnatives will be more intellectually concerned with family and domestic \naffairs, and more intuitive in their approach to professional matters.\nCOMPARATIVE SQUARES\nComparative squares of Mercury indicate that the natives must exercise \npatience and discipline if they are to understand and get along with each \nother. These comparative squares often indicate difficulties in communi­\ncation or fundamental differences of opinion between the natives regard­\ning important issues. These difficulties are especially likely to arise in \nprofessional or domestic affairs, although they can and do touch upon \nmany areas of life, according to the house and sign positions and ruler- \nships of Mercury and the planet making the square. Emotionally based \nhabit patterns, aggressiveness, or crystallized, rigid viewpoints can stand \nin the way of the natives’ ability to hear and understand each other. If \nboth natives are sufficiently intelligent and mature, comparative squares\n"
+    },
+    {
+      "page": 167,
+      "text": "See A’s Mercury Sextile B’s Nadir Trine B’s Midheaven.\nA’s Mercury Trine B’s Descendant Sextile B’s Ascendant\nSee A’s Mercury Sextile B’s Ascendant Trine B’s Descendant.\nA’s Mercury Trine B’s Nadir Sextile B’s Midheaven\nSee A’s Mercury Sextile B’s Midheaven Trine B’s Nadir.\nCOMPARATIVE OPPOSITIONS\nComparative oppositions of Mercury indicate that the natives, particu­\nlarly the Mercury native, must be willing to see the other person’s point \nof \nview fairly and impartially if the relationship is to work. These \ncombinations indicate a need for willingness to communicate and listen \nto work out differences and effectively coordinate mutual actions and \ncomings and goings. If both natives are mature and sufficiently open- \nminded \nand \nwilling \nto \ncompromise \nin \nplanning \nand \ndecision-making, \ndifferences can be worked out satisfactorily. With patience and mutual \nconsideration, the natives can learn a great deal from each other and fill \nout deficiencies in their own natures by including other points of view. \nMuch \nwill \ndepend \non \nthe \ngeneral \nflexibility \nof \ntheir \ntemperaments. \nAdaptable people can adjust to these comparative aspects more easily \nthan people who have rigid personalities.\nA’s Mercury Opposition B’s Sun\nSee A’s Sun Opposition B’s Mercury.\nA’s Mercury Opposition B’s Moon\nSee A’s Moon Opposition B’s Mercury.\nA’s Mercury Opposition B’s Mercury (A’s $ 8 B’s S )\nThis \ncomparative \nopposition \nindicates \nrelationship \nproblems \narising \nfrom differences in intellectual viewpoints and difficulties in communica­\n158 MERCURY\nA’s Mercury Trine B’s Midheaven Sextile B’s Nadir\n"
+    },
+    {
+      "page": 177,
+      "text": "168 VENUS\nthe Venus individual’s social, artistic, and business scope through educa­\ntional, business, and cultural activities.\nIn a marriage or romantic relationship, one or both persons may try to \nconvert the other to his or her religious or philosophical viewpoints in \norder to establish greater harmony and compatibility in the relationship.\nA’s Venus in B’s Tenth House\nThis comparative combination brings professional and business part­\nnerships. Often these are related to the things ruled by Venus, such as \nbanking, luxury items, art, music, and entertainment. In romantic and \nmarital relationships, material status can be an important motivation for \none or both natives. The charm and diplomacy of the Venus individual \ncan help advance the career of the Tenth House individual. The Tenth \nHouse individual can, in turn, help the Venus individual gain greater \nsocial status and recognition for his or her creative, artistic talents.\nThe natives’ relationship is often involved with public relations in a \nbusiness sense, or with the social aspects of business dealings or political \naffairs. These could involve diplomatic secrecy and romantic intrigues. If \nVenus is afflicted, money can be wasted on luxurious entertaining and \nmaterial luxuries that represent status.\nA’s Venus in B’s Eleventh House\nThis combination is favorable for cooperation in group activities and \nsocial \naffairs. \nThe \nnatives’ \nmutual \nfriends \nwill \nbring \nthem \npleasure. \nTheir mutual business interests are likely to involve friends and group \nassociates, and they will involve their friends in much social activity. \nThere will be a sharing of humanitarian, occult, and scientific intellec­\ntual \nideas \nand \npursuits. \nIn \nromantic \nand \nmarital \nrelationships, \nthe \nnatives have compatible goals and objectives, and they will be good \nfriends, as well as romantic partners. One or both natives will tend to \nresent possessiveness on the part of the other.\nThe \nEleventh \nHouse \nindividual \ncan \nexpand \nthe \nsocial \nand \nartistic \nscope of the Venus individual by introducing new friends and group and \norganizational \ncontacts. \nThe \nEleventh \nHouse \nindividual \nalso \nstimulates \noriginal ideas in the Venus individual. The Venus individual can, in \nturn, help the Eleventh House individual to introduce social and artistic \nflair into friendships and organizational activities.\nIf Venus is afflicted in the comparison, the natives can be unreliable\n"
+    },
+    {
+      "page": 187,
+      "text": "178 VENUS\nindividual \nprovides \nthe \ncharm \nand \ndiplomatic \nability \nto \nutilize \nand \ncapitalize on this awareness. The net result is an opportunity for mutual \nsocial growth and financial expansion. Whether or not the natives can \ntake advantage of this opportunity depends on their understanding of the \ncyclic nature of these trends, as revealed by A’s South Node.\nA’s Venus Sextile B’s South Node Trine B’s North Node \n(A’s 9 5+C B’s t? A B’s ft)\nThis comparative combination has much the same effect as “A’s Venus \nSextile B’s North Node Trine B’s South Node,” except that these natives \nwill display more individuality in departing from current popular beliefs \nand trends. They will rely on a longer-range perspective on current \ntrends and fads in planning their business and social activities.\nA’s Venus Sextile B’s Ascendant Trine B’s Descendant \n(A’s 9 B’s Asc. A B’sDesc.)\nIndicating mutual harmony and friendship and general emotional and \nsocial compatibility, this comparative combination is favorable for mar­\nriages, romantic relationships, and business partnerships. There is sexual \nattraction if this combination is combined with other comparative influ­\nences of a similar nature. The natives can help each other in the diplo­\nmatic, public relations aspects of social and business affairs.\nA’s Venus Sextile B’s Midheaven Trine B’s Nadir \n(A’s 9 ^ B’s M.C. A B’s Nadir)\nThe natives relate harmoniously with regard to social and financial \naffairs, career planning and domestic and family harmony. The social, \nartistic, and diplomatic abilities of the Venus individual will help ad­\nvance the career of the Midheaven/Nadir individual. The Venus indi­\nvidual will bring harmony, beauty, and opulence into the home and \nfamily \nlife \nof \nthe \nMidheaven/Nadir \nindividual. \nThe \nMidheaven/Nadir \nindividual can provide professional and domestic security for the artistic \nand \nsocial \nexpression \nof \nthe \nVenus \nindividual. \nThis \nis \nan \nexcellent \ncombination for business partnerships dealing in art, entertainment, and \nluxury \nitems. The \nartistic \ncommodities \nthese natives deal with often \nrepresent status and wealth.\n"
+    },
+    {
+      "page": 197,
+      "text": "See A’s Venus Sextile B’s North Node Trine B’s South Node.\nA’s Venus Trine B’s Ascendant Sextile B’s Descendant\nSee A’s Venus Sextile B’s Descendant Trine B’s Ascendant.\nA’s Venus Trine B’s Midheaven Sextile B’s Nadir\nSee A’s Venus Sextile B’s Nadir Trine B’s Midheaven.\nA’s Venus Trine B’s Descendant Sextile B’s Ascendant\nSee A’s Venus Sextile B’s Ascendant Trine B’s Descendant.\nA’s Venus Trine B’s Nadir Sextile B’s Midheaven\nSee A’s Venus Sextile B’s Midheaven Trine B’s Nadir.\n188 VENUS\nA’s Venus Trine B’s South Node Sextile B’s North Node\nCOMPARATIVE OPPOSITIONS\nThe opposition aspect has a Seventh House/Libra connotation. Venus \nis natural ruler of the Seventh House and Libra is the natural Seventh \nHouse sign. Therefore, comparative oppositions of Venus have a special \nimportance in marital relationships and all partnerships.\nComparative oppositions of Venus are frequently found in romantic \nand marital relationships. They usually indicate a sexual or emotional \nattraction of some kind. To succeed in relationships with comparative \noppositions of Venus, natives must have a strong sense of mutual con­\nsideration, cooperation, and willingness to compromise. Here is where \nthe natives must learn the lesson of love and consider the interests and \nwell-being of the other individual. To the extent that both natives are \ncapable of doing this, the relationship can succeed.\nA’s Venus Opposition B’s Sun\nSee A’s Sun Opposition B’s Venus.\n"
+    },
+    {
+      "page": 207,
+      "text": "198 MARS\nA dynamic mutual interaction involving philosophy, religion, publish­\ning, law, or travel is indicated by this comparative combination.\nThe natives will encourage each other to become crusaders for reli­\ngious, cultural, or educational causes. In some cases, one native will try to \nforce the other to subscribe to particular religious, philosophical, educa­\ntional, moral, or cultural beliefs. If Mars is afflicted, this can lead to \nannoyance and resentment in the person who is the target of the prose­\nlytizing. There can be conflict, argument, and disagreement over reli­\ngious views, legal affairs, philosophy, or education.\nThe natives are often inclined to travel together for excitement and \nadventure or as a result of military assignments, corporate business or \nprofessional advancement and expansion. If Mars is afflicted, they can \ncause each other danger while on long journeys, due to rash, impulsive \nacts.\nThe Mars individual can regard the Ninth House individual as philo­\nsophically impractical or locked in an ivory-tower existence. The Ninth \nHouse individual may regard the Mars individual as lacking in spiritual \ninsight and refinement, narrow-minded, and overly aggressive in support \nof his or her own point of view.\nIn general, this comparative combination can indicate mutual activity \nin initiating religious or educational projects. The natives will encourage \neach other to put religious and spiritual ideals into action.\nA’s Mars in B’s Tenth House\nThis \ncomparative \ncombination \nindicates \nstrong \ninteractions \nbetween \nthe natives in their professional affairs. In some cases, they will compete \nfor higher positions or professional honors. There can be mutual interests \nin \nfields \nsuch \nas \nengineering, \nconstruction, \ninsurance, \nor \ncorporate \nfinance. The Mars individual is apt to be attracted to the Tenth House \nindividual \nfor \nthe \npurpose \nof \ngaining \nprofessional \nadvancement \nand \nstatus. The Tenth House individual may admire the energy and ambi­\ntion of the Mars native, while regarding that person as rash and impul­\nsive, and, in some cases, as a threat to his security, position, and status.\nThese \nindividuals \ncould \nwork \nwell \ntogether \nin \npolitical \ncampaigns, \ncommercial \npromotions, \nor \nindustrial \nlabor \norganizing, \nparticularly \nin \nsuch fields as steel work, machinery, construction, insurance, mortuary \nwork, physical sports, or any field requiring physical exertion and aggres­\nA’s Mars in B’s Ninth House\n"
+    },
+    {
+      "page": 217,
+      "text": "208 mars\nThe natives help increase each other’s enthusiasm and impetus to \nconstructive action. The Mars individual can help the Jupiter individual \nto implement religious, educational, social, legal, or philosophical goals. \nThe Jupiter individual helps the Mars individual to find constructive \noutlets for the expression of energy through action.\nThe natives may become traveling companions for adventure or in the \ncourse of professional, business, or corporate endeavors. They will en­\ncourage each other to uphold their shared goals and principles, and they \ncan become crusaders for worthwhile causes. There can be a mutual \ninterest in furthering religious, educational, political, or legal reforms. \nThey can be constructive and intelligent in service-oriented or behind- \nthe-scenes work designed to help those less fortunate than themselves. \nSuch work may relate to hospitals, colleges, schools, or institutions.\nA’s Mars Sextile B’s Saturn (A’s S  B’s >?)\nThis comparative combination indicates mutual constructive effort and \ndiscipline in professional, financial, corporate, or administrative affairs.\nThe \nSaturn individual can help the Mars to use more discipline, \norganization, and caution in carrying out actions and ambitions. The \nMars individual can help the Saturn individual to be more courageous \nand energetic in implementing plans and goals and in overcoming fear \nand negativity.\nThe \nnatives \ncan \ncooperate \neffectively \nin \ngroup \nand \norganizational \nactivities which have a serious purpose. These activities are often linked \nto a profession. The natives can cooperate in administrative work related \nto public relations and communications. This is a good combination for \nwork relating to engineering, construction, machinery, mining, or metal \nindustries. There can be effective cooperation in political work, military \naffairs, or police matters.\nThis is not a favorable comparative aspect for romantic attraction; \nhowever, if other factors in the comparison indicate a romantic or marital \nrelationship, this combination helps the natives to exercise the necessary \ndiscipline and determination to endure difficulties and trying times to­\ngether.\nA’s Mars Sextile B’s Uranus (A’s $ >j< B’s ¥)\nUnusual, \nenergetic, \nand \nresourceful \ncooperation \nis \npossible \nbetween \nthese \nnatives. \nThe \nUranus \nindividual \ncan \nhelp \nthe \nMars \nindividual \nthrough intuitive, creative, resourceful, and intellectual insights. The\n"
+    },
+    {
+      "page": 227,
+      "text": "218 mars\nin \ngetting \npractical \nresults. \nThe \nMars \nperson \ncan \nbenefit \nfrom \nthe \nSaturn’s \nexperience, \ndiscipline, \ncaution, \nand \ngood \norganization. \nThe \nMars individual can, in turn, help the Saturn individual to be more \ncourageous and energetic, overcoming his or her fear and negativity. The \nnatives encourage each other to take care of immediate work that re­\nquires patience and willingness and to handle the unpleasant tasks of \nlife. This discipline saves time, trouble, and aggravation in the long run, \nespecially where mechanical work, building, or tasks that require appli­\ncation and getting one’s hands soiled are involved. In marital relation­\nships, this combination helps the natives to have the mutual discipline \nrequired for getting through troubled times.\nA’s Mars Trine B’s Uranus (A’s $  A B’s )\nDynamic and creative relationships in the fields of scientific research, \nthe occult, astrology, business, corporate finance, and group or organiza­\ntional \nendeavors \nare \nindicated. \nThe \nnatives \nwill \nspur \neach \nother \nto \ngreater \naccomplishment \nin \nnew \napproaches \nto \nprofessional \naffairs \nor \nscientific, technological innovation. This is an excellent combination for \nthose who need to break away from dull, monotonous routines. The \nnatives can develop a mutual interest in occult sciences, and may become \ninvolved in occult groups and organizations.\nThe Uranus individual can give the Mars individual many intuitive, \ncreative insights into how to make his or her efforts and actions effective. \nThe Mars individual will inspire the Uranus individual with the energy \nand initiative to put insights to practical use. The natives will enjoy a \ndynamic friendship in which each can help the other to realize his or her \ngoals and objectives. They will enjoy the same friends and the same \ngroup \nand \norganizational \nactivities. \nThere \nwill \nbe \na \nmutual \nlove \nof \nadventure and excitement, which can show itself in travel, efforts at \npolitical or social reform, inventiveness, games or sports. In romantic and \nmarital \nrelationships, \nthis \ncombination \nindicates \nsexual \nattraction \nbe­\ncause of the double-Scorpio connotation of Mars and Uranus.\nA’s Mars Trine B’s Neptune (A’s $ A B’s V)\nBecause this comparative trine indicates a mutual interest in occult \nand mystical pursuits, the natives will encourage each other to an in­\ncreased capacity for psychic-intuitive awareness, especially in terms of \nincreasing survival potential. They will have a sympathetic, emotional\n"
+    },
+    {
+      "page": 237,
+      "text": "228 JUPITER\nIf \nJupiter \nis heavily afflicted in the comparison, the natives may \nbecome heavily involved in impractical, “pie-in-the-sky” thinking.\nA’s Jupiter in B’s Fourth House\nNatives enjoy a harmonious home and family relationship. If Jupiter is \nwell-aspected, the natives will regard each other as part of the family, \neven in the absence of any blood or marital relationship.\nThe natives encourage each other to carry on community, religious, \ncultural, or educational functions in the home. The home will be used as \na place of spiritual meditation and retreat. In some cases, the natives will \ntake in outsiders who need their help. The Jupiter individual will bring \neducational, cultural, spiritual, and religious values into the family life. \nThis is a good combination for business partnerships relating to real \nestate, building, farming, food, and domestic products.\nIf Jupiter is heavily afflicted in the comparison, there can be selfish, \npossessive love and overprotectiveness between the natives, especially if \nthey belong to the same family. This is particularly true in a parent- \nchild relationship.\nA’s Jupiter in B’s Fifth House\nThis \ncomparative \ncombination \nis \nfavorable \nfor \nmarital, \nromantic, \nparent-child, \nand \nteacher-student \nrelationships. \nBecause \nthe \nJupiter \nindividual knows how to make the process of learning enjoyable for the \nFifth House individual, this combination results in rapid learning in \nparent-child and teacher-student relationships. In romantic and marital \nrelationships, \nthe \nnatives \nwill \ngain \npleasure \nthrough \ncultural, \neduca­\ntional, religious, philosophical, and charitable activities. They will enjoy \ncultural \nor \nreligious \nart \nand \ndrama. \nThis \ncomparative \ncombination \npromises an enduring romantic relationship because of the kindness and \nconsideration the natives show for each other and because their cultural \nvalues are compatible. In marital relationships, this combination often \nproduces a large family, especially if Jupiter is in a Water sign.\nThe natives enjoy vacations and travel together in the pursuit of \npleasure. In business relationships, there can be gain through speculative \ninvestments, provided Jupiter is not afflicted. If Jupiter is afflicted in the \ncomparison, the natives can lead each other into excessive self-indulgence \nin the pursuit of pleasure, and this could lead to dissipation of time, \nmoney, and health.\n"
+    },
+    {
+      "page": 247,
+      "text": "238 JUPITER\nvidual can, in turn, provide a home or base of operations for the reli­\ngious, cultural, or educational pursuits of the Jupiter individual. There \nwill be mutual kindness and an emotional sensitivity to each other’s \nmoods and feelings.\nCOMPARATIVE SEXTILES\nComparative \nsextiles \nof \nJupiter \nindicate \nconstructive \ninterpersonal \ncommunication and friendly cooperation with regard to religious, philo­\nsophical, educational, and cultural goals and objectives. The natives may \nbecome involved together in organizational and group activities designed \nto improve and uplift the larger social order. This could take the form of \nhumanitarian, educational, religious, or charitable work. The natives are \nable to communicate well regarding the affairs ruled by the planets in \nthe comparative sextile. In general, these comparative combinations en­\ncourage benevolent cooperation.\nA’s Jupiter Sextile B’s Sun\nSee A’s Sun Sextile B’s Jupiter.\nA’s Jupiter Sextile B’s Moon\nSee A’s Moon Sextile B’s Jupiter.\nA’s Jupiter Sextile B’s Mercury\nSee A’s Mercury Sextile B’s Jupiter.\nA’s Jupiter Sextile B’s Venus\nSee A’s Venus Sextile B’s Jupiter.\nA’s Jupiter Sextile B’s Mars\nSee A’s Mars Sextile B’s Jupiter.\nA’s Jupiter Sextile B’s Jupiter (A’s U  >)< B’s U )\nThis \ncomparative \nsextile \nindicates \nintellectual \ncompatibility \nin \ncon­\ncepts and beliefs regarding philosophy, religion, higher education, law,\n"
+    },
+    {
+      "page": 257,
+      "text": "248 JUPITER\nA’s Jupiter Trine B’s Moon\nSee A’s Moon Trine B’s Jupiter.\nA’s Jupiter Trine B’s Mercury\nSee A’s Mercury Trine B’s Jupiter.\nA’s Jupiter Trine B’s Venus\nSee A’s Venus Trine B’s Jupiter.\nA’s Jupiter Trine B’s Mars\nSee A’s Mars Trine B’s Jupiter.\nA’s Jupiter Trine B’s Jupiter (A’s U  A B’s U )\nNatives will have a strong mutual interest in religion, philosophy, \neducation, \ntravel, \nhistory, \nand \nforeign \ncultures. \nThey \nwill \ntrust \neach \nother. They can work harmoniously together in religious, educational, or \ncultural institutions. There will be a mutual interest in bringing ethical, \nreligious, \ncultural, \nand \neducational \nvalues \ninto \nthe \nhome \nand \nfamily \nlife.\nA’s Jupiter Trine B’s Saturn (A’s U  A B’s >?)\nThis \ncomparative \ncombination \nindicates \nharmonious \ncooperation \nin \nbusiness, politics, law, education, public relations, administrative work, \nor group and organizational activities. There will be a sense of responsi­\nbility to the larger social order and to the ethical standards of society. \nThey \nwill \nencourage each \nother to apply their \nreligious \nand \nethical \nprinciples in a practical and meaningful way.\nThe Jupiter individual is able to help the Saturn individual overcome \npessimism and negativity. The Saturn individual will help the Jupiter \nindividual \nto \nbe \npractical \nand \nrealistic \nin \nprofessional, \norganizational, \nand financial affairs.\nThis is an excellent combination for responsible cooperation in mari­\ntal, business, friendship, and family relationships. In general, the natives \nrespect each other and bring out the best in each other’s character.\n"
+    },
+    {
+      "page": 267,
+      "text": "258 SATURN\nhave \na \nnegative, \ndiscouraging \nand \nunsympathetic \nattitude \ntoward \nthe \nideas and communications of the Third House individual, and the latter \nwill likely regard the Saturn individual as uncommunicative, negative in \nthinking, unresponsive to new ideas, or in extreme cases, as dull, stupid, \nopinionated, or prejudiced.\nA’s Saturn in B’s Fourth House\nHeavy \nmutual \nfamily \nand \ndomestic \nresponsibilities \nare \nindicated. \nThere will be a need for discipline and hard work in these affairs. The \nSaturn individual will demand hard work from the Fourth House indi­\nvidual, and the Fourth House individual’s domestic needs are likely to \nincrease the work load of the Saturn individual.\nIf Saturn is afflicted in the comparison, there can be conflict between \nthe professional interests of the Saturn individual and the family and \ndomestic concerns of the Fourth House individual. The Saturn indi­\nvidual can be austere and emotionally unresponsive to the inner feelings, \nmoods, and family emotional reactions of the Fourth House individual \nand regard him or her as a financial burden.\nOn the positive side, the Saturn individual can be a stabilizing influ­\nence in the home and provide domestic security through taking care of \nproperty and providing financial security through professional activities.\nA’s Saturn in B’s Fifth House\nThis comparative combination is not favorable for a romantic attrac­\ntion. In a romantic relationship, there can be considerable age difference. \nOne or both parties may enter into the relationship because of material \nconsideration or desire for status.\nIf Saturn is well-aspected in the comparison, this comparative combi­\nnation can indicate mutual loyalty. It is an important one for parent- \nchild relationships, especially if the parent is the Saturn individual. The \nSaturn individual will feel a strong responsibility toward the child and \nhave a strong disciplinary influence. This discipline can be constructive if \nit is combined with wisdom and love. However, if Saturn is afflicted, \nthere could be a lack of emotional sensitivity to the child's needs, and the \nchild could feel unloved or harshly treated. In a teacher-student rela­\ntionship, the situation is similar, particularly if the teacher is the Saturn \nindividual. In other types of relationships, there can be a mutual interest \nand enjoyment of sound financial investments and business and profes­\n"
+    },
+    {
+      "page": 277,
+      "text": "268 SATURN\nnatives to communicate about responsibilities and their practical man­\nagement.\nA’s Saturn Sextile B’s Sun\nSee A’s Sun Sextile B’s Saturn.\nA’s Saturn Sextile B’s Moon\nSee A’s Moon Sextile B’s Saturn.\nA’s Saturn Sextile B’s Mercury\nSee A’s Mercury Sextile B’s Saturn.\nA’s Saturn Sextile B’s Venus\nSee A’s Venus Sextile B’s Saturn.\nA’s Saturn Sextile B’s Mars \nSee A’s Mars Sextile B’s Saturn.\nA’s Saturn Sextile B’s Jupiter\nSee A’s Jupiter Sextile B’s Saturn.\nA’s Saturn Sextile B’s Saturn (A’s >)< B’s )\nNatives have the ability to cooperate intelligently in business, profes­\nsional, legal, public relations, or organizational affairs. The natives can \nfurther each other’s determination and resolve to achieve political and \nprofessional goals and status through their careful and systematic plan­\nning. Intellectual pursuits of serious merit, including mathematics, eco­\nnomics, politics, and physical sciences, are apt to be of great interest to \nthese natives.\nA’s Saturn Sextile B’s Uranus (A’s *> >)< B’s ¥ )\nThis \ncomparative \nsextile \nfavors \nintelligent \nwork \nand \ncooperation \nin \ngroup and organizational activities, particularly those involving adminis­\ntrative work in industrial research and development, corporate business,\n"
+    },
+    {
+      "page": 287,
+      "text": "278 SATURN\nSee A’s Mercury Trine B’s Saturn.\nA’s Saturn Trine B’s Venus\nSee A’s Venus Trine B’s Saturn.\nA’s Saturn Trine B’s Mars\nSee A’s Mars Trine B’s Saturn.\nA’s Saturn Trine B’s Jupiter\nSee A’s Jupiter Trine B’s Saturn.\nA’s Saturn Trine B’s Saturn (A’s >? A B’s 1?)\nThe \nnatives \nhave \ncompatible \nattitudes \ntoward \nhandling \nbusiness, \nfinancial, legal, educational, and professional affairs. The natives bring \nout each other’s qualities of patience, hard work, prudence, and fore­\nthought. In romantic and marital relationships, this comparative trine \nenhances the durability of the union. The natives’ adherence to principle \nand mutual responsibility will make them steadfast and loyal friends.\nThis \nis \nan \nexcellent \ncombination \nfor \nparent-child \nrelationships: \nit \nindicates patience and constructive discipline on the part of the parent \nand interest in learning on the child’s part. It is also good for teacher- \nstudent \nand \nemployer-employee \nrelationships, \nand \nfor \ncooperation \nin \npolitics, \nprofessional \nor \nfraternal \norganizations, \nbusiness \npartnerships, \npublic relations, or administrative affairs. It favors mutual involvement \nin conservative investments.\nA’s Saturn Trine B’s Uranus (A’s >? A B’s V )\nThis comparative trine is excellent for cooperation in the research, \ndevelopment, manufacture, and distribution of new technological prod­\nucts or inventions. Because Saturn deals with crystallized substances and \nUranus with electronics, the natives can share a special interest in elec­\ntronics and solid-state technology. There can be a mutual interest in \nimproving the efficiency, cost, and ecological soundness of industrial\nA’s Saturn Trine B’s Mercury\n"
+    },
+    {
+      "page": 297,
+      "text": "288 URANUS\nThe Uranus individual will influence the Third House individual to \nbe more open-minded and receptive to new ideas and will be instru­\nmental in bringing about important changes in the latter’s thinking. The \nUranus native can influence the Third House individual to base ideas on \ndirect practical experience or intuitive levels of perception. In turn, the \nThird House individual can help the Uranus individual acquire factual, \npractical information for use in creative, intuitive thinking and inventive \nendeavors. This is a good combination for those who are engaged in \nscientific research or who work together to solve technological problems. \nThere can be sudden and unexpected travel involving mutual friends, \ngroups, and organizations.\nIf Uranus is afflicted in the comparison, the natives will have unreal­\nistic \nideas \nand \nimpractical, \nuntried \nconcepts. \nThere \ncan \nbe \nsudden, \nmeaningless travel or comings and goings which do not serve any useful \npurpose. Where brothers, sisters and neighbors are concerned, there can \nbe disruptive circumstances, breakdowns in communication and lack of \nmutual understanding.\nA’s Uranus in B’s Fourth House\nThe Uranus individual is responsible for the indicated unusual, pos­\nsibly disruptive, events in home and family life. If the natives are mar­\nried or belong to the same family, there can be many sudden changes of \nresidence or unusual conditions in the home.\nThe Uranus individual will be the means of bringing about important \nand sometimes sudden changes in the deep-seated psychological attitudes \nof the Fourth House individual. These changes could be the result of \nsudden \nor \nunusual \nexperiences \nor \nof \noccult \ninfluences. \nThe \npositive \naspect of this comparison is that the Uranus individual can be instru­\nmental \nin \nliberating \nthe \nFourth \nHouse \nindividual \nfrom \nsubconscious \nemotional hangups based on childhood experiences.\nIn marriage relationships, the Uranus individual may choose a home \nthat is unusual because of its location or design, and is likely to bring \nmany unusual and gifted personal friends and groups or organizational \nactivities, as well as unusual artifacts and gadgets, into the family life. \nThrough this influence, the home may be used as a place to pursue \nscientific experimentation or occult activities.\nThe Fourth House individual can provide the Uranus individual with \na base of operations for activities. In some cases, there could be a mutual\n"
+    },
+    {
+      "page": 307,
+      "text": "298 URANUS\nThe Uranus individual will influence the Midheaven individual to be \nmore liberal and progressive in political, administrative, and professional \nmethods and ideas. The Uranus native can bring about important and \ndrastic changes which will affect status and position of the Midheaven \nindividual. \nThe \nMidheaven \nindividual \ncan, \nin \nturn, \nhelp \nthe \nUranus \nindividual to gain recognition and official support for his or her unique \nideas and endeavors.\nA’s Uranus Conjunct B’s Descendant Opposition \nB’s Ascendant (A’s $ 6 B’s Desc. 8 B’s Asc.)\nBasically, this comparative combination has the same significance as \n“A’s Uranus in B’s Seventh House,” except that its effects will be stronger \nand \nmore \nimmediate. \nThe \nUranus \nindividual \ncan \ncause \nimportant \nchanges in the Descendant individual’s attitudes toward marriage, part­\nnership, public relations, friendship, and business dealings. The Uranus \nnative will be instrumental in making the Descendant individual more \nawake and aware in these respects.\nIf Uranus is afflicted in the comparison, permanence in marriage or \nother partnerships is not favored.\nThe \nDescendant \nindividual \ncan \nintroduce \nthe \nUranus \nindividual \nto \nnew acquaintances and social contacts, and can also help the latter make \nhis or her unique ideas acceptable to others.\nA’s Uranus Conjunct B’s Nadir Opposition \nB’s Midheaven (A’s ¥ 6 B’s Nadir <9 B’s M.C.)\nThis comparative combination has basically the same significance as \n\"A’s Uranus in B’s Fourth House,” except that its effects will be more \nintense and immediate.\nThe Uranus individual can have a strong liberating influence on the \nNadir individual’s deep-seated habit patterns that are based on early \nchildhood experiences. Sudden and drastic changes can be brought into \nthe family and domestic affairs of the Nadir individual, often by the \nfriends and group activities the Uranus native introduces into the domes­\ntic scene.\nThe business and corporate affairs of the Uranus individual can affect \nthe \nNadir \nindividual’s \ndomestic financial affairs. The Nadir individual \ncan provide the Uranus individual with a home or base of operations for \nunique creative endeavors.\n"
+    },
+    {
+      "page": 317,
+      "text": "308 URANUS\nThis comparative combination can only occur among natives separated \nin age by twenty-eight or fifty-six years. There will be a mutual interest \nin progressive political, economic, scientific, and sociological changes.\nThe natives could be interested in scientific, sociological, and occult \nareas of work and investigation. They can cooperate effectively in group \nand organizational activities.\nA’s Uranus Trine B’s Neptune (A’s ¥ A  B’s f )\nThese natives share interests in religious mysticism, occult pursuits, the \nconcept of reincarnation, astrology, meditation, and other spiritual disci­\nplines, though these interests will not be pronounced unless they are also \nindicated by the natives’ natal horoscopes.\nThere can be mutual cooperation in group and organizational activ­\nities, \npsychological \ninvestigation, \nand \nsociological \nreforms. \nThe \nnatives \ncan help each other gain a better understanding and appreciation of the \nlarge-scale \npolitical, \nsociological, \neconomic, \nand \nreligious \nchanges \nthat \ninfluence mankind’s evolutionary development. They will bring out each \nother’s Utopian idealism.\nThe Uranus individual can help the Neptune individual to gain a \nmore scientific grasp of his or her own imaginative and psychic faculties. \nThe Neptune individual will be sympathetic to and will encourage the \nUranus individual’s intuitive inspirations and humanitarian tendencies.\nThis \ncomparative \ntrine \nmust \nbe \nreinforced \nby \nother \ncomparative \naspects if it is to be a major determining factor in the relationship.\nA’s Uranus Trine B’s Pluto (A’s ¥ A  B’s '£')\nThis comparative trine indicates mutual interest and ability to cooper­\nate in advanced scientific research, corporate business related to science \nand technology, political and social reform, and ecological improvements. \nIf the natives are interested in the occult, astrology, life after death, and \nreincarnation, they will be able to work together effectively in these \nfields. They will augment each other’s will power and determination in \nefforts at spiritual self-improvement. This can carry over into attempts to \nregenerate existing political, sociological, religious, educational, and eco­\nnomic institutions, especially where the recycling and proper handling of \nindustrial waste products are concerned.\nA’s Uranus Trine B’s Uranus (A’s ¥ A B’s ¥)\n"
+    },
+    {
+      "page": 327,
+      "text": "318 NEPTUNE\ntune individual can cause confusion and inefficiency in the job situation \ndue to daydreaming, lack of attention to detail, escapist tendencies, or \nunwholesome habits that affect the health. He or she may feign illness in \norder to avoid work or responsibilities.\nThe Sixth House individual is likely to regard the Neptune individual \nas evasive, inefficient, indolent, and undisciplined where work is con­\ncerned. The Neptune individual will regard the Sixth House individual \nas overly concerned with details, overly critical, materialistic, psychologi­\ncally insensitive, and unappreciative of spiritual values.\nIf Neptune is afflicted, the natives could encourage each other in \ndrinking, drug abuse, undesirable dietary habits, or peculiar forms of \ndress.\nIf Neptune is well-aspected in the comparison, the natives can have a \nmutual \ninterest \nin \nspiritual \nhealing, \ndiet, \nor \nservice \nin \nhospitals \nor \nreligious \nor \neducational \ninstitutions. \nThere \ncan \nbe \na \nstrong \nmutual \ninterest in psychology and mental health. The Neptune individual can \nhave imaginative or intuitive insights into ways of making work more \nefficient and comfortable. There could be an interest in artistically deco­\nrating the working environment or making it more pleasant.\nA’s Neptune in B’s Seventh House\nPeculiar psychological circumstances in marriages and other partner­\nships are indicated. The natives will have a strong subliminal, psycho­\nlogical effect on each other. If Neptune is well-aspected, there can be \nidealistic love and a psychological empathy between the natives, which \ncan show itself in the sharing of spiritual, artistic, religious, psychologi­\ncal, intuitive, and imaginative values and perceptions.\nThe natives can cooperate effectively in partnerships related to art, \nmusic, or entertainment. However, this is not a good combination for \nmost business partnerships or professional relationships because one or \nboth natives are likely to be unreliable or ineffectual, promising more \nthan they can deliver. The Neptune individual can be a confusing and \ndisorienting psychic influence on the Seventh House individual.\nIf Neptune is afflicted in the comparison, there can be psychological \nseparation between the natives, with one or both isolated in a private \ndream world. The neurotic or psychotic problems of one or both natives \ncan distort or break down the relationship. There is also the possibility of \ndeception and evasiveness where mutual responsibilities are concerned,\n"
+    },
+    {
+      "page": 337,
+      "text": "328 NEPTUNE\ncooperation in corporate business enterprises related to technology or \npsychology, or in religious, educational, or medical institutions, or in \ninsurance, entertainment, or popular art forms.\nA’s Neptune Sextile B’s North Node Trine B’s South Node \n(A’s f >)cB's S3 A B ’ s y )\nThis comparative combination indicates a shared social and esthetic \nawareness and enjoyment of currently popular art, music, and entertain­\nment. The intuitive and psychic abilities of the Neptune individual can \nhelp the Nodes individual to be more aware of subtle changes in the \nprevailing sociological, religious, educational, and cultural attitudes and \nbeliefs. The Nodes individual can help the other individual to take \nadvantage of these changes in his or her creative, artistic work or psycho­\nlogical interests and activities.\nIn \nromantic, \nparent-child, \nand \nteacher-student \nrelationships, \nthe \nnatives can help each other achieve social, psychological, and artistically \ncreative and expressive goals and objectives through mutual psychologi­\ncal understanding and rapport. They can share insights on how to gain \npopularity and public acceptance for these creative endeavors.\nA’s Neptune Sextile B’s South Node Trine B’s North Node \n(A’s tp * B’s u A B’s ft)\nThis comparative combination has basically the same significance as \n\"A’s Neptune Sextile B’s North Node Trine B’s South Node.” These \nnatives, however, will be more individualistic and intellectually critical \nin regard to the prevailing social trends and popular beliefs that affect \nart forms, sociology, and psychology.\nA’s Neptune Sextile B’s Ascendant Trine B’s Descendant \n(A’s B’s Asc. A  B’s Desc.)\nThese natives have an intuitive, psychological rapport. The Neptune \nindividual can bring out spiritual, intuitive, and imaginative qualities in \nthe Ascendant/Descendant individual and make him or her more aware \nof esthetic, intuitive, psychic, and psychological values. The Ascendant/ \nDescendant \nindividual \ncan \nhelp \nthe \nNeptune \nindividual \nto \nbe \nmore \nactive and expressive in utilizing intuitive, perceptive, and imaginative \nabilities.\n"
+    },
+    {
+      "page": 347,
+      "text": "See A’s Neptune Conjunct B’s Descendant Opposition B’s Ascendant.\nA’s Neptune Opposition B’s Midheaven Conjunct B’s Nadir\nSee A’s Neptune Conjunct B’s Nadir Opposition B’s Midheaven.\nA’s Neptune Opposition B’s Descendant Conjunct B’s Ascendant\nSee A’s Neptune Conjunct B’s Ascendant Opposition B’s Descendant.\nA’s Neptune Opposition B’s Nadir Conjunct B’s Midheaven\nSee A’s Neptune Conjunct B’s Midheaven Opposition B’s Nadir.\n338 NEPTUNE\nA’s Neptune Opposition B’s Ascendant Conjunct B’s Descendant\n"
+    },
+    {
+      "page": 357,
+      "text": "348 pluto\nSee A’s Neptune Conjunct B’s Pluto.\nA’s Pluto Conjunct B’s Pluto (A’s ^ 6 B’s\nThis comparative conjunction can occur only among natives of ap­\nproximately the same age. There is mutual concern with scientific, eco­\nnomic, political, and survival issues that concern the generation to which \nthe natives belong. Thus, the natives may share experiences involving \nlarge-scale \nsociological, \neconomic, \npolitical, \necological, \nand \nmilitary \naffairs which shape their destiny.\nThrough these common experiences the natives will develop will power \nand resourcefulness and the ability to survive crisis situations. These ex­\nperiences could also lead to a mutual appreciation of spiritual or occult \nvalues.\nA’s Pluto Conjunct B’s North Node Opposition \nB’s South Node (A’s ^ 6 B’s ft <9 B’s y)\nMutual interest in reforming or changing prevailing social trends and \npopular beliefs is indicated by this comparative combination.\nThe Pluto individual may regard the Nodes individual as superficial \nand lacking in insights because of his acceptance of these things, while \nthe Nodes individual may regard the former as overly severe in social \nattitudes. The Pluto individual can help the Nodes individual to gain \ndeeper \nprophetic \ninsight \ninto \nthe \nhistory \nand \nfuture \ndevelopment \nof \npopular \nbeliefs. \nThere \ncan \nbe \nmutual \nresourcefulness \nin \nusing \nsuch \ninsights in corporate business affairs or in mutual efforts to make money.\nA’s Pluto Conjunct B’s South Node Opposition \nB’s North Node (A’s 'g' tf B’s y 8 B’s ft)\nBecause of an individualistic and critical mutual approach to prevail­\ning trends and popular social beliefs, these natives will encourage each \nother to maintain their own sense of values and the courage of their \nconvictions, regardless of whether these values and convictions are gen­\nerally accepted.\nThe Nodes individual could have a restraining influence on the Pluto \nindividual, while the Pluto individual can help the Nodes person to\nA’s Pluto Conjunct B’s Neptune\n"
+    },
+    {
+      "page": 367,
+      "text": "A’s Pluto Trine B’s South Node Sextile B’s North Node \nSee A’s Pluto Sextile B’s North Node Trine B’s South Node.\nA’s Pluto Trine B’s Ascendant Sextile B’s Descendant \nSee A’s Pluto Sextile B’s Descendant Trine B’s Ascendant.\nA’s Pluto Trine B’s Midheaven Sextile B’s Nadir\nSee A’s Pluto Sextile B’s Nadir Trine B’s Midheaven.\nA’s Pluto Trine B’s Descendant Sextile B’s Ascendant\nSee A’s Pluto Sextile B’s Ascendant Trine B’s Descendant.\nA’s Pluto Trine B’s Nadir Sextile B’s Midheaven\nSee A’s Pluto Sextile B’s Midheaven Trine B’s Nadir.\nCOMPARATIVE OPPOSITIONS\nComparative oppositions of Pluto indicate conflict over joint finances, \ncorporate financial affairs, inheritance, taxes, or alimony. In some cases, \nthe \nnatives \nwill \nexperience \nserious \nego \nconfrontations \nand \npower \nstruggles.\nThe Pluto individual is likely to try to reform or remake the other \nnative in the life areas ruled by the planet Pluto opposes in the compari­\nson. These attempts are often met with resentment and resistance, and \nthe other person is apt to regard the Pluto individual as dictatorial, \nautocratic, controlling, domineering, and meddlesome.\nA’s Pluto Opposition B’s Sun\n358 PLUTO\nA’s Pluto Trine B’s North Node Sextile B’s South Node\nSee A’s Pluto Sextile B’s South Node Trine B’s North Node.\nSee A’s Sun Opposition B’s Pluto.\n"
+    },
+    {
+      "page": 377,
+      "text": "368 INDEX\nJupiter (A’s) conjunction (s) (cont’d)\nB’s Mercury, see Mercury (A’s), \nconjunct B’s Jupiter \nB’s Midheaven opposition B’s Nadir,\n237\nB’s Moon, see Moon (A’s), conjunct \nB’s Jupiter \nB’s Nadir opposition B’s Midheaven,\n237-38 \nB’s Neptune, 234-35 \nB’s North Node opposition B’s South \nNode, 236 \nB’s Pluto, 235-36 \nB’s Saturn, 233-34\nB’s South Node opposition B’s North \nNode, 236 \nB’s Sun, see Sun (A’s), conjunct B’s \nJupiter \nB’s Uranus, 234\nB’s Venus, see Venus (A’s), conjunct \nB’s Jupiter \nhouse (B’s) , placement in \nFirst House, 226 \nSecond House, 226-27 \nThird House, 227-28 \nFourth House, 228 \nFifth House, 228 \nSixth House, 229 \nSeventh House, 229 \nEighth House, 230 \nNinth House, 230 \nTenth House, 230-31 \nEleventh House, 231 \nTwelfth House, 231-32 \nopposition (s), 250-51\nB’s Ascendant conjunct B’s Descen­\ndant, see Jupiter (A’s), conjunct \nB’s Descendant opposition B’s \nAscendant \nB’s Descendant conjunct B’s Ascen­\ndant, see Jupiter (A’s), conjunct \nB’s Ascendant opposition B’s \nDescendant \nB’s Jupiter, 251-52 \nB’s Mars, see Mars (A’s), opposition \nB’s Jupiter \nB’s Mercury, see Mercury (A’s), \nopposition B’s Jupiter \nB’s Midheaven conjunct B’s Nadir, \nsee Jupiter (A’s), conjunct B’s \nNadir opposition B’s Midheaven \nB’s Moon, see Moon (A’s), opposition \nB’s Jupiter \nB’s Nadir conjunct B’s Midheaven, \nsee Jupiter (A’s), conjunct B’s \nMidheaven opposition B’s Nadir \nB’s Neptune, 253\nB’s North Node conjunct B’s South \nNode, see Jupiter (A’s) , conjunct \nB’s South Node opposition B’s \nNorth Node \nB’s Pluto, 253-54 \nB’s Saturn, 252\nJupiter (A’s), opposition (s) (cont’d)\nB’s South Node conjunct B’s North \nNode, see Jupiter (A’s), conjunct \nB’s North Node opposition B’s \nSouth Node,\nB’s Sun, see Sun (A’s), opposition \nB’s Jupiter \nB’s Uranus, 252-53 \nB’s Venus, see Venus (A's), opposi­\ntion B’s Jupiter \nsextile (s), 238\nB’s Ascendant trine B’s Descendant, \n241-42\nB’s Descendant trine B’s Ascendant, \n242\nB’s Jupiter, 238-39 \nB’s Mars, see Mars (A’s), sextile B’s \nJupiter\nB’s Mercury, see Mercury (A’s), \nsextile B’s Jupiter \nB’s Midheaven trine B’s Nadir, 242 \nB’s Moon, see Moon (A’s), sextile \nB’s Jupiter \nB’s Nadir trine B’s Midheaven, 242 \nB’s Neptune, 240\nB’s North Node trine B’s South Node, \n241\nB’s Pluto, 240-41 \nB’s Saturn, 239\nB’s South Node trine B’s North Node, \n241\nB’s Sun, see Sun (A’s) , sextile B’s \nJupiter \nB’s Uranus, 239-40 \nB’s Venus, see Venus (A’s), sextile \nB’s Jupiter \nsquare (s), 242-43\nB’s Ascendant square B’s Descendant, \n246\nB’s Descendant square B’s Ascendant, \nsee Jupiter (A’s), B’s Ascendant \nsquare B’s Descendant \nB’s Jupiter, 243-44 \nB’s Mars, see Mars (A's), square B’s \nJupiter\nB’s Mercury, see Mercury (A’s), \nsquare B’s Jupiter \nB’s Midheaven square B’s Nadir, \n246-47\nB’s Moon, see Moon (A’s), square B’s \nJupiter\nB’s Nadir square B’s Midheaven, \nsee Jupiter (A’s) , B Midheaven \nsquare B’s Nadir \nB’s Neptune, 245 \nB’s North Node square B’s South \nNode, 246 \nB’s Pluto, 245-46 \nB's Saturn, 244\nB’s South Node square B’s North \nNode, see Jupiter (A’s), square \nB’s North Node square B’s South \nNode\n"
+    },
+    {
+      "page": 387,
+      "text": "37B INDEX\nNeptune (A’s), A’s Pluto (cont’d)\ntrine, see Neptune (A’s), trine B’s \nPluto \nA’s Saturn\nconjunct, 264-65 \nopposition, 283 \nsextile, 269 \nsquare, 274-75 \ntrine, 279-80 \nA’s Sun\nconjunct, 70-71 \nopposition, 91-92 \nsextile, 76-77 \nsquare, 83 \ntrine, 87 \nA’s Uranus \nconjunct, 295-96 \nopposition, 311 \nsquare, 305 \nsextile, 300 \ntrine, 308 \nA’s Venus \nconjunct, 172 \nopposition, 191 \nsextile, 177 \nsquare, 182 \ntrine, 186-87 \nNodes\nA’s Jupiter conjunct\nB’s North Node opposition B’s \nSouth Node, 236 \nB’s South Node opposition B’s \nNorth Node, 236 \nA’s Jupiter opposition\nB’s North Node conjunct B’s South \nNode, see Jupiter (A’s), conjunct \nB’s South Node opposition B’s \nNorth Node \nB’s South Node conjunct B’s North \nNode, see Jupiter (A’s), conjunct \nB’s North Node opposition B’s \nSouth Node \nA’s Jupiter sextile\nB’s North Node trine B’s South \nNode, 241 \nB’s South Node trine B’s North \nNode, 241 \nA’s Jupiter square\nB’s North Node square B’s South \nNode; B’s South Node square B's \nNorth Node, 248 \nA’s Jupiter trine\nB’s North Node sextile B’s South \nNode, see Jupiter (A’s) , sextile \nB’s South Node trine B’s North \nNode\nB’s South Node sextile B’s North \nNode, see Jupiter (A’s), sextile \nB’s North Node trine B’s South \nNode \nA’s Mars conjunct\nB’s North Node opposition B’s South \nNode, 204\nNodes, A’s Mars conjunct (cont’d)\nB’s South Node opposition B’s North \nNode, 204-5 \nA’s Mars opposition\nB’s North Node conjunct B’s South \nNode, see Mars (A’s), conjunct \nB’s South Node opposition B’s \nNorth Node \nB’s South Node conjunct B’s North \nNode, see Mars (A’s) , conjunct \nB’s North Node opposition B’s \nSouth Node \nA’s Mars sextile\nB’s North Node trine B’s South \nNode, 210 \nB’s South Node trine B’s North Node, \n210\nA’s Mars square\nB’s North Node square B’s South \nNode; B’s South Node square B’s \nNorth Node, 215 \nA’s Mars conjunct\nB’s North Node opposition B’s \nSouth Node, 204 \nA’s Mars trine\nB’s North Node sextile B’s South \nNode, see Mars (A’s) , sextile B’s \nSouth Node trine B’s North Node \nB’s South Node sextile B’s North \nNode, see Mars (A’s), sextile \nB’s North Node trine B’s South \nNode \nA’s Mercury conjunct\nB’s North Node opposition B’s South \nNode, 140-41 \nB’s South Node opposition B’s North \nNode, 141 \nA’s Mercury opposition \nB’s North Node conjunct B’s South \nNode, see Mercury (A’s) , con­\njunct B’s South Node opposition \nB’s North Node \nB’s South Node conjunct B’s North \nNode, see Mercury (A’s), con­\njunct B’s North Node opposition \nB’s South Node \nA’s Mercury sextile \nB’s North Node trine B’s South \nNode, 147 \nB’s South Node trine B’s North \nNode, 147 \nA’s Mercury square\nB’s North Node square B’s South \nNode; B’s South Node square B’s \nNorth Node, 152 \nA’s Mercury trine\nB’s North Node sextile B’s South \nNode, see Mercury (A’s) , sextile \nB’s South Node trine B’s North \nNode\nB’s South Node sextile B’s North \nNode, see Mercury (A’s) , sextile \nB’s North Node trine B’s South \nNode\n"
+    },
+    {
+      "page": 402,
+      "text": "INDEX 393\nUranus (A’s), square (s) (cont’d)\nB’s Uranus, 304\nB’s Venus, see Venus (A’s) , square \nB’s Uranus \ntrine (s), 306-7\nB’s Ascendant sextile B’s Descendant, \nsee Uranus (A’s), sextile B’s De­\nscendant trine B’s Ascendant \nB’s Descendant sextile B’s Ascen­\ndant, see Uranus (A’s) , sextile B’s \nAscendant trine B’s Descendant \nB’s Jupiter, see Jupiter (A’s) , trine \nB’s Uranus \nB’s Mars, see Mars (A’s), trine B’s \nUranus\nB’s Mercury, see Mercury (A’s) , trine \nB’s Uranus \nB’s Midheaven sextile B’s Nadir, see \nUranus (A’s) , sextile B’s Nadir \ntrine B’s Midheaven \nB’s Moon, see Moon (A’s), trine B’s \nUranus\nB’s Nadir sextile B’s Midheaven, see \nUranus (A’s), sextile B’s Mid­\nheaven trine B’s Nadir \nB’s Neptune, 308 \nB’s North Node sextile B’s South \nNode, see Uranus (A’s), sextile \nB’s South Node trine B’s North \nNode \nB’s Pluto, 308-9\nB’s Saturn, see Saturn (A’s), trine \nB’s Uranus \nB’s South Node sextile B’s North \nNode, see Uranus (A’s) , sextile B’s \nNorth Node trine B’s South Node \nB’s Sun, see Sun (A’s) , trine B’s \nUranus \nB’s Uranus, 308\nB’s Venus, see Venus (A’s), trine \nB’s Uranus \nUranus (B’s)\nA’s Jupiter \nconjunct, 234 \nopposition, 252-53 \nsextile, 239-40 \nsquare, 244-45 \ntrine, 249 \nA’s Mars\nconjunct, 202-3 \nopposition, 222-23 \nsextile, 208-9 \nsquare, 213-14 \ntrine, 218 \nA’s Mercury \nconjunct, 139 \nopposition, 160-61 \nsextile, 145 \nsquare, 151 \ntrine, 156 \nA’s Moon \nconjunct, 103 \nopposition, 126 \nsextile, 110\nUranus (B’s) , A’s Moon (cont’d) \nsquare, 116 \ntrine, 121 \nA’s Neptune\nconjunct, see Uranus (A’s), con­\njunct B’s Neptune \nopposition, see Uranus (A’s) , opposi­\ntion B’s Neptune \nsextile, see Uranus (A’s) , sextile B’s \nNeptune\nsquare, see Uranus (A’s), square B’s \nNeptune \ntrine, see Uranus (A’s), trine B’s \nNeptune \nA’s Pluto\nconjunct, see Uranus (A’s), con­\njunct B’s Pluto \nopposition, see Uranus (A's) , op­\nposition B’s Pluto \nsextile, see Uranus (A’s) , sextile B’s \nPluto\nsquare, see Uranus (A’s), square \nB’s Pluto \ntrine, see Uranus (A's), trine B’s \nPluto \nA’s Saturn \nconjunct, 264 \nopposition, 282-83 \nsextile, 268-69 \nsquare, 273-74 \ntrine, 278-79 \nA’s Sun \nconjunct, 70 \nopposition, 91 \nsextile, 76 \nsquare, 81-82 \ntrine, 86-87 \nA’s Uranus \nconjunct, 295 \nopposition, 310-11 \nsextile, 300 \nsquare, 305 \ntrine, 308 \nA’s Venus \nconjunct, 171-72 \nopposition, 191 \nsextile, 176-77 \nsquare, 181 \ntrine, 186\nVenus, 163 \nVenus (A’s)\nconjunction (s) , 169\nB’s Ascendant opposition B’s Descen­\ndant, 173 \nB’s Descendant opposition B’s As­\ncendant, 174 \nB’s Jupiter, 170-71 \nB’s Mars, 170\nB’s Mercury, see Mercury (A’s) , \nconjunct B's Venus \nB’s Midheaven opposition B’s Nadir, \n173-74\n"
+    },
+    {
+      "page": 403,
+      "text": "394 INDEX\nVenus (A’s), conjunction (s) (cont’d)\nB’s Moon, see Moon (A’s), conjunct \nB’s Venus \nB’s Nadir opposition B’s Midheaven,\n174\nB’s Neptune, 172\nB’s North Node opposition B’s South \nNode, 173 \nB’s Pluto, 172 \nB’s Saturn, 171\nB’s South Node opposition B’s North \nNode, 173 \nB’s Sun, see Sun (A’s), conjunct B’s \nVenus \nB’s Uranus, 171-72 \nB’s Venus, 169-70 \nhouse (B’s) , placement in, 163-64 \nFirst House, 164 \nSecond House, 164 \nThird House, 165 \nFourth House, 165 \nFifth House, 166 \nSixth House, 166 \nSeventh House, 166-67 \nEighth House, 167 \nNinth House, 167-68 \nTenth House, 168 \nEleventh House, 168-69 \nTwelfth House, 169 \nopposition (s) , 188\nB’s Ascendant conjunct B’s Descen­\ndant, see Venus (A’s) , conjunct \nB’s Descendant opposition B’s \nAscendant \nB’s Descendant conjunct B’s Ascen­\ndant, see Venus (A’s), conjunct B’s \nAscendant opposition B’s Descen­\ndant \nB’s Jupiter, 190 \nB’s Mars, 189-90\nB’s Mercury, see Mercury (B’s), op­\nposition B’s Venus \nB’s Midheaven conjunct B’s Nadir, \nsee Venus (A’s), conjunct B’s \nNadir opposition B’s Midheaven \nB’s Moon, see Moon (A’s), opposi­\ntion B’s Venus \nB’s Nadir conjunct B’s Midheaven, \nsee Venus (A’s) , conjunct B’s Mid­\nheaven opposition B’s Nadir \nB’s Neptune, 191\nB’s North Node conjunct B’s South \nNode, see Venus (A’s) , conjunct \nB’s South Node opposition B’s \nNorth Node \nB’s Pluto, 192 \nB’s Saturn, 190\nB’s South Node conjunct B’s North \nNode, see Venus (A’s) , conjunct \nB’s North Node opposition B’s \nSouth Node \nB’s Sun, see Sun (A’s) , opposition \nB’s Venus \nB’s Uranus, 191 \nB’s Venus, 189\nVenus (A’s) (cont’d) \nsextile (s), 174\nB’s Ascendant trine B’s Descendant,\n178\nB’s Descendant trine B’s Ascendant,\n179\nB’s Jupiter, 175-76 \nB’s Mars, 175\nB’s Mercury, see Mercury (A’s) , \nsextile B’s Venus \nB’s Midheaven trine B’s Nadir, 178 \nB’s Moon, see Moon (A’s) , sextile \nB’s Venus \nB’s Neptune, 177 \nB’s North Node trine B’s South \nNode, 177-78 \nB’s Pluto, 177 \nB’s Saturn, 176\nB’s South Node trine B’s North Node, \n178\nB’s Sun, see Sun (A’s), sextile B’s \nVenus \nB’s Uranus, 176-77 \nB’s Venus, 175 \nsquare (s) , 179\nB’s Ascendant square B’s Descendant, \n183\nB’s Jupiter, 180-81 \nB’s Mars, 180\nB’s Mercury, see Mercury (A’s), \nsquare B’s Venus \nB’s Midheaven square B’s Nadir, 183 \nB’s Moon, see Moon (A’s) , square B’s \nVenus\nB’s Nadir square B’s Midheaven, see \nVenus (A’s) , square B’s Midheaven \nsquare B’s Nadir \nB’s Neptune, 182 \nB’s North Node square B’s South \nNode, 182-83 \nB’s Pluto, 182 \nB’s Saturn, 181\nB’s South Node square B’s North \nNode, see Venus (A’s) , square B’s \nNorth Node square B’s South Node \nB’s Sun, see Sun (A’s), square B’s \nVenus \nB’s Uranus, 181 \nB’s Venus, 180 \ntrine (s), 184 \nB’s Ascendant sextile B’s Descendant, \nsee Venus (A’s) , trine B’s \nDescendant trine B’s Ascendant \nB’s Descendant sextile B’s Ascen­\ndant, see Venus (A’s), sextile B’s \nAscendant trine B’s Descendant \nB’s Jupiter, 185 \nB’s Mars, 184-85 \nB's Mercury, see Mercury (A’s) , \ntrine B’s Venus \nB’s Midheaven sextile B’s Nadir, see \nVenus (A’s) , sextile B’s Nadir trine \nB’s Midheaven \nB’s Moon, see Moon (A’s) , trine B’s \nVenus\n"
+    },
+    {
+      "page": 404,
+      "text": "INDEX 395\nVenus (A’s) , trine (s) (cont’d)\nB’s Nadir sextile B’s Midheaven, see \nVenus (A’s) , sextile B’s Midheaven \ntrine B’s Nadir \nB’s Neptune, 186-87 \nB’s North Node sextile B’s South \nNode, see Venus (A’s), sextile B’s \nSouth Node trine B’s North Node \nB’s Pluto, 187 \nB’s Saturn, 185-86 \nB’s South Node sextile B’s North \nNode, see Venus (A’s) , sextile B’s \nNorth Node trine B’s South Node \nB’s Sun, see Sun (A’s), trine B’s \nVenus \nB’s Uranus, 186 \nB’s Venus, 184 \nVenus (B’s)\nA’s Jupiter\nconjunct, see Venus (A’s), conjunct \nB’s Jupiter \nopposition, see Venus (A’s), opposi­\ntion B’s Jupiter \nsextile, see Venus (A’s), sextile B’s \nJupiter\nsquare, see Venus (A’s) , square B’s \nJupiter\ntrine, see Venus (A’s) , trine B’s \nJupiter \nA’s Mars\nconjunct, see Venus (A’s) , conjunct \nB’s Mars\nopposition, see Venus (A’s), opposi­\ntion B’s Mars \nsextile, see Venus (A’s), sextile B’s \nMars\nsquare, see Venus (A’s), square B’s \nMars\ntrine, see Venus (A’s), trine B’s Mars \nA’s Mercury \nconjunct, 136 \nopposition, 159 \nsextile, 143—44 \nsquare, 149-50 \ntrine, 154 \nA’s Moon\nconjunct, 101 \nopposition, 124 \nsextile, 108 \nsquare, 114 \ntrine, 119-20 \nA’s Neptune\nconjunct, see Venus (A’s) , conjunct \nB’s Neptune \nopposition, see Venus (A’s) , opposi­\ntion B’s Neptune \nsextile, see Venus (A’s) , sextile B’s \nNeptune\nVenus (B’s), A’s Neptune (cont’d)\nsquare, see Venus (A’s) , square B’s \nNeptune \ntrine, see Venus (A's), trine B’s \nNeptune \nA’s Pluto \nconjunct, see Venus (A’s), conjunct \nB’s Pluto\nopposition, see Venus (A’s) , opposi­\ntion B’s Pluto \nsextile, see Venus (A’s) , sextile B’s \nPluto\nsquare, see Venus (A’s) , square B’s \nPluto\ntrine, see Venus (A’s) , trine B’s \nPluto \nA’s Saturn \nconjunct, see Venus (A’s) , conjunct \nB’s Saturn \nopposition, see Venus (A’s), opposi­\ntion B’s Saturn \nsextile, see Venus (A’s), sextile B’s \nSaturn\nsquare, see Venus (A’s), square B’s \nSaturn\ntrine, see Venus (A’s), trine B’s \nSaturn \nA’s Sun \nconjunct, 68-69 \nopposition, 89-90 \nsextile, 74-75 \nsquare, 80 \ntrine, 85 \nA’s Uranus\nconjunct, see Venus (A’s) , conjunct \nB’s Uranus \nopposition, see Venus (A’s) , opposi­\ntion B’s Uranus \nsextile, see Venus (A’s) , sextile B’s \nUranus\nsquare, see Venus (A’s), square B’s \nUranus\ntrine, see Venus (A’s), trine B’s \nUranus \nA's Venus \nconjunct, 169—70 \nopposition, 189 \nsextile, 175 \nsquare, 180 \ntrine, 184 \nVirgo\ndates of Sun signs, 6 \nfeminine/negative sign, 21 \nquadrupiicity, Mutable, 19, 41 \nrole of, 45—46 \ntriplicity, Earth, 10-15, 41\nZodiac signs (See also Chart calculations; \nnames), 3-7\n"
+    }
+  ],
+  "tech_pages": [
+    {
+      "page": 71,
+      "text": "62 SUN\nto a high degree of creativity in their endeavors, which shows itself in the \naffairs ruled by the house in which the Sun falls in the comparison.\nAfflictions to the Sun’s comparative position indicate strong differences \nin the individuals’ attitudes toward how the matters ruled by the Sun \nshould be handled, and these matters can become a source of ego conflict \nand confrontation in the relationship.\nBecause the Sun is the natural ruler of the Fifth House, concerns ruled \nby the comparative house placement of the Sun are often linked to \nartistic, romantic, pleasure-oriented, or child-related activities.\nFirst House\nAs the Sun person’s power potential and drive for creative self-expres­\nsion tend to stimulate the First House native’s self-awareness and desire \nfor self-expression, their interaction can result either in competition or in \neffective, energetic cooperation in achieving some mutual creative goal. \nSince the Sun is accidentally exalted in the First House through its \nexaltation in Aries, the individuals tend to stimulate each other’s will \nand drive for significance and to be alike in their basic consciousness and \noutlook on life. However, since both may try to play the same role, \ncompetition may take the place of cooperation. The individuals must put \naside their egos to some extent if they are to cooperate effectively. \nRomantic \nand \nmarital \nrelationships \nwith \nthis \ncombination \nare \noften \nfounded upon a strong mutual attraction: the Sun’s natural rulership of \nthe Fifth House and the Ascendant’s rulership of the physical body \nindicates the likelihood of physical attraction.\nSecond House\nThis comparative combination indicates cooperation on a financial or \nbusiness basis. The Sun native’s creativity and energy can stimulate the \nSecond House native to improve his material circumstances. The Sun \nnative may cultivate the Second House native to use his resources for \nsome personal self-expression or creative endeavor. The Sun individual’s \ncreativity can influence the Second House person’s esthetic and material \nvalues or vice versa. The Second House individual may provide the \nresources \nneeded \nfor \nthe \nSun \nindividual’s \ncreative \nexpression. \nIn \na \nromance, a marriage, or a friendship, however, resentments can arise \nfrom ulterior motives of personal material gain on the part of one or \nboth individuals. Whether there is sufficient basis in other areas of the\n"
+    },
+    {
+      "page": 81,
+      "text": "72 SUN\npeople working in politics, art, theater, or other lines of work that \ndepend upon public recognition.\nA’s Sun Conjunct B’s South Node Opposition \nB’s North Node (A’s O 6  B’s w S B’sfj)\nThe Nodes individual in this comparative combination acts as a re­\nstraining influence on the Sun individual. If the Nodes individual keeps \nthe Sun native from blindly following others and helps that person to be \nmore individualistic in the face of social pressures, the effects of the \naspect can be beneficial. In turn, the Sun individual may help the Nodes \nindividual overcome fears of social disapproval that might have been \nhandicapping.\nA’s Sun Conjunct B’s Ascendant Opposition \nB’s Descendant (A’s O 6  B’sAsc. 8  B’sDesc.)\nThe \nAscendant \ndeals \nwith \na \nperson’s \nbasic \nawareness \nof \nspiritual \nessence, and the Sun is concerned with basic life energy and self-expres­\nsion, through its exaltation in Aries and the First House. Consequently, \nthis comparative combination can indicate a strong spiritual link be­\ntween two people.\nThough, on the negative side, there can be danger of competition, \nthese individuals can effectively reinforce each other’s self-image, self- \nawareness, will power, and self-expression. If they take advantage of the \npositive \ninfluence \nof \nthis \ncomparative \naspect, \nits \neffect \ncan \nbe very \npowerful.\nA’s Sun Conjunct B’s Midheaven Opposition \nB’s Nadir (A’s O ci B’s M.C. 8  B’s Nadir)\nThe will and creative expressions of the Sun individual can strongly \naffect the career and social status of the Midheaven/Nadir individual. In \nturn, the status and social position of the Midheaven/Nadir individual \nmay help the Sun native toward more effective self-expression, especially \nin regard to improving public standing. This is a good comparative \ncombination for cooperation in business, professional, and political mat­\nters. If the egos are allowed to be obstructive forces, however, there may \nbe rivalry for power and importance.\n"
+    }
+  ],
+  "full_text": null
+}

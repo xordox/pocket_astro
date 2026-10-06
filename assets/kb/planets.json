@@ -1,0 +1,1640 @@
+{
+ "engine": "pocketastro-planets",
+ "version": 1,
+ "sources": [
+  "Charak, Elements of Vedic Astrology — ch. VI, VII, XII, XVIII, XIX.",
+  "Braha, Ancient Hindu Astrology for the Modern Western Astrologer.",
+  "Levacy, Beneath a Vedic Sky — skills II and III.",
+  "Sutton, The Essentials of Vedic Astrology — grahas and the karmic axis."
+ ],
+ "natural_benefics": [
+  "Jupiter",
+  "Venus",
+  "Mercury (unafflicted)",
+  "Moon (waxing)"
+ ],
+ "natural_malefics": [
+  "Saturn",
+  "Mars",
+  "Sun",
+  "Rahu",
+  "Ketu",
+  "Moon (waning)",
+  "Mercury (with malefics)"
+ ],
+ "natural_benefic_rules": {
+  "note": "The runtime yoga evaluator reads these thresholds rather than hard-coding them, so the two conditional grahas can be argued with in data.",
+  "always_benefic": [
+   "Jupiter",
+   "Venus"
+  ],
+  "always_malefic": [
+   "Sun",
+   "Mars",
+   "Saturn",
+   "Rahu",
+   "Ketu"
+  ],
+  "moon_benefic_elongation_from": 90.0,
+  "moon_benefic_elongation_to": 270.0,
+  "moon_note": "Paksha bala. The careful classical reading is Shukla Ashtami to Krishna Ashtami — the Moon is a benefic while it carries enough light, not merely because it is technically waxing. A one-day-old Moon is a malefic.",
+  "mercury_corrupted_by": [
+   "Mars",
+   "Saturn",
+   "Rahu",
+   "Ketu",
+   "Moon"
+  ],
+  "mercury_note": "Mercury takes the nature of its company: benefic alone, malefic when it shares a sign with a natural malefic (a waning Moon counts). The Sun is deliberately excluded — Sun with Mercury is the auspicious Budhaditya, not a corruption."
+ },
+ "house_classes": {
+  "kendra": [
+   1,
+   4,
+   7,
+   10
+  ],
+  "trikona": [
+   1,
+   5,
+   9
+  ],
+  "dusthana": [
+   6,
+   8,
+   12
+  ],
+  "upachaya": [
+   3,
+   6,
+   10,
+   11
+  ],
+  "maraka": [
+   2,
+   7
+  ],
+  "trik": [
+   6,
+   8,
+   12
+  ],
+  "panapara": [
+   2,
+   5,
+   8,
+   11
+  ],
+  "apoklima": [
+   3,
+   6,
+   9,
+   12
+  ]
+ },
+ "dig_bala": {
+  "1": [
+   "Jupiter",
+   "Mercury"
+  ],
+  "4": [
+   "Moon",
+   "Venus"
+  ],
+  "7": [
+   "Saturn"
+  ],
+  "10": [
+   "Sun",
+   "Mars"
+  ]
+ },
+ "combustion_note": "Combustion (asta) is measured from the Sun in longitude. A combust planet loses its ability to give independent results but keeps its ownership duties. Mercury and Venus are least harmed; the Moon and Mars most.",
+ "planetary_war": "Two non-luminary planets within 1° are in graha yuddha. The one further north in latitude (or the brighter) wins; the loser withholds its results for that period.",
+ "functional_nature_rules": [
+  "Lords of the trikonas (1, 5, 9) are functional benefics for that lagna.",
+  "Lords of 3, 6 and 11 are functional malefics.",
+  "Lords of 2 and 12 are neutral, taking their colour from their other lordship.",
+  "Kendradhipati dosha: a natural benefic owning a kendra (4, 7, 10) loses beneficence; a natural malefic owning one gains it.",
+  "Yogakaraka, strictly: one graha owning both a kendra (4/7/10) and a trikona (5/9). Only Mars for Cancer and Leo, Venus for Capricorn and Aquarius, and Saturn for Taurus and Libra qualify.",
+  "A lagna lord that also owns a kendra (Mercury for Gemini and Virgo, Jupiter for Sagittarius and Pisces) is strongly benefic but is not called a yogakaraka; it is listed separately as lagna_lord_also_kendra_lord.",
+  "Marakas are the lords of the 2nd and 7th; they are read as stress and transition markers, never as mortality indicators.",
+  "Badhaka: the 11th house for movable lagnas, the 9th for fixed, the 7th for dual. Its lord obstructs."
+ ],
+ "functional_by_lagna": {
+  "Aries": {
+   "lagna_lord": "Mars",
+   "house_lords": {
+    "1": "Mars",
+    "2": "Venus",
+    "3": "Mercury",
+    "4": "Moon",
+    "5": "Sun",
+    "6": "Mercury",
+    "7": "Venus",
+    "8": "Mars",
+    "9": "Jupiter",
+    "10": "Saturn",
+    "11": "Saturn",
+    "12": "Jupiter"
+   },
+   "yogakaraka": [],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Jupiter",
+    "Mars",
+    "Sun"
+   ],
+   "functional_malefics": [
+    "Mercury",
+    "Saturn"
+   ],
+   "functional_neutrals": [
+    "Moon",
+    "Venus"
+   ],
+   "marakas": [
+    "Venus"
+   ],
+   "badhaka_house": 11,
+   "badhaka_lord": "Saturn"
+  },
+  "Taurus": {
+   "lagna_lord": "Venus",
+   "house_lords": {
+    "1": "Venus",
+    "2": "Mercury",
+    "3": "Moon",
+    "4": "Sun",
+    "5": "Mercury",
+    "6": "Venus",
+    "7": "Mars",
+    "8": "Jupiter",
+    "9": "Saturn",
+    "10": "Saturn",
+    "11": "Jupiter",
+    "12": "Mars"
+   },
+   "yogakaraka": [
+    "Saturn"
+   ],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_malefics": [
+    "Jupiter",
+    "Mars",
+    "Moon"
+   ],
+   "functional_neutrals": [
+    "Sun"
+   ],
+   "marakas": [
+    "Mars",
+    "Mercury"
+   ],
+   "badhaka_house": 9,
+   "badhaka_lord": "Saturn"
+  },
+  "Gemini": {
+   "lagna_lord": "Mercury",
+   "house_lords": {
+    "1": "Mercury",
+    "2": "Moon",
+    "3": "Sun",
+    "4": "Mercury",
+    "5": "Venus",
+    "6": "Mars",
+    "7": "Jupiter",
+    "8": "Saturn",
+    "9": "Saturn",
+    "10": "Jupiter",
+    "11": "Mars",
+    "12": "Venus"
+   },
+   "yogakaraka": [],
+   "lagna_lord_also_kendra_lord": [
+    "Mercury"
+   ],
+   "functional_benefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_malefics": [
+    "Mars",
+    "Sun"
+   ],
+   "functional_neutrals": [
+    "Jupiter",
+    "Moon"
+   ],
+   "marakas": [
+    "Jupiter",
+    "Moon"
+   ],
+   "badhaka_house": 7,
+   "badhaka_lord": "Jupiter"
+  },
+  "Cancer": {
+   "lagna_lord": "Moon",
+   "house_lords": {
+    "1": "Moon",
+    "2": "Sun",
+    "3": "Mercury",
+    "4": "Venus",
+    "5": "Mars",
+    "6": "Jupiter",
+    "7": "Saturn",
+    "8": "Saturn",
+    "9": "Jupiter",
+    "10": "Mars",
+    "11": "Venus",
+    "12": "Mercury"
+   },
+   "yogakaraka": [
+    "Mars"
+   ],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Jupiter",
+    "Mars",
+    "Moon"
+   ],
+   "functional_malefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_neutrals": [
+    "Sun"
+   ],
+   "marakas": [
+    "Saturn",
+    "Sun"
+   ],
+   "badhaka_house": 11,
+   "badhaka_lord": "Venus"
+  },
+  "Leo": {
+   "lagna_lord": "Sun",
+   "house_lords": {
+    "1": "Sun",
+    "2": "Mercury",
+    "3": "Venus",
+    "4": "Mars",
+    "5": "Jupiter",
+    "6": "Saturn",
+    "7": "Saturn",
+    "8": "Jupiter",
+    "9": "Mars",
+    "10": "Venus",
+    "11": "Mercury",
+    "12": "Moon"
+   },
+   "yogakaraka": [
+    "Mars"
+   ],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Jupiter",
+    "Mars",
+    "Sun"
+   ],
+   "functional_malefics": [
+    "Mercury",
+    "Moon",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_neutrals": [],
+   "marakas": [
+    "Mercury",
+    "Saturn"
+   ],
+   "badhaka_house": 9,
+   "badhaka_lord": "Mars"
+  },
+  "Virgo": {
+   "lagna_lord": "Mercury",
+   "house_lords": {
+    "1": "Mercury",
+    "2": "Venus",
+    "3": "Mars",
+    "4": "Jupiter",
+    "5": "Saturn",
+    "6": "Saturn",
+    "7": "Jupiter",
+    "8": "Mars",
+    "9": "Venus",
+    "10": "Mercury",
+    "11": "Moon",
+    "12": "Sun"
+   },
+   "yogakaraka": [],
+   "lagna_lord_also_kendra_lord": [
+    "Mercury"
+   ],
+   "functional_benefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_malefics": [
+    "Mars",
+    "Moon",
+    "Sun"
+   ],
+   "functional_neutrals": [
+    "Jupiter"
+   ],
+   "marakas": [
+    "Jupiter",
+    "Venus"
+   ],
+   "badhaka_house": 7,
+   "badhaka_lord": "Jupiter"
+  },
+  "Libra": {
+   "lagna_lord": "Venus",
+   "house_lords": {
+    "1": "Venus",
+    "2": "Mars",
+    "3": "Jupiter",
+    "4": "Saturn",
+    "5": "Saturn",
+    "6": "Jupiter",
+    "7": "Mars",
+    "8": "Venus",
+    "9": "Mercury",
+    "10": "Moon",
+    "11": "Sun",
+    "12": "Mercury"
+   },
+   "yogakaraka": [
+    "Saturn"
+   ],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_malefics": [
+    "Jupiter",
+    "Sun"
+   ],
+   "functional_neutrals": [
+    "Mars",
+    "Moon"
+   ],
+   "marakas": [
+    "Mars"
+   ],
+   "badhaka_house": 11,
+   "badhaka_lord": "Sun"
+  },
+  "Scorpio": {
+   "lagna_lord": "Mars",
+   "house_lords": {
+    "1": "Mars",
+    "2": "Jupiter",
+    "3": "Saturn",
+    "4": "Saturn",
+    "5": "Jupiter",
+    "6": "Mars",
+    "7": "Venus",
+    "8": "Mercury",
+    "9": "Moon",
+    "10": "Sun",
+    "11": "Mercury",
+    "12": "Venus"
+   },
+   "yogakaraka": [],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Jupiter",
+    "Mars",
+    "Moon"
+   ],
+   "functional_malefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_neutrals": [
+    "Sun"
+   ],
+   "marakas": [
+    "Jupiter",
+    "Venus"
+   ],
+   "badhaka_house": 9,
+   "badhaka_lord": "Moon"
+  },
+  "Sagittarius": {
+   "lagna_lord": "Jupiter",
+   "house_lords": {
+    "1": "Jupiter",
+    "2": "Saturn",
+    "3": "Saturn",
+    "4": "Jupiter",
+    "5": "Mars",
+    "6": "Venus",
+    "7": "Mercury",
+    "8": "Moon",
+    "9": "Sun",
+    "10": "Mercury",
+    "11": "Venus",
+    "12": "Mars"
+   },
+   "yogakaraka": [],
+   "lagna_lord_also_kendra_lord": [
+    "Jupiter"
+   ],
+   "functional_benefics": [
+    "Jupiter",
+    "Mars",
+    "Sun"
+   ],
+   "functional_malefics": [
+    "Moon",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_neutrals": [
+    "Mercury"
+   ],
+   "marakas": [
+    "Mercury",
+    "Saturn"
+   ],
+   "badhaka_house": 7,
+   "badhaka_lord": "Mercury"
+  },
+  "Capricorn": {
+   "lagna_lord": "Saturn",
+   "house_lords": {
+    "1": "Saturn",
+    "2": "Saturn",
+    "3": "Jupiter",
+    "4": "Mars",
+    "5": "Venus",
+    "6": "Mercury",
+    "7": "Moon",
+    "8": "Sun",
+    "9": "Mercury",
+    "10": "Venus",
+    "11": "Mars",
+    "12": "Jupiter"
+   },
+   "yogakaraka": [
+    "Venus"
+   ],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_malefics": [
+    "Jupiter",
+    "Mars",
+    "Sun"
+   ],
+   "functional_neutrals": [
+    "Moon"
+   ],
+   "marakas": [
+    "Moon",
+    "Saturn"
+   ],
+   "badhaka_house": 11,
+   "badhaka_lord": "Mars"
+  },
+  "Aquarius": {
+   "lagna_lord": "Saturn",
+   "house_lords": {
+    "1": "Saturn",
+    "2": "Jupiter",
+    "3": "Mars",
+    "4": "Venus",
+    "5": "Mercury",
+    "6": "Moon",
+    "7": "Sun",
+    "8": "Mercury",
+    "9": "Venus",
+    "10": "Mars",
+    "11": "Jupiter",
+    "12": "Saturn"
+   },
+   "yogakaraka": [
+    "Venus"
+   ],
+   "lagna_lord_also_kendra_lord": [],
+   "functional_benefics": [
+    "Mercury",
+    "Saturn",
+    "Venus"
+   ],
+   "functional_malefics": [
+    "Jupiter",
+    "Mars",
+    "Moon"
+   ],
+   "functional_neutrals": [
+    "Sun"
+   ],
+   "marakas": [
+    "Jupiter",
+    "Sun"
+   ],
+   "badhaka_house": 9,
+   "badhaka_lord": "Venus"
+  },
+  "Pisces": {
+   "lagna_lord": "Jupiter",
+   "house_lords": {
+    "1": "Jupiter",
+    "2": "Mars",
+    "3": "Venus",
+    "4": "Mercury",
+    "5": "Moon",
+    "6": "Sun",
+    "7": "Mercury",
+    "8": "Venus",
+    "9": "Mars",
+    "10": "Jupiter",
+    "11": "Saturn",
+    "12": "Saturn"
+   },
+   "yogakaraka": [],
+   "lagna_lord_also_kendra_lord": [
+    "Jupiter"
+   ],
+   "functional_benefics": [
+    "Jupiter",
+    "Mars",
+    "Moon"
+   ],
+   "functional_malefics": [
+    "Saturn",
+    "Sun",
+    "Venus"
+   ],
+   "functional_neutrals": [
+    "Mercury"
+   ],
+   "marakas": [
+    "Mars",
+    "Mercury"
+   ],
+   "badhaka_house": 7,
+   "badhaka_lord": "Mercury"
+  }
+ },
+ "planets": {
+  "Sun": {
+   "sanskrit": "Surya",
+   "nature": "malefic (hot, dry, separative)",
+   "gender": "male",
+   "element": "fire",
+   "guna": "sattva",
+   "caste": "kshatriya",
+   "direction": "east",
+   "dig_bala_house": 10,
+   "day": "Sunday",
+   "metal": "gold/copper",
+   "gem": "ruby",
+   "upa_gem": "red garnet, sunstone",
+   "deity": "Shiva / Surya Narayana",
+   "beej_mantra": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+   "vedic_mantra": "Om Suryaya Namah",
+   "colour": "copper-red, orange",
+   "taste": "pungent",
+   "dhatu": "bone",
+   "direction_of_gaze": "upward",
+   "karaka": "soul (atmakaraka), father, vitality, authority, government, title, the eye",
+   "houses_signified": [
+    1,
+    9,
+    10
+   ],
+   "body": "heart, eyes (right in men, left in women), bone, stomach, head",
+   "diseases": [
+    "heart trouble",
+    "eye strain",
+    "fevers",
+    "bone weakness",
+    "headaches",
+    "blood pressure"
+   ],
+   "professions": [
+    "government",
+    "administration",
+    "medicine",
+    "leadership",
+    "politics",
+    "gold and metals",
+    "father's line of work"
+   ],
+   "relatives": [
+    "father",
+    "employer",
+    "authority figures"
+   ],
+   "aspects": [
+    7
+   ],
+   "speed": "1° per day",
+   "motion_note": "never retrograde",
+   "combustion_orb": null,
+   "exalt": {
+    "sign": "Aries",
+    "deg": 10.0
+   },
+   "debil": {
+    "sign": "Libra",
+    "deg": 10.0
+   },
+   "own": [
+    "Leo"
+   ],
+   "moolatrikona": {
+    "sign": "Leo",
+    "from_deg": 0.0,
+    "to_deg": 20.0
+   },
+   "friends": [
+    "Moon",
+    "Mars",
+    "Jupiter"
+   ],
+   "neutrals": [
+    "Mercury"
+   ],
+   "enemies": [
+    "Venus",
+    "Saturn"
+   ],
+   "sign_in": "A pure fire principle. Strong in fire and in kendras; burns in watery, debilitating ground.",
+   "name": "Sun",
+   "in_sign": {
+    "Aries": "Direct, self-starting, competitive; leads from the front and will not be second. Exalted — authority comes early.",
+    "Taurus": "Steady authority, fixed values, a stubborn dignity; money and voice matter to the ego.",
+    "Gemini": "Authority through words, versatility, teaching; scattered if the mind is not given one subject.",
+    "Cancer": "Identity is emotional and family-rooted; needs to be needed. Authority softens, sometimes to a fault.",
+    "Leo": "Own sign. Full-strength ego — royal, generous, dramatic; wounded quickly by disrespect.",
+    "Virgo": "Analytical, service-minded, self-critical; authority earned by competence, not by rank.",
+    "Libra": "Debilitated. Authority given away to keep the peace; the self is defined through others. Look for neecha bhanga before calling this weak.",
+    "Scorpio": "Intense, secretive, transformative; power held in reserve and used once, hard.",
+    "Sagittarius": "Philosophical, teacherly, ethical; needs a cause to be loyal to before a career.",
+    "Capricorn": "Ambitious, patient, structural; status built slowly and kept. Political skill.",
+    "Aquarius": "Unorthodox authority; leadership of a group or cause rather than of a hierarchy.",
+    "Pisces": "Compassionate, imaginative, self-effacing; authority through art, faith or service."
+   },
+   "in_house": {
+    "1": "Strong personality, prominent forehead, authority in one's own name; a temper about dignity. Health runs on the heart and eyes.",
+    "2": "Wealth through authority or father; commanding speech; family pride. Can scorch the family budget.",
+    "3": "Courage, initiative, strong younger-sibling karma; good for self-effort, hard on brothers.",
+    "4": "Restless at home; may move away from the birth place; mother's or father's authority contested. Digbala-poor.",
+    "5": "Authority through intellect and children; few but notable children; speculation should be avoided.",
+    "6": "Excellent placement — defeats enemies, debt and disease through will; good for service, medicine, litigation.",
+    "7": "Authority handed to the partner; late or official marriage; the spouse is proud. Some separation in long absences.",
+    "8": "Long-lived but stressed; interest in the occult; father's health or legacy is a theme. Not a soft placement.",
+    "9": "Fortunate; father, dharma, law, long travel and teaching all favoured. One of the best places for the Sun.",
+    "10": "Directional strength (digbala). Career, government, public name. The strongest Sun for status.",
+    "11": "Steady gains through authority and elders; ambitious friendships; income rises with rank.",
+    "12": "Expenditure, foreign residence, hospitals or retreat; visibility is withheld until it is earned quietly. Eye care matters."
+   }
+  },
+  "Moon": {
+   "sanskrit": "Chandra",
+   "nature": "benefic when waxing, malefic when waning or afflicted",
+   "gender": "female",
+   "element": "water",
+   "guna": "sattva",
+   "caste": "vaishya",
+   "direction": "north-west",
+   "dig_bala_house": 4,
+   "day": "Monday",
+   "metal": "silver",
+   "gem": "natural pearl",
+   "upa_gem": "moonstone",
+   "deity": "Parvati / Gauri",
+   "beej_mantra": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+   "vedic_mantra": "Om Chandraya Namah",
+   "colour": "white, pale cream",
+   "taste": "salty",
+   "dhatu": "blood/plasma",
+   "direction_of_gaze": "oblique",
+   "karaka": "mind (manah), mother, public, home, fluids, moods, the breast",
+   "houses_signified": [
+    4
+   ],
+   "body": "blood, lymph, breasts, stomach lining, left eye in men",
+   "diseases": [
+    "anxiety and sleep trouble",
+    "fluid retention",
+    "digestive weakness",
+    "hormonal cycles",
+    "chest congestion"
+   ],
+   "professions": [
+    "public-facing work",
+    "hospitality",
+    "nursing",
+    "liquids and dairy",
+    "shipping",
+    "psychology",
+    "mother's line of work"
+   ],
+   "relatives": [
+    "mother",
+    "the public",
+    "women in the family"
+   ],
+   "aspects": [
+    7
+   ],
+   "speed": "13° per day",
+   "motion_note": "never retrograde; strength depends on paksha (waxing/waning)",
+   "combustion_orb": 12.0,
+   "exalt": {
+    "sign": "Taurus",
+    "deg": 3.0
+   },
+   "debil": {
+    "sign": "Scorpio",
+    "deg": 3.0
+   },
+   "own": [
+    "Cancer"
+   ],
+   "moolatrikona": {
+    "sign": "Taurus",
+    "from_deg": 4.0,
+    "to_deg": 30.0
+   },
+   "friends": [
+    "Sun",
+    "Mercury"
+   ],
+   "neutrals": [
+    "Mars",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+   ],
+   "enemies": [],
+   "sign_in": "The Moon takes the colour of the sign more literally than any other graha; read the sign as the mood a person lives in.",
+   "name": "Moon",
+   "in_sign": {
+    "Aries": "Quick, impulsive, independent mind; feelings arrive and pass fast.",
+    "Taurus": "Exalted. Steady, sensory, loyal mind; needs comfort and beauty to feel safe.",
+    "Gemini": "Curious, talkative, restless mind; two of everything, including opinions.",
+    "Cancer": "Own sign. Deeply feeling, maternal, tidal; home and mother are the whole weather system.",
+    "Leo": "Proud, warm, performing mind; needs an audience and repays it with loyalty.",
+    "Virgo": "Precise, worrying, service-oriented mind; calms itself by fixing things.",
+    "Libra": "Relational mind; cannot settle until the room is balanced. Charm as a coping strategy.",
+    "Scorpio": "Debilitated. Intense, secretive, all-or-nothing feeling; early emotional wound that becomes depth. Check for neecha bhanga.",
+    "Sagittarius": "Optimistic, wandering, meaning-seeking mind; restless for the bigger picture.",
+    "Capricorn": "Reserved, dutiful, ambitious mind; feelings postponed until the work is done.",
+    "Aquarius": "Detached, humanitarian, unconventional mind; loves people in general more easily than in particular.",
+    "Pisces": "Porous, compassionate, dreaming mind; absorbs the room. Boundaries are the lifelong lesson."
+   },
+   "in_house": {
+    "1": "Sensitive, changeable, publicly readable; popularity comes easily. Waxing Moon here is excellent.",
+    "2": "Wealth through the public; sweet speech; family and food are emotional anchors.",
+    "3": "Courage that fluctuates; close to siblings, especially sisters; short journeys frequent.",
+    "4": "Digbala. Own house of the Moon — strong home life, attachment to mother, land and vehicles. Best house for the Moon.",
+    "5": "Emotional creativity; strong bond with children; a speculative streak. Good for teaching and arts.",
+    "6": "Emotional strain through work and health; oversensitivity to conflict. Waning Moon here is hard.",
+    "7": "Marriage is the emotional centre; partner is caring but moody; public-facing partnerships.",
+    "8": "Emotional turbulence, occult sensitivity, chronic worry; secret sorrows. Needs real sleep hygiene.",
+    "9": "Faith, travel, teachers and father all emotionally charged; happy long journeys.",
+    "10": "Public career; the work is with people. Mother influences the career. Digbala-poor but socially strong.",
+    "11": "Large network, gains through many people, popular; income through the public.",
+    "12": "Foreign lands, retreat, hospitals, sleep and imagination; a private inner life. Isolation must be chosen, not fallen into."
+   }
+  },
+  "Mars": {
+   "sanskrit": "Mangala / Kuja",
+   "nature": "malefic (hot, sharp, cutting)",
+   "gender": "male",
+   "element": "fire",
+   "guna": "tamas",
+   "caste": "kshatriya",
+   "direction": "south",
+   "dig_bala_house": 10,
+   "day": "Tuesday",
+   "metal": "copper",
+   "gem": "red coral",
+   "upa_gem": "carnelian, red jasper",
+   "deity": "Kartikeya / Hanuman",
+   "beej_mantra": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+   "vedic_mantra": "Om Angarakaya Namah",
+   "colour": "blood red",
+   "taste": "bitter",
+   "dhatu": "marrow",
+   "direction_of_gaze": "downward",
+   "karaka": "courage, siblings (younger), land and property, conflict, surgery, engineering",
+   "houses_signified": [
+    3,
+    6
+   ],
+   "body": "muscle, bone marrow, blood, genitals, forehead",
+   "diseases": [
+    "accidents and cuts",
+    "inflammation",
+    "fevers",
+    "blood disorders",
+    "surgery",
+    "burns"
+   ],
+   "professions": [
+    "military and police",
+    "surgery",
+    "engineering",
+    "real estate",
+    "sports",
+    "metals and machinery",
+    "firefighting"
+   ],
+   "relatives": [
+    "younger siblings",
+    "rivals"
+   ],
+   "aspects": [
+    4,
+    7,
+    8
+   ],
+   "speed": "~0.5° per day",
+   "motion_note": "retrograde roughly every 2 years; intensifies rather than weakens",
+   "combustion_orb": 17.0,
+   "exalt": {
+    "sign": "Capricorn",
+    "deg": 28.0
+   },
+   "debil": {
+    "sign": "Cancer",
+    "deg": 28.0
+   },
+   "own": [
+    "Aries",
+    "Scorpio"
+   ],
+   "moolatrikona": {
+    "sign": "Aries",
+    "from_deg": 0.0,
+    "to_deg": 12.0
+   },
+   "friends": [
+    "Sun",
+    "Moon",
+    "Jupiter"
+   ],
+   "neutrals": [
+    "Venus",
+    "Saturn"
+   ],
+   "enemies": [
+    "Mercury"
+   ],
+   "sign_in": "Mars shows where the chart fights. In its own or exalted sign it is competence; debilitated it is a temper with no craft attached.",
+   "name": "Mars",
+   "in_sign": {
+    "Aries": "Own sign and moolatrikona. Clean courage, direct action, physical competence.",
+    "Taurus": "Slow to anger and immovable once angry; fights for possessions and comfort.",
+    "Gemini": "Argumentative energy; fights with words, wit and paperwork.",
+    "Cancer": "Debilitated. Anger turns inward or sideways — moods, sulks, indirect force. Neecha bhanga matters here.",
+    "Leo": "Proud, commanding, showy courage; leads a fight rather than joining one.",
+    "Virgo": "Critical, methodical, technical energy; surgical when disciplined, nagging when not.",
+    "Libra": "Energy spent negotiating; fights for fairness, avoids the fight itself.",
+    "Scorpio": "Own sign. Deep, strategic, relentless energy; holds a grudge and a plan.",
+    "Sagittarius": "Crusading energy; fights for a belief and travels for it.",
+    "Capricorn": "Exalted. Disciplined ambition, executive force, endurance — the best Mars for building.",
+    "Aquarius": "Energy for the group, the cause, the invention; impersonal and stubborn.",
+    "Pisces": "Diffuse, compassionate, inspired energy; strong in service and art, weak in confrontation."
+   },
+   "in_house": {
+    "1": "Kuja dosha house. Physical, competitive, scarred; a fighter's constitution and a short fuse.",
+    "2": "Kuja dosha house. Harsh speech, family friction, money made and spent by force.",
+    "3": "Excellent — courage, initiative, competence; strong younger siblings; self-made drive.",
+    "4": "Kuja dosha house. Friction at home, land disputes, restless domestic life; property acquired by effort.",
+    "5": "Sharp intellect and strong will; risk appetite; strain around children or speculation.",
+    "6": "Excellent — defeats enemies, debt and disease; good for surgery, litigation, competitive work.",
+    "7": "Kuja dosha house. Passion and friction in marriage; partner is forceful. Needs a partner who matches the heat, not one who absorbs it.",
+    "8": "Kuja dosha house. Accident and surgery flag; strong occult or investigative capacity; in-law friction.",
+    "9": "Fighting for a belief; disputes with father or teachers; energetic long travel.",
+    "10": "Excellent — career drive, executive force, engineering and command. Digbala.",
+    "11": "Gains through effort and competition; forceful friends; ambition rewarded.",
+    "12": "Energy spent in secret, abroad, or in hospitals; hidden enemies; poorly directed anger. Physical outlet required."
+   }
+  },
+  "Mercury": {
+   "sanskrit": "Budha",
+   "nature": "benefic alone, takes on the nature of whatever it joins",
+   "gender": "neuter",
+   "element": "earth",
+   "guna": "rajas",
+   "caste": "shudra",
+   "direction": "north",
+   "dig_bala_house": 1,
+   "day": "Wednesday",
+   "metal": "brass/bronze",
+   "gem": "emerald",
+   "upa_gem": "green tourmaline, peridot",
+   "deity": "Vishnu",
+   "beej_mantra": "Om Braam Breem Braum Sah Budhaya Namah",
+   "vedic_mantra": "Om Budhaya Namah",
+   "colour": "green",
+   "taste": "mixed",
+   "dhatu": "skin",
+   "direction_of_gaze": "level",
+   "karaka": "speech, intellect, commerce, documents, skill, nerves, maternal uncle",
+   "houses_signified": [
+    4,
+    10
+   ],
+   "body": "skin, nervous system, lungs, hands, tongue",
+   "diseases": [
+    "nervous complaints",
+    "skin conditions",
+    "speech and hearing issues",
+    "allergies",
+    "digestive nerves"
+   ],
+   "professions": [
+    "trade and commerce",
+    "writing and publishing",
+    "accounting",
+    "software",
+    "teaching",
+    "law",
+    "communications",
+    "medicine"
+   ],
+   "relatives": [
+    "maternal uncle",
+    "friends",
+    "students"
+   ],
+   "aspects": [
+    7
+   ],
+   "speed": "varies, up to 2° per day",
+   "motion_note": "retrograde ~3x/year; classically strengthened when retrograde",
+   "combustion_orb": 14.0,
+   "exalt": {
+    "sign": "Virgo",
+    "deg": 15.0
+   },
+   "debil": {
+    "sign": "Pisces",
+    "deg": 15.0
+   },
+   "own": [
+    "Gemini",
+    "Virgo"
+   ],
+   "moolatrikona": {
+    "sign": "Virgo",
+    "from_deg": 16.0,
+    "to_deg": 20.0
+   },
+   "friends": [
+    "Sun",
+    "Venus"
+   ],
+   "neutrals": [
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   "enemies": [
+    "Moon"
+   ],
+   "sign_in": "Mercury is the only graha that is exalted in its own sign. Read its sign for how the person thinks, and its company for whether the thinking is honest.",
+   "name": "Mercury",
+   "in_sign": {
+    "Aries": "Fast, blunt, decisive speech; thinks by arguing.",
+    "Taurus": "Slow, practical, retentive mind; speaks about money, food, comfort and craft.",
+    "Gemini": "Own sign. Versatile, quick, journalistic mind; the classic communicator.",
+    "Cancer": "Emotive, retentive, indirect speech; remembers everything, says a third of it.",
+    "Leo": "Confident, declarative, creative mind; speaks to be heard.",
+    "Virgo": "Exalted and own sign. Analytical, editorial, exacting mind — the strongest Mercury.",
+    "Libra": "Diplomatic, balanced, comparative mind; sees both sides, decides late.",
+    "Scorpio": "Investigative, secretive, penetrating mind; researcher's Mercury.",
+    "Sagittarius": "Broad, philosophical, sometimes careless mind; good at meaning, poor at detail.",
+    "Capricorn": "Serious, structural, economical mind; says only what is useful.",
+    "Aquarius": "Original, systemic, inventive mind; thinks in models.",
+    "Pisces": "Debilitated. Intuitive and imaginative but imprecise; contracts and detail need a second reader. Check neecha bhanga."
+   },
+   "in_house": {
+    "1": "Digbala. Intelligent, articulate, youthful; identity built on communication.",
+    "2": "Wealth through speech, trade, writing; excellent for commerce and accounting.",
+    "3": "Skill in writing and short travel; clever siblings; craft and media.",
+    "4": "Intellect applied to home and land; study at home; mother is talkative or educated.",
+    "5": "Sharp mind, good for teaching and analysis; clever children; strong in counsel.",
+    "6": "Analytical service; good for medicine, audit, law; nervous complaints under stress.",
+    "7": "Business partnerships; a younger or intellectual spouse; contracts matter enormously.",
+    "8": "Research and the occult; interest in what is hidden; careful with documents and inheritance.",
+    "9": "Higher learning, publishing, law, philosophy; a scholar's placement.",
+    "10": "Career in trade, media, writing, analysis; a professional communicator.",
+    "11": "Gains through networks, trade and younger people; profitable friendships.",
+    "12": "Mind runs privately; research, foreign work, writing done alone. Watch for anxious over-thinking."
+   }
+  },
+  "Jupiter": {
+   "sanskrit": "Guru / Brihaspati",
+   "nature": "the great benefic",
+   "gender": "male",
+   "element": "ether",
+   "guna": "sattva",
+   "caste": "brahmin",
+   "direction": "north-east",
+   "dig_bala_house": 1,
+   "day": "Thursday",
+   "metal": "gold",
+   "gem": "yellow sapphire",
+   "upa_gem": "citrine, yellow topaz",
+   "deity": "Brahma / Dakshinamurti",
+   "beej_mantra": "Om Graam Greem Graum Sah Gurave Namah",
+   "vedic_mantra": "Om Brihaspataye Namah",
+   "colour": "yellow, gold",
+   "taste": "sweet",
+   "dhatu": "fat",
+   "direction_of_gaze": "level",
+   "karaka": "wisdom, teacher, children, wealth, dharma, husband in a woman's chart, expansion",
+   "houses_signified": [
+    2,
+    5,
+    9,
+    11
+   ],
+   "body": "liver, fat, thighs, arterial system, ears",
+   "diseases": [
+    "liver and gallbladder",
+    "diabetes",
+    "weight gain",
+    "circulation",
+    "ear complaints"
+   ],
+   "professions": [
+    "teaching",
+    "law",
+    "finance and banking",
+    "priesthood",
+    "counselling",
+    "publishing",
+    "medicine"
+   ],
+   "relatives": [
+    "teacher",
+    "children",
+    "husband (in a woman's chart)",
+    "elder brother"
+   ],
+   "aspects": [
+    5,
+    7,
+    9
+   ],
+   "speed": "~0.08° per day; ~1 year per sign",
+   "motion_note": "retrograde ~4 months a year",
+   "combustion_orb": 11.0,
+   "exalt": {
+    "sign": "Cancer",
+    "deg": 5.0
+   },
+   "debil": {
+    "sign": "Capricorn",
+    "deg": 5.0
+   },
+   "own": [
+    "Sagittarius",
+    "Pisces"
+   ],
+   "moolatrikona": {
+    "sign": "Sagittarius",
+    "from_deg": 0.0,
+    "to_deg": 10.0
+   },
+   "friends": [
+    "Sun",
+    "Moon",
+    "Mars"
+   ],
+   "neutrals": [
+    "Saturn"
+   ],
+   "enemies": [
+    "Mercury",
+    "Venus"
+   ],
+   "sign_in": "Jupiter expands whatever the sign already is. In a friendly sign it is grace; in Capricorn it is a teacher forced to run a budget.",
+   "name": "Jupiter",
+   "in_sign": {
+    "Aries": "Enthusiastic teacher, pioneer of ideas; belief precedes evidence.",
+    "Taurus": "Wealth-minded wisdom; grows resources, values and voice.",
+    "Gemini": "Learned and curious, but scattered belief; many teachers, no guru.",
+    "Cancer": "Exalted. The best Jupiter — grace, protection, generosity, real wisdom. Blesses home, mother, children.",
+    "Leo": "Dignified, authoritative teaching; wisdom worn visibly.",
+    "Virgo": "Wisdom applied to detail and service; the critical scholar. Jupiter is uneasy in Mercury's exacting ground.",
+    "Libra": "Wisdom through relationship and law; the good counsel of a fair mind.",
+    "Scorpio": "Occult, researching, transformative wisdom; interest in what is hidden.",
+    "Sagittarius": "Own sign and moolatrikona. Natural teacher, philosopher, priest; ethics as spine.",
+    "Capricorn": "Debilitated. Wisdom under a budget; faith replaced by pragmatism, generosity by calculation. Neecha bhanga matters greatly here.",
+    "Aquarius": "Wisdom for the collective; reformer, humanitarian, systems thinker.",
+    "Pisces": "Own sign. Devotional, compassionate, mystical wisdom; gives without ledger."
+   },
+   "in_house": {
+    "1": "Digbala. Optimism, protection, a visible good nature; grace on the body and the reputation.",
+    "2": "Wealth, learned speech, good family; classical placement for money.",
+    "3": "Courage with ethics; benefit through siblings; but Jupiter in an upachaya is mildly weakened.",
+    "4": "Excellent — happy home, educated mother, land and vehicles, inner contentment.",
+    "5": "Best for children, teaching and intellect; a guru's placement. Strong purva punya.",
+    "6": "Jupiter's least comfortable house; work and debt expand. Good for healing professions, hard on the waistline and the budget.",
+    "7": "Excellent for marriage — a wise, protective spouse; grace in partnership.",
+    "8": "Longevity and occult depth; inheritance and insurance; a protected 8th.",
+    "9": "Best house for Jupiter — dharma, father, fortune, teachers, long travel, publishing.",
+    "10": "Career with ethics and visibility; teaching, law, finance, counsel.",
+    "11": "Large and easy gains; influential friends; one of the best money placements.",
+    "12": "Charitable, retreat-loving, spiritually inclined; expenditure on good causes; protection abroad."
+   }
+  },
+  "Venus": {
+   "sanskrit": "Shukra",
+   "nature": "benefic (moist, creative, sensual)",
+   "gender": "female",
+   "element": "water",
+   "guna": "rajas",
+   "caste": "brahmin",
+   "direction": "south-east",
+   "dig_bala_house": 4,
+   "day": "Friday",
+   "metal": "silver/platinum",
+   "gem": "diamond",
+   "upa_gem": "white sapphire, white zircon, opal",
+   "deity": "Lakshmi / Shukracharya",
+   "beej_mantra": "Om Draam Dreem Draum Sah Shukraya Namah",
+   "vedic_mantra": "Om Shukraya Namah",
+   "colour": "white, variegated pastels",
+   "taste": "sour",
+   "dhatu": "semen/reproductive fluid",
+   "direction_of_gaze": "upward",
+   "karaka": "marriage, wife in a man's chart, art, vehicles, comfort, luxury, desire",
+   "houses_signified": [
+    7,
+    12
+   ],
+   "body": "reproductive system, kidneys, throat, face, eyes",
+   "diseases": [
+    "reproductive and urinary complaints",
+    "diabetes",
+    "kidney trouble",
+    "eye problems",
+    "venereal disease"
+   ],
+   "professions": [
+    "art and design",
+    "music",
+    "fashion",
+    "entertainment",
+    "hospitality",
+    "luxury trade",
+    "vehicles",
+    "cosmetics"
+   ],
+   "relatives": [
+    "wife (in a man's chart)",
+    "lovers",
+    "partners in pleasure"
+   ],
+   "aspects": [
+    7
+   ],
+   "speed": "~1.2° per day",
+   "motion_note": "retrograde ~40 days every 18 months",
+   "combustion_orb": 10.0,
+   "exalt": {
+    "sign": "Pisces",
+    "deg": 27.0
+   },
+   "debil": {
+    "sign": "Virgo",
+    "deg": 27.0
+   },
+   "own": [
+    "Taurus",
+    "Libra"
+   ],
+   "moolatrikona": {
+    "sign": "Libra",
+    "from_deg": 0.0,
+    "to_deg": 15.0
+   },
+   "friends": [
+    "Mercury",
+    "Saturn"
+   ],
+   "neutrals": [
+    "Mars",
+    "Jupiter"
+   ],
+   "enemies": [
+    "Sun",
+    "Moon"
+   ],
+   "sign_in": "Venus shows the standard of comfort a person will not go below, and the taste they apply to it.",
+   "name": "Venus",
+   "in_sign": {
+    "Aries": "Impulsive, direct desire; falls fast, tires fast.",
+    "Taurus": "Own sign. Sensual, loyal, comfort-loving; steady affection and good taste.",
+    "Gemini": "Flirtatious, communicative love; needs conversation more than devotion.",
+    "Cancer": "Nurturing, domestic love; partner is family or nothing.",
+    "Leo": "Romantic, generous, dramatic love; needs to be adored.",
+    "Virgo": "Debilitated. Love filtered through criticism and service; affection shown as usefulness. Check neecha bhanga — Venus in Virgo works when the person stops auditing the partner.",
+    "Libra": "Own sign and moolatrikona. The strongest social Venus — partnership, art, fairness, grace.",
+    "Scorpio": "Intense, possessive, transformative love; all or nothing.",
+    "Sagittarius": "Free, philosophical, adventurous love; needs room and a shared belief.",
+    "Capricorn": "Cautious, status-aware, durable love; slow to commit, hard to shake.",
+    "Aquarius": "Unconventional, friendship-first love; loyalty without ownership.",
+    "Pisces": "Exalted. Devotional, boundless, self-giving love — the strongest Venus. Also the easiest to exploit."
+   },
+   "in_house": {
+    "1": "Beauty, charm, a pleasant presence; comfort-seeking; attractive to others.",
+    "2": "Wealth through art, beauty and speech; a sweet voice; enjoyment of food and family.",
+    "3": "Artistic skill, pleasant siblings, enjoyable short travel; some laziness in effort.",
+    "4": "Digbala. Beautiful home, vehicles, land, a comfortable mother; domestic happiness.",
+    "5": "Romance, creativity, children, pleasure in learning; the lover's 5th.",
+    "6": "Venus in service; enjoyment complicated by work and health; relationships with colleagues.",
+    "7": "Own natural house — marriage and partnership are central and usually favourable. Watch for over-dependence on the partner.",
+    "8": "Passionate and secretive; gains through partner or inheritance; longevity supported.",
+    "9": "Grace, fortune, travel for pleasure, a cultured belief system; a fortunate Venus.",
+    "10": "Career in art, beauty, luxury, diplomacy; public charm.",
+    "11": "Gains through women, art and partnerships; luxurious friendships; strong income.",
+    "12": "Own natural house of Venus in the sense of bedroom and retreat — pleasure in private, foreign comfort, spiritual love. Also the house where indulgence hides."
+   }
+  },
+  "Saturn": {
+   "sanskrit": "Shani",
+   "nature": "the great malefic (cold, dry, slow, constricting)",
+   "gender": "neuter",
+   "element": "air",
+   "guna": "tamas",
+   "caste": "shudra",
+   "direction": "west",
+   "dig_bala_house": 7,
+   "day": "Saturday",
+   "metal": "iron, lead",
+   "gem": "blue sapphire",
+   "upa_gem": "amethyst, lapis lazuli, blue spinel",
+   "deity": "Hanuman / Shani Dev / Bhairava",
+   "beej_mantra": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+   "vedic_mantra": "Om Shanaischaraya Namah",
+   "colour": "black, dark blue",
+   "taste": "astringent",
+   "dhatu": "nerve/sinew",
+   "direction_of_gaze": "downward",
+   "karaka": "longevity, duty, delay, labour, servants, sorrow, discipline, the old",
+   "houses_signified": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "body": "nerves, teeth, knees, joints, skin, spleen",
+   "diseases": [
+    "chronic illness",
+    "arthritis and joints",
+    "depression",
+    "dental problems",
+    "nerve pain",
+    "chronic fatigue"
+   ],
+   "professions": [
+    "labour and trades",
+    "mining and oil",
+    "agriculture",
+    "law and judiciary",
+    "civil service",
+    "monastic life",
+    "waste and recycling",
+    "long-cycle research"
+   ],
+   "relatives": [
+    "servants",
+    "the elderly",
+    "the poor",
+    "workers"
+   ],
+   "aspects": [
+    3,
+    7,
+    10
+   ],
+   "speed": "~0.03° per day; ~2.5 years per sign",
+   "motion_note": "retrograde ~4.5 months a year",
+   "combustion_orb": 15.0,
+   "exalt": {
+    "sign": "Libra",
+    "deg": 20.0
+   },
+   "debil": {
+    "sign": "Aries",
+    "deg": 20.0
+   },
+   "own": [
+    "Capricorn",
+    "Aquarius"
+   ],
+   "moolatrikona": {
+    "sign": "Aquarius",
+    "from_deg": 0.0,
+    "to_deg": 20.0
+   },
+   "friends": [
+    "Mercury",
+    "Venus"
+   ],
+   "neutrals": [
+    "Jupiter"
+   ],
+   "enemies": [
+    "Sun",
+    "Moon",
+    "Mars"
+   ],
+   "sign_in": "Saturn delays what the sign wants and then makes it permanent. Never read Saturn as denial without first checking the delay.",
+   "name": "Saturn",
+   "in_sign": {
+    "Aries": "Debilitated. Duty resented; discipline arrives as frustration. Structure has to be learned the hard way. Check neecha bhanga.",
+    "Taurus": "Patient accumulation; slow, permanent material gain. Hard on speech and family early.",
+    "Gemini": "Disciplined thinking, methodical communication; slow learner who ends as the expert.",
+    "Cancer": "Emotional restraint, heavy home karma, duty to mother; warmth arrives late and lasts.",
+    "Leo": "Authority resisted then earned; pride disciplined by public failure and rebuilt.",
+    "Virgo": "Excellent working Saturn — detail, service, method, health discipline.",
+    "Libra": "Exalted. Justice, fairness, real authority; duty in partnership. The strongest Saturn.",
+    "Scorpio": "Hard, deep, transformative Saturn; chronic pressure that produces genuine occult or research capacity.",
+    "Sagittarius": "Disciplined belief; a philosopher who tests doctrine against life. Late but durable faith.",
+    "Capricorn": "Own sign and karmic home. Ambition, endurance, structure; slow rise, long reign.",
+    "Aquarius": "Own sign and moolatrikona. Saturn for the collective — reform, systems, long service.",
+    "Pisces": "Duty to the unseen; isolation, service, renunciation. Sleep and boundaries are the health issue."
+   },
+   "in_house": {
+    "1": "A serious, slow-maturing, sometimes burdened self; health and confidence arrive late but hold.",
+    "2": "Delayed and hard-earned wealth; reserved speech; family duty. Saturn as 2nd-house maraka must be watched.",
+    "3": "Excellent upachaya — courage built by grinding; disciplined effort; distance from siblings.",
+    "4": "Heavy home karma, duty to mother, delayed property; melancholy at home. Property when it comes is permanent.",
+    "5": "Delay or seriousness about children; disciplined intellect; teaching rather than speculation.",
+    "6": "Excellent upachaya — defeats enemies and debt by endurance; the professional's 6th; chronic rather than acute health issues.",
+    "7": "Digbala. Delayed but durable marriage; an older or serious partner; the marriage is a duty as much as a pleasure.",
+    "8": "Longevity karaka in the house of longevity; chronic conditions; deep endurance; occult capacity.",
+    "9": "Duty as dharma; delayed fortune; a strict father or teacher; faith tested and then durable.",
+    "10": "Excellent — career built by labour, authority through endurance, lasting status. Saturn's own natural house.",
+    "11": "Excellent upachaya — best house for Saturn's gains; income rises steadily with age and seniority.",
+    "12": "Expenditure, isolation, foreign residence, insomnia, service to the unseen; the moksha placement for Saturn."
+   }
+  },
+  "Rahu": {
+   "sanskrit": "Rahu (north lunar node)",
+   "nature": "malefic, shadow; acts like Saturn, amplifies its dispositor",
+   "gender": "male",
+   "element": "air",
+   "guna": "tamas",
+   "caste": "outcaste",
+   "direction": "south-west",
+   "dig_bala_house": null,
+   "day": "Saturday (Rahu kaal)",
+   "metal": "lead",
+   "gem": "hessonite (gomedh)",
+   "upa_gem": "orange zircon, agate",
+   "deity": "Durga / Chandi",
+   "beej_mantra": "Om Bhraam Bhreem Bhraum Sah Rahave Namah",
+   "vedic_mantra": "Om Rahave Namah",
+   "colour": "smoky grey, dark blue",
+   "taste": "mixed and strange",
+   "dhatu": "none (shadow)",
+   "direction_of_gaze": "downward",
+   "karaka": "obsession, foreign lands, technology, scandal, sudden scale, the grandparents' karma",
+   "houses_signified": [
+    3,
+    6,
+    11,
+    12
+   ],
+   "body": "none directly; acts through its sign lord and house",
+   "diseases": [
+    "undiagnosable complaints",
+    "poisoning",
+    "addiction",
+    "phobias",
+    "skin eruptions",
+    "epidemics"
+   ],
+   "professions": [
+    "technology",
+    "aviation",
+    "foreign trade",
+    "media",
+    "pharmaceuticals",
+    "speculation",
+    "politics",
+    "anything unregulated"
+   ],
+   "relatives": [
+    "paternal grandfather",
+    "foreigners",
+    "outsiders"
+   ],
+   "aspects": [
+    5,
+    7,
+    9
+   ],
+   "speed": "~0.05° per day retrograde",
+   "motion_note": "always retrograde in mean motion",
+   "combustion_orb": null,
+   "exalt": {
+    "sign": "Taurus",
+    "deg": 20.0
+   },
+   "debil": {
+    "sign": "Scorpio",
+    "deg": 20.0
+   },
+   "own": [
+    "Aquarius"
+   ],
+   "moolatrikona": {
+    "sign": "Gemini",
+    "from_deg": 0.0,
+    "to_deg": 30.0
+   },
+   "friends": [
+    "Venus",
+    "Saturn",
+    "Mercury"
+   ],
+   "neutrals": [
+    "Jupiter"
+   ],
+   "enemies": [
+    "Sun",
+    "Moon",
+    "Mars"
+   ],
+   "sign_in": "Rahu has no body of its own; it borrows the sign lord's. Read Rahu's dispositor before reading Rahu.",
+   "name": "Rahu",
+   "in_sign": {
+    "Aries": "Reckless drive to be first; identity built on shock and speed.",
+    "Taurus": "Exalted (traditional). Hunger for wealth, luxury and status; can be extraordinarily productive.",
+    "Gemini": "Hunger for information, media, messaging; brilliant and unreliable in equal parts.",
+    "Cancer": "Emotional hunger; the home is foreign, the mother's story unfinished.",
+    "Leo": "Hunger for fame and authority; imitation of power until power is real.",
+    "Virgo": "Hunger through service, analysis, medicine; obsessive detail. Rahu works well here.",
+    "Libra": "Hunger through relationship; unconventional partnerships, foreign spouse.",
+    "Scorpio": "Debilitated (traditional). Hunger for the hidden; occult obsession, crisis, sudden loss and gain.",
+    "Sagittarius": "Hunger for doctrine; a convert's zeal, sometimes to the wrong teacher.",
+    "Capricorn": "Hunger for status and structure; political and corporate ambition that works.",
+    "Aquarius": "Own-ish sign. Rahu is comfortable here — technology, networks, invention, mass scale.",
+    "Pisces": "Hunger for dissolution; escapism, foreign shores, spirituality or addiction."
+   },
+   "in_house": {
+    "1": "Strong, unconventional, magnetic self; identity built abroad or against the grain. Classical caution: ambition outruns the body.",
+    "2": "Hunger for wealth; unconventional income; harsh or foreign speech; family not as expected.",
+    "3": "Excellent upachaya — Rahu here is productive: courage, media, communication, self-made rise.",
+    "4": "Restless home; foreign residence; mother's story complicated; property through unusual means.",
+    "5": "Unconventional children or none by plan; speculation risk; strong but erratic intellect.",
+    "6": "Excellent upachaya — Rahu defeats enemies, debt and competition; good for medicine, law, litigation.",
+    "7": "Foreign or unconventional partner; intense marriage; strong desire with poor judgment early.",
+    "8": "Occult, research, sudden events, in-law issues, insurance and tax; a house Rahu makes eventful.",
+    "9": "Unorthodox belief; foreign dharma; complicated relationship with father and tradition.",
+    "10": "Powerful career Rahu — ambition, scale, public prominence; ethics must be watched.",
+    "11": "Best house for Rahu — large gains, big networks, mass reach, fulfilment of desire.",
+    "12": "Foreign residence, isolation, research, expenditure; strong moksha pull, or escapism if it is refused."
+   }
+  },
+  "Ketu": {
+   "sanskrit": "Ketu (south lunar node)",
+   "nature": "malefic, shadow; acts like Mars, but inwardly and separatively",
+   "gender": "neuter",
+   "element": "fire",
+   "guna": "tamas",
+   "caste": "outcaste",
+   "direction": "north-west",
+   "dig_bala_house": null,
+   "day": "Tuesday",
+   "metal": "mixed alloy",
+   "gem": "cat's eye (lehsunia)",
+   "upa_gem": "tiger's eye",
+   "deity": "Ganesha / Matsya",
+   "beej_mantra": "Om Sraam Sreem Sraum Sah Ketave Namah",
+   "vedic_mantra": "Om Ketave Namah",
+   "colour": "smoky, multi-coloured",
+   "taste": "mixed",
+   "dhatu": "none (shadow)",
+   "direction_of_gaze": "downward",
+   "karaka": "moksha, detachment, past-life skill, sudden cutting, flags and banners, the maternal grandfather",
+   "houses_signified": [
+    6,
+    8,
+    12
+   ],
+   "body": "none directly; acts through its sign lord and house",
+   "diseases": [
+    "undiagnosed pain",
+    "low-grade fevers",
+    "parasites",
+    "surgery",
+    "hearing loss",
+    "mystery ailments"
+   ],
+   "professions": [
+    "research",
+    "medicine and healing",
+    "spiritual teaching",
+    "astrology",
+    "IT and abstraction",
+    "salvage work",
+    "monastic life"
+   ],
+   "relatives": [
+    "maternal grandfather",
+    "spiritual teacher"
+   ],
+   "aspects": [
+    5,
+    7,
+    9
+   ],
+   "speed": "~0.05° per day retrograde",
+   "motion_note": "always retrograde in mean motion",
+   "combustion_orb": null,
+   "exalt": {
+    "sign": "Scorpio",
+    "deg": 20.0
+   },
+   "debil": {
+    "sign": "Taurus",
+    "deg": 20.0
+   },
+   "own": [
+    "Scorpio"
+   ],
+   "moolatrikona": {
+    "sign": "Sagittarius",
+    "from_deg": 0.0,
+    "to_deg": 30.0
+   },
+   "friends": [
+    "Mars",
+    "Venus",
+    "Saturn"
+   ],
+   "neutrals": [
+    "Mercury"
+   ],
+   "enemies": [
+    "Sun",
+    "Moon"
+   ],
+   "sign_in": "Ketu subtracts from whatever the sign is about. The competence is already there from before; the appetite for it is not.",
+   "name": "Ketu",
+   "in_sign": {
+    "Aries": "Cuts identity; the person resists being pinned down. Impulsive detachment.",
+    "Taurus": "Debilitated (traditional). Cuts comfort, family and savings; the body is not a priority. Money arrives and leaves.",
+    "Gemini": "Cuts speech and short networks; a quiet expert who dislikes explaining.",
+    "Cancer": "Cuts the home; mother, roots or house feel unavailable. Deep inner peace once accepted.",
+    "Leo": "Cuts self-display; hides talent, dislikes the stage even when good on it.",
+    "Virgo": "Cuts the fuss over detail; exceptional at diagnosis and healing, indifferent to praise.",
+    "Libra": "Cuts partnership appetite; marriage happens but the person stays private inside it.",
+    "Scorpio": "Exalted (traditional). Deep occult and research capacity; crisis metabolised into insight.",
+    "Sagittarius": "Cuts dogma; a natural mystic who distrusts organised belief.",
+    "Capricorn": "Cuts ambition; competent at structure without wanting the throne.",
+    "Aquarius": "Cuts the group; works with systems, avoids the meeting.",
+    "Pisces": "Moksha placement. Strong spiritual pull, foreign life, retreat, dissolution of the ordinary."
+   },
+   "in_house": {
+    "1": "Detached, self-effacing identity; the body feels borrowed; strong past-life competence with no appetite for display.",
+    "2": "Cut from family wealth and speech; money comes and goes; a blunt, sparing tongue.",
+    "3": "Courage without ambition; distance from siblings; quiet skill.",
+    "4": "Cut from home and mother; property held loosely; deep inner peace once the loss is accepted.",
+    "5": "Classical caution for children — delay, few, or a spiritual rather than domestic 5th. Strong intuition and mantra capacity.",
+    "6": "Excellent — Ketu cuts enemies, debt and disease; healing capacity; good for medicine and occult diagnosis.",
+    "7": "Detachment inside marriage; the partner is present but the bond is inward. Marriage is possible, attachment is the work.",
+    "8": "Strong occult and research placement; sudden reversals; longevity questions handled by discipline, not by fear.",
+    "9": "Mystic without a church; distance from father or tradition; direct spiritual experience.",
+    "10": "Career held lightly; competence without careerism; may leave a good post for meaning.",
+    "11": "Gains arrive then dissolve; network is thin but real; detachment from profit.",
+    "12": "Best house for Ketu — moksha, foreign lands, retreat, deep meditation, dissolution of the ordinary self."
+   }
+  }
+ }
+}

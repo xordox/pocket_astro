@@ -1,0 +1,1640 @@
+# source: _OceanofPDF.com_27_Stars_27_Gods_The_Astrological_Mythology_of_Ancient_India_-_Vic_DiCara.pdf
+# pages: 1-60
+# compiled into: nakshatras.json (deity, shakti)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 1>>>
+
+<<<PAGE 2>>>
+1 
+EJ ZÉwá  
+EJ fàtÜá 
+The Astrological Mythology  
+of Ancient India 
+By Vic DiCara 
+(Vraja Kishor das) 
+
+<<<PAGE 3>>>
+3 
+Contents 
+Introduction .............................................................................................. 5 
+The Beautiful Stallion ~ Aśvinī .................................................................. 8 
+Labor Pains ~ Bharaṇī ............................................................................. 14 
+The Sharp Blade ~ Kṛttikā ....................................................................... 19 
+The Blushing Bride ~ Rohiṇī .................................................................... 24 
+The Quest ~ Mṛgaśīrṣā ........................................................................... 31 
+The Storm ~ Ārdrā .................................................................................. 35 
+Repeating Patterns ~ Punarvasu ............................................................ 41 
+The Highest Blossom ~ Puṣya ................................................................. 48 
+Serpentine Embrace ~ Āśleṣā ................................................................. 53 
+Inherited Power ~ Maghā ...................................................................... 61 
+Romantic Enjoyment ~ Pūrva Phālgunī ................................................. 65 
+Vows of Friendship ~ Uttara Phālgunī ................................................... 72 
+Dexterity ~ Hasta .................................................................................... 75 
+Multifaceted Brilliance ~ Citrā ................................................................ 80 
+Individuality ~ Svāti ................................................................................ 87 
+Obsession ~ Viśākhā ............................................................................... 92 
+Devotion ~ Anurādhā ............................................................................. 96 
+Eminence ~ Jyeṣṭhā .............................................................................. 102 
+Uprooting ~ Mūla ................................................................................. 109 
+(hyperlinked pages)
+
+<<<PAGE 4>>>
+4 
+The Invincible ~ Pūrva Aṣāḍhā ............................................................. 113 
+Complete Victory ~ Uttara Aṣāḍhā ...................................................... 118 
+Listening Carefully ~ Śravaṇa ............................................................... 121 
+Getting Practical ~ Dhaniṣṭhā .............................................................. 127 
+The Underworld ~ Śatabhiṣaj .............................................................. 131 
+Destruction ~ Pūrva Bhādrapadā ........................................................ 138 
+The Depths ~ Uttara Bhādrapadā ....................................................... 142 
+Abundance ~ Revatī ............................................................................. 145 
+Interpretive Implications of the 27 Stars .............................................. 149 
+The 28th Star ~ Abhijit ........................................................................... 157 
+Use of the Stars .................................................................................... 158 
+Acknowledgements .............................................................................. 159 
+ 
+ 
+
+<<<PAGE 5>>>
+5 
+Introduction  
+Look up at the night sky; countless stars will delight and fascinate you! 
+The most beautiful object in the nighttime sky has got to be the Moon. 
+It particularly captivated the hearts and minds of ancient Indians – who 
+watched it travel through the glistening circle of stars every 27 days. 
+So the Indians, like many other ancient cultures, developed 27 
+constellations. They conceived of these heavenly lights as repositories 
+of the powers of the gods.  
+Indian astrology, often called “Vedic Astrology,” has become quite 
+popular throughout the world today. The true heart of this astrology, its 
+original core, is the 27 stars. To interpret their meaning, the most 
+important thing to have is a deep and lucid understanding of the gods 
+that empower them.  
+Before diving into this exciting topic, please allow me to address a few 
+important misconceptions about the stars 
+The Stars are not the Signs 
+The most prevalent and long-standing misconception about the 27 stars 
+is that they are permanently linked with certain zodiac signs.  
+The 12 zodiac signs are based on the movement of the Sun, which we 
+measure by observing its solstices and equinoxes. The 27 constellations 
+are based on the movement of the Moon, which we measure by 
+observing it moving through the stars. These different ways of 
+measuring space don’t stay aligned to one another: The solstice Sun, for 
+example, drifts very slowly through the stars year by year. So, there is 
+no permanent relationship between the stars and the signs.  
+
+<<<PAGE 6>>>
+6 
+Indians have known this since antiquity. 
+• 
+Books written by them at different points in history 
+acknowledge different stars as being the “first” by virtue of 
+rising with the equinox.1  
+• 
+The Purāṇas note that the big dipper gradually changes its 
+orientation to the horizon.2  
+• 
+Surya Siddhānta explicitly states that the equinox moves in 
+relation to the stars.3  
+• 
+A clear distinction between stars and tropical signs is made 
+throughout Sanskrit literature. 4  
+Although the ancient Indians were well aware of the fundamental 
+difference between signs and stars, most modern Indian astrologers are 
+confused about it. Over the last several centuries they have fused the 
+two, creating the misconception that the 12 signs are stellar, and that 
+the 27 stars are some sort of secondary, awkward subdivision of them. 
+At least while you are reading this book, please try to forget this 
+misconception, and whatever you might have learned about the 27 
+stars that explains them as if they were subdivisions of zodiac signs. 
+Since there is no permanent relation between stars and signs, the 
+meaning of the stars has nothing to do with the signs they temporarily 
+coincide with. 
+                                                          
+1 For example, the earliest Vedas, like Ṛg and Atharva were written when the 
+Pleiades rose with the Sun on the vernal equinox and identify the Pleiades as 
+the “first” star. Purāṇas written much later identify β Arietis as the “first” star 
+because the vernal equinox had drifted to β Arietis when those books were 
+written. 
+2 For example, see Bhāgavatam 12.2.27-32. 
+3 3.9-10. 
+4 For explicit non-stellar tropical definition of the 12 signs see Viṣṇu Purāṇa 
+2.8.26-30, Bhāgavata Purāṇa 5.21.2-6, Sūrya Siddhānta 14.7-10, and even 
+perhaps Ṛg 1.164.43. 
+
+<<<PAGE 7>>>
+7 
+The Stars have no “Planetary Lords” 
+Another prevalent misconception is that the stars have “planetary lords” 
+who play a role in forming the character of the star. This mistaken idea 
+arises because Indian astrology associates the stars to specific planets 
+when calculating astrological time phases (nakṣatra-daśā). But even 
+then there is no permanent correlation between planets and stars 
+because there are dozens of nakṣatra-daśā systems, and each one 
+associates different planets with different stars.  
+At least for now, please forget any explanation of the 27 stars that talks 
+about their “planetary lords.” The 27 Stars are ruled by gods, not by 
+planets.  
+To Understand the Stars, You Must Understand the 
+Gods 
+The easiest way to deeply and clearly understand the 27 Vedic stars is to 
+deeply and clearly understand the Vedic gods that empower them. That 
+is a big task, but if we let the name and symbol of each star focus our 
+attention on specific aspects of the gods, we will in the course of a 
+single small book be able to communicate a very effective and 
+significant intimacy with these ancient stars.  
+Most of the book will familiarize you with the 27 gods of these stars, 
+highlighting the astrological relevance of names, symbols and myths. 
+After that, I will summarize in a concise format the practical astrological 
+effect of each star. 
+
+<<<PAGE 8>>>
+8 
+The Beautiful Stallion ~ Aśvinī 
+ 
+Name
+Aśvinī
+Meaning
+A beautiful stallion
+Symbol
+A horse
+Deity
+Aśvinī Kumāra -
+Twin gods of health  
+Main Stars
+Twin stars: β and γ Arietis
+ 
+
+<<<PAGE 9>>>
+9 
+The horse is a symbol of beauty and health: both of which are 
+instrumental in enjoying life. So, it is a perfect symbol to summarize the 
+nature of Aśvinī.  
+I will tell you some tales about the gods of Aśvinī, highlighting their 
+connection to the horse symbol. 
+Born from Horses 
+Viṣṇu Purāṇa (2.3): 
+The Sun’s wife needs a break now and then. Her husband is hot – 
+literally. So she regularly goes off to recuperate and build up her 
+strength again to deal with his immense heat. She didn’t want to 
+depress or insult her husband so, being a goddess and no ordinary 
+woman, she came up with the idea to make a clone of herself to take 
+care of normal affairs in her absence. She hoped the Sun god would not 
+even notice her absence. 
+Sūrya (the Sun god) already had three children with her: Manu (from 
+whom came human beings), Yama (lord of death) and Yamī (the river 
+Yamuna). Now, while his wife was away, he made three more children 
+with her clone: Śani (the god of Saturn), a second Manu, and Tapatī 
+(another river). 
+All was well and good until one day the clone-wife got really angry and 
+cursed her “son” Yama. Sūrya realized, “This can’t be Yama’s mother. A 
+mother would never curse her own son so harshly.” Sūrya took the form 
+of a horse and tracked his real wife to a forest where she was 
+meditating for recuperation. She also took the form of a horse and tried 
+to flee. Surya caught up to her and, as horses, they had a third batch of 
+three children: The Aśvinī twins and a son named Revanta. 
+Mahābhārata Adi.66.35 adds that the twins were born from each nostril 
+of their horse-mother.  
+So, the gods of Aśvinī were born from horses.  
+
+<<<PAGE 10>>>
+10 
+The Horse Head Loophole 
+Ṛg Veda (22.116): 
+Indra (king of the gods) knew a how to produce secret, powerful elixirs 
+like Soma and did not want this knowledge to get into the wrong hands. 
+He taught it to sage Dadichi but laid a curse upon him: “If you teach this 
+to anyone your head must come off.” 
+The Aśvinī twins wanted to learn this secret! So, being master surgeons, 
+they cut off the sage’s head and the head of a horse and swapped the 
+two. Through “the horse’s mouth” they learned the secrets they sought. 
+Then they swapped the heads back to their original owners. Thus they 
+made a loophole which diffused the curse of Indra.  
+This illustrates that skill in surgery is a theme of Aśvinī. 
+Curing the Blindness of a Friend 
+Ṛg Veda (16.115):  
+Once, the divine horse that belonged to the Aśvinī twins took the shape 
+of a wolf. One young man collected 100 goats from the locals and fed 
+them to this wolf. The man’s father became very angry that his son stole 
+from others, and cursed his son to become blind. The young man 
+appealed to the Aśvinī twins, who were very sympathetic and cured his 
+blindness.  
+This illustrates that Aśvinī’s medical expertise is particularly 
+suited towards improving sensual acuity, “curing blindness.” 
+Curing a Blind Old Sage 
+Devī Bhāgavata (7) & Śrīmad Bhāgavatam (9.3): 
+A beautiful young princess named Sukanya once semi-unknowingly 
+poked the eyes of an old hermit named Cyavana, making him blind. To 
+apologize for the act, she married him and cared for him very faithfully 
+and wonderfully.  
+
+<<<PAGE 11>>>
+11 
+One day the Aśvinī twins saw her alone, collecting various things from 
+the deep forest where she lived with the hermit. They boldly proposed 
+that she abandon the old blind man and take one of them as her new 
+husband. She became very angry with them and said, “If you don’t shut 
+up and get out of here, my curses will burn you to ashes!” 
+The twins were extremely impressed and proposed a new idea. “OK,” 
+they said, “We will repair your husband’s blindness and we will make 
+him completely youthful and handsome. How does that sound?” 
+It sounded very suspicious to her. “What’s the catch?” She asked. 
+“The catch is,” they answered, “once this is done you will not be able to 
+visually distinguish him from us. And you will have to pick which one of 
+the three of us is really your husband. Whomever you select will then be 
+your husband from that moment on.” 
+She didn’t like the idea at all, but didn’t want her husband to miss the 
+opportunity to regain his sight. So she took the twin gods home and 
+explained the situation to her husband. “Oh, that’s fine. No problem,” 
+her husband said with complete confidence. “Let’s do it immediately.” 
+So the twins took the hermit to a nearby lake and the three of them 
+entered it. When they later emerged from the lake all three looked 
+alike: glowingly youthful and handsome men with perfect eyesight. 
+Praying to her goddess for protection the young princess easily selected 
+her true husband from the look-alikes. The Aśvinī twins were quite 
+pleased to witness the deep purity of this woman. 
+This story illustrates many themes of Aśvinī: medical marvels, 
+health, beauty, vision, loyalty, and an appetite for enjoyment.  
+Curing a Blind Disciple 
+Mahābhārata (Adi.3.34-77): 
+A guru had a very plump disciple who tended to his cows. He asked, 
+“My dear boy, why are you so fat?” 
+
+<<<PAGE 12>>>
+12 
+“I beg alms from the householders.” 
+“The student should beg on behalf of the guru, not on his own behalf. 
+So give those alms to me,” the Guru said. 
+But several days later, the disciple was still fat. “Why are you still fat?” 
+The Guru asked. 
+“After begging for you I again beg to get my meals,” the disciple 
+explained. 
+“That is no good” said the guru. “You are making people give you all 
+their food. How will they eat? Don’t do that anymore.”  
+Several days later the disciple was still fat. “Why are you still fat?” 
+“I milk the cows and drink,” said the disciple. 
+“Why? Those are my cows, not yours. Don’t do that anymore.”  
+But several days later the disciple was still fat. “Why?” asked the guru. 
+“When the calves drink, I drink what they spill.” 
+“Don’t do that,” replied the guru. “Calves are naturally sympathetic. 
+They are spilling the milk on purpose for your sake and are going hungry 
+themselves.” 
+Now the disciple was really getting hungry. He would grab some leaves 
+from the trees and eat them. They were horrible and poisonous and 
+made him go blind in a few days. With failing vision he fell painfully into 
+a well. The guru found him there and said, “Just pray to the Aśvinī twins. 
+They will cure your blindness.” Then he left. 
+The disciple did so. The twins appeared before him and said, “Eat this 
+cake it will cure you.” 
+“I can’t eat what I get from others. I must give everything to my guru.” 
+
+<<<PAGE 13>>>
+13 
+“It’s OK,” explained the Aśvinī. “Your guru himself fell into the same 
+situation as you and we cured him in this same manner. He did not offer 
+the medicinal cake to his guru, he just ate it. You can follow his example.” 
+“No, no. I cannot. I will have to remain blind if I cannot give this bread to 
+my guru.” 
+The Aśvinī were so impressed they blessed him, “Your blindness is 
+cured! You will be always prosperous and happy. Your teeth will be pure 
+gold, and your guru’s teeth will turn to iron.” It immediately came to 
+pass.  
+The guru was very pleased to have broadcast the superexcellent 
+dedication of his disciple (And it doesn’t seem like he was troubled 
+much by his iron teeth, either.) 
+This illustrates the same themes as the previous two stories. 
+Miscellaneous 
+Mahābhārata (Droṇa.62.3): A male once became pregnant. Of course 
+the baby could not be delivered normally. The Aśvinī twins performed a 
+caesarean birth. This illustrates the power of Aśvinī to perform medical 
+marvels. 
+Ṛg Veda (11.112) says that the Aśvinī can bring rain during a draught. 
+Similarly Ṛg (9.16) says the Aśvinī dug a hole in the desert and it became 
+a well. This is probably a glorification of the star to communicate the 
+fact that many problems can be overcome by starting the effort when 
+the Moon is in Aśvinī.  
+Worship of the Aśvinī Kumāra improves beauty. 
+
+<<<PAGE 14>>>
+14 
+Labor Pains ~ Bharaṇī 
+ 
+Name
+Bharaṇī
+Meaning
+Bearing children
+Symbol
+Vulva, downward-triangle
+Deity
+Yama - god of death
+Main Stars
+The dim triangle: 41, 39 and 25 Arietis.
+ 
+
+<<<PAGE 15>>>
+15 
+The name Bharaṇī comes from the word bharaṇa, which means, “to 
+maintain, bear, support.” The English phrase, “bearing children” or 
+“labor pains” expresses it perfectly. The vulva is an excellent symbol for 
+Bharaṇī because it symbolizes bearing children, which itself summarizes 
+the main characteristic of this star: bringing new life into the world at 
+the cost of great labor and pain. 
+It seems odd that the powers of Yama, the god of death, reside in the 
+star which bears new life. This highlights the fact that life and death are 
+inseparable and new life is impossible without the death of the old. As 
+expressed by Śrī Kṛṣṇa in Bhagavad-Gītā (2.27): 
+“Death is certain for one who is born.  
+Birth is certain for one who dies.” 
+Life Needs Death 
+The fundamental character of Bharaṇī is that good things cannot come 
+without difficulties. Illustrating this, Mahābhārata (Vana.142) tells a 
+story of life being unable to continue without death. The story takes 
+place in the “First Age” of history, during which time humans have 
+extremely long lifespans. Yama, the god of death, therefore thought it 
+would be OK to take a break for a while. But the population of the Earth 
+quickly became too great and she could not support everyone. 
+Overpopulation began to cause serious problems. The gods appealed to 
+Viṣṇu, who took the form of a boar to lend strength to the earth. Yama 
+came back to his duties (making sure people die) and the situation came 
+back to normal. 
+In another section (Ādi.199), Mahābhārata tells a similar story. Yama 
+once took the position of chief priest in a very long religious ritual, 
+putting his duties as the god of death on hold for many, many years. 
+Everything was getting out of balance in the world because no one was 
+dying, so all the gods begged Yama to stop and go back to his normal 
+duties. When he did, people started dying again and everything 
+returned to normal. 
+
+<<<PAGE 16>>>
+16 
+Death may not be pleasant, but it is good and important. 
+Bharaṇī is like that: it contains the sacrifices that must be made 
+to produce something worthwhile; difficulties must be endured 
+to produce something great. 
+Death of Death 
+This next story illustrates a similar point. There are a few slightly 
+different versions it, this telling is found in Padma Purana:  
+Once upon a time, a young boy was told that he would die when he 
+turned sixteen. Seeking protection from this fate, the boy sat in yogic 
+meditation before a deity of Śiva. When he turned sixteen, the agents of 
+Yama tried to take him, but could not approach him due to the power 
+he had accumulated. Yama himself appeared personally with his noose. 
+But when he threw the noose, the boy leapt upon and embraced his 
+deity, crying for protection. The noose encircled both the boy and the 
+deity, who became furious at what death appeared to be attempting. 
+The deity sprang to life and burned the god of death to ashes.  
+All the gods appealed to Śiva to reconsider what he had just done. 
+Without death, how would the world continue to function as it was 
+intended by Viṣṇu? Accepting this, Śiva brought Yama back to life after 
+granting the boy, Mārkeṇḍeya, an extremely long lifespan. 
+Like the boy, we also try to escape the challenges of Bharaṇī. But 
+as the story goes his efforts caused more harm than good, 
+creating a calamity that required extensive divine intervention 
+and troubled all the gods. We are not supposed to avoid Bharaṇī. 
+We are supposed to embrace it just as a mother must embrace 
+labor contractions if she wishes to later embrace her beautiful 
+child. 
+The boy meditated upon a famous mantra from Ṛg (7.59.12) and Yajur 
+Veda, the mahā-mṛtyuṁ-jaya (“the great triumph over death”). This 
+mantra can be effective for dealing with Bharaṇī if one chants it with 
+the intention not escape ones difficulties, but to prosper from them:  
+
+<<<PAGE 17>>>
+17 
+Oṁ 
+tryambakaṃ yajāmahe  
+sugandhiṃ puṣṭi-vardhanam  
+urvārukam iva bandhanān  
+mṛtyor mukṣīya māmṛtāt. 
+Escaping Bharaṇī  
+Śrīmad  Bhāgavatam (6.1-3) tells the story of a man who did escape the 
+noose of Yama:  
+ 
+Once, there was a pious man who worshipped Nārāyaṇa (Viṣṇu), but 
+whose mind got infected with base desires upon seeing lewd behavior. 
+He soon abandoned his family and dedicated everything he had to a 
+prostitute. Eventually they had a child, whom he named Nārāyaṇa. At 
+the moment of his death, he saw the agents of Yama approaching and 
+cried out for his son, “Nārāyaṇa!" 
+The agents of Viṣṇu arrived immediately and forbade the agents of 
+Yama from taking the man. “A person able to fix their minds on God 
+while they are dying does not require any additional corrections,” they 
+declared. Yama himself agreed that this was true. The man was released 
+and engaged in purifying deeds for the rest of his life before attaining 
+liberation. 
+As illustrated here, the names of Viṣṇu help us deal productively with 
+the labor pains of Bharaṇī, by making us more devotional and self-
+sacrificing.  The man in this story was even more successful than the boy 
+in the previous story. So the most efficacious mantra for dealing 
+productively with Bharaṇī is one composed of Viṣṇu’s names. Kali 
+Santarana Upanishad (an appendix to Yajur Veda) specifically 
+recommends: 
+hare kṛṣṇa, hare kṛṣṇa, kṛṣṇa kṛṣṇa, hare hare 
+hare rāma, hare rāma, rāma rāma, hare hare 
+
+<<<PAGE 18>>>
+18 
+Restriction 
+Bharaṇī is like the child cramped within the womb: It is a difficult star of 
+struggles and restrictions. Indeed, the name of the god of death, Yama, 
+literally means restriction / regulation. Death is merely the ultimate 
+regulation, the most inescapable restriction. 
+In Bhagavad-Gītā (10.29), Śrī Kṛṣṇa says:  
+yamaḥ saḿyamatām aham  
+“Among enforcers I am Yama.”  
+Bharaṇī represents difficulties we must face before we can prosper. It is 
+a star of yama: limitation and restriction. To face such trials we must 
+develop yama: self-control.  
+Note on Yama and Dharma 
+The god of death (Yama) and the god of morality (Dharma) are different 
+beings, frequently confused to be one. It’s easy to see how this 
+confusion would arise: Dharma (the god of morality) is also called Yama 
+because morality requires self-control (yama). And the Yama (the god of 
+death) is also called Dharma - because he judges people after death on 
+the basis of their morality (dharma). Despite sharing names, however, 
+they are different beings, and it is Yama, not Dharma, who empowers 
+Bharaṇī. 
+
+<<<PAGE 19>>>
+19 
+The Sharp Blade ~ Kṛttikā 
+ 
+Name
+Kṛttikā
+Meaning
+Cutter, divider
+Symbol
+Sharp blades
+Deity
+Agñi – god of fire
+Main Stars
+The bright blue Pleiades
+ 
+ 
+ 
+
+<<<PAGE 20>>>
+20 
+The word kṛttikā comes from the kṛtta / kartati, meaning “cut, divide.” 
+Obviously the symbol of sharp blades is fitting. But the word is also 
+related to the root kṛt which means “assemble, accomplish.” So the 
+sharpness of Kṛttikā is not a barbarian blade! It is a careful tool of 
+precise subdivision. Similarly, Kṛttikā is a star of insight, incisiveness, 
+disassembly of complex things, and detailed comprehension. 
+Agñi, the god of fire, empowers Kṛttikā. Fire has two qualities: it is bright, 
+and it is hot. Brightness illuminates. Heat burns, or “digests,” it liberates 
+the energy within things. Kṛttika is not only incisive but “bright.” It is a 
+star of intellectual, brilliant insights and the ability to quickly digest 
+concepts and ideas. The English word “critical” likely comes from kṛttikā. 
+It is a star of incisive, critical thought.  
+Kṛttikā is not a good star for anything requiring tenderness, but it is 
+excellent for analysis, rapid and accurate assessment, and the ability to 
+cut through problems and confusions. 
+The Sharp, Divided Child of Fire 
+To tell you this story, I will combine the versions given in Mahābhārata 
+(Vana.223-227), Vālmikī Rāmāyaṇa (Bālakāṇḍa.36) and Brahmāṇḍa 
+Purāṇa (81): 
+Once, during a ritual, Agñi saw the wives of the seven sages and fell in 
+love with them. He transformed into their household fire to 
+clandestinely gaze upon their beauty. But eventually he reproached 
+himself thoroughly and went off to the forest to lament his broken 
+heart.  
+A goddess named Svāhā had been in love with Agñi for a long time, and 
+saw this as her chance. She assumed the appearance of one of the 
+sage’s wives and ran to Agñi, saying, “I am Śivā, the wife of Sage Angiras. 
+I have come to fulfill all your desires.”  
+After their intercourse she transformed into a bird, and flew to a 
+legendary mountain from which the sun rises. There she threw Agñi’s 
+
+<<<PAGE 21>>>
+21 
+semen into a lake. Then she assumed the form of the wife of a different 
+sage and repeated the whole process five more times. She could not 
+impersonate the seventh wife, Arundhati, due to the power of 
+Arundhati’s devotion to her husband Vasistha. 
+Meanwhile, an anti-god named Tāraka rose to power and conquered all 
+the gods on the strength of a benediction that only a seven-day-old 
+child could kill him.  
+The gods tried to have children, but because of a curse they could not. 
+Not even Śiva and his wife Pārvatī could conceive, even after attempting 
+for 100 celestial years! Their powerful efforts put the universe into 
+distress and the gods requested that Śiva and Pārvatī desist. Śiva, 
+however, was interrupted just in the process of discharging semen. He 
+said, “You’ve infuriated my wife by this disruption! Now tell me, what 
+womb shall bear my seed?” 
+The gods suggested that the Earth become the womb. This infuriated 
+Pārvatī even further and she cursed the Earth to be unable to bear the 
+child. Śiva’s seed caused a great disturbance to the earth and there 
+were floods and havoc. The gods requested powerful Agñi, the god of 
+fire, to bear the seed – so he took it within the womb of flame. But he 
+too fell under the angry curse of Pārvatī and could not develop the seed 
+into a child. The effort exhausted him and fire began to dim and cool. 
+Agñi approached the goddess Ganges, who said, “Put the seed into my 
+waters.” But she also faced failure and frustration until she learned that 
+Angi’s seed had been planted five times beside a lake on the Mountain 
+of Sunrise. She added Śiva’s to this.  
+The mountain soon produced gave birth to a ferociously powerful child, 
+who began destroying the hillside and howling with a voice like thunder. 
+The seven sages attempted to remedy this terrible disturbance. The 
+inhabitants of the forest told them that six of their wives were to blame. 
+In anger, the sages divorced those six wives and sent them away. (They 
+
+<<<PAGE 22>>>
+22 
+cut off their wives, divorced them – the literal meaning of Kṛttikā is to 
+cut off and separate).5  
+The child could not be pacified and even the gods dared not openly 
+oppose him. Instead they sent the six divorced wives of the sages (the 
+Kṛttikas) to tame the child and then kill him with poison on their breasts. 
+But the women became compassionate towards the boy and accepted 
+him as if he truly were their own son.  
+Since six women came to feed him, he split (“kṛttika”) into six forms to 
+nurse from each mother simultaneously. He is known as Kārtikeya 
+because he was nursed by the Kṛttika. 
+Pacified by these six mothers, the child then greeted his father Agñi.  
+Next arrived Śiva, Pārvatī, the Earth Goddess and Ganga. All of whom 
+had valid claims to being his parent. The boy had six forms. One of them 
+remained with the six Kṛttikas, another remained with Agñi, another 
+went to Śiva, Pārvatī, Ganga, and to the Earth.  
+When the supernatural child was only seven days old, the gods put him 
+in charge of their armies and attacked the anti-gods. The powerful 
+newborn destroyed Tāraka and returned the balance of power to the 
+gods.  
+Killing Children 
+Mahābhārata (Vana.230): 
+Agñi’s child told his six mothers, “Until I am sixteen years old, I will be 
+an evil spirit killing children, slicing them up and eating them.” 
+It is well known that warfare kills children and deprives them of 
+their parents. Fire, which creates acidity in organisms, also 
+                                                          
+5 The seven stars of the Big Dipper represent the seven sages. The six main 
+stars of the Pleiades are their six divorced wives – unfortunate goddesses. The 
+seventh wife, Arundhati remains near her husband Vasiṣṭha as the star Alcor 
+very close to Mizar. 
+
+<<<PAGE 23>>>
+23 
+diminishes fertility. Thus Kṛttikā is inauspicious for children and 
+childbirth; as it is for all things that require gentleness and 
+softness. 
+The Story of Śibi 
+This story from Mahābhārata (Vana.131) involves Agñi, and slicing, and 
+is a great tale, so I will tell it here, in spite of the fact that it may not be 
+entirely relevant to the astrological nature of Kṛttikā: 
+A King named Śibi was the most generous and charitable person in 
+history. Indra and Agñi wanted to demonstrate the extent of his 
+willingness for self-sacrifice so Angi became a dove and flew onto the 
+king’s lap while Indra became a hawk who tried to swoop down to eat 
+the dove.  
+The king drove off the hawk, who then protested, “Why have you stolen 
+my food?” 
+The king replied, “The dove has taken shelter of me, so I must protect it. 
+Since you are hungry, I will feed you something else.” 
+But the hawk would not accept anything in exchange for the dove. Śibi 
+even offered his entire kingdom to the hawk, to no avail. Finally, the 
+hawk accepted an amount of Śibi’s own flesh equal to the weight of the 
+dove. 
+When Śibi placed the dove and a piece of his thigh on a scale, the dove 
+was heavier. Again and again he would slice off his flesh, but no matter 
+how much he added, the dove was always heavier. When the terribly 
+wounded king was about to put his entire body onto the scale, Agñi and 
+Indra took their original forms, blessed him and brought him into 
+paradise. 
+
+<<<PAGE 24>>>
+24 
+The Blushing Bride ~ Rohiṇī  
+ 
+Name
+Rohiṇī
+Meaning
+A rosy, blushing lady
+Symbol
+Bull pulling a cart of abundant produce; 
+Banyan tree 
+Deity
+Brahmā – forefather and creator
+Main Star
+The red star: Aldebaran
+ 
+ 
+
+<<<PAGE 25>>>
+25 
+Everything about this star symbolizes fertile creativity. 
+• 
+The name Rohiṇī means, “red-girl.” That literally means a girl 
+who is fertile, having entered puberty and begun her 
+menstruation. Or you can take it as a “blushing bride.” Either 
+way, Rohiṇī means “procreation”, and procreation means 
+creativity and fertility. 
+• 
+Rohiṇī’s symbol, a bull, is a symbol of male fertility. The bull 
+pulls a cart overflowing with produce; another symbol of 
+fertility. 
+• 
+Rohiṇī’s other symbol, a tree, is a symbol of fertility because 
+trees produce fruit, which are symbolic of children. The specific 
+tree that symbolizes Rohiṇī is the Banyan, which is a particular 
+symbol for fertility and growth because the Banyan tree never 
+stops growing and expanding. 
+• 
+Rohiṇī’s deity, Brahmā, is the father of all creatures, the original 
+progenitor, and is therefore a symbol of fertility. Brahmā is also 
+the creator of everything in the universe, and thus a symbol of 
+creativity.  
+Rohiṇī is most certainly the star of fertility & creativity, accompanied by 
+passion and beauty. 
+Let’s explore who Brahmā is and hear some stories connected with him, 
+to better appreciate the fertile creative energy and passion within his 
+star, Rohiṇī. 
+The God of Creativity 
+Hinduism is often portrayed to Christianized audiences as having a 
+concept of “trinity” because Indian thought conceives of the world as 
+being composed of three basic forces. In truth, however, the Indian 
+concept is less like the Christian trinity and more like modern color 
+theory, which states that three primary colors combine in various ratios 
+to create an infinite spectrum.  
+
+<<<PAGE 26>>>
+26 
+The three primary forces are sattva, rajas, and tamas.  
+Sattva = clarity, light, balance, peace 
+ 
+Rajas = redness, passion, desire, action 
+ 
+Tamas = shadow, darkness, stability, sleep 
+These three forces cause three essential universal events: maintenance, 
+creation, and destruction. Three extremely powerful beings command 
+the three forces and therefore the three universal events. Viṣṇu keeps 
+things existing by commanding the force of clarity, sattva. Brahmā 
+creates things by commanding the reddening force, rajas. Śiva destroys 
+things by commanding the force of shadow, tamas. 
+Brahmā is the deity of the reddening power of creation and passion, 
+rajas. So he is naturally the deity of the red star Rohiṇī. Rohiṇī is a star 
+of rajas: fertility, passion, motivation, and creative powers of all sorts. 
+Tale of Creation 
+Vedic literature gives us a few different angles on the birth of Brahmā 
+and how he created the world.6 I will incorporate all these as I present 
+you the Purāṇic tale of creation: 
+Before all else, there is consciousness. It is full of inherent joy and bliss.  
+Joy is not stagnant. By nature it is ever-amplifying. Amplification implies 
+an original signal and a distinct entity to amplify that signal. Plurality is 
+therefore inherent in the original singular consciousness. Since joy does 
+not thrive in loneliness, an infinite number of beings eternally center 
+around the original consciousness.  
+Those infinite beings possess freewill, and are free to be non-
+cooperative with this scenario. Therefore a mirror image of reality exists, 
+                                                          
+6 Manusmṛti chapter one and Vāmana Purāṇa chapter 43 use the metaphor of 
+an “egg” within an ocean. Vedānta Sūtra adds philosophical dimension to the 
+tale. Brahmā Saṁhita also adds details. The Bhāgavata Purāṇa gives context to 
+them all in its 1.3, 2.4-5, and 3.8. 
+
+<<<PAGE 27>>>
+27 
+where the centrality of the original consciousness is hidden in 
+“darkness”, and the peripheral spark of freewill can imagine herself to 
+be central.   
+Into this darkness the original consciousness expands as Puruṣa, the 
+original Viṣṇu. Puruṣa reclines there on “the ocean of causes and 
+possibilities.”  While partially submerged in the waters an infinite 
+number of bubbles exhale from the pores of his body. Some tales 
+portray these bubbles as “eggs,” specifically as golden eggs. This is 
+because an egg is circular and contains within it the materials and 
+energies required to create something new. The egg is golden because it 
+glows with conscious power, being a radiation from the divine all-
+conscious body of the Puruṣa. These bubble-eggs are the proto-solar-
+systems floating in the vast ocean of causality, space. 
+Eggs require seeds before they create anything. Therefore the Puruṣa 
+penetrates into each of them. Within each egg he again reclines on a 
+“cosmic ocean.” While partially submerged in this ocean, some of its 
+water collects in his naval, in which a “lotus flower” grows. 
+Flowers reproduce asexually, and are therefore a fitting vehicle through 
+which to deliver the very first being into the world.7 When the flower at 
+the top of that lotus opened its petals, the god of creation Brahmā sat 
+upon its central whorl. 
+At first Brahmā did not know who he was, what he was supposed to do, 
+or how he was supposed to do it. He climbed down the stem of the 
+lotus but couldn’t find its end. He looked around in all other directions 
+and thus developed five heads (east, west, north, south, and up) – later 
+                                                          
+7 Because Brahmā was born asexually he is called Aja, “unborn” or “without 
+conventional birth.” 
+
+<<<PAGE 28>>>
+28 
+Śiva removed one of these.8 Yet Brahmā could find no clue to answer 
+any of his questions. 
+Then the Puruṣa spoke a single word, which Brahmā heard as a voice 
+from the vastness of space: “tapa.” This was an instruction to Brahmā, 
+“Be still. Control yourself. Be humble. Then you will understand.” 
+Brahmā practiced stillness and self-control, and as a result his mind 
+became receptive to a full transmission of knowledge from Viṣṇu. In that 
+transmission he received everything he needed to know, including the 
+blueprint of how to use the primordial energies available within the 
+“egg” to assemble all the various forms and creations of the universe. 
+Before Brahmā, there was nothing but what we might call subatomic 
+quantums. Everything which now exists is a creation of Brahmā or a 
+subsequent creation of his creation. 
+Let’s stop for a moment to consider how immensely creative Brahmā 
+must be. He is the creator of the entire universe, the most creative 
+being in it! Perhaps now we can appreciate how his star, Rohiṇī, 
+abounds in creative power. 
+The Original Father 
+Brahmā was born before anyone else, and everyone else was born from 
+him (with very few exceptions). Thus an often used name for Brahmā is 
+Prajāpati, the original “progenitor.” Brahmā created many other 
+prajāpati to help him populate the world, but when Prajāpati is used in a 
+singular, specific manner it refers specifically to Brahmā. 
+Brahmā created many beings directly from his thoughts, so we should 
+know that his star, Rohiṇī, is imaginative and full of creative thoughts 
+and ideas. Brahmā also creates in a more conventional manner, so we 
+should know that Rohiṇī has strong procreative and romantic passions. 
+                                                          
+8 Some say that Śiva keeps the fifth skull as a bowl, others say that he threw it 
+into space and it landed in Mṛgaśīrṣā. I tell the story in a little more detail in the 
+chapter on Ārdrā.  
+
+<<<PAGE 29>>>
+29 
+Brahmā Marries His Daughter 
+Regarding more conventional procreation, Śrīmad Bhāgavatam (3.12) 
+tells a story too interesting not to mention. For Brahmā to reproduce 
+sexually he must first create his own wife. So, in a sense, his wife must 
+be his “daughter”. 
+Her name is Vāk (the power of speech, another name for Sārasvatī, the 
+goddess of learning), and she was not at all into the idea. When Brahmā 
+began pressuring her, his other children stopped him in protest. 
+Ashamed of himself, Brahmā abandoned his body and created a new 
+one, to wash off the impurity of his thoughts. The old body turned into a 
+dangerous fog in the darkness. 
+Later on Vāk agreed to marry Brahmā, seeing his predicament, but the 
+two are not a happy couple and live at a distance from one another. 
+Father of Śiva  
+Śrīmad Bhāgavatam (3.12) describes Śiva as the child of Brahmā.  
+Brahmā became furious that his quadruplet sons refused to take up the 
+important duty of procreation, in favor of pursuing celibacy for spiritual 
+reasons. From between his furrowed eyebrows, Brahmā’s anger sprang 
+forth personified as Rudra, who later became known as Śiva.  
+I will tell you this story in more detail when we come to Rudra’s star, 
+Ārdrā. 
+Viṣṇu is the first god because he controls the power of sattva, the 
+energy of existence itself. Existence cannot manifest itself, however, 
+without creation – so from Viṣṇu comes the god of creativity 
+(rajas),Brahmā. However, whatever is created must be destroyed, and 
+without destruction (tamas) there is no room for creation. Thus rajas 
+always invokes tamas – and therefore the god of tamas (Śiva) emerges 
+from the god of rajas (Brahmā). 
+
+<<<PAGE 30>>>
+30 
+Although Rohiṇī is a beautiful and pleasant star, it, like Brahmā also has 
+a brief but hot temper when frustrated.9 
+                                                          
+9 In classical times Rohiṇī coincided with a significant portion of Taurus. I feel 
+this is why this type of hot temper is associated with Taurus in classical 
+astrology, even though nothing about Taurus’ ruler (Venus), element (Earth), or 
+mode (Fixed) lends itself much towards anger or hot tempers. 
+
+<<<PAGE 31>>>
+31 
+The Quest ~ Mṛgaśīrṣā 
+ 
+Name
+Mṛgaśīrṣā
+Meaning
+Deer-faced
+Symbol
+Deer sniffing the ground
+Deity
+Soma - god of immortal nectar
+Main Stars
+The head of Orion: λ, φ Orionis
+ 
+ 
+
+<<<PAGE 32>>>
+32 
+Mṛga means a forest animal, especially deer. These animals are so 
+named because they constantly roam in search of food; matching the 
+literal meaning of the word: “searcher.”  
+Mṛgaśīrṣā’s symbol – a deer sniffing the ground – is essentially a literal 
+depiction of the word Mṛgaśīrṣā (“Deer’s face”).  
+Soma is the deity of Mṛgaśīrṣā. Soma comes up in Bhagavad-Gītā (15.13), 
+when Śrī Kṛṣṇa says, 
+puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ 
+“I become Soma and make plants delicious and nourishing.” 
+Soma is the god of a legendary elixir (also named Soma) that grants 
+eternal youth and unsurpassed delight. I think it is simplest to describe 
+Soma as the “fountain of youth.” This ties in nicely with the nature of 
+Mṛgaśīrṣā to inspire quests and searches. 
+Literally, the word soma means “juice, sap, liquid.” Specifically, it is the 
+liquid within plants that makes them nourishing and delicious. 
+Nourishment keeps us young, deliciousness delights us; so all food is a 
+type of Soma. The legendary elixir is simply the ultimate form of food.  
+Vedic lore singles out one plant with the name soma-vallī, for it excels 
+all others in nutrition and flavor. It is now extinct, but they say that 
+millennia ago it grew in a few specific areas,10 and its leaves blossomed 
+and withered with the waxing and waning Moon. By pressing the juice 
+from its stalks one could make a beverage called Soma or Amṛta – the 
+“nectar of immortality,” which the gods copiously drink to become 
+powerful and impossible to kill. 
+                                                          
+10 Ṛg 8.7.29 & 8.64.10-11 say it grew in “Sushoma, Arjikiya, etc.” and in 
+“Sharanyavat” (which is probably the shore of a specific lake) and on the slopes 
+of Mt. Mūjavat. It is said to have a long, grassy-colored stalk and a green 
+brilliance (Ṛg 9.42.1 & 9.61.17). 
+
+<<<PAGE 33>>>
+33 
+All vegetable-food carries the power of life in it. So in a sense, all food is 
+amṛta. If we don’t eat, we die (mṛta). If we eat, we don’t die (a-mṛta). 
+All food makes us “immortal” because it counteracts mortality. But the 
+elixir made from the Soma plant is a super-food of legendary power. 
+Humans and gods alike from all ages and cultures eternally search for it, 
+like deer sniffing out its trail. 
+The deer of Mṛgaśīrṣā sniffs the ground in search of Soma in healthy and 
+delicious herbs, but the human spirit sniffs at the paths of life in search 
+of Soma in the form of eternality and bliss.  
+Mṛgaśīrṣā is all about searching.  
+Soma, Amṛta, Rasa 
+I mentioned that foods, among which Soma is the emperor, have two 
+qualities: they keep us alive, and give us pleasure.  Ṛg Veda (9), a section 
+entirely dedicated to Soma, confirms this, saying that Soma (1) gives 
+immortality, and (2) “roars”. 
+Soma is also called Amṛta (“imortality”) because it counteracts mortality, 
+food keeps us alive. Ṛg 9.42 goes so far to calls Soma the “immortality of 
+the immortals” and the “godhood within the gods.”  
+The second quality of Soma, however, is even more interesting. Sure, 
+staying alive is important, but what is the point of living? Ṛg 9 presents 
+Soma to us as an answer: the point of living is to enjoy, to “roar,” to 
+revel and enjoy; to taste rasa – ecstatic joy. Thus another synonym for 
+Soma is Rasa. 
+Taittiriya Upanishad (Ananda.7) speaks of rasa:  
+raso vai saḥ  
+rasaṁ hy evāyaṁ labdhvānandī bhavati 
+“He is certainly rasa itself! 
+Attain his rasa and become undoubtedly intoxicated with bliss!” 
+
+<<<PAGE 34>>>
+34 
+Directly or indirectly, consciously or not, we are all on a quest seeking 
+rasa. Our ambition may be smashed into a lower, smaller shape by the 
+hammer of repeated failure, but rasa is the real thirst behind every 
+desire. Mṛgaśīrṣā involves all permutations of the search for rasa, not 
+merely base and simple fun-seeking. After all, a deer is a beautiful and 
+graceful creature, not a brute. 
+Rasa is the highest objective of Mṛgaśīrṣā. The Upanishad tells us that 
+we will not find rasa in its fullest form in any fruit or vegetable, nor even 
+in any paradisiacal elixir. We find it in sah - the All-Attractive Godhead, 
+Śrī Kṛṣṇa, who is rasa personified. 
+Siblings in the Stars 
+Mahābhārata (Vana.221.15) tells us that Soma’s brother is Agñi, and his 
+sister is Rohiṇī. This is has significant astrological import. The two 
+brothers, Soma and Agñi stand on both sides of their sister. To one side 
+of Rohiṇī is Soma’s star, Mṛgaśīrṣā. To the other side is Agñi’s star, 
+Kṛttikā. 
+Agñi is the solar principle, fire. Soma is the lunar principle, water. Life 
+thrives best when heat and moisture combine. Rohiṇī, between the 
+heat of Agñi and moisture of Soma, is therefore the most abundant and 
+fertile location among the 27 stars.11 
+ 
+                                                          
+11 This is similar to the famous “Juggernaut” deities of Orissa: Like Rohiṇī, the 
+golden sister, Subhadrā, is protected on both sides by her brothers. On her 
+right is Bāladeva, bright like the sunlit day (similar to Agni). On her left is 
+Jagannātha, dark like the moonlit night (similar to Soma).  
+ 
+
+<<<PAGE 35>>>
+35 
+The Storm ~ Ārdrā  
+ 
+Name
+Ārdrā
+Meaning
+Soaked
+Symbol
+Storms; Raindrops
+Deity
+Rudra - god of storms
+Main Star
+Betelgeuse
+ 
+
+<<<PAGE 36>>>
+36 
+The word ārdrā literally means “wet.” Wet things symbolize Ārdrā: 
+teardrops, raindrops, and especially storms. Rudra, the howling god of 
+destructive storms, is Ārdrā’s deity.  
+What is a Storm? It is frightening, terrible and destructive, but it is 
+nature’s way of replenishing the clean oxygen and protective ozone in 
+the atmosphere.  
+Ārdrā is the storm that we must weather so that our nature can 
+once again become pure and clean. 
+Śankara-ācārya, an incarnation of Rudra, was born when the Moon was 
+in Ārdrā. The next great philosopher of India, Rāmānujā-ācārya, who 
+corrected and built upon the foundations laid by Śankara, was also born 
+with the moon in Ārdrā.  
+Clearly, this star is a spiritually fertile domain. 
+The Creator and Destroyer Fight 
+The Skanda Purāṇa says that Brahmā once had an argument with Rudra, 
+during which Rudra decapitated one of Brahmā’s heads (originally he 
+had five). Rudra threw the head into space, and it became the stars of 
+Mṛgaśīrṣā, the nakṣatra which comes after Brahmā’s Rohiṇī. Searching 
+(mṛga) for the head (śirṣa), Rudra came to reside in the nakṣatra next to 
+Mṛgaśīrṣā, Ārdrā. 
+If we postulate that the “u” has simply been dropped from the modern 
+spelling of Ārdrā, the name of this star simply means the place that 
+attracted Rudra. In fact it is not uncommon to see the name of this star 
+spelled “Ārudrā.” 
+
+<<<PAGE 37>>>
+37 
+Anger & Destruction 
+The birth of Rudra, god of Ārdrā, is described in many places with some 
+variation.12 Here is a compilation of the tale: 
+After Brahmā had created the major components of the universe, he 
+needed to create living beings to populate it. First he generated four 
+wonderful beings and said to them, “Populate the universe!”, but they 
+refused. They were completely uninterested in working within the 
+material world, because their ambitions were purely spiritual. Brahmā 
+became extremely angry that his first children would disobey him. Yet 
+he also knew that their reason for rejecting his wish was valid.  
+So he tried to control his anger, but it built up behind his eyebrows, 
+which formed more and more drastically into a profound scowl. The 
+power of his fury caused them to begin to glow. It became so intense 
+that Brahmā could no longer hold it back. Instead of expressing it upon 
+his saintly sons, he cast the anger out from his forehead and it became a 
+dark purplish child who wailed and howled furiously.  
+“Who am I?” it demanded to know. 
+“You are Rudra (The Wailer, The Howler)!” declared Brahmā. 
+The child was half male and half female, so Brahmā said, “Be split!” 
+Rudra and his wife Rudrānī then took separate forms. 
+ “Again split!” declared Brahmā.  
+Then, Rudra and Rudrāṇī each split into eleven forms of themselves. 
+“Now, go to your rightful places and create offspring!” declared Brahmā. 
+So they did; Fierce, angry, howling creatures of fire, storm, and 
+destruction they created by the thousands. 
+                                                          
+12 Bhāgavata Purāṇa 3.12; Viṣṇu Purāṇa 1.7 & 8; Devī Bhāgavat 7; 
+Mahābhārata Vana.12. 
+
+<<<PAGE 38>>>
+38 
+Seeing this Brahmā cried, “Dear children, please stop! Destruction must 
+be balanced, measured and contained. It cannot proliferate without 
+limit. Instead of creating more inauspicious beings, go now and 
+meditate upon Godhead. This will calm you and make you auspicious.” 
+The eleven Rudra and Rudrāṇī consolidated themselves into a single 
+male and female and followed Brahmā’s order. By so doing Rudra and 
+Rudrāṇī became auspicious, and so received the names Śiva (“He Who is 
+Auspicious”), and Pārvatī (“She Who has Risen Higher”). 
+Rudra was born when Brahmā’s creative ambitions were 
+frustrated. Ārdrā is the frustration of creativity. It represents all 
+the things we must overcome before we can create and attain 
+our desired objectives. 
+Rudra brings destruction, which can easily become 
+overwhelming, but which also serves a purpose. Ārdrā 
+empowers humanity to destroy, forget, and let go of 
+inauspicious things. 
+The Necessity of Destruction 
+Rudra’s role in the universe is Ārdrā’s role in our lives: destruction. We 
+need destruction because without it there is no space for creation.  
+The creator, Brahmā, lives for trillions of years, and each of his “days” 
+lasts for millions and millions of human years. The creator cannot rest 
+while his creations are active. Rudra and his children have to begin 
+dismantling the creation before brahma can rest. If Rudra did not 
+perform his role of destruction, Brahmā could not rest and restore his 
+creative energy.  
+Ārdrā allows us to rest. When things need to “rest in peace” they 
+need Ārdrā.  
+Iśa Upanishad (11) tells us that this unlearning (destruction) is just as 
+important as learning (creation). 
+
+<<<PAGE 39>>>
+39 
+Ārdrā allows us to unlearn, to destroy ignorance and forget 
+what should be forgotten.  
+Protector of Divine Rasa 
+Residents of the holy city of Vṛṇdāvana tell a sacred legend of Śiva as 
+“Gopeśvara Mahādeva.” This tale beautifully illustrates how destruction 
+of the unreal and utter forgetfulness and abandonment of one’s illusory 
+ego is required before one can enter into the true beauty and pleasure 
+of spiritual abundance. It reflects in the order of the stars. Rohiṇī is 
+central, representing the blessed objective of beauty and fertility. It is 
+nourished on both sides by the solar force of Agñi’s Kṛttikā and the lunar 
+force of Soma’s Mṛgaśīrṣā. Then it is bracketed on both sides by the 
+difficult walls of Yama’s Bharaṇī and Rudra’s Ārdrā. Here is a tale of how 
+the god of Ārdrā holds the key to entrance past these walls and into the 
+blessed realm. 
+In the middle of the full-moon-lit autumn night, Śrī Kṛṣṇa held the 
+magñificent “dance of rāsa,” manifesting infinite romantic beauty. Śiva 
+rushed to the spot to participate, but Vṛṇdā, the goddess of Vṛṇdāvana, 
+stopped him in his tracks at the outskirts of the forest groves. “You are 
+not permitted to enter!” She declared. 
+Śiva was crushed and dejected. “Why!?” 
+“No men enter here besides Kṛṣṇa,” Vṛṇdā explained. “Because you 
+hold on to the false-identity of being a male, your presence cannot be 
+tolerated!”  
+From a great distance, Śiva could hear and see and smell and feel the 
+excitement of the rāsa-dance. This drove him mad with desire.  
+“I am Rudra!!!” He declared. “I can destroy everything!!! Therefore I will 
+destroy my own male ego!” With this ferociously powerful 
+determination he entered meditation upon the supreme female, Śrī 
+Rādhā, the central figure of the rāsa-dance, seeking her blessing. 
+
+<<<PAGE 40>>>
+40 
+Hearing his prayers, Śrī Rādhā sent her closest confidant, Lalitā, to Śiva, 
+who sat in fiery, passionate meditation at the edge of the forest. Lalitā 
+imparted to Śiva all the profound conceptions required to develop the 
+inner ego of a purely feminine goddess fit to partake in Śrī Kṛṣṇa’s 
+paramount revelry of rāsa. Yet Śiva’s male body remained. 
+Lalitā escorted him to the Yamunā. By her blessing, when Śiva again 
+emerged from the water he possessed a new physical self to match his 
+new internal self: he had the form of a divine goddess of rāsa, a Gopī. 
+When Śrī Kṛṣṇa saw this new gopī entering the rāsa-dance hand in hand 
+with Lalitā a surge of happiness and mischief erupted from his 
+transcendental being. Because this gopī was none other than Śiva (who 
+is called Maheśvara, the great controller) Kṛṣṇa playfully nicknamed her 
+Gopeśvara. 
+Today, pilgrims to Vṛṇdāvana seeking to eventually participate in Śrī 
+Kṛṣṇa’s divine Rāsa dance always pray to Śiva as Gopeśvara. Their prayer 
+is that Rudra will destroy the ego that makes them unqualified to 
+participate in such divine bliss. 
+When the destructive force of Ārdrā is given spiritual direction, it 
+dismantles the false ego and allows one entry into blessed 
+realms of being. 
+
+<<<PAGE 41>>>
+41 
+Repeating Patterns ~ Punarvasu 
+ 
+Name
+Punarvasu
+Meaning
+Reignition
+Symbol
+An arrow returned to the quiver
+Deity
+Aditi – the universal mother
+Main Stars
+Heads of the twins: Castor and Pollux
+ 
+
+<<<PAGE 42>>>
+42 
+ 
+Punar means again. Vasu means bright. So the word Punarvasu can 
+mean, “Becoming bright again” (Reignition). Punarvasu is about things 
+happening again; Things happening within other things, within 
+themselves; in cycles; in repetition.  
+A fractal – an image formed by a pattern repeating itself within itself – is 
+an excellent symbol for Punarvasu. The classical symbol is an arrow put 
+back into a quiver after it has been shot.  
+Mother of her own Father 
+Here is an example of fractal patterns within patterns: The goddess of 
+Punarvasu is Aditi – who is the mother of her own father. Aditi is the 
+fabric of space itself, so she is the raw material Brahmā draws upon for 
+creation. Thus, she is the real “mother” of Brahmā’s children, including 
+her own father Dakṣa. She helped create Dakṣa, and later she took 
+shape in the world by being born as his daughter. The son comes from 
+the mother, and then the mother comes from the son.  
+Thus Ṛg Veda (10.72.4) says: “Aditi comes from Dakṣa, but Dakṣa comes 
+from Aditi.”  
+Boundless Unity 
+The name Aditi literally means boundless. She is the fabric of space itself, 
+the boundless matrix within which everything else exists. Because space 
+is the womb within which all live develops, she is the “universal mother.” 
+Especially the “vasu” – the luminous gods – are all her children.  
+To be boundless means to have no boundaries, to be whole, unbroken 
+and undivided. The goddess of non-division is the mother of the gods. 
+Her sister’s name is Diti, which means divided. This goddess of division is 
+the mother of the anti-gods. The idea emerges that unity is a godly 
+principle, while division is ungodly. Things that unite have godly effects, 
+while things that divide have ungodly effects.  
+
+<<<PAGE 43>>>
+43 
+Aditi’s Punarvasu empowers humanity to work cooperatively, 
+become unified; to come together and form a larger pattern 
+within larger patterns. 
+Aditi is not only the mother of the gods, but she is also the mother of 
+the original Godhead when He appears tangibly within this universe as 
+an avatār (“incarnation”). This is another example of fractal patterns, 
+Aditi comes from Godhead, but Godhead comes from Aditi. 
+Mother of God 
+The concept of being the Mother of a being that has no origin and is the 
+origin of everything is another perfect example of the fractal patterns-
+within-patterns that symbolizes Punarvasu. 
+Śrīmad Bhāgavatam (8.16-18) describes how Aditi became the mother 
+of existence itself, Viṣṇu: 
+A powerful demon named Bali conquered all the worlds and the gods 
+lost all power. Aditi requested her husband Kaśyapa to give her a son 
+who could save them.  Kaśyapa told her how to perform a ritual for this 
+purpose. But since Aditi knew that only Godhead could save the gods 
+from this situation, her performance of this ritual attracted God to 
+become her child.  
+When the ritual was complete, Godhead appeared and assured her, “I 
+will become your son, but this situation cannot be remedied by force. I 
+will come up with a different strategy.” 
+Aditi then conceived a child with Kaśyapa, who was born mysteriously 
+as the Godhead Viṣṇu – blackish with glittering yellow clothes, four 
+armed and gloriously beautiful. Before their very eyes, He transformed 
+into a very small boy; a student-mendicant, named Vāmana.  
+Viṣṇu thus became the younger brother of Aditi’s first child, Indra. The 
+young boy soon set off to where Bali was performing an elaborate ritual 
+to celebrate his victory over the gods. When he entered the arena, 
+everyone was struck with his beauty and effulgence and greeted him 
+
+<<<PAGE 44>>>
+44 
+with warm respects. Bali, especially, was charmed by the endearing 
+beauty of Vāmana.  
+“It is my great fortune that such a wondrous spiritualist has come to my 
+palace! The opportunity to serve you will free me from all the sins of my 
+selfish life. You must have come here to ask something from me, please 
+ask it! I will happily give you any wealth or pleasure you desire!” 
+Vāmana was very pleased with Bali’s humble and spiritually informed 
+attitude. He said to Bali, “You are wonderful because you have good 
+teachers and because your grandfather is the great Prahlād. You are as 
+great and dear to me as your grandfather! But I do not need any wealth 
+or pleasures. It is not good for a spiritualist to accept such things. I just 
+want whatever land I can claim for myself in three paces.” 
+Bali replied, “You are wise beyond your years, but still inexperienced. 
+You should take what you can get when it is offered!  I own even the 
+heavens. I can give you anything. Someone who asks a favor from me 
+should never have to ask another person for a favor again! So why 
+should you only take three paces of land? It would defame me to give 
+such a petty gift!” 
+Vāmana replied, “If a person can’t be satisfied with three steps of land, 
+he won’t be satisfied with the three worlds. Self-control makes one 
+happy. Feeding uncontrolled desire causes misery.” 
+Smiling, Bali said, “Alright, then. You are very wise. I shall happily give 
+you what you request.” With that he took up his waterpot to wash his 
+palm in a gesture of solemn promise, but no water would flow from it. 
+When Bali used a straw to unblock the nozzle, Śukra (the deity of Venus 
+and Bali’s guru) suddenly appeared, holding his eye in pain. He had 
+taken a tiny form and purposely clogged the pot, and the straw had 
+poked out his eye. 
+Śukra said, “This little boy is Viṣṇu! He has been born to Aditi to protect 
+her children, the gods. You’ve gone and promised to give him land!? He 
+will take everything from you and give it to your enemy, Indra! You fool! 
+
+<<<PAGE 45>>>
+45 
+You will be homeless!!! He will take the entire universe in just two steps 
+and make you unable to fulfill your promise, and thus send you to hell! 
+Charity is good, up to a point! Besides, you did not say “Om” when 
+making this promise to give him land, so it is not binding!” 
+Bali thought about this deeply for a few moments. Then he said, 
+“Mother Earth said, ‘I can bear any burden, but I cannot bear a liar.’ 
+Truthfulness is the soul of morality, without which there can be no good 
+fortune. I don’t mind losing my riches, so long as I do not lose my 
+morality.” 
+Śukra was infuriated. “You think you know morality better than I do!? So 
+be it, then! Become penniless!!!” Śukra then disappeared.  
+Bali did not mind this in the least. He very happily worshipped the young 
+spiritualist with all respect and offered him to take the land he desired.  
+Vāmana then began to grow to huge proportions, revealing that he was 
+all-pervading Viṣṇu. Bali could see the entire universe within his “body.” 
+Here is another instance of fractal patterns-within-patterns: Vāmana 
+was standing within the universe, yet the entire universe existed within 
+Vāmana.  
+With one step the huge Viṣṇu covered all of normal earthly space. With 
+the second he reached the highest extent of the heavens.  
+The anti-gods rushed forward to kill Viṣṇu, but Viṣṇu’s associates 
+appeared and drove them back effortlessly into subterranean regions.  
+Viṣṇu’s eagle, Garuda, then arrested Bali and tied him in ropes. Vāmana 
+said to Bali, “You promised me three steps of land, but I have taken 
+everything you possess and more, in just two steps. Since you cannot 
+fulfill your boastful promise, you must enter the hells.” 
+Bali replied, “That is no problem. Your punishment is always just. We 
+anti-gods always want power and prestige. When you punish us it is 
+kind because it opens our eyes to a more blissful reality that we are not 
+all-powerful, we are but fragments of your energy and should endeavor 
+
+<<<PAGE 46>>>
+46 
+only to serve your desires! Everything you have taken from me is a 
+blessing. What is the use of material prosperity? It only puts one into 
+deeper spiritual ignorance!  But I do not wish to be untruthful.  I have 
+offered you three steps of property. I owned the three worlds, which 
+you took in just two steps. Surely the owner of land is even more 
+valuable than the land itself, so I must be worth at least two steps. 
+Please place your third step on my head and claim me as your servant. 
+This will fulfill my promise.” 
+Thrilled by the unwavering devotion of this great soul amidst demons, 
+Viṣṇu declared, “Because your devotion for me is so pure that you were 
+willing to happily surrender everything, I will give you something greater 
+than even the gods possess! In the future you will become the king of 
+the Gods. Until then you can live on a special planet called Sutala, free 
+from the influence of time and decay. No one will be able to conquer 
+you. I will protect you always and will personally stay there with you as 
+your gatekeeper.” 
+Budha Curses Aditi 
+Mahābhārata (Śānti.34.96-98): 
+Budha (the god of Mercury) came to Aditi’s home hungry. She was at 
+the end of feeding her children, so she asked him to wait a moment. 
+Budha became upset over this transgression of etiquette and cursed her, 
+“You so love your children!? Then become Vivasvān’s mother a second 
+time!” Vivasvān was reborn to Aditi as Aṇḍa and his fiery heat caused 
+her great pain during pregnancy.  
+This serves as another illustration of repetition, the main theme of 
+Punarvasu. 
+Rebirths of Aditi 
+Aditi herself has many rebirths, just as a fractal appears many times 
+within itself. All of them center on being the mother facilitating the birth 
+of Godhead. Mahābhārata (Śānti.43.6) says that Viṣṇu is born seven 
+times to Aditi. This repetition is interesting to the study of Punarvasu. 
+
+<<<PAGE 47>>>
+47 
+Śrīmad Bhāgavatam (10.3) says that Aditi was once Pṛśṇi, the wife of a 
+different son of Brahmā, named Sutapas. She performed great 
+austerities in devotion to Viṣṇu for 12,000 years. When Viṣṇu appeared 
+to grant her wishes, she wished that he would become her son, which 
+he did. 
+Kṛṣṇa told this story to his mother, to let her know that she and he are 
+always mother and son, repeatedly. Thus Kṛṣṇa’s mother, Devakī is yet 
+another incarnation of Aditi. 
+The story behind Aditi becoming Devakī is also fascinating. It is told in 
+Devī Bhāgavata (4): Aditi was the first wife of Kaśyapa, and she gave 
+birth to the gods, headed by Indra. Her sister, Diti, the second wife, was 
+jealous and asked Kaśyapa for children who would be equals to the gods. 
+Thus eventually she gave birth to the anti-gods (“demons”). But Aditi 
+became fearful and sent her child to destroy the first child in her sister’s 
+womb. Diti then cursed Aditi: “Your child will repeatedly lose his 
+kingdom to my children! And you will lose your children!” 
+The first part of the curse is constantly being fulfilled as Diti’s children, 
+the anti-gods, attempt to conquer the gods, and often succeed. The 
+second part of the curse was fulfilled when Aditi became Devakī, who 
+had to suffer the loss of many children at the hands of her atrocious 
+brother Kaṁsa. 
+
+<<<PAGE 48>>>
+48 
+The Highest Blossom ~ Puṣya 
+ 
+Name
+Puṣya
+Meaning
+Flowering
+Symbol
+Lotus
+Deity
+Bṛhaspati - god of prayer
+Main Stars
+γ, δ (Asellus Australis) and θ Cancri.
+ 
+
+<<<PAGE 49>>>
+49 
+ 
+The word puṣya has two primary meanings: 
+1. The top/best part of a thing; usually referring to a flower, the 
+top and best part of a plant.  
+2. Nourishment; which allows us to blossom and grow. 
+There is a motherly, loving and devotional overtone to the word puṣya. 
+Love, after all, is the topmost blossom on the flower of life. 
+Puṣya’s primary symbol is a lotus, the most beautiful and wholesome 
+flower. The udders of a cow are sometimes used to symbolize Puṣya; 
+conveying the theme of nourishment.  
+Bṛhaspati, the god of prayer and devotions, is the deity of Puṣya. In 
+Bhagavad Gītā (10.24), Śrī Kṛṣṇa says: 
+purodhasāṁ ca mukhyaṁ māṁ viddhi pārtha bṛhaspatim 
+“Among the best priests, know me to be Bṛhaspati.” 
+Among all priests, Bṛhaspati is the best. A priest is a person who 
+facilitates our connection to the divine. Prayer is an interactive union 
+with the divine. Bṛhaspati is the god who masterfully conducts religious 
+rituals and prayers – the technologies of divine communion.  
+Puṣya is always thought of as being among the most fortunate and 
+prosperous of Vedic stars. Other names for Puṣya are Sidhya (“perfect”) 
+and Tiṣya (“auspicious”). Why? What is the connection between 
+devotional prayer and prosperity? 
+In Gītā (10.38) Śrī Kṛṣṇa says: 
+nītir asmi jigīṣatām 
+“For those whose desire victory, I am morality.” 
+
+<<<PAGE 50>>>
+50 
+Puṣya is a successful and prosperous star because it facilitated 
+communion with the divine, which engenders morality, which leads to 
+true victory and prosperity.  
+What is morality? It is what distinguishes “right” from “wrong.” Right 
+and wrong, though, are not absolute. What is right in one circumstance 
+is wrong in another. It might be wrong to use a knife to kill someone, 
+yet right to use the same knife for slicing bread. It might be wrong to kill 
+someone, but right to kill someone who is on the brink of killing many 
+other people. Morality is relative. And that’s why it’s complicated. 
+We can’t really be morally strong without understanding moral 
+relativity: knowing how to apply a moral principle in many different 
+circumstances. This requires serious contemplation, reflection, and 
+depth. Bṛhaspati is facilitates all these things: contemplation, meditation, 
+prayer; and by doing so he strengthens real morality, and thus causes us 
+to be more victorious and prosperous.  
+Through Puṣya, Bṛhaspati empowers human beings to commune 
+with deeper principles. This strengthens morality and causes 
+prosperity and victory. It eventually leads to selfless devotional 
+intimacy with the divine.  
+The Son of the Sage of Fire 
+Ṛg Veda (4.40.1) and Mahābhārata (Adi.66) clearly state that Bṛhaspati 
+is the son of Angiras. Angiras is Brahmā’s son, was born from the coals 
+of a fire.  He is therefore a fire-sage. His son, Bṛhaspati is sometimes 
+called “the son of fire,” but this doesn’t mean Bṛhaspati is the son of 
+Agñi, the fire god.  
+From his father Bṛhaspati inherits affinity and skill with fire. Fire is 
+symbolic of religion and morality because the light of fire shows us the 
+correct path, and the warmth of fire nourishes us. Fire is the focal point 
+of most religious rituals, especially Vedic, because it transforms things. 
+It transforms matter to energy, thus allowing sacrifices to be delivered 
+to the gods.  
+
+<<<PAGE 51>>>
+51 
+Bṛhaspati’s mother is named Śraddhā, which means trust, faith, and 
+confidence. The god of communion with the divine is born from trust, 
+faith, and confidence.  
+Puṣya encourages faith and devotion. 
+Priest and Guru of the Gods 
+Bṛhaspati was very religiously inclined from birth and therefore went to 
+a sacred place to commune with the divine. Śiva was very impressed 
+with the boy and granted him the position of the priest and guru of all 
+the gods, and gave him custodianship of the astrological planet Jupiter.  
+Much of what an astrologer knows as the traits of Jupiter can 
+therefore be transposed into Puṣya. You can think of Puṣya as if 
+it was Jupiter as a star: It is very positive, helpful, nurturing, and 
+allows things to grow, develop, prosper and blossom in a moral 
+and wholesome manner. 
+Milking the Earth 
+Śrīmad Bhāgavatam (4.17-18) tells a story which ties into using the 
+udders of a cow as Puṣya’s symbol: 
+Once upon a time, the Earth became very weak and there was extreme 
+famine. Godhead empowered a king named Pṛthu to remedy the 
+situation. The king took up a bow and threatened the Earth, “you must 
+produce!” 
+The Earth-goddess in her form as a cow fled as fast as she could, but she 
+could not escape the king. Submitting to him, she explained why she 
+had been causing famine, “No one takes care of me anymore. They just 
+take as much as they can from me, and do not even use my bounty to 
+worship Godhead! Therefore I have made my surface rocky and hilly, so 
+that the water cannot enrich the soil and nothing will grow. But I submit 
+to you now to change this situation! Bring me a calf. The milk I then give 
+will restore everything I have withheld.” 
+
+<<<PAGE 52>>>
+52 
+First the king made the chief of humanity (Svāyambhuva Manu) into a 
+“calf” and obtained as “milk” all the grains and vegetables needed to 
+feed the citizens. Then various groups used various people as “calves,” 
+and through those calves they got all they desired from the Earth. The 
+first group to do so was the sages. They selected Bṛhaspati to become 
+the calf, and through him obtained “milk” from the Earth in the form of 
+mantras and hymns that would make the mind clean and pure. 
+Punishing the King of the Gods 
+Śrīmad Bhāgavatam (6.7) tells how Bṛhaspati punished Indra, the king of 
+the gods: 
+Once, Indra was enjoying very opulently and luxuriantly in his regal 
+assembly hall, surrounded by beautiful and influential admirers and his 
+extremely beautiful queen. Bṛhaspati entered and Indra neglected to 
+stop his revelry to welcome his priest and guru. 
+Seeing Indra reeking of the typical egoistic pollution that accompanies 
+material enjoyment, Bṛhaspati simply turned around and left. 
+When the doors closed behind his departing guru, Indra suddenly 
+realized his error and went in search of him to apologize. But Bṛhaspati 
+wanted to teach Indra an important lesson, so he became invisible. 
+The anti-gods heard news that the gods were without their guide and 
+priest, and so they attacked the heavens. They severely wounded the 
+gods and brought them to the brink of total defeat.  
+This illustrates that without Puṣya we cannot be successful. 
+Being “without Puṣya” means losing our unity with the divine. 
+Ego destroys this union. Thus, when fouled by the ego of power 
+and luxury we, like Indra, lose access to divine communion, and 
+all the blossoms of our prosperity wither.  
+This story of Indra and Bṛhaspati will continue through many of the rest 
+of the stars. 
+
+<<<PAGE 53>>>
+53 
+Serpentine Embrace ~ Āśleṣā  
+ 
+Name
+Āśleṣā
+Meaning
+Embrace
+Symbol
+Coiled serpent
+Deity
+Nāga – the dragons
+Main Stars
+The head of the hydra: δ, ε, η, ρ, σ Hydrae
+ 
+
+<<<PAGE 54>>>
+54 
+The word āśleṣā means, “intimate connection, intimate contact, 
+embracing, entwining, adhering, and clinging.” A coiled serpent is a 
+fitting symbol for Āśleṣā, because serpents coil around things: 
+embracing and entwining with them.  
+Āśleṣā’s deity is the “Nāga” – supernatural serpents, a.k.a. “dragons.”  
+Like all serpents they have scales, forked tongues and powerful poisons. 
+Unlike most serpents Nāga can combust their spit poisons, usually have 
+many heads, have super-human intellect and talent, and can shape-shift 
+in and out of humanoid and intermediate forms. They are protectors of 
+vast treasures. 
+Sometimes, ordinary snakes (particularly the King Cobra) can be called 
+“nāga” as an honorific. All snakes are connected to Āśleṣā, but the 
+deities of Āśleṣā are the supernatural dragons, not ordinary serpents.  
+Rivalry and Jealousy 
+I’ll tell you a story about the origin of the Nāga.  
+One of the sons of Brahmā is Marīci. His son is Kaśyapa, the “genetic 
+engineer of the universe.” Kaśyapa married 13 sisters. With each wife 
+he produced different species of offspring, from gods to insects. 
+According to Mahābhārata (Adi.16), one wife, Kadru, wanted to have 
+many, many children; while another wife, Vinata, desired only two very 
+powerful children. Kadru laid 1000 eggs which quickly hatched into so 
+many different varieties of serpents, the foremost of whom were the 
+Nāga. Vinata laid two eggs which took a very long time to hatch. One of 
+the children became Aruṇa, who drives the chariot of the Sun and 
+shields the world from the fury of his heat. The other was the gigantic 
+King of Eagles, Garuḍa, who became the associate and carrier of Viṣṇu. 
+Kadru was jealous of the power her husband allotted to her sister’s two 
+children, and devised a plan to ruin her. She made a bet: “I bet you that 
+the color of the tail of the divine horse that emerged from the ocean of 
+milk is not white! If I am right, you and your children are my slaves. If 
+
+<<<PAGE 55>>>
+55 
+you are right, my children and I are your slaves.” Kadru, however, rigged 
+the bet, by asking her black serpent children to mix into the hair of the 
+horse’s tail.  The serpents who refused their mother’s request on moral 
+grounds became a separate, special branch of the Nāga race. The rest of 
+the serpents mixed into the hair, making it appear black. Vinata thus 
+lost the bet and became a servant of Kadru.  
+It was then that Garuḍa hatched from his egg, born into slavery. He 
+submitted but developed hatred of the serpents as a result. Eventually, 
+he asked the Nāga, “How can I be released of this debt to you?”  
+“Bring us soma, the nectar of immortality!” They replied. 
+Garuḍa “stole” soma from the Gods, but conspired with their king, Indra, 
+so that Indra reclaimed the soma before the serpents had a chance to 
+drink it. Garuḍa was freed from servitude the moment he placed the 
+nectar before the Nāga. As Indra appeared from out of nowhere to 
+snatch back the elixir, drops of it splashed onto the kuśa grass, which is 
+sharp like a razor blade. The Nāga became very powerful by licking up 
+these drops, but also split their tongues on the sharp grass in the 
+process. 
+Āśleṣā has an inherent weakness towards deception and 
+jealousy, owing to the fact that its deity was born into such an 
+environment. 
+Pleasures beyond Paradise 
+The Nāga inhabit and control a unique realm of the universe: “Nāga-
+Realm,” the deepest of the seven netherworlds. Because they dwell at 
+the very bottom of the physical dimensions, we hear in Mahābhārata 
+(Adi.36) that they, “hold the earthly realm aloft upon their hoods.” Thus 
+the Nāga are very strong and can hold things better than any other 
+creatures. The very word āśleṣā implies this! One can think of the boa 
+constrictor or python as a concrete example of a serpent’s power to 
+embrace and hold. 
+
+<<<PAGE 56>>>
+56 
+Āśleṣā empowers humanity to embrace strong attachments and 
+affections with enduring emotion and desire. Thus Āśleṣā also 
+promotes the ability to bear great weights and responsibilities 
+towards those we love. 
+The Nāga’s netherworld is not similar to Judeo-Christian hell. It is a place 
+of grandeur and pleasure, not a place of punishment.  Chapter 5 of 
+Viṣṇu Purāṇa describes it: It is more beautiful than heaven, full of 
+radiant jewels, exotic groves and lakes, and breathtaking serpentine 
+maidens eager to enjoy! The air carries sweet scents and music. The 
+ground is multicolored, soft and mixed with jewels and gold. 
+The 24th Chapter of the 5th section of Bhāgavata Purāṇa concurs, adding 
+that this world is like a luxurious resort, free from infections, fatigue, 
+and aging. The Sun and other luminaries cannot shine into these nether 
+regions. The entire world is lit instead by the brilliance held within 
+fantastic gems that the residents wear, often as crown-jewels on their 
+serpentine hoods. 
+The Viṣṇu Purāṇa states that the Nāga are extremely influential 
+throughout all seven of the nether realms. Vāyu Purāṇa lists the specific 
+Nāga who predominate each nether realm: Kāliya, Takṣaka, Hemaka, 
+Vainateya, Kirmira, and Vāsuki. The Bhāgavatam clarifies that the fifth 
+and seventh nether-realms particularly belong to the Nāga. The seventh 
+realm is the home to the most powerful and impressive of the Nāga, 
+headed by their king, Vāsuki. 
+Through Āśleṣā, the Nāga empower human beings to obtain 
+luxury, and embrace sensual pleasure and enjoyment via 
+charisma, charm, mystique, and cunning. 
+Vāsuki – King of Dragons 
+In Bhagavad-Gita (10.28), Śrī Kṛṣṇa says: 
+sarpāṇām asmi vāsukiḥ 
+“Among serpents I am Vāsuki.” 
+
+<<<PAGE 57>>>
+57 
+The most celebrated tale involving Vāsuki involves how the gods and 
+anti-gods produced the original nectar of immortality by churning the 
+cosmic ocean of milk.  
+Churning a bucket of milk will make a person tired, and churning an 
+entire ocean was a feat even for the gods to accomplish. They needed 
+enormous apparatus like continents to stand on and mountains to 
+churn with. The rope to turn this mountainous churning rod would have 
+to be fantastically strong and long. Everyone agreed that the king of 
+serpents, Vāsuki would be the only being that could act as the rope.  
+Vāsuki, however, was far off in the deepest netherworld. Garuḍa, proud 
+of his ability to carry away snakes in his beak, stepped forward and 
+announced that he would bring Vāsuki. When he arrived and explained 
+the situation, Vāsuki replied, “If it’s so urgent, carry me to the spot at 
+once.” 
+Garuḍa, however, could not lift Vāsuki off the ground. Thus he returned 
+to the gods empty handed. Śiva then extended his hand to the 
+netherworld and Vāsuki wrapped himself around Śiva’s wrist like a 
+bracelet. 
+Thereafter, Vāsuki firmly embraced the mountain in the middle of the 
+ocean and the gods and anti-gods could successfully churn the cosmic 
+milk. 
+Vāsuki cooperated happily with Śiva but embarrassed haughty 
+Garuḍa. It is said that snakes are enemies of common people, 
+but they never harm a saint13. Similarly Āśleṣā interests us in 
+using our charms and charismas to enjoy life, but it also makes 
+us favorable to the truly godly.  
+                                                          
+13 For example: Buddha is often depicted with an umbrella of hooded snakes 
+protecting him. Viṣṇu is almost always depicted in this way. Śiva is always 
+adorned with serpents.  
+
+<<<PAGE 58>>>
+58 
+Śeṣa – The Spiritual Serpent 
+In Bhagavad Gita (10.29) Śrī Kṛṣṇa says: 
+anantaś cāsmi nāgānāṁ 
+“Among the Nāga I am Ananta.” 
+In the previous verse of Gita, Kṛṣṇa said that among serpents he is 
+Vāsuki, now he says that among Nāga he is Śeṣa. This indicates that 
+Śeṣa is the truest Nāga, distinguished most fully from his serpentine kin. 
+In comparison to Śeṣa even the great dragon Vāsuki seems like a snake. 
+Still, Vāsuki became the king of the Nāga because Śeṣa had no interest 
+in taking the position. Displeased by the sensual orientation of his kin, 
+Śeṣa prefers to be solitary and remain apart from them.  Instead Śeṣa 
+takes up an intimate relationship with Viṣṇu.  
+When Viṣṇu lies upon the cosmic ocean of causality, Śeṣa appears and 
+folds his coils into a soft bed for Viṣṇu, while spreading his thousands of 
+hoods above him like an umbrella. 
+Viṣṇu has Garuḍa the eagle as his carrier, and Śeṣa the serpent as his 
+bed. The two, eagles and serpents, should be sworn enemies. But the 
+influence of Viṣṇu is so pacifying and pleasant that even deadly enemies 
+give up their mutual hatred and cooperate happily to serve him. 
+Śeṣa has so many heads they are essentially infinite. This is one reason 
+why he also bears the name Ananta, which means endless. 
+Śrīmad Bhāgavatam (10.1.14) explains that Śeṣa is an incarnation of 
+Viṣṇu, who returns to his original form as Kṛṣṇa’s elder brother, 
+Balarāma. Śeṣa’s role is always to support and guard Viṣṇu. When Viṣṇu 
+appears as Kṛṣṇa, Śeṣa supports and protects him by becoming his older 
+brother. Since Śeṣa is the foremost Nāga, Āśleṣā attains its favorability 
+towards the spiritual, in spite of and augmented by its otherwise 
+netherworldly, pleasure loving nature. 
+
+<<<PAGE 59>>>
+59 
+The divine qualities of Śeṣa are more fully and purely realized in Śeṣa’s 
+own star: Uttara Bhādrapadā. But still, it is not difficult to see the 
+intimate connection between Śeṣa and Āśleṣā. If we merely drop the “l” 
+as an irregularity of pronunciation, the word Āśleṣā becomes ā-śeṣa - 
+“the place of Śeṣa.” 
+Āśleṣā interests humanity in mystical spirituality. 
+Kāliya’s Battle with Kṛṣṇa  
+Śrīmad Bhāgavatam (10.16) tells the story of a powerful Nāga named 
+Kāliya. Fearing Garuḍa, Kāliya made his home somewhere Garuḍa had 
+been cursed to be unable to enter. That place happened to be in Kṛṣṇa’s 
+forest: Vṛṇdāvana, within the depths of a pool formed by the river 
+Yamunā. 
+Kāliya demonstrated the power of holding (“āśleṣa”) by causing the 
+water to take solid shapes. He constructed a palace for himself out of 
+water, in the water, and lived there with many beautiful Nāga maidens. 
+However, his toxicity made the lake and surrounding area polluted. So 
+Kṛṣṇa jumped into the water one day to challenge Kāliya and evict him. 
+Kāliya held Kṛṣṇa in an unbreakably strong embrace within his coils for a 
+terribly long time. But Kṛṣṇa broke free and began to dance upon 
+Kāliya’s hundreds of hoods, each attempting to bite and spit fiery poison 
+upon him. With each artful step of the dance Kṛṣṇa kicked upon each 
+hood – his feet illuminated by the jewels there like an artist illuminated 
+on stage by footlights. One by one the heads of Kāliya were broken and 
+defeated by Kṛṣṇa. However, the Nāga maidens beseeched Kṛṣṇa 
+sweetly, and he spared Kāliya and allowed him to return to Nāgaloka 
+with a promise that he need no longer fear Kṛṣṇa’s servant, Garuḍa. 
+By Kṛṣṇa’s compassion, Kāliya became an enlightened serpent similar to 
+Śeṣa.  Here are excerpts of his statements to Kṛṣṇa after becoming 
+enlightened (Śrīmad Bhāgavatam 10.16.56-59): 
+
+<<<PAGE 60>>>
+60 
+“I am sorry for fighting with you, but I am a serpent, so it is my nature to 
+become aggressive when challenged. It is so difficult for a person not to 
+be a creature of habit. Please forgive me.  
+“You create the forces that create our habitual nature; that is why no 
+one can overcome habit by their willpower alone. You are the wise 
+being who frees everyone from bondage to their habitual conditioning. 
+So, whether you punish me or show me mercy – either is for my benefit.” 

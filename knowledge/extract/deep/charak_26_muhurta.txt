@@ -1,0 +1,679 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 395-408
+# compiled into: panchanga.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 395>>>
+
+...XXVI...
+Muhurta or the Astrology of Election
+Not by abstention from work does a man
+achieve freedom from
+action; nor even by renunciation does he attain to
+perfection.
+Gita III/4.
+The word Muhurta means a moment of
+time, or a time duration of two
+Ghatis (forty-eight minutes). In astrology, the
+muhurta deals with picking up
+the most appropriate moment for accomplishment of
+ a purpose, while
+avoiding the less appropriate moments.
+Importance of time
+All astrology is based on time. The disposition of the lagna
+ and the
+planets at a given time determines all that pertains to a native’s
+life. Just as
+individuals have a birth time, so also all work and actions have
+their times of
+birth. A horoscope cast for the moment when a work is commenced
+indicates the turn of events during the accomplishment of that work, very
+much
+ like the natal horoscope indicating the various events taking place
+during the
+life of a native. Since we generally have control over the moment
+of commencing
+ an action, it is but appropriate that we chose the most
+appropriate moment to
+ do so. In this way, the difficulties that one might
+encounter in the fulfilment
+of a job can be avoided or minimised.
+Muhurta thus is a practical application of the knowledge of
+astrology. In
+India, this aspect of astrology is so much ingrained in day to
+day life that
+even a lay and illiterate villager uses it in his varied pursuits
+ of life like
+travel, marriage, building a house, shifting into a new house,
+ sowing and
+reaping a harvest, digging of wells and ponds, naming or christening
+of a
+
+<<<PAGE 396>>>
+child, returning home, meeting or bidding farewell to a friend or a
+relative,
+and the like. The kings employed it in wars and conquests. The
+present day
+educated man employs this knowledge in selecting appropriate
+moments for
+joining or quitting a job, sending in job applications, filing of
+nominations
+for elections, taking oath of office, procurement of a vehicle,
+shifting into a
+new house, etc. People have lately used this knowledge in choosing
+the birth
+time of their child in case of a cesarean birth. Muhurta thus finds a
+wide use
+in day to day life in India. The slavish neo-scientist, with his
+ imported
+learning and natural ignorance of the rich Vedic culture, gives the
+belief in
+this brilliant branch of practical astrology the name of
+superstition.
+Difficulty in choosing the best Muhurta
+It must be appreciated that no given horoscope can be
+ considered as
+perfect in all possible respects. The best of planetary
+dispositions available
+will have a flaw. Similarly, the best and the most
+ auspicious moment
+selected for commencing an undertaking will not be perfect in
+all respects.
+The selection of an appropriate Muhurta aims at selecting
+ the best
+moment available. The modern day man does not have enough time at his
+disposal. He may have to undertake a journey at short notice or to join a job
+within a stipulated period. Or a child in the womb, eager to come out, may
+only
+give a limited time frame within which to plan a cesarean. Under such
+circumstances, the moment that best suits one’s purpose is to be chosen.
+The underlying principles
+Muhurta uses the same basic principles as are applicable to
+the predictive
+aspect of astrology. The stress is, however, shifted to certain
+specific areas
+which constitute the five limbs of the Panchanga or the Indian
+ almanac.
+These five limbs, already hinted at elsewhere, are the Tithi, Vaara,
+Nakshatra, Yoga and Karana. The Panchanga is specifically suited to the
+Indian
+way of life where astrology finds its practical use.
+The importance of the Sun and the Moon in Vedic astrology
+cannot be
+overemphasised. The five limbs of the Panchanga depend on the
+disposition
+of these two luminaries only. The Muhurta also makes use of the
+lagna (or
+even the Navamsha) rising at the time of commencing an act. It can be
+
+<<<PAGE 397>>>
+individualised, for best results, when combined with Ashtakavarga worked
+out on
+the natal horoscope of an individual.
+Muhurta is a vast subject demanding a very thorough
+treatment which is
+beyond the scope of this work. Here it is proposed to
+present the very basic
+concepts of this branch of astrology. For detailed
+information, the reader is
+referred to the book on Muhurta by K.K. Joshi.
+Tithi or the Lunar Date
+Fifteen Tithis constitute the Shukla-paksha or the brighter
+ half of the
+lunar cycle, while another fifteen constitute the Krishna-paksha or
+the darker
+half of the lunar cycle. These Tithis are numbered from 1 to 30; or
+they are
+numbered from 1 to 15 (from the Pratipada to the Poornima) for the
+Shukla-
+paksha, and 1 to 14 (Pratipada to Chaturdashi) and 30 (Amavasya) for the
+Krishna-paksha.
+Tithis are very important in Muhurta. All Hindu festivals
+depend upon
+the Tithis. Even the birthdays are celebrated according to the
+Tithis.
+Five sub-divisions of the Tithis
+The Tithis are sub-divided into five groups:
+(a)Nanda - Tithis 1, 6 and 11.
+(b)Bhadra - Tithis 2, 7 and 12.
+(c)Jaya - Tithis 3, 8 and 13.
+(d)Rikta - Tithis 4, 9 and 14.
+(e)Poorna - Tithis 5, 10, 15 and 30.
+In general, Tithis 1 to 5 of the Krishna-paksha and 10 to 15
+ of the
+Shukla-paksha are favourable. Tithis 5 to 10 of both the pakshas are
+average.
+Tithis 10 to 15 (i.e., 10 to 14, and 30) of the Krishna-paksha and 1
+to 5 of the
+Shukla-paksha are unfavourable. This is because the Moon is
+ relatively
+weak for five days on either side of the Amavasya (New Moon) due to
+its
+proximity to the Sun. Similarly, it is strong for five days on either side
+of the
+Poornima (Full Moon).
+Prescribed acts for various
+Tithis:
+
+<<<PAGE 398>>>
+1. Pratipada (Tithi 1): Writing, drawing, agriculture,
+ extraction of liquor,
+felling trees, sculpting, bed or seat. Avoid auspicious
+events like marriage,
+etc.
+2. Dwiteeya (Tithi 2): Marriage, travel, royal duties,
+ house building,
+acquisition of ornaments.
+3. Triteeya (Tithi 3): Sculpting, transactions related
+to cattle, elephants, etc.,
+travel through water, feeding the infant, entering
+ a new house, and other
+auspicious pursuits mentioned under the ‘Dwiteeya’
+above.
+4. Chaturthi, Navami and Chaturdashi (Tithis 4, 9 and
+14; the Rikta group):
+Cruel deeds, study of mantras, confinement, use of fire,
+poison and weapons,
+causing injury or death, killing of an opponent. Avoid all
+auspicious pursuits.
+5. Panchami (Tithi 5): Riding, marriage, propitiation
+ of planets, all
+auspicious pursuits. Avoid lending money.
+6. Shashthi (Tithi 6): Buying and selling, transactions
+of cattle and land, war-
+related pursuits, ornaments and garments, house
+building.
+7. Saptami (Tithi 7): Travel, vehicle, service to the
+ king, marriage, house
+building.
+8. Ashtami (Tithi 8): War-related pursuits, house
+building, sculpting, farming
+and agriculture, writing, digging, work related
+with water, ornaments.
+9. Dashami (Tithi 10): Worship in a temple, journey,
+marriage and all the
+pursuits mentioned under Tithis 2, 3, 5 and 7.
+10. Ekadashi (Tithi 11): Religious pursuits, festivals,
+ house building,
+sculpting, agriculture, marriage, dancing, war-related
+pursuits.
+11. Dwadashi (Tithi 12): All Chara and Sthira (i.e.,
+ change-oriented and
+fixity-oriented) pursuits, religious and auspicious deeds.
+12. Trayodashi (Tithi 13): Marriage, rituals related to
+ fire, travel, all
+auspicious deeds.
+13. Poornima (Tithi 15; Full Moon): Sacrificial rituals
+(‘yajnas’), war-related
+pursuits, house building, marriage, sculpting,
+ornaments.
+14. Amavasya (Tithi 30; New Moon): Rituals related to
+ the Pitras (the
+Manes).
+
+<<<PAGE 399>>>
+Prescribed acts for sub-divisions of Tithis
+(a) Nanda: Dance,
+music, agriculture, festivals, house building, garments,
+ornaments, sculpting.
+(b) Bhadra:
+ Marriage, the sacred thread ceremony, travel, ornaments,
+sculpting, artistic
+pursuits, vehicles.
+(c) Jaya:
+ War-related pursuits, house building, medication, agriculture,
+work related to
+weapons, etc.
+(d) Rikta: Already
+mentioned above.
+(e) Poorna: The
+sacred thread ceremony, marriage, travel, propitiation of
+planets, sitting on
+the royal throne.
+Vaara or the Week Day
+The seven days of the week have the seven Grahas from the
+ Sun to
+Saturn as their lords. Specific jobs are prescribed for the seven days.
+(a)Sunday: Coronation, festivities, fire-related
+rituals, commencing medical
+treatment, making weapons, travelling, cattle
+rearing, fighting, work related
+with wood, wool, gold, copper, etc.
+(b)Monday: Work related with silver, pearls, ornaments
+and precious stones,
+sexual indulgence, planting trees, water related deeds,
+agricultural pursuits,
+food and eatables, flowers, song and music, garments,
+milk and curd, yajnas,
+etc.
+(c)Tuesday: Deeds of cruelty, theft, killing, work
+related with fire, weapons
+and poisons, injury, surgery, arrogance,
+imprisonment, coral, treasure, etc.
+(d)Wednesday: Dance, sculpting, music, writing,
+ compilation, learning,
+marriage, warfare, etc.
+(e)Thursday: Religious pursuits, nutrition, auspicious
+deeds, house building,
+acquiring vehicles, travel, medication, wearing
+ornaments, trees, vines, etc.
+(f)Friday: Dance, music, sexual indulgence, decoration,
+ land deals,
+constructing or decorating a bed, garments, shopping, festivals,
+etc.
+(g)Saturday: House building, shifting into a new house,
+spiritual initiation,
+weapons, poisons, hoarding, sinful acts, servility, work
+ which has long
+
+<<<PAGE 400>>>
+lasting effect, etc.
+Use of the Hora
+Whatever has been prescribed for a particular day can also
+be pursued
+during the Hora relevant to the lord of that day.
+Travel and Week day
+Travel must be avoided in certain directions on certain
+days. This is shown
+below:
+Direction
+to be       Week day(s)
+avoided
+1.East                    Monday, Saturday
+2.South               Thursday
+3.West                 Friday, Sunday
+4.North               Tuesday, Wednesday
+Tithi-Vaara combinations
+A combination of Tithis and Vaaras (weekdays) gives
+rise to the following
+types of Tithis.
+(a)Siddha Tithis: Nanda (1, 6, 11) on Friday; Bhadra
+ (2, 7, 12) on
+Wednesday; Jaya (3, 8, 13) on Tuesday; Rikta (4, 9, 14) on
+Saturday; and
+Poorna (5, 10, 15) on Thursday are auspicious and may be
+considered when
+other blemishes exist in the elected moment.
+(b)Dagdha Tithi: Nanda on Sunday, Bhadra on Monday,
+Nanda on Tuesday,
+Jaya on Wednesday, Rikta on Thursday, Bhadra on Friday, and
+Poorna on
+Saturday are inauspicious.
+(c)Krakacha Tithi (or Vaara-Dagdha): A combination of
+ Tithi and Vaara
+totalling to 13 is considered inauspicious. Thus, Sunday (the
+first day) and
+Dwadashi (the 12th Tithi), when co-existing, are bad. Similarly
+Monday (the
+2nd day) and Ekadashi (the 11th Tithi) are bad. Equally so, Tuesday
+and the
+10th, Wednesday and the 9th, Thursday and the 8th, Friday and the 7th,
+and
+Saturday and the 6th, when coinciding are inauspicious.
+Nakshatras or the Constellations
+
+<<<PAGE 401>>>
+The twenty-seven nakshatras constitute another
+ important limb of the
+Panchanga which is essential in electional astrology. The
+various functions
+or aspects appropriate to these Nakshatras are mentioned
+below.
+1. Ashwini: Garments, the sacred thread, shaving,
+ riding, agriculture,
+studying, dealings with women.
+2. Bharani: Digging a well or a pond, poisons, weapons,
+ entering a cave,
+mathematics, cruel deeds.
+3. Krittika: Fire-related pursuits, weapons, war,
+medication, truce, deeds of
+cruelty.
+4. Rohini: All stable deeds (Sthira-karma), marriage,
+ clothes, ornaments,
+horses and elephants, house building.
+5. Mrigashira: House building, travel, elephants,
+horses, camels, marriage,
+ornaments.
+6. Ardra: Flag, war, fort, weaponry, skill in arms,
+truce, an archway.
+7. Punarvasu: House building, shaving, dealing with
+ weapons, ornaments,
+exit, riding.
+8. Pushya: A special Nakshatra which is suitable for
+ all auspicious deeds
+other than marriage.
+9. Ashlesha: Gambling, base acts, lies, quarrels,
+medication, business.
+10. Magha: Agriculture, business, cattle, fighting,
+ hoarding, singing,
+dancing.
+11. The three Poorvas (Poorvaphalguni, P. Ashadha and
+ P. Bhadrapad;
+Nakshatras 11, 20, and 25): Quarrels, poisons, weapons, fire,
+fighting, cruel
+deeds, sale of meat.
+12. The three Uttaras (Uttara-phalguni, U. Ashadha, U.
+ Bhadra-pad;
+Nakshatras 12, 21 and 26): Coronation, house building, marriage,
+the sacred
+thread, entry.
+13. Hasta: Marriage, riding, house building, garments,
+ornaments, shaving,
+coronation.
+14. Chitraa: Entry, clothes, the sacred thread, house
+building, ornaments
+
+<<<PAGE 402>>>
+15. Swati: Marriage, clothes, ornaments, disagreement,
+agriculture, shaving,
+entry, the sacred thread ceremony.
+16. Vishakha: Clothes, ornaments, hoarding, song,
+dance, sculpting, writing.
+17. Anuradha: Entry, marriage, garments, ornaments,
+house building, truce,
+discord, auspicious deeds.
+18. Jyeshtha: Shaving, weapons, business, cattle,
+ water, music, sculpting,
+writing.
+19. Moola: Marriage, agriculture, business, deeds of
+ cruelty, fighting,
+medication, dance, sculpting, weapons, writing.
+20. Shravana (Nakshatra 22): Shaving, riding, the
+sacred thread ceremony,
+medication, travel, entry into a house, repair of an
+old house.
+21. Dhanishtha (Nakshatra 23): The sacred thread
+ ceremony, medication,
+house building, entry into a new house, ornaments,
+riding.
+22. Shatabhisha (Nakshatra 24): Entry into a new house,
+ shaving,
+medication, riding, house building.
+23. Revati (Nakshatra 27): Marriage, ornaments,
+ garments, riding, entry,
+shaving, medication.
+Categories of Nakshatras
+The Nakshatras can be put under several categories as
+under:
+1.Dhruva (Sthira) or fixed: Rohini, the three Uttaras
+(Nakshatras 4, 12, 21,
+26), as well as Sunday.
+These are suitable for such deeds as sowing seeds,
+ pursuit of peace, and
+deeds prescribed under the ‘Mridu’, vide infra. The
+ intention here is to
+achieve a lasting result.
+2.Chara (chala) or movable: Punarvasu, Swati, Shravana,
+ Dhanishtha,
+Satabhisha (Nakshatras 7, 15, 22, 23, 24) and Monday.
+These are suitable for riding, travel, and deeds
+prescribed under the ‘Laghu’,
+vide infra.
+3.Krura (Ugra) or cruel: Bharani, Magha, the three
+Poorvas (Naskshatras 2,
+10, 11, 20, 25), and Tuesday.
+
+<<<PAGE 403>>>
+Suitable for killing, dealing with weapons, poison,
+ fire related pursuits,
+cruelty, and deeds prescribed under the ‘Teekshna’, vide
+infra.
+4.Mishra or ordinary: Krittika, Vishakha (Nakshatras 3
+ and 16), and
+Wednesday.
+Suitable for rituals of fire, pursuits of mixed nature,
+ as well as deeds
+prescribed under the ‘Krura’, vide supra.
+5.Kshipra (Laghu) or agile: Ashwini, Pushya, Hasta,
+Abhijit (nakshatras 1, 8,
+13 and 22; when Abhijit is considered, the total
+number of nakshatras goes
+up to 28), and Thursday.
+Pursuits such as shopping, , sexual act, learning of
+ scriptures, ornaments,
+sculpting, dance, artistic pursuits, and prescriptions
+ for the ‘Chara’, vide
+supra.
+6.Mridu (Maitra) or amiable: Mrigashira, Chitraa,
+ Anuradha, Revati
+(Nakshatras 5, 14, 17 and 27), and Friday.
+Suitable for singing, garments, sexual indulgence,
+friendly acts, ornaments
+and pursuits prescribed under the ‘Dhruva’, vide
+supra.
+7.Teekshna (Daruna) or aggressive: Ardra, Ashlesha,
+ Jyeshtha, Moola
+(nakshatras 6, 9, 18 and 19), and Saturday.
+Suitable for magic, killing, aggression, taming of
+ animals, and deeds
+prescribed under the ‘Krura’, vide supra.
+Directions of Nakshatras
+Nakshatras have the following three categories
+depending upon the direction
+they face.
+1.Adho-mukha (facing downwards): Bharani, Krittika,
+ Ashlesha, Magha,
+Moola, Vishakha and the three Poorvas (i.e., Ashlesha, Moola,
+‘Krura’ and
+‘Mishra’ Nakshatras).
+Suitable for such acts as digging, work on the ground,
+fighting, and cruel
+deeds.
+2.Urdhva-mukha (facing upwards): Rohini, Ardra, Pushya,
+ Shravana,
+Dhanishtha, Shatabhisha and the three Uttaras (i.e., Ardra, Pushya,
+Shravana, Dhanishtha, Shatabhisha and the ‘Dhruva’ Nakshatras).
+
+<<<PAGE 404>>>
+Suitable for coronation, high rise buildings, flag
+hoisting, riding.
+3.Tiryang-mukha (facing forwards): Ashwini, Mrigashira,
+Punarvasu, Hasta,
+Chitra, Swati, Anuradha, Jyeshtha and Revati (i.e., Ashwini,
+ Punarvasu,
+Hasta, Swati, Jyeshtha, and the ‘Mridu’ Nakshatras).
+Suitable for travel, ploughing, planting trees,
+vehicles, business, dealing in
+cattle.
+The Panchaka
+This is a special category of Nakshatras extending from the
+second half
+of Dhanishtha to the end of Revati. This coincides with the
+position of the
+Moon in the signs Kumbha and Meena. During the Panchaka, such
+pursuits
+as cremating the dead, travel to the south, making of cots,
+accumulation of
+grass and wood, and thatching a roof are prohibited.
+Some important combinations involving Nakshatras
+Specific nakshatras falling on specific days give rise
+to certain combinations
+some of which are mentioned below.
+1.Siddha Yoga: Moola on Sunday, Shravana on Monday, U.
+Bhadrapada on
+Tuesday, Krittika on Wednesday, Punarvasu on Thursday, P.
+ Phalguni on
+Friday and Swati on Saturday produce this. This combination is good
+for all
+pursuits.
+2.Amrita Siddhi Yoga: Hasta, Shravana, Ashwini,
+Anuradha, Pushya, Revati,
+and Rohini falling each on the seven days starting
+from Sunday give rise to
+this yoga. It ensures accomplishments.
+3.Sarvartha Siddhi Yoga: Sunday coinciding with
+Ashwini, Pushya, Hasta,
+Moola and the three Uttaras; Monday coinciding with
+Rohini, Mrigashira,
+Pushya, Anuradha and Shravana; Tuesday coinciding with
+Ashwini, Krittika,
+Ashlesha and U. Bhadrapada; Wednesday coinciding with
+Krittika, Rohini,
+Mrigashira, Hasta and Anuradha; Thursday coinciding with
+ Ashwini,
+Punarvasu, Pushya, Anuradha and Revati; Friday coinciding with
+Ashwini,
+Punarvasu, Anuradha, Shravana and Revati; Saturday coinciding with
+Rohini, Swati and Shravana.
+These combinations are good for all pursuits.
+
+<<<PAGE 405>>>
+4.Mrityu Yoga: Anuradha, U. Ashadha, Shatabhisha,
+Ashwini, Mrigashira,
+Ashlesha and Hasta each falling respectively on seven days
+ from Sunday
+onwards produce this yoga. It is an adverse combination, and must
+ be
+particularly avoided in travel.
+The Taara
+Count from the birth nakshatra of a native to the nakshatra
+falling on a
+particular day. Divide by nine. The result is   (1) Janma, (2)
+ Sampata, (3)
+Vipat, (4) Kshema, (5) Pratyari, (6) Sadhaka, (7) Vadha, (8)
+Maitra, and (9)
+Ati-maitra, respectively depending on the remainder being one
+to nine.
+Taaras 1, 2, 4, 6, 8 and 9 are auspicious; 3, 5 and 7 are
+adverse. Taara
+must be considered during the Krishna-paksha, and the Moon
+ during the
+Shukla-paksha.
+The Yogas
+The 27 yogas are either (a) auspicious, when all good
+ undertakings are
+permitted, or (b) inauspicious, when all important pursuits
+must be avoided.
+Vyatipaata and Vaidhriti (yogas 17 and 27) must be
+completely avoided.
+Of Parigha yoga (yoga 19), the first half is to be
+avoided in all pursuits.
+Of Vishkumbha and Vajra (yogas 1 and 15), avoid the
+ beginning three
+Ghatis (1 hour and 12 minutes).
+Of Ati-Ganda and Ganda (yogas 6 and 10), avoid the
+ first six Ghatis (2
+hours and 24 minutes).
+THE KARANAS
+Bhadra
+The Vishti Karana is called as Bhadra. This coincides
+with:
+(a)The first half of the Tithis 8 and 15 of the
+Shukla-paksha.
+(b)The second half of the Tithis 4 and 11 of the
+Shukla-paksha.
+(c)The first half of the Tithis 7 aand 14 of the
+Krishna-paksha.
+(d)The second half of the Tithis 3 and 10 of the
+Krishna-paksha.
+
+<<<PAGE 406>>>
+Bhadra must be generally avoided in all auspicious
+pursuits.
+The Sthira Karanas
+The four sthira or fixed Karanas have their specific
+application.
+(a)Kimstughna: Suited for all auspicious deeds.
+(b)Shakuni: For medication and propitiation of planets.
+(c)Chatushpada: For all pursuits pertaining to cow,
+Brahmin, king and father.
+(d)Naga: For benign pursuits, study, battle.
+The Lagna
+In all Muhurta, the lagna is extremely important. One should
+ensure an
+appropriate lagna for an appropriate objective. In general, the
+kendras and
+trikonas must be occupied by benefics, while the malefics should
+ occupy
+houses 3, 6, and 11. Specific pursuits appropriate to different lagnas
+ are
+briefly hinted at below.
+1.Mesha: Riding, truce, discord, treasure, ornaments,
+battle.
+2.Vrisha: Auspicious deeds, work of a lasting nature,
+entry into a new house,
+agriculture, cattle, business.
+3.Mithuna: Art, science, learning, accomplishment,
+battle, marriage, seeking
+refuge, coronation, purchase and sale of elephants.
+4.Karka: Pond, lake,
+well, canal, bridge, nutrition, writing.
+5.Simha: Business, food grains, shop, agriculture,
+ courageous acts, battle,
+royal pursuits.
+6.Kanya: Learning, sculpting, medicine, ornament,
+auspicious deeds.
+7.Tula: Agriculture, business, vehicle, marriage,
+cattle, utensils.
+8.Vrischika: Pursuits of a lasting nature, service to
+ the king, coronation,
+theft.
+9.Dhanu: Restraint, marriage, sculpting, weapons, acts
+of a fixed nature
+10.Makara: Bridges, canals, weapons, exit, cattle,
+servility.
+11.Kumbha: Agriculture, trade, sculpting, work related
+to water, sea travel,
+weapons.
+
+<<<PAGE 407>>>
+12.Meena: Marriage, coronation, entry, ornaments, water
+reservoir.
+Note: While considering a lagna, an appropriate
+Navamsha lagna must also
+be considered.
+GANDANTA
+Gandanta is a junctional area. It is considered adverse. A
+child born in
+Gandanta is likely to undergo physical suffering. Marriage or
+ other
+auspicious acts, performed during Gandanta are likely to end in disaster.
+The
+Gandanta may be of the following types:
+(a)Nakshatra Gandanta: Nakshatras of Ketu and Mercury
+ (Ashwini,
+Ashlesha, Magha, Jyeshtha, Moola and Revati) constitute the Nakshatra
+gandanta.
+(b)Lagna Gandanta: The last half Ghati (12minutes) of
+Karka, Vrischika and
+Meena lagnas, and the first half a Ghati of Mesha, Simha and
+Dhanu lagnas
+constitute the lagna gandanta.
+(c)Tithi Gandanta: The last one Ghati (24 minutes) of
+the Poorna (Tithis 5,
+10, 15/30) and the first one Ghati of the Nanda (Tithis
+1, 6, 11) constitute the
+Tithi gandanta.
+The Abhijita Muhurta
+One Ghati (24 minutes) on either side of the local noon (or
+ local
+midnight!) is called as the Abhijita muhurta. This time is favourable for
+beginning any work, and must be considered when an appropriate Muhurta
+is not
+available.
+Ashtakavarga in Muhurta
+For individualised results, a native’s Ashtakavarga (see
+Chapter XXX)
+may be considered for selecting a suitable Muhurta. A simple
+method of this
+is to decide on the relevant house, in the horoscope of the
+native, to which
+the required pursuit belongs. Choose a lagna from which the
+relevant house
+is strong in Sarvashtakavarga. For example, one wants to
+purchase a vehicle,
+which is to be seen from the fourth house. Choose a lagna
+from which the
+fourth house has the maximum benefic points in the
+ Sarvashtakavarga.
+
+<<<PAGE 408>>>
+Similarly choose a strong fifth house for education, seventh
+ house for
+partnership, tenth house for profession, etc.
+Note:It will be appreciated that the classical Muhurta is
+ particularly
+applicable to the ancient Indian way of life. Suitable
+ modifications are
+essential if the Muhurta has to be applied in modern context.

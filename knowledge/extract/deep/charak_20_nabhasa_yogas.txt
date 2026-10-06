@@ -1,0 +1,434 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 306-317
+# compiled into: yogas.json (32 nabhasa)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 306>>>
+
+...XX...
+Nabhasa Yogas
+None can grasp Him from above, nor obliquely,
+ nor in the
+middle. There exists no likeness of Him whose name is Great
+Fame.
+Shvetashvatara
+Upanishad IV/19
+Nabhasa yogas are planetary
+configurations which give an overall view
+of a person’s life pattern. They are
+not dependent upon planetary lordships,
+conjunctions or aspects. These yogas
+ must be examined before the
+horoscope is subjected to a detailed analysis. The
+influence of these yogas is
+felt throughout the life of a native. In other
+words, these yogas do not depend
+on any dashas to manifest their results. Rahu
+and Ketu are not included in
+the formation of these yogas.
+There are four major categories of these yogas. Under each
+ major
+category are further divisions, which total to thirty-two yogas. Still
+ finer
+divisions give us 1800 varieties of these yogas. A resume of these yogas
+is
+being given here.
+Major categories of Nabhasa Yogas
+The four categories of Nabhasa Yogas are as under:
+1. Aashraya (i.e., ‘refuge’): There are three Aashraya
+yogas. They depend
+upon the placement of planets in the Chara, the Sthira or
+the Dwiswabhava
+rashis.
+2. Dala (i.e., ‘side’): There are two of them.
+
+<<<PAGE 307>>>
+3. Aakriti (i.e., ‘appearance’): Their number is
+twenty. They are formed by
+the placement of planets in specific arcs of the
+horoscope or in the specific
+areas of the horoscope.
+4. Sankhya (i.e., ‘number’): There are seven of these.
+They depend upon the
+number of houses over which the seven planets are
+distributed.
+The Aashraya Yogas
+The three Aashraya yogas are:
+1. Rajju: All planets in Chara rashis (movable signs). One
+born in this yoga
+is fond of travel, good to look at, visits alien countries
+and has a cruel nature.
+2. Musala: All planets in Sthira rashis (fixed signs).
+ One born in Musala
+yoga is learned, wealthy, proud, famous and of a stable
+nature.
+3. Nala: All planets in Dwiswabhava rashis (mixed
+signs). The native with
+Nala yoga is defective of a limb, very clever, good to
+look at and fond of his
+near and dear ones.
+Comments: Planets represent life force. Their accumulation
+in movable,
+fixed or mixed signs brings appropriate nature of these signs into
+manifestation. When several planets accumulate in movable signs, the
+person
+ acquires a changeable nature, ambition, liking for travel, quick
+decisions and
+greater adaptability. Chart XX-1 has no planets in fixed signs.
+If the lagna is
+also a movable sign, the capacity for mobility is greater. On a
+negative side,
+predominance of planets in movable signs indicates an ever
+changing nature,
+untrustworthiness, fickle mind, inability to persist with one
+thing, and continuous
+struggle.
+
+<<<PAGE 308>>>
+Several planets accumulating in fixed signs lead to
+ stability, fixity,
+durability, determination and trustworthiness. Chart XX-2
+shows no planets
+in movable signs and a predominant concentration in fixed
+signs. There is a
+tendancy to stay longer in one place, and to develop contacts
+ or acquire
+property. The negative aspect of this yoga indicates obstinacy,
+inability to
+take quick decisions and difficulty in adjusting to change. As far
+ as dual
+signs are concerned, their first half (0°-15°) must be considered as
+ fixed
+(being adjacent to a fixed sign) and the second half (15°-30°) as movable
+(being adjacent to a movable sign).
+The Dala Yogas
+They are:
+1. Maala or Srak: All benefics in three kendras and
+malefics not in kendras.
+Maala yoga ensures constant enjoyment, vehicles, good
+food and association
+with pretty women.
+2. Sarpa: All malefics in three kendras and benefics
+elsewhere. This leads to
+miseries, dependence, penury and wickedness.
+Comments:
+(i)     The Moon
+should be left out of the formation of  Dala yogas. In
+other words, it should
+neither be treated as a benefic nor a malefic.
+(ii)       The kendras
+ are the pillars of a horoscope. Benefics located in
+kendras give very good
+results while malefics produce adverse results.
+Benefics located in houses
+ other than kendras and trikonas are wasted
+benefics.
+
+<<<PAGE 309>>>
+The Aakriti Yogas
+Of the twenty Aakriti yogas, the planetary dispositions
+can be divided into
+two main groups:
+I. The angular group, where different yogas result from
+ specific angular
+disposition of planets. Nine yogas fall under this group.
+II. The arc group, where the yogas result from planets
+occupying specific
+arcs (of houses) in a horoscope. This group consists of
+eleven yogas.
+I. The Angular Group
+This group may be further
+sub-divided into three subgroups as follows:
+A. The Kendra (quadrangular)
+ disposition: The yogas falling under this
+group are:
+1.Gada: All planets
+ in two adjacent kendras. The native is wealthy,
+learned and ever engaged in
+earning money.
+2.Shakata: All
+planets in houses one and seven. This leads to ill health,
+penury and earning
+only through hard labour.
+3.Pakshi (or
+ Vihaga): All planets located in houses four and ten. The
+native with this yoga
+ is servile, vagrant, quarrelsome and a message-
+bearer.
+4.Vajra: Benefics
+in houses one and seven; malefics in houses four and
+ten. One born in this yoga
+ is good in looks, brave, and happy during
+early life and old age.
+5.Yava: Malefics in
+houses one and seven, benefics in houses four and
+ten. Such a native is
+consistent in nature, wealthy, charitable, and happy
+in the middle portion of
+his life.
+6.Kamala: All
+planets occupying the four kendras. The native with this
+yoga acquires wide
+renown, long life, virtuous qualities and royal status.
+Comments: Strong
+kendras elevate the status of an individual. In Chart
+XX-3, an exalted Venus
+has strayed into the ninth house; the remaining
+planets occupy three kendras.
+Rahu and Ketu are not considered in these
+yogas. In the actual analysis of the
+ chart, the nature of planets, their
+
+<<<PAGE 310>>>
+ownership and such other qualities as
+debilitation, exaltation, etc., will
+have to be considered.
+B. The Non-kendra disposition:
+7.Vaapi: All
+planets falling in houses other than the four kendras. Such a
+native is engaged
+in accumulating wealth, has small but lasting comforts,
+tends to hoard his
+wealth and possessions.
+Comments: In Chart
+XX-4, all the kendras are unoccupied. There is an
+accumulation of planets (as
+ well as planetary aspects) on the second
+house. The stress here is on
+accumulation and hoarding.
+According to several
+authors, Vaapi yoga has two variants:
+(i)     All planets
+falling in Panaphara (successant) houses; and
+(ii)    All planets
+falling in Apoklima (cadent) houses.
+C. The Trikona (Trinal) disposition:
+
+<<<PAGE 311>>>
+This includes:
+8.Shringataka: All
+planets located in trikonas (i.e., houses 1, 5 and 9).
+The native is blessed
+with comforts, fond of combat, and wealthy.
+9.Hala: All planets
+located in trinal houses
+(a) 2, 6 and 10; or
+(b) 3, 7 and 11; or
+(c) 4, 8 and 12.
+The native is
+servile, poor, engaged in agriculture, and miserable.
+Comments: The four
+trinal groups of houses have specific functions of
+Dharma or virtuous deeds
+(houses 1, 5 and 9), Artha or material pursuits
+(houses 2, 6 and 10), Kama or
+sensual pleasures (houses 3, 7 and 11),
+and Moksha or emancipation (houses 4, 8
+and 12). The results attributed
+to the above yogas must be applied in the light
+of inherent characteristics
+of the relevant trinal group of houses.
+II. The Arc Group
+A. The Short Arc group: This includes:
+1.Yoopa: All
+planets located in houses one to four. The native is engaged
+in sacrificial
+rituals, blessed with home comforts, valorous, and pursues
+his worldly duties.
+Comments: The first
+four houses are concerned with the self, wealth and
+possessions, courage, and
+home. The stress here is on stability at home,
+prosperity, and personal efforts
+toward material and spiritual pursuits.
+2.Shara: All
+planets in houses four to seven. The result is a native who is
+cruel, wicked, a
+hunter, a jailor, and engaged in making arrows.
+Comments: The four
+ houses involved in this yoga are concerned with
+home, investment, intellect,
+ crime, theft, sex, etc. There is earning of
+wealth through a greater movement
+away from home as compared to the
+preceding yoga.
+3.Shakti: All
+planets occupying the houses seven to ten. The native with
+this yoga is poor,
+wicked, lazy, long-lived, stable, good to look at, and
+tormented by failures.
+
+<<<PAGE 312>>>
+Comments: This yoga
+involves the houses concerned with sex, obstacles,
+virtue and activity. The
+ involvement of the eighth house involves
+obstacles, failures, transgression of
+norms, hidden talents and ill-health.
+Being part of the visible zodiac (houses
+ 7 to 1), it involves public
+exposure, fame, recognition, notoriety, and a
+ non-conformist attitude.
+Such natives are more outgoing.
+4.Danda: All planets
+located in houses ten to one. Such a native is bereft
+of all comforts, devoid
+of near and dear ones, poor, servile and rejected.
+Comments: The
+ houses involved in this yoga involve work, earnings,
+spending, emancipation,
+ distant residence, spiritual activity, etc. This
+yoga is considered adverse for
+material possessions and comforts.
+B. The Long Arc Group: This includes:
+5.Nauka: Planets
+ continuously occupying houses one to seven. This
+makes the native famous,
+ miserly, greedy, ambitious, earning through
+water-related pursuits.
+Comments: Involves
+the invisible half of the zodiac. Not all qualities and
+deficiencies of the
+native receive recognition.
+6.Koota: Planets
+ continuously occupying the houses four to ten. The
+result is an untruthful
+native, a jailor, cruel, inclined to live in a fort or on
+hilly areas.
+7.Chhatra: Planets
+continuously occupying houses seven to one. Such a
+native looks after his
+dependents, is kind hearted, wise, long-lived, and
+comfortable in the early and
+concluding portions of his life.
+Comments: This
+involves the complete visible half of the horoscope.
+8.Dhanusha (Chaapa):
+ Planets continuously occupying houses ten to
+four. The native is brave, a
+jailor, a thief, a wanderer, and happy in the
+middle portion of his life.
+9.Ardha-Chandra:
+This yoga is formed when the seven planets occupy
+seven contiguous houses
+ starting from houses other than the kendras.
+Eight such yogas are formed as the
+ planets occupy the seven houses
+starting from the 2nd, the 3rd, the 5th, the
+6th, the 8th, the 9th, the 11th
+or the 12th house. The native is a commander of
+an army, good in looks,
+wealthy, brave, and honoured by the ruler.
+
+<<<PAGE 313>>>
+Comments: In all
+ the above yogas, the interaction of planets, houses,
+house lords, and signs is
+of essence.
+C. The Interrupted Arc Group: This consists of:
+10.Chakra: Planets
+in six alternate houses starting from the lagna (i.e.,
+the six odd houses). The
+native is a king or his equivalent.
+11.Samudra: Planets
+ in six alternate houses starting from the second
+house (i.e., the six even houses).
+ The native is wealthy, blessed with
+physical pleasures, likeable, virtuous and
+stable of mind.
+Comments: The preceding
+ two yogas stress the importance of planets
+placed in alternate houses, mutually
+3/11 or 5/9 in position. Chart XX-5
+shows a disposition of most of the planets
+in alternate houses. Although
+it is not forming an exact Chakra yoga, such a
+disposition of planets is
+considered highly favourable.. The native of this
+chart is a high ranking
+administrative official.
+The Sankhya Yogas
+There are seven of these yogas which depend upon the
+number of rashis the
+seven planes occupy in a horoscope.
+1.Veena: The seven planets occupying seven different
+rashis in a chart. The
+native is fond of music and dance, skillful, wealthy, a
+leader.
+2.Daama (or Daamani): Planets distributed over six
+ rashis. The native is
+liberal, renowned, wealthy, learned, and earns through
+legitimate means.
+3.Paasha: Planets distributed over five rashis. The
+native has a large family,
+is adept in work, skillful in earning wealth,
+impolite, crafty.
+4.Kedaara: Planets located in four rashis in a chart.
+Such a native does good
+to many, is truthful and wealthy, and resorts to
+agriculture.
+5.Shoola: All planets restricted to three rashis only.
+The native is lazy, cruel,
+socially rejected, injured and scarred, a fighter.
+6.Yuga: Planets restricted to two rashis only. The
+ native is poor, heretic,
+socially rejected, devoid of mother, father and
+virtue.
+7.Gola: Planets confined to one rashi. The native with
+ such a yoga is a
+destitute, illiterate, wicked, miserable, ever wandering.
+
+<<<PAGE 314>>>
+Comments: The Sankhya yogas are concerned with the
+ distribution of
+planets in the horoscope. When the planets are distributed over
+ a larger
+number of houses, there is greater balance and a wider range of
+interests that
+a native pursues.
+As the planets get restricted to fewer and fewer houses, the
+ life force
+signified by the planets is concentrated in specific areas. This
+ causes
+strengthening of certain houses but an overall imbalance and weakness.
+Summary
+The Nabhasa yogas indicate a native’s pattern of life,
+his inclinations, strong
+points and weaknesses. They give results all through
+ his life and do not
+depend on any dashas.
+By definition, yogas belonging to one group may
+ coincide with yogas of
+another group. In such situations certain rules must be
+followed. These are
+hinted at below.
+1. Sankhya yogas are applicable only if other yogas
+mentioned herein do not
+obtain simultaneously in a horoscopic chart. For
+example, if there are seven
+planets distributed in seven contiguous or
+alternate houses, one of the Aakriti
+yogas will be formed as also the Sankhya
+ yoga. In such a situation, the
+results as described for the particular Aakriti
+yoga will manifest.
+2. When Aashraya yogas coincide with an Aakriti yoga,
+again the Aakriti
+yoga takes precedence.
+3. The Sankhya yogas called Kedaara, Shoola and Yuga
+become inoperative
+if they coincide at the same time with an Aashraya yoga.
+However, if Gola
+yoga coincides with an Aashraya yoga, the former remains
+operative and the
+latter becomes inoperative.
+The formation and the order of the Nabhasa Yogas as
+ mentioned in the
+classical works is briefly shown in Table XX-1.
+
+<<<PAGE 315>>>
+
+<<<PAGE 316>>>
+
+<<<PAGE 317>>>

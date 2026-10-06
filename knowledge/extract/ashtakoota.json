@@ -1,0 +1,163 @@
+{
+  "engine": "PocketAstro",
+  "ashtakoota_max": 36,
+  "score_bands": {
+    "excellent": [24, 36],
+    "mediocre": [12, 23.99],
+    "adverse": [0, 11.99]
+  },
+  "varna": {
+    "max": 1,
+    "by_moon_sign_number": {
+      "1": "kshatriya",
+      "2": "vaishya",
+      "3": "shudra",
+      "4": "brahmin",
+      "5": "kshatriya",
+      "6": "vaishya",
+      "7": "shudra",
+      "8": "brahmin",
+      "9": "kshatriya",
+      "10": "vaishya",
+      "11": "shudra",
+      "12": "brahmin"
+    },
+    "rank": { "brahmin": 4, "kshatriya": 3, "vaishya": 2, "shudra": 1 },
+    "rule": "1 point if groom varna rank >= bride varna rank, else 0"
+  },
+  "nadi": {
+    "max": 8,
+    "groups": {
+      "adya": ["Ashwini", "Ardra", "Punarvasu", "Uttara Phalguni", "Hasta", "Jyeshtha", "Mula", "Shatabhisha", "Purva Bhadrapada"],
+      "madhya": ["Bharani", "Mrigashira", "Pushya", "Purva Phalguni", "Chitra", "Anuradha", "Purva Ashadha", "Dhanishta", "Uttara Bhadrapada"],
+      "antya": ["Krittika", "Rohini", "Ashlesha", "Magha", "Swati", "Vishakha", "Uttara Ashadha", "Shravana", "Revati"]
+    },
+    "rule": "8 if different nadi, 0 if same; cancel if same rashi different nakshatra or same nakshatra different rashi",
+    "source": "Charak XXVII"
+  },
+  "gana": {
+    "max": 6,
+    "groups": {
+      "deva": ["Ashwini", "Mrigashira", "Punarvasu", "Pushya", "Hasta", "Swati", "Anuradha", "Shravana", "Revati"],
+      "manushya": ["Bharani", "Rohini", "Ardra", "Purva Phalguni", "Uttara Phalguni", "Purva Ashadha", "Uttara Ashadha", "Purva Bhadrapada", "Uttara Bhadrapada"],
+      "rakshasa": ["Krittika", "Ashlesha", "Magha", "Chitra", "Vishakha", "Jyeshtha", "Mula", "Dhanishta", "Shatabhisha"]
+    },
+    "points": {
+      "deva-deva": 6,
+      "manushya-manushya": 6,
+      "rakshasa-rakshasa": 6,
+      "deva-manushya": 5,
+      "manushya-deva": 5,
+      "manushya-rakshasa": 1,
+      "rakshasa-manushya": 1,
+      "deva-rakshasa": 0,
+      "rakshasa-deva": 0
+    }
+  },
+  "taara": {
+    "max": 3,
+    "malefic_remainders": [3, 5, 7],
+    "rule": "Count nakshatras inclusive from A to B, remainder after /9. Malefic remainder 0 else 1.5. Sum both directions."
+  },
+  "bhakoot": {
+    "max": 7,
+    "zero_distances": ["2/12", "6/8", "5/9"],
+    "rule": "7 unless moon signs are 2/12, 6/8 or 5/9 apart. Mitigate 2/12 and 6/8 if rashi lords are friends. Same rashi different nakshatra is favourable."
+  },
+  "graha_maitri": {
+    "max": 5,
+    "natural_friends": {
+      "Sun": ["Moon", "Mars", "Jupiter"],
+      "Moon": ["Sun", "Mercury"],
+      "Mars": ["Sun", "Moon", "Jupiter"],
+      "Mercury": ["Sun", "Venus"],
+      "Jupiter": ["Sun", "Moon", "Mars"],
+      "Venus": ["Mercury", "Saturn"],
+      "Saturn": ["Mercury", "Venus"]
+    },
+    "natural_enemies": {
+      "Sun": ["Venus", "Saturn"],
+      "Moon": [],
+      "Mars": ["Mercury"],
+      "Mercury": ["Moon"],
+      "Jupiter": ["Mercury", "Venus"],
+      "Venus": ["Sun", "Moon"],
+      "Saturn": ["Sun", "Moon", "Mars"]
+    },
+    "points": {
+      "friend-friend_or_same": 5,
+      "friend-neutral": 4,
+      "neutral-neutral": 3,
+      "friend-enemy": 1,
+      "neutral-enemy": 0.5,
+      "enemy-enemy": 0
+    }
+  },
+  "yoni": {
+    "max": 4,
+    "by_nakshatra": {
+      "Ashwini": "Horse",
+      "Shatabhisha": "Horse",
+      "Bharani": "Elephant",
+      "Revati": "Elephant",
+      "Krittika": "Goat",
+      "Pushya": "Goat",
+      "Rohini": "Serpent",
+      "Mrigashira": "Serpent",
+      "Ardra": "Dog",
+      "Mula": "Dog",
+      "Punarvasu": "Cat",
+      "Ashlesha": "Cat",
+      "Magha": "Rat",
+      "Purva Phalguni": "Rat",
+      "Uttara Phalguni": "Cow",
+      "Uttara Bhadrapada": "Cow",
+      "Hasta": "Buffalo",
+      "Swati": "Buffalo",
+      "Chitra": "Tiger",
+      "Vishakha": "Tiger",
+      "Anuradha": "Deer",
+      "Jyeshtha": "Deer",
+      "Purva Ashadha": "Monkey",
+      "Shravana": "Monkey",
+      "Uttara Ashadha": "Mongoose",
+      "Dhanishta": "Lion",
+      "Purva Bhadrapada": "Lion"
+    },
+    "mortal_enemies": [
+      ["Horse", "Buffalo"],
+      ["Elephant", "Lion"],
+      ["Goat", "Monkey"],
+      ["Serpent", "Mongoose"],
+      ["Dog", "Deer"],
+      ["Cat", "Rat"],
+      ["Cow", "Tiger"]
+    ],
+    "points": {
+      "same": 4,
+      "friendly": 3,
+      "neutral": 2,
+      "unfriendly": 1,
+      "mortal_enemy": 0
+    }
+  },
+  "mangal_dosha": {
+    "houses_from_lagna_or_moon": [1, 4, 7, 8, 12],
+    "cancellations": [
+      "both charts have mangal dosha",
+      "other chart has Sun/Saturn/Rahu/Ketu in 1/4/7/8/12",
+      "optional: Mars in Leo or Aquarius (Levacy school toggle)"
+    ],
+    "language": "Never predict death of spouse. Heat on 4th/7th/8th."
+  },
+  "koota_weights": [
+    { "name": "Varna", "max": 1 },
+    { "name": "Vashya", "max": 2 },
+    { "name": "Taara", "max": 3 },
+    { "name": "Yoni", "max": 4 },
+    { "name": "Graha-maitri", "max": 5 },
+    { "name": "Gana", "max": 6 },
+    { "name": "Bhakoot", "max": 7 },
+    { "name": "Nadi", "max": 8 }
+  ]
+}

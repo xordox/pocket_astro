@@ -1,0 +1,424 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 385-394
+# compiled into: not yet runtime
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 385>>>
+
+...XXV...
+Varshaphala or Annual Horoscopy
+The year is verily the lord of all creatures.
+Of him there are
+two courses, the Southern and the Northern.
+Prashna Upanishad I/9
+Vedic astrology abounds in
+ techniques. The Vedic method of casting
+annual horoscopes, also called as
+ Varshaphala or the Tajika system, is a
+brilliant method of applying the transit
+of planets for a particular year of life
+of a native. By this is signified that
+the Varshaphala is essentially a system of
+transit. It must be applied in
+association with the natal chart. The promise
+indicated in a natal chart attains
+ fruition during the year indicated by an
+appropriate annual chart. The annual
+ chart also provides more detailed
+information about an event. This branch of
+astrology, therefore, provides an
+additional predictive tool in the hands of an
+astrologer.
+Basis of Vedic Annual Chart
+The Varshaphala is Sun-based. That is to say that it
+considers the position
+of the Sun in the zodiac as of prime importance. The
+annual chart for a given
+year of the native is cast for a time when the Sun
+attains the same longitude
+as it had at the time of his birth. After each
+sidereal year, the Sun would
+return to its original position. This time of
+solar return is thus important. An
+annual horoscopic chart is also known as the
+solar return chart.
+Solar cycle
+We are aware that a sidereal year consists of three hundred
+and sixty five
+days, six hours, nine minutes and some ten seconds. This means
+ that the
+
+<<<PAGE 386>>>
+Sun, after this duration of time, attains its original longitude in
+the zodiac. If
+we add the above time duration to the time of birth of a native,
+we get a time
+next year when the Sun would regain its original longitude.
+Adding the same
+time duration each year, we get successive moments of solar
+ return for
+successive years of life of a native. The moment of solar return is
+also called
+as Varsha-pravesha. A horoscope cast for Varsha-pravesha derived
+ for a
+particular year of life of the native is called an annual chart or a
+Varsha-
+kundali.
+If we remove the completed (i.e., fifty two) weeks from the
+time duration
+of a sidereal year (i.e., 365 days 6 hours 9 minutes 10 seconds),
+we get a
+remainder of 1 day 6 hours 9 minutes and 10 seconds. If this is added
+to the
+weekday of birth of a native, we get the week day next year when the
+solar
+return occurs. Multiples of this value, added to the day and time of
+birth,
+help us obtain the weekday of the solar return or Varsha-pravesha for
+any
+specified year of life. This value of 1d 6h 9m 10s is a constant for one
+year
+and is called as Dhruvanka.
+When the Dhruvanka for one year is added to the day and time
+of birth, it
+yields the Varshapravesha for the second year. When Dhruvanka for
+ two
+years is added instead, it yields the Varshapravesha for the third year.
+Thus,
+the Dhruvanka for any number of completed years of life, when added to
+the
+day and time of birth, yields the Varshapravesha for a subsequent year of
+life. The weekday of Varshapravesha as obtained above generally falls on the
+calendar birthday of the native, or may fall a day before or a day after the
+actual birthday.
+A horoscope cast for the weekday as worked out above,
+ falling on or
+around a native’s natural birthday, yields the annual chart.
+Casting an Annual Chart
+Constructing an annual chart involves the following
+steps:
+1.Note down the birth details: Name, time of birth,
+date of birth, place of
+birth and the day of birth.
+2.Cast a birth chart for the native and work out the
+ dashas as required.
+Particularly work out the dasha, Antaradasha and
+Pratyantaradasha for the
+year for which the annual chart is being considered.
+
+<<<PAGE 387>>>
+3.Decide on the particular calender year for which the
+annual chart is to be
+constructed. This may be considered as the current year.
+4.Find the completed years of life by subtracting the
+year of birth from the
+current year.
+5.Add the Dhruvanka for the completed years (see Table
+ XXV-1) to the
+weekday (consider ‘0’ for Sunday, ‘1’ for Monday, etc.) and time
+of birth.
+This gives the Varshapravesha.
+6.Cast a horoscope (ascendant, planets, etc.) in the
+ usual manner for the
+Varshapravesha obtained above. This is the annual
+horoscope for the current
+year.
+Note: It will be noted that the longitude of the Sun as
+obtained for the
+above Varshapravesha may differ from the Sun’s longitude in
+the birth chart
+by a few minutes. This difference is due to the disturbance of
+the longitude
+of the Sun by the planets and must be ignored.
+An Example
+
+<<<PAGE 388>>>
+Annual chart for the year commencing February 1993, for a
+native born
+on Thursday, February 14, 1957 at 10:25am (IST) at Delhi (Lat. 28°N39';
+Long. 077°E13').
+1.Completed years:
+1993 - 1957 = 36 years
+The annual chart will thus be for the 37th year of the
+native.
+2.Day and time of birth:
+4d (i.e., Thursday) 10h 25m 0s (IST)
+3.Dhruvanka for 36 years = 3d 5h 29m 50s
+This value is obtained from the Dhruvanka table (Table
+XXV-1) by adding
+Dhruvankas for one year to those for 35 years.
+4.Varshapravesha
+Removing the multiple(s) of seven, we get  0d 15h 54m
+50s
+This gives us the Varshapravesha for the 37th year of
+the native as falling on
+Sunday at 15h 54m 50s (IST).
+For the year 1993, Sunday nearest to the native’s
+calender birthday falls on
+Feb 14, i.e., his original date of birth. Thus, the
+ Varshapravesha for the
+native’s 37th year of life falls on Feb 14, 1993
+(Sunday) at 15h 54m 50s
+(IST) for Delhi.
+5.A chart cast for this time would be thus:
+
+<<<PAGE 389>>>
+The Muntha
+A special feature of the annual horoscope is the location of
+the Muntha in
+the chart. The Muntha is essentially the birth lagna in transit.
+At the time of
+birth, the Muntha is at the lagna. Every year it moves by one
+sign. When the
+second year of life begins, the Muntha shifts to the sign
+identical with the
+second house of the birth chart. During the third year, it
+moves to the sign
+falling in the third house of the annual chart. After twelve
+ years it again
+returns to the sign it occupied at birth.
+The position of Muntha is obtained thus:
+(No. of completed years + lagna sign in birth chart) ÷
+12
+The remainder gives the sign in which the Muntha is
+placed in the relevant
+annual chart.
+
+<<<PAGE 390>>>
+In case of the native, whose annual chart has been
+calculated above, the
+lagna in the birth chart is Mesha. In his case the Muntha
+for the 37th year
+would be calculated thus:
+36 (i.e., completed years) + 1 (i.e., Mesha), divided by 12
+gives us 37 ÷
+12. This yields a remainder of one. The Muntha thus falls in
+Mesha, the first
+sign.
+In the annual chart, the sign Mesha falls in the tenth
+house. The Muntha
+is thus marked in the 10th house of the annual chart.
+The Muntha is supposed to be particularly auspicious in houses
+9, 10 and
+11. In the houses 1, 2, 3 and 5 it yields good results during the
+year through
+the personal efforts of the native. The Muntha is particularly
+inauspicious in
+houses 4, 6, 7, 8 and 12 of the annual chart. The lord of the
+Muntha (i.e., the
+lord of the sign in which Muntha is located) too yields
+adverse results in
+houses 4, 6, 7, 8 and 12. Elsewhere it proves beneficial.
+Other special features of the Annual Chart
+The annual chart has some distinct features when compared
+ with the
+natal chart. These may be briefly mentioned below.
+1.Planetary aspects and relations: There are three
+ types of aspects in an
+annual chart. They are:
+(a) Friendly,
+between planets placed mutually in houses 3, 5, 9 and 11
+from each other.
+(b) Inimical,
+between planets placed mutually in houses 1 (conjunction),
+4, 7 (opposition)
+and 10 from each other.
+(c) Neutral (or no
+aspect), between planets placed mutually in houses 2,
+6, 8 and 12 from each
+other.
+Depending upon the above aspects, the planets become
+friends, enemies and
+neutrals (or equals) of each other.
+2.Dashas: There are several dasha systems which are
+employed in the annual
+chart. Of these, the Vimshotttari Mudda dasha
+(equivalent to the Vimshottari
+dasha of the natal chart) and the Yogini dasha
+ (equivalent to the Yogini
+dasha of the natal chart) are popular. The natural
+cycles of these dashas ( 120
+
+<<<PAGE 391>>>
+years in case of the Vimshottari and 36 years in
+ case of the Yogini) are
+reduced each to a period of one year to render them
+applicable to the annual
+chart.
+3.The year lord: The lord of the year, also known as
+the Varshesha, is chosen
+from amongst the planets according to the standard
+ rules of annual
+horoscopy. The Varshesha is generally the strongest planet
+which influences
+the lagna by association or aspect.
+The system of Varshaphala has an elaborate method of determining
+the
+strength of planets. The various results accrue from an annual chart
+depending upon the inherent strength of the planets.
+4.Yogas: Annual horoscopy employs sixteen different
+ yogas. All major
+predictions from the annual chart are primarily based on an
+understanding
+and application of the various Tajika yogas. The important ones
+among these
+make use of the actual degrees of longitude of planets, their
+relative motions,
+their orbs of influence as well as the presence or absence of
+mutual aspects.
+5.Sahams: Another important feature of the Varshaphala
+is the determination
+of Sahams. A Saham is a mathematical point obtained by a
+manipulation of
+the longitudes of planets and the cusps of houses (esp. the ascendant).
+There
+is a Saham for each particular aspect of a person, like his brothers,
+mother,
+father, children, educatiuon, marriage, illness, travel, profession,
+ business,
+death and the like. Sahams produce their results depending upon their
+strength, weakness and disposition.
+Clues to Interpretation of an Annual Chart
+It must be stressed at the outset that an anual chart must
+ be judged
+conjointly with the birth chart. It is the promise of the birth chart
+ that is
+confirmed in the annual chart. The latter in itself cannot give what
+the natal
+chart does not promise. The annual chart must be employed to have a
+more
+comprehensive view of the events indicated by the natal chart.
+1.Position of the birth lagna: The sign identical with
+the lagna in the birth
+chart must be observed for its placement in the annual
+chart. The house in
+which the birth lagna falls in the annual chart gets
+activated.
+
+<<<PAGE 392>>>
+2.Varsha lagna and the birth chart: The house in the
+ birth chart which
+becomes the lagna in the annual chart also gets activated.
+3.Dwijanma year: The year when the birth lagna recurs
+in the annual chart
+has a special significance. Such a year is called the
+Dwijanma year and is
+considered particularly adverse. It turns more malignant
+as:
+(a) The cusp of the
+annual chart lagna falls within one degree of the cusp
+of the birth lagna; or
+(b) The birth
+nakshatra too recurs in the annual chart (i.e., the nakshatra
+of the Moon in
+the birth chart and the natal chart is identical); or
+(c) The Moon and
+Jupiter respectively occupy the 6th and the 8th houses
+in the annual chart.
+The malefic influence of the Dwijanma year wanes as:
+(a) The cusp of the
+annual ascendant is further removed from the cusp of
+the birth chart; or
+(b) The lagna lord,
+the Muntha lord and the lord of the year happen to be
+strong; or
+(c) Both the Moon
+and Jupiter are strong and well placed; or
+(d) The natural
+ benefics occupy kendras and trikonas, and natural
+malefics occupy houses 3, 6
+and 11.
+4.Importance of the 6th and 8th houses: When the sign
+identical with the 6th
+or the 8th house of the birth chart becomes the
+ascendant in the annual chart,
+it proves inauspicious, and particularly adverse
+for health.
+5.Natal lagna lord in the annual chart: A benefic
+position of the natal lagna
+lord in the annual chart ensures a comfortable
+ year. An adverse location
+indicates otherwise.
+6.Malefics in the birth chart: A malefic occupying a
+kendra in the birth chart,
+happening to be occupying the lagna in the annual
+ chart causes adverse
+results. Benefics in such situations produce good results.
+7.Income and loss: Malefics in the second house,
+particularly when the lagna
+happens to be a movable sign, lead to loss of
+money. A weak planet in the
+eleventh house causes loss of wealth.
+
+<<<PAGE 393>>>
+8.Progeny: Jupiter as lord of the year occupying the
+ fifth or the eleventh
+house causes childbirth during the year. The sign
+occupied by Jupiter in the
+natal chart, happening to become the lagna in the
+annual chart, also promises
+childbirth under a favourable dasha in the birth
+chart.
+Strong lagna lord and the fifth lord together in the fifth
+house indicate
+childbirth. Retrograde Mars in the fifth house is adverse for
+progeny.
+9.Ill health: Some combinations for ill health during a
+given year, besides
+those already mentioned, are:
+(a) A direct
+malefic in the twelfth house from the lagna and a retrograde
+malefic in the
+second house.
+(b) The sign
+occupied by Saturn in the birth chart happening to become
+the lagna of the
+annual chart, and under inimical aspect of Saturn.
+(c) Lagna lord of
+the annual chart having a direct malefic in its twelfth
+house and a retrograde
+one in its second house.
+(d) Placement of
+the lord of the year in the eighth house, in association
+with Mars.
+(e) A malefic in
+the birth lagna falling in the eighth house in the annual
+chart.
+(f) A combust lagna
+lord of the birth chart placed in the eighth house in
+the annual chart.
+(g) Afflicted Mars
+or Saturn in the tenth house.
+10.Marriage: Involvement of the lagna lord with the
+seventh lord, or that of
+Venus with Mars, in appropriate Tajika yogas indicate
+marriage if the same
+event is indicated also in the birth chart. Placement of a
+strong fifth lord in
+the seventh house of the annual chart also indicates
+similar results.
+11.Profession: Placement of the Sun in the tenth house
+of the annual chart is
+a highly auspicious factor in relation to profession. If
+the Sun is strong, it
+leads to regaining of the lost status. A strong Sun in
+the eleventh house gives
+a promise for royal favours.
+Malefics in general produce benefic results when placed in
+ the tenth
+house, particularly when they are strong and under benefic influence.
+
+<<<PAGE 394>>>
+12.Relative importance of the birth chart and the
+ annual chart: The birth
+chart always takes precedence over the annual chart.
+The annual chart acts as
+a very superior transit chart which holds sway over a
+given year of life of a
+native. It explains more clearly or vividly what the
+ natal chart indicates,
+remaining always within the confines of the natal chart.
+For a more elaborate account of annual horoscopy, the reader
+is referred
+to the A Textbook of Varshaphala by the author.

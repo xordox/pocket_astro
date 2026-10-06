@@ -1,0 +1,2346 @@
+# source: _OceanofPDF.com_Houses_-_Deborah_Houlding.pdf
+# pages: 1-80
+# compiled into: houses.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 1>>>
+
+<<<PAGE 2>>>
+THE HOUSES
+TEMPLES of the SKY
+by Deborah Houlding
+
+<<<PAGE 3>>>
+Republished in the UK in 2006 by
+The Wessex Astrologer Ltd
+PO Box 2751
+Bournemouth
+BH5 2AZ
+England
+www.wessexastrologer.com
+ISBN 190240520X
+© Deborah Houlding 2006
+1st edition ISBN 1898503699 published in 1998 by Ascella Publications
+A copy of this book is available in the British Library
+All rights reserved. No part of this work may be used or reproduced in any
+manner without written permission. A reviewer may quote brief passages.
+
+<<<PAGE 4>>>
+“Demonstrate the old houses to me, explain their number; prove that there can be neither
+fewer nor more … show me undoubted and striking examples of their influence”
+Johannes Kepler, letter to correspondent
+Quoted in Kepler’s Astrology: Excerpts, selected, translated and edited by
+Ken Negus (Eucopia Publications, Princeton, NJ, 1987).
+
+<<<PAGE 5>>>
+“A common form for a figure of the heavens at a nativity”
+Demonstration of the houses in a traditional square chart; reproduced from
+The Book of Instruction in the Elements of the Art of Astrology, by Al
+Biruni, 1029; translated by R. Ramsay Wright (Luzac & Co, London,
+1934).
+
+<<<PAGE 6>>>
+CONTENTS
+Foreword by Robert Hand
+Introduction: (Wheels and Signs - Theories on House Division)
+Preliminary Guide to Divisions of the Celestial Sphere
+1 Introducing the Houses: An Historical Overview
+2 The Angles: Significance of Egyptian Solar Philosophy
+3 Aspects & Gates: The 2nd/8th House Axis
+4 Planetary Joys: 5th/11th House Axis
+5 The King & Queen: The 3rd/9th House Axis
+6 Cadency & Decline: The 6th/12th House Axis
+7 House Rulerships in Practice
+8 Technical Basis & the Inherent Difficulties of House Division
+9 Ptolemy’s Powerful Places
+Appendix A - Glossary of Traditional and Technical Terms
+Appendix B - The Planetary Hours
+Appendix C - Al Biruni’s Advice on Finding the Hour of Birth
+Works Cited
+General Index
+House Rulership Index
+
+<<<PAGE 7>>>
+FOREWORD
+BY ROBERT HAND
+Houses are one of the most problematical components of modern astrology,
+being at the same time among the most fundamental and controversial
+components. Everyone who has any knowledge of modern astrology knows
+that debate has long raged as to what is the proper method for computing
+the cusps of houses. We have a wondrous diversity of methods, Koch,
+Campanus, Placidus, Regiomontanus (also known as the ‘Rational’ system),
+Equal House, Meridian, Morinus, and many, many more. The precise
+location of cusps is so terribly important because so many techniques
+depend upon knowing exactly where a cusp is. Yet modern astrology seems
+no closer than ever to solving the problem of what is the correct method of
+house division. This I think we all know.
+What is not so clear is that the problem with houses is not limited to
+how they are derived astronomically and mathematically. We have an
+increasing problem with the significations of the houses as well. Especially
+in the last few decades there has begun a serious drift in the meanings of the
+houses. We are coming to disagree not only on the proper method of
+determining house cusps but also on what the houses signify. In this book
+Deborah Houlding deals mainly with this second problem, the drift of the
+symbolism.
+It is not difficult to understand how this situation has come about. I,
+myself, did not use houses at all in my early work because their
+interpretation and the arrangement of their symbolism seemed whimsical
+and arbitrary. Yet even the significations of the houses as they have come to
+us from 19th century astrology do suggest underlying patterns. I dealt with
+a number of these in my own book, Horoscope Symbols. For example,
+broadly speaking, the houses above the horizon are more social and
+collective, while those below the horizon are more personal and individual;
+houses opposite each other seem to be two aspects of a single category of
+life; houses on the left (rising) side of the chart seem to be more related to
+
+<<<PAGE 8>>>
+an individual’s action while houses on the right (setting) side seem to be
+more related to an individual’s experience; and so forth.
+However, none of these patterns hold for every house in every part of
+the chart. Every effort to rationalize the meanings of the houses and create
+some kind of coherent theoretical foundation fails because of one or more
+houses that do not fit a particular scheme.
+Therefore, the great temptation is to ‘adjust’ the meanings of the houses
+so that those houses which do not ‘fit’ can be made to fit. I proposed several
+such adjustments myself in Horoscope Symbols (suggestions which I am a
+bit more reluctant to make now). And it may ultimately turn out that we do
+have to make such adjustments. But this should only be after we have
+thoroughly understood the evolution of the significations of the houses
+throughout history.
+But while I have had access to many of the older books in the original
+languages and in translation, I realize that most students of astrology have
+not had this access. What is needed is a discussion of the issues of house
+interpretation along with a good summary of the evolution of their
+significations through time. This has not been available up until now. This
+book fills that need. Here we have an excellent critique of the tendencies of
+moderns to improvise upon and alter the tradition without paying enough
+heed to what the tradition actually says; and the bulk of the book deals with
+the history of the significations of each of the pairs of houses with the
+variant significations laid out for all to see. It may ultimately be true that
+modern astrology has to go its own way in sorting out the houses. But let us
+at least do so, if we must, knowing that we have exhausted the possibilities
+of the old traditions. With this book I believe that there is no excuse for
+ignoring the history of the tradition. I would hope that even those
+astrologers who have no special interest in traditional astrology, ie, the
+astrology of the time before 1700, who might want to attack the problem of
+the houses, will not do so until they have consulted this book or done
+equivalent research on their own.
+
+<<<PAGE 9>>>
+INTRODUCTION
+WHEELS & SIGNS: THEORIES ON HOUSE
+MEANINGS
+In any geniture every sign is affected by the sky’s division into temples; position governs
+the stars, and endows them with the power to benefit or harm.
+Manilius, (c. 10 AD) Astronomica, II v.856
+Since classical times houses have been one of the four essential components
+of astrology. Along with planets, signs and aspects, their 12-fold division of
+the celestial sphere forms a fundamental building block in astrological
+interpretation. Yet curiously, despite all the books that speak of the essential
+message of house meanings, very little exists in contemporary literature to
+foster a true appreciation of that essence by illustrating where the meanings
+come from. The origin of their symbolism is poorly understood, and little
+effort has been made by modern astrologers to investigate and define their
+meaning.
+It appears a tradition has built up concerning the nature of the houses
+with little or no thought as to how they acquired their traditional meanings.
+How do we know what they mean? Most of us learn their interpretation
+early in our studies, remembering parrot-fashion a regime of house
+meanings that we commit to memory and integrate into practice. We learn
+that the 2nd house represents wealth and finances – why? Pregnancy
+belongs to the 5th house – why? Imprisonment to the 12th house, death to
+the 8th, travel to the 9th – again, it’s important we ask the question, why?
+Yet if such questions are put to astrologers the response generally ranges
+from a bemused “no idea”, to “because that’s what the signs mean”, or
+“perhaps it’s numerological?”. Few of us have taken the trouble to explore
+the origin and development of the houses and fewer still have perceived this
+as an issue to be written about.
+
+<<<PAGE 10>>>
+Most astrologers would agree that a refined astrological practice
+depends upon firm understanding of first principles. Where we have no
+clear idea of the basis of house meanings, we grapple to incorporate new
+rulerships. As a horary astrologer I am frequently consulted by students
+who don’t know which house to draw signification from because their
+reasoning is confused, and also by experienced astrologers who struggle to
+decide upon the relevant houses for charts dealing with unusual situations.
+Knowledge of the core concepts eliminates this doubt, making it clear and
+obvious where any element of life, traditional or modern, fits into the house
+division scheme. Herein lies the key to successful astrology: a confident
+and unambiguous application of its symbolism.
+Within the contemporary theories of house meanings, there are
+presently only two that are given any real credibility. The first is a rather
+glib assumption that the houses are associated with, and take their meaning
+from, the signs of the zodiac. This is the point that Ralph Holden makes in
+his book, The Elements of House Division, where he claims:
+“Both [houses and signs] simply represent two ways of looking at the same concept
+which is inherent in the root idea of the sign itself, be it Aries, Taurus, Gemini, or any of
+the others…. Thus, the basic meaning of the first house is neither ‘appearance,
+disposition, outlook, carriage, health, vitality or inherent condition’, but only ‘Aries’.
+This in the end contains all that needs to be said.”1
+Although modern natal astrology allows a considerable exchange of
+meaning between houses and signs, the suggestion that houses derive their
+meanings from signs is clearly contradicted in traditional texts, where a
+much stronger distinction is readily apparent. At best this theory is an over-
+simplification; at worst it blurs the edges of two quite separate astrological
+tools resulting in slack symbolism, so vague as to be of little practical use.
+Distortion creeps in, weakening the power of the symbolism and
+gaining common acceptance because of its ease of use. Financial matters
+and usable resources are no longer restricted to the 2nd house, but through
+association ‘Taurus rules wealth’, and by extension Venus is used as a
+natural significator for money. Those of us who have absorbed these ideas
+without question should pause for reflection before modern deviants branch
+off at further tangents and we lose the connection with first principles
+entirely. Traditional rulerships will fall by the wayside as they become
+inexplicable through the sign-originated theory. They will lose value by
+
+<<<PAGE 11>>>
+being misunderstood, and are likely to become replaced by inappropriate
+suggestions that are only valid in such simplistic terms. If we are not
+careful, then everything that properly belongs to the 5th house, but which
+doesn’t tally with the symbolism of Leo, will be written out for convenience
+sake; and then we may as well not trouble ourselves with the meanings that
+derive from spatial qualities at all.
+Let us review this ‘2nd house = Taurus = Venus = money’ theme as an
+example. In ancient and traditional texts the sign of Taurus is not
+descriptive of wealth; nor would a sign like Pisces be descriptive of
+imprisonment. Signs and houses are treated as entirely separate concepts,
+each with a specific role: that of the signs being to offer descriptive
+information on the planets; that of the houses being to locate their influence
+and offer a sense of empowerment or incapacity. Ancient astrologers
+referred to the symbolism of Taurus in a descriptive manner, understanding
+that it was earthy, cold, dry, melancholic, solid, feminine, nocturnal, fixed,
+and bestial. Being a sign related to the fruitful period of spring, it was
+conceived as productive, moderate and fertile. Taurus rules the throat and
+typically depicts someone of broad forehead, large mouth, dark hair and a
+strong neck and shoulders. It was understood to display stubborn, obstinate
+characteristics, being somewhat clumsy with a simple intellect and a fixed
+mental attitude, much like the creature used to symbolise it. The notion that
+Taurus governs finance is a modern idea, derived from the sign’s
+identification with the 2nd house, not the other way around.
+Try to find a traditional reference to the planet Venus representing trade
+or money. You won’t find one. If you consider the inherent nature of Venus
+it is not a commercial planet at all. Venus seeks luxury yes, and all the
+pleasant things that we associate with self-indulgence; but this soft, round-
+edged planet has no hard-head for business matters. She may inspire us to
+spend what we cannot afford on pleasant things, because Venus will
+sacrifice all for a feel-good factor, but being the planet of self-indulgence
+and enjoyment of luxuries does not make her the planet of money or
+commerce. Traditionally that honour belongs to Mercury, the natural
+significator of trade, barter, exchange; and of course, purses, treasuries,
+coins and all the associated artefacts of currency.
+As a further example of where this indiscriminate ‘mixing up and
+swapping about’ can lead, consider the 11th house, the house of friendship
+and hope. So undisciplined have we become in our application of basic
+
+<<<PAGE 12>>>
+doctrine, that one feels almost obliged to overlay the meaning of Aquarius
+onto that of the 11th house – a situation which introduces serious distortions
+if Uranus is thrown into the pot too. All of these are taught to have a similar
+meaning, each of which can apply to the other. In the popular astrology
+‘cook-book’ The New Complete Astrologer,2 Uranus has among its list of
+descriptions, “humanitarian, friendly, and kind”; while Aquarius is
+described as “unpredictable, eccentric, rebellious, contrary, tactless and
+perverse”3 – an exchange of symbolism from planet to sign that gets
+absorbed into house meanings via such common misconceptions as the 11th
+house ruling earthquakes, astrology and social rebellion. Modern rulerships
+such as these will be challenged here on the basis that their foundation is
+unproven and unreliable. We need not assume that the popularity of
+principles repeated within modern textbooks is an indication of merit, since
+publishers will often promote simplification as a means to broaden their
+market. Tying house meanings into sign symbolism may be very useful for
+those whose natural curiosity will only stretch to three fundamental
+principles instead of four, but being able to interpret similar loosened
+qualities from various elements within the chart only leads to an endless
+array of weakened symbolism which allows the imagination to conceive of
+anything it wishes wherever it likes. This merely detracts from the depth
+and detail that a more restricted and systemised approach to house
+meanings can deliver.
+A return to first principles would force us to admit that it is Uranus
+which more closely fits the description of “unpredictable, eccentric,
+rebellious, contrary, tactless and perverse”; allowing us to restore to
+Aquarius its reputation as a ‘humane’ sign, renowned for its grace, tact and
+sociability. The humane signs – the air signs – are the proud owners of a
+remarkable capacity for intellectual communication and civil, rational
+thought; unlike the animalistic signs of the zodiac, who are more inclined to
+mulish, rebellious behaviour by lacking the social and intellectual skills that
+air-signs possess. Through a return to first principles we might also admit
+that no planet is less likely to display the traits of ‘kindness’ and
+‘friendliness’ than Uranus; which from its first astrological observances was
+reported to be ‘evil’ in influence and divisive in its effects. Uranus causes
+separation, and whilst it releases tensions, it sometimes does so in a manner
+that is so abrupt as to appear shocking, cruel and violent. Through a return
+to first principles we might finally accept that the planets signify, the signs
+
+<<<PAGE 13>>>
+describe and the houses locate and empower; that they do so far more
+effectively when each is given its own; and that in terms of explaining the
+origin of house meanings Mr Holden could not be more wrong – the first
+house has everything to do with “appearance, disposition, outlook, carriage,
+health and vitality”, and much less to do with Aries than most of us
+imagine.
+Where Holden’s theory is founded upon an element of truth, is that a
+relationship between sign and house meanings seems always to have
+existed in anatomical matters, such that the 1st house and Aries both relate
+to the head, the 2nd house and Taurus to the throat, and so on. For this
+reason the 17th century astrologer William Lilly referred to the signs as ‘co-
+significators’ for the houses, but the planets he identified as co-significators
+had nothing to do with sign rulerships. Within his work associations
+between signs and houses were given no particular emphasis beyond their
+joint rulership over similar parts of the body. The assumption that they
+could be equated in a more general sense seems to have taken root during
+the popularisation of astrology in the 17th century and has been slowly
+infiltrating our reasoning ever since. Renaissance astrologers who took their
+study seriously objected to this distortion of astrological principles and saw
+a need for caution, as evident by the tone of Nicholas Culpeper, when he
+wrote in 1658:
+“Some authors hold an opinion that the signs carry the same signification in order that
+the houses of heaven do, and Aries should signify life, Taurus estate, Gemini brethren
+and short journeys, you know the rest. Truly, my own opinion is that many authors
+invented whimsies, and when they had done, set them down to posterity for Truth; who
+taking them up without trial, cloathed tradition in plush and left poor reason to go in
+rags. An author said so; ergo ‘tis true, right or wrong’.”4
+Irrespective of whether astrologers find it effective to apply sign
+meanings to houses in this way, the historical fact remains that house
+meanings did not evolve out of the signs, but that the signs were adapted
+and broadened out to incorporate the meaning of the houses which
+correspond with their natural zodiacal order. As we will see through a study
+of traditional rulerships and underlying principles, the houses acquired their
+essential meanings through the incorporation of other, much more
+significant, symbolic influences. They have a powerful philosophy of their
+own which we would do well to recognise if we are to rid the chart of vague
+
+<<<PAGE 14>>>
+and imprecise possibilities of meaning and discover a focus on reliable and
+specific details that have a more direct and practical value.
+The second commonly accepted theory on the origin of house meanings
+claim they are the result of a primary ‘cycle of life’ that begins with the
+ascendant (our emergence) and concludes with the 12th house, where we
+dissolve back into the unconscious reservoir from whence we came. This
+has a particularly popular appeal as representing a psychological or spiritual
+truth, and is lax enough to offer fertile ground for an active imagination.
+This theory has been especially championed by astrologers who favour a
+loose approach to symbolism because it only really works if one is able to
+translate the traditional rulerships into an entirely new perspective. Howard
+Sasportas was a prominent proponent of this view in his book The Twelve
+Houses,5 where he claimed that the houses represent a wheel of life which
+corresponds with their anticlockwise numeration. This seems to work with
+the first few houses, and we are told that we “emerge, gain consciousness
+and take physical form” at the ascendant; “encounter our sense of values
+and recognise what we own” in the 2nd house, develop “ego-
+consciousness” in the 3rd, and so forth (see diagram on following page).
+Thereafter the logic of the theory starts to drift apart, and it offers no
+rational explanation as to why the 8th house of death should precede the
+10th house of career and aspirations; or why the 5th house of pregnancy and
+children should precede the 7th house of partnership and marriage.
+Attempts to reconcile tradition and contemporary use are clearly contrived,
+and points in favour are supported by creative suggestions rather than
+historical research and study. Again, the theory relies heavily on the use of
+modern rulerships which find no verification in traditional practice,
+perpetrating an ever increasing distortion of the traditional house meanings
+in order to make the hypothesis fit.
+The observable failure of the prevalent contemporary theories is that they
+have chosen to ignore the interpretations that were considered conventional
+and mainstream throughout the history of astrology. To perfect the fit we
+must ‘evolve’ our understanding of the meanings into something which is
+often quite the opposite of what astrologers in any previous age would have
+allowed. The ‘loss, death and grief’ of the 8th house has undergone a quick
+and dramatic evolutionary journey to become ‘transformation’ and through
+
+<<<PAGE 15>>>
+that ‘sexual creativity’; so that the traditional sense of decay is lost and a
+powerful expression of new life is found in its place. Rather than attempting
+to unravel the basis of house symbolism by considering its origin,
+development and traditional application, it has seemed easier to change the
+data to suit the explanation of it. But it simply is not possible to understand
+the principles embedded into house meanings without making an earnest
+attempt to explore the symbolic perspective they evolved out of. In this it is
+essential that we approach the subject, not through the mind of a 20th
+century astro-psychoanalyst, but with recognition of the philosophical and
+cultural outlook of the civilisations that developed them: the ancient
+civilisations, where a powerful understanding of universal and cosmic law
+was steeped in myth, the value of which we are only now beginning to
+appreciate. In doing so, we not only deepen our practical knowledge of their
+meaning and essential signification, but we also explore the profound
+insight by which the ancients saw the journey of life mirrored by celestial
+patterns and cycles.
+
+<<<PAGE 16>>>
+The purpose of this book then, is to illustrate that none of the current
+theories on signs and psychological wheels can be regarded as historically
+correct, and that neither do they offer a full and reliable insight into the
+‘fundamentals’ of house meanings which the astrologer relies upon in
+practical application. Its aim is to recapture the strength of the traditional
+perspective, where the astronomical and symbolic appreciation of spatial
+qualities is invested into the very core of our art, used daily in our
+interpretation of house meanings, yet so seldom receiving our reflective
+attention and deep consideration.
+
+<<<PAGE 17>>>
+PRELIMINARY GUIDE TO DIVISIONS OF
+THE CELESTIAL SPHERE
+Readers new to traditional techniques may find the following account of
+definitions and divisions helpful. These are explored in greater detail
+throughout the book. Any other traditional terms employed are explained as
+they arise and defined in the Glossary (Appendix A) for easy reference.
+The Hemispheres
+The celestial sphere is divided into two hemispheres by the horizon:
+Above the earth: 7th, 8th, 9th, 10th, 11th, 12th – planets in these houses are capable of
+being seen above the horizon. At a general level their influence is considered to be more
+active, forceful and outwardly expressed (or social). The 10th house, being associated
+with the midheaven, is particularly termed ‘above the earth’.
+This hemisphere is known as the ‘diurnal hemisphere’ (diurnal meaning ‘of the
+quality of the day’ and being similar in principle to masculinity in suggesting a direct
+outpouring of energy and an expressive influence).
+Under the earth: 1st, 2nd, 3rd, 4th, 5th, 6th – planets in these houses are not capable of
+being seen and lie beneath the horizon. At a general level their influence is more passive,
+subtle, hidden, and related to private experience. The 4th house, being associated with
+the lower midheaven, is particularly termed ‘under the earth’.
+
+<<<PAGE 18>>>
+This hemisphere is known as the ‘nocturnal hemisphere’ (nocturnal meaning ‘of the
+quality of the night’ and being similar in principle to femininity in suggesting a retiring
+energy and an impressive influence).
+The sphere is also divided into two hemispheres by the meridian:
+Rising: 1st, 2nd, 3rd, 10th, 11th, 12th – as the celestial sphere appears to rotate around
+the apparently stationary viewpoint of the observer in its daily revolution, planets in
+these houses are rising up towards the midheaven, which represents the highest point in
+their daily traverse of the sky. Generally their influence is more vigorous and related to
+personal, self-initiated activity. The 1st house, being associated with the ascendant, is
+particularly termed ‘rising’.
+This hemisphere is known as the ‘oriental hemisphere’ (oriental meaning ‘eastern’)
+because planets rise over the horizon in the east. (There is also an ‘oriental quarter’ – see
+below.) Being associated with newly-risen planets, the definition of planets as oriental is
+indicative of youth, dynamism and renewed stores of energy.
+Setting: 4th, 5th, 6th, 7th, 8th, 9th – planets in these houses have passed their highest
+point and are now declining towards the lower midheaven, which represents the lowest
+point in their daily traverse of the sky. At a general level their influence is considered to
+be weaker, more destructive/hostile, and related to experience that involves or is
+instigated by someone else. The 7th house, being associated with the descendant, is
+particularly termed ‘setting’.
+This hemisphere is known as the ‘occidental hemisphere’ (occidental meaning
+‘western’) because planets set beneath the horizon in the west. (There is also an
+‘occidental quarter’ – see below.) Being associated with decline and the completion of
+visibility, the definition of planets as occidental is indicative of ageing, lack of power
+and depleted energy.
+
+<<<PAGE 19>>>
+The Quarters
+The division of the celestial sphere by the horizon and meridian give four
+equal quadrants or ‘quarters’. Each has its own quality and ‘humour’ which
+unites the daily cycle of planets rising and setting over the angles with the
+annual cycle of the seasons and the ‘ages of man’.
+The influence of the ‘quarters’ acts only as an underlay to house
+meanings but familiarity with the following principles will be useful when
+following the arguments presented in this book.
+The sanguine quarter: rises from the ascendant to the midheaven, embracing the 10th,
+11th and 12th house. It is termed ‘eastern’ (or oriental) because it begins with the
+ascendant which cuts the ecliptic in the east. It is classified as ‘masculine’ and associated
+with the act of rising upwards, and therefore symbolically linked to new life, active
+growth and projects or people in their infancy. In traditional predictive technique planets
+found in this quarter relate to young people or hasten the effects of timing.1 Active
+growth and increase are also attributed to the season of spring and the health-giving
+sanguine humour which equates to the element of air. In keeping with its humour this
+quarter is defined as ‘warming and moistening’ in the influence it imparts to the planets.
+The choleric quarter: declines from midheaven to the descendant, embracing the 7th,
+8th and 9th house. It is termed ‘southern’ (or meridional) because it begins with the
+midheaven which cuts the ecliptic in the south.2 It is classified as ‘feminine’ and
+although declining towards the descendant is still within the diurnal hemisphere and
+therefore symbolically linked to activity, open expression and the period between youth
+and maturity. Being associated with the full flourish of life it is related to summer and
+
+<<<PAGE 20>>>
+the heat-giving choleric humour which equates to the element of fire. In keeping with its
+humour it is defined as ‘hot and dry’.
+The phlegmatic quarter: declines from the descendant to the lower midheaven,
+embracing the 4th, 5th and 6th house. It is termed ‘western’ (or occidental) because it
+begins with the descendant which cuts the ecliptic in the west. It is classified as
+‘masculine’ although, being associated with the period of life that stretches from
+maturity to old age, it is related to autumn and the eliminating phlegmatic humour which
+equates to the element of water. It is thus defined as ‘cold and wet’ in influence.
+The melancholic quarter: rises from the lower midheaven to the ascendant, embracing
+the 1st, 2nd and 3rd house. It is ‘northern’ because it begins with the IC which cuts the
+ecliptic in the north. It is classified as ‘feminine’ and relates to the period of old age
+(some say the period after death or before birth), through which it is associated with
+winter and the binding melancholic humour which equates to the element of earth. It is
+‘cold and dry’ in influence.
+Angularity
+From the above it can be seen that the angles are the defining influence
+upon the qualities attached to spatial divisions. Proximity of the houses to
+the angles and their classification into ‘angular’, ‘succedent’ and ‘cadent’
+represents a central tenet of interpretation.
+Angular houses: 1st, 4th, 7th & 10th – the most powerful houses where the influence of
+the planets is especially strong; so called because they are associated with the angles of
+the chart.
+Succedent houses: 2nd, 5th, 8th & 11th – houses with an intermediate degree of
+strength; so called because they are rising up (and therefore succeeding) to the positions
+of the angular houses by the diurnal revolution of the heavenly sphere.
+
+<<<PAGE 21>>>
+Cadent houses: 3rd, 6th, 9th & 12th – the least powerful houses where the influence of
+the planets is considered weak and exhausted; so called because they are falling away
+from the angles by the diurnal revolution of the heavenly sphere (the Latin term cadent
+means ‘falling’). That is, planets in the 3rd house have already passed through the 4th
+house – where their influence was effective and strong – and are now far removed from
+the next angle (the ascendant) which draws them towards it.
+Virtues of the Houses
+Although there are minor variations according to different authorities, the
+order in which the houses are said to increase the efficiency of planetary
+effects are as follows:
+1st - 10th - 7th - 4th - 11th - 5th - 9th - 3rd - 2nd - 8th - 6th - 12th
+Planets in the 1st, 10th are 7th house are therefore noticeably forceful in expression;
+those in the 8th, 6th or 12th house are weak.
+Houses of Joy
+Each of the seven visible planets is linked to a specific house where its
+influence is especially strong. Planets are said to ‘rejoice’ in these places
+because the house offers a celestial environment that is appropriate,
+supportative and in keeping with the natural influence of that planet.
+
+<<<PAGE 22>>>
+1
+INTRODUCING THE HOUSES:
+AN HISTORICAL OVERVIEW
+Mark the power of the temples: through them revolves the entire procession of the
+zodiac, which draws from them their laws and lends to them its own; the planets too,
+modify the various influences of the temples whenever they occupy realms not their own
+and sojourn in an alien place.
+Manilius, (c. 10 AD) Astronomica, II v.960
+Debate continues as to when astrology began to evolve as a formalised
+study of the sky. No doubt observation of the Sun, Moon and stars has held
+our attention since the dawn of human comprehension, but the oldest
+detailed records we possess of astrology being practised with some
+semblance of organisation are the Venus Tablets of Ammisaduqa, written in
+Babylon around 1600 BC. Some scholars believe the texts are copies of
+earlier ones made during the reign of the Babylonian king Sargon of Agade
+(2371-2230 BC), who is said to have employed astrologers to nominate the
+most fortuitous times for his projects. This is roughly the period during
+which the Egyptian pyramids were constructed, and it is worth considering
+that both of these ancient civilizations demonstrated mathematical and
+astronomical refinement that was unparalleled in Europe until 3000 years
+later.
+However, contrary to what was once the prevalent view that the ancient
+Egyptians actively employed and developed the astrology that became the
+legacy of the Hellenistic world, there is little evidence to demonstrate that
+some of the techniques used by classical astrologers were also employed by
+Egyptian astrologers prior to the 4th century BC. Although the ancient
+Egyptians had an astute awareness of celestial cycles and events, (much of
+their religion and mythology was sky-based and there is a large body of
+evidence to demonstrate the encoding of astrological symbolism into the
+construction of monuments and temples), their emphasis fell more heavily
+upon the constellations, and they were apparently less concerned with
+
+<<<PAGE 23>>>
+systematic, detailed planetary observations of the standard found in ancient
+Mesopotamia.
+With the ancient Mesopotamians we have a more direct verification of
+the use of original astrological techniques that have filtered through to
+modern use. Their astrology was observational in nature and interpreted in a
+manner similar to the techniques of hepatoscopy: a very ancient divinatory
+practice that is well attested from the old Babylonian period (1900-1600
+BC). Here the liver of a sacrificial animal was studied and meaning drawn
+from the shape, form, colour, distinction, direction, moisture content,
+clarity, curvature, location and number of blemishes and marks. A similar
+perspective applied to the sky was the basis of astrology: the interpretation
+of a star or planet was derived from its colour, luminosity, speed, location in
+the heavenly sphere and general physical appearance. Planetary location
+was related to the four cardinal points and described in terms of lying east,
+west, north or south; high or low; to the left or right. Each location had its
+own significance: one Babylonian rule was “what is right is mine, what is
+left is of the enemy”. Similarly east was considered a good, familiar
+position, while the direction west was associated with hostility and enemies.
+The gods of earth and nature were associated with the south, and the
+infernal gods were associated with the north. The direction north-west was
+the most inauspicious direction of all.1
+Around 1000 BC detailed star catalogues were compiled in
+Mesopotamia, and from the middle of the 6th century BC we have evidence
+of the zodiac being introduced as a way of refining the measurement of
+planetary positions. We lack an indication that houses were in use at this
+time, and firm evidence of this does not appear until shortly before the
+dawn of the Christian era.
+
+<<<PAGE 24>>>
+The diagram above is reproduced from an illustration of ‘the division of
+sacred place’ presented in Jack Lindsay’s Origins of Astrology (p.18). It
+depicts a liver-model derived from the ancient Mesopotamian tradition.
+Within the 16 sections are noted the names of various gods who offer
+rulership over the matters associated with the divisions. Lindsay notes
+that they:
+“had a strongly developed system of heaven-earth correspondences, with
+orientations and divisions of space given a fundamental importance … Orientation
+was determined by the four cardinal points joined by two intersecting straight lines:
+the north-south line called the cardo (a word of pre-Latin origin) and the east-west
+line the decumanus.”
+Most authorities believe that houses were developed at about the same
+time that the ascendant began to be marked upon charts, our first example
+
+<<<PAGE 25>>>
+of which dates to around 4 AD.2 It should be borne in mind, however, that
+the common practice of committing charts to perishable papyrus, and the
+fact that only two similar charts have been discovered from before this date,
+makes this information of dubious reliability. We know that the eastern
+horizon had been marked out by a particular star or constellation long
+before the use of zodiacal degrees, and we also know that the
+Mesopotamian culture placed great emphasis on the orientation and division
+of space within all of its divinatory techniques. The fundamental reliance
+upon the rising and setting of stars over the horizon leaves us with no doubt
+that the cardinal points have always been the pivotal supports for
+astrological interpretation, and never more so than in the astrology of the
+ancients where the events of most significance were witnessed around them.
+This is especially evident in Egyptian cosmology where the ‘two horizons’
+are frequently referenced, as are the four cardinal points – each falling
+under the protection of its own associated god, and holding great
+significance in all matters relating to life and death. It would be logical to
+consider that some kind of structured division of the heavens was being
+used long before the date to which we can trace remaining evidence, both
+for astronomical observation and for associated mystical and symbolic
+purposes.
+Within examples of a similar approach to spatial analysis found in liver
+divination, there are notable variations to what we later see in astrological
+house division, principally in the number of divisions, and the attributes and
+gods ascribed to them. However, consistency remains in the basic principles
+attached to spatial qualities and orientations such as left and right and east
+and west. The inherent qualities of these are the same as those understood
+by the Egyptians, the Pythagoreans, and all of the significant ancient world
+philosophies; where east/right is associated with diurnal, masculine
+qualities and left/west is regarded as nocturnal and feminine.
+The techniques employed in early liver divination demonstrate this
+universal understanding. The symbolic must at some level relate to the
+physical, and the consistency exists because the meanings attached to
+directions are determined by meteorological influences that dictate the
+nature of our physical environment. Fundamentally they rest upon the
+shifting cycles of light and dark which creates the extremes of day and night
+and summer and winter, and draws association with polarities such as
+activity and receptivity, growth and decay. Hence the symbolic appreciation
+
+<<<PAGE 26>>>
+of light and colour, shape and number, and speed and direction can be
+witnessed as an unbroken tradition that underpins all ancient divinatory
+practices and which also supports the astrological philosophy of aspects and
+planetary meanings. The specific relevance of locations and orientations are
+considered further in the following chapter, and examined through the
+perspective of Egyptian mysticism. They undoubtedly represent the most
+important foundation of qualities attached to cardinal directions, upon
+which the specific meanings of each house developed.
+Whilst the question of how much the ancient Egyptians directly
+established the roots of the western astrological tradition remains a
+controversial subject, we can at least be sure that their outlook on
+directional qualities mirrored that of the Mesopotamians and other early
+civilisations. We can also be sure that this well established and universal
+perspective created the primary basis upon which the later developments of
+Hellenistic astrology arose. By 331 BC Alexander the Great had conquered
+most of Asia Minor, Syria, Egypt and Mesopotamia, engulfing the entire
+region and making it all part of the flourishing Greek empire. Many priestly
+colleges along the Euphrates river valley were dissolved by the invasions,
+forcing priests to trade their esoteric knowledge westwards. The Greeks set
+up important centres of learning at Athens, Babylon, and Alexandria, (the
+city founded at the mouth of the Nile by Alexander the Great), and here the
+ancient philosophies were to have a direct impact upon each other, creating
+a cross-cultural intellectual pool from which the future development of
+science, of which astrology was seen as integral, was nourished.
+With the collapse of Mesopotamia, the conquering Greeks salvaged
+many of her metaphysical and scientific advances, merged them with those
+of the Egyptians, and added their own insights to create a philosophical
+package which drew the wisdom of the East into the heritage of the modern
+western world. Alexandria in particular became an important area for the
+development of astrology, mainly due to its huge library, which extended to
+500,000 manuscript rolls. Scholars were free to study there indefinitely
+supported by royal funds, a tradition which was upheld when the city later
+fell to the rule of Rome. Many distinguished astrological scholars, including
+Ptolemy and Vettius Valens, lived and studied there, and it was at
+Alexandria in Egypt that most of the existing astrological data was collated,
+re-evaluated, and re-circulated. This was done with a great desire to retain
+
+<<<PAGE 27>>>
+the sacred mystical principles by which the older civilisation of Egypt had
+masked its scientific secrets and had risen to such magnificent heights.
+Around 150 BC the work bearing the names of the mythical Nechepso
+and Petosiris was produced in Alexandria, a treatise to which many
+astrological doctrines claim an origin. A further compilation of ancient texts
+concerning astrology, magic and alchemy was the Hermetica, written in
+Alexandria around 100 AD. At this time the Greek god Hermes, who had
+never previously been associated with learning or philosophy, was favoured
+with all the attributes of Thoth of the Egyptians and Nabu, the Babylonian
+god of divination and knowledge who was represented by the planet
+Mercury. Being worshipped across the three cultures as the god of learning
+and wisdom, Hermes became revered as ‘Thrice-great Hermes’ – the name
+also reflecting the belief that a god should be invoked three times. The
+Hermetica is reputed to have been based upon the teachings of Thoth, but it
+actually contains much less of ancient Egyptian origin than was once
+supposed and is clearly influenced by Graeco-Roman ideas. The
+willingness of the early authors to ascribe it to the Egyptians is assumed to
+be a mark of the respect afforded to this ancient civilisation and an
+indication of how keen the Greeks were to incorporate existing Egyptian
+mysticism into their own philosophical studies.
+Regardless of arguments concerning at what stage and to what extent
+the Egyptians contributed to astrological philosophy, there is a need to
+recognise that many of the principles of traditional astrology, (such as use
+of the terms, faces, planetary hours, combustion, via combusta, and so
+forth), are a legacy of their world-view. In the next chapter we will see that
+the same may be said about the early origins of house meanings.
+Firm evidence for the use of houses in chart judgements has been dated
+to 22 BC, with the earliest extant book to describe their meaning being the
+Astronomica of Manilius, written in Latin around 10 AD. Manilius displays
+enough confidence in his description of house meanings to suggest that he
+was relaying a current consensus of opinion rather than newly invented
+technique, whilst his general referral to the mythological beliefs of the older
+civilisations allows for the credible theory that house meanings were
+established under the influence of Alexandrian study. If so, an apt place to
+begin a search for their underlying principles would naturally take us to a
+consideration of ancient Egyptian symbolism.
+
+<<<PAGE 28>>>
+2
+THE ANGLES: SIGNIFICANCE OF
+EGYPTIAN
+SOLAR PHILOSOPHY
+The third cardinal, which on the same level as the Earth holds the shining dawn, where
+the stars first rise, where day returns and divides times into hours, is for this reason
+called the Horoscope, and it declines a foreign name, taking pleasure in its own. Within
+its domain lies the arbitrament of life and the formation of character.
+Manilius, (c. 10 AD) Astronomica, II v.830
+The Egyptians were strong believers in reincarnation and considered
+physical death to be merely a transformative process within the ongoing
+cycle of life. They perceived the Sun’s daily passage as a journey by which
+the Sun-god passed through the cycle of death and rebirth each day: dying
+in the evening at sunset to be born anew each morning at sunrise.
+Just as the visible death of the Sun, Moon and stars occurred as they fell
+under the horizon in the west, the Egyptians also believed that when the
+soul left the body upon human death that too was pulled towards the
+western horizon and followed the course of the stars. Consequently the
+western horizon assumed a mythological connection with all aspects of
+death, decline, weakness and retreat. The west was known as Amentat
+meaning ‘the place of rest’, ‘death’ or ‘the portal of Duat’, and in reflection
+of this belief nearly all the pyramids and royal tombs are located on the
+Nile’s western bank. Conversely, the east was associated with beginnings
+and the renewal of life-force. Ancient Egyptian illustrations of the Sun’s
+passage across the sky frequently depict the Sun god ageing as the day
+wears on, or travelling in different boats and taking the form of different
+gods for each part of the journey: Khepri (whose name means ‘beginnings’)
+in the morning, Ra (‘radiance’) at noon and Atum (‘completed’) or
+Amun/Amen (‘hidden’) in the evening.
+
+<<<PAGE 29>>>
+Duat was the Egyptian name for the underworld. It formed the hidden
+hemisphere beneath the Earth which reunited west with east. As the Sun-
+god continued his journey through the underworld, his cycle of
+transformation was completed in the centre of Duat: the nadir of the
+heavens, which it reached in the middle of the night. Here the completed
+Sun-god gave rise to a new manifestation and was transformed into a
+developing infant, ready to be born again at sunrise.
+Associated with this belief, various superstitions and folk customs
+throughout the world link the cardinal direction of east with life and vitality,
+south with power and fruition; west with death; and north with underworld
+mythology. In Medieval Britain for example, places of execution were
+generally located to the west of the city, with graves oriented eastwards to
+
+<<<PAGE 30>>>
+face the rising Sun. Churchyards were located on the south or east of the
+church with only such people as criminals or unbaptised children buried on
+the north side – this lay in the shadow of the church so was considered to be
+a place of easy access to ‘darker spirits’.
+The Lower Midheaven (IC): Fourth House
+The underworld of the Egyptians was not the ‘hell’ of Medieval Christianity
+however. The Egyptians saw death, not as an end to life, but as a transitory
+stage within it: a period of purgence, rest and renewal. In ancient
+philosophy the ‘lower depths’ represented the Spiritual Source: the
+Universal Parent from which we emerge and ultimately return.
+Correspondingly the 4th house is astrologically connected with ‘the
+beginning and end of all things’, ‘parents’ and ‘the home’. Manilius wrote
+that it controls the foundation of all things and symbolises the deepest
+region of the Underworld. It indicates all that originates from, belongs to, or
+is located in the ‘bowels of the earth’; thus it is associated with minerals
+and the natural resources of the earth, such as coal, ores and oil; also the
+mining of those resources. The 4th house, being an extension of the lower
+depths and that which is hidden in the earth, acquired astrological rulership
+over graves, buried treasure and wealth from hidden sources, also
+symbolising the act of drowning as well as the means by which we explore
+the past or the hidden roots of the present. It is of course the underworld
+itself, with all its attendant associations of weakness, death, the aged or the
+very young. In classical times it represented the parents; in the medieval
+period it more specifically represented the father, through whom the
+genealogical line is traced. Generally, it is connected with ancestry,
+grandparents, family property, ancestral wealth and land. As in Egyptian
+symbolism, it is the return to the source and the beginning and end of life -
+the final conclusion, but also the seed of all future potential.
+The list below outlines the classical attributions of the houses. Specific
+mention is made of Manilius1 because he represents a very ancient
+understanding of house meanings, and also Firmicus2 who lived at the end
+of the classical period and hence typifies the later approach. Other
+associations dating to the classical period are included, most of which are
+taken from Neugebauer and Van-Hoesen’s Greek Horoscopes.3 By way of
+comparison, the list also includes the main associations of Al Biruni (11th
+
+<<<PAGE 31>>>
+century Arabic),4 William Lilly (17th century European),5 and some of the
+more common modern associations.]
+4th House Associations Through History
+Manilius:
+The foundation of all things; wealth; mining of metal
+and gain from hidden sources. Fathers and the plight
+of the old. The temple of Saturn.
+Others
+(classical):
+Parents, children; spirits; life in temple; repute.
+Firmicus:
+Parents; family property; substance; possessions;
+household goods; anything related to hidden and
+unrecovered wealth. Cardinal.
+Al-Biruni:
+Parents; grandparents; descendants; property; fields;
+water-supply. What succeeds death and what happens
+to the dead.
+Lilly:
+Fathers; lands; houses; tenements; ancestral
+inheritance (paternity); farming and tillage of the
+land; hidden treasure; determination or end of things.
+Modern:
+Beginning and end of life; parents; the mother (some
+say); the home. Houses; land. Private life. Buried
+emotions.
+The Ascendant (Asc): First House
+The ascendant signifies the point of ‘life’ because as the Sun rises here each
+morning it distributes its life-giving properties of warmth and light to the
+world. Traditional descriptions of the ascendant claim it represents ‘life,
+formation of character and appearance’. It signifies our emergence into the
+world, and since life requires a body to inhabit, this is what the ascendant
+describes. It is our appearance and the outer expression of our essential
+being: the two bound together through the principles of physiognomy, by
+which physical form and facial features are considered revealing of
+character.
+
+<<<PAGE 32>>>
+1st House Associations Through History
+Manilius:
+Life and formation of character; the early years;
+education. The fortunes of children and the prayers of
+parents. The station to which men are born;
+profession; the success of enterprises. Temple of
+Mercury.
+Others
+(classical):
+Life; body; character; spirit.
+Firmicus:
+Life and Vital Spirit of men. Basic character and
+cornerstone of entire nativity. Cardinal.
+Al-Biruni:
+Soul; life; length of life. Education. Native land.
+Lilly:
+Life; health and vitality; form and shape of body.
+Modern:
+Personality. The image we project. Outward
+behaviour. Health; disposition and manners.
+Many classical astrologers related the ascendant to the capacity of the
+intellect as well as the basic character. It also indicates the state of our
+health and ‘vital spirit’: whether we have the strength of will and vitality
+needed to overcome hindrances and disease. The colour white is attributed
+to the first house because of the light of the Sun (William Lilly notes that
+the significator of a missing object in this house describes it as white or pale
+in colour6). Since light is symbolic of life, the characteristics of other
+houses are to some degree dependent upon their ability to gain access to its
+life-supporting properties via their aspectual relationship to the ascendant
+(see following chapter).
+The Midheaven (MC): Tenth House
+As the Sun approaches the midheaven it attains its maximum strength and
+magnificence of radiation. Correspondingly, the 10th house signifies the
+status, reputation, and position in life to which we aspire. Manilius called it
+“the citadel of the sky” and referred to is as the temple of “glory”,
+“distinction”, “honour” and “the consummation of success”:
+
+<<<PAGE 33>>>
+“Hence comes applause, splendour, and every form of popular favour; hence the power
+to dispense justice in the courts, to bring the world under the rule of law, to make
+alliances with foreign nation’s on one’s own terms, and to win fame relative to one’s
+station.”7
+As the pinnacle of the chart, the 10th house shows the aspects of our
+personalities that we manifest out into the public world – our ‘professional’
+selves. It indicates the social standing that we may attain by our own
+efforts, as opposed to the legacy of family status attached to the name or
+lineage which classical astrologers related to the 4th house. Similarly, some
+classical astrologers associated the bearing of children with the 10th house,
+seeing it as an area which dealt with both the ‘fruit of our labour’ and the
+‘fruit of our loins’.
+As an area where we aspire to raise our standing within society, the
+planetary influences upon this house indicate whether success is to be found
+in any venture that receives public attention or scrutiny. In modern business
+charts it has great significance upon matters of promotion and ‘brand
+identity’. In a birth chart a luminary upon the midheaven is said to bring the
+native into the public eye; whilst in event or horary charts it will show
+circumstances that are brought out into the open, (alternatively, significators
+‘under the earth’ or combust keep things secret and hidden).
+For the same reason the 10th house has much to do with judgements and
+decisions. Manilius clearly associated it with the expression of power and
+authority, to which a traditional association with the enforcement of law and
+judgement in legal matters can be traced. Firmicus asserted that the
+midheaven affected all our actions and dealings with others and had the
+greatest influence of all; an opinion echoed throughout most of the classical
+texts. It is considered to be the crown of the chart and a planet placed upon
+the midheaven will powerfully influence any matter. Although the 4th
+house has general signification over parents, mothers were particularly
+attributed to the 10th house to distinguish them as the partner of the father.
+10th House Associations Through History
+Manilius:
+Glory; distinction; honours; popular favour, power;
+the rule of law and justice in the courts; alliances with
+foreign nations. Fame relative to one’s station.
+
+<<<PAGE 34>>>
+Consummation of success. Wedlock. The temple of
+Venus.
+Others
+(classical):
+Career; accomplishment; honours; reputation. Wife,
+children.
+Firmicus:
+Life and Vital Spirit; all our actions; home, country.
+Professional career, all our dealings with others.
+Infirmities of the mind. Cardinal and the greatest
+influence.
+Al-Biruni:
+Government with council of nobles; absolute
+authority; success in business; commerce;
+professions. Liberality.
+Lilly:
+Honour, dignity; royalty; commanders; judges;
+authority. Profession. Mothers.
+Modern:
+Aspirations; career; profession; social status.
+The Descendant (Dsc): Seventh House
+With the movement of the Sun towards the descendant, Egyptian
+philosophy recognised a weakening of vitality, a loss of power, death, or the
+necessity for retreat. The lack of personal strength associated with the
+descendant gave it a reputation as a ‘hostile angle’, where one is susceptible
+to the influence of malign events and enemies. Manilius linked it with the
+consummation of affairs and the closing years of life because the Sun died
+here each night at Sunset:
+“It speeds the falling sky beneath the earth and buries the stars … wonder not if it is
+called the portal of sombre Pluto and keeps control over the end of life and death’s firm
+bolted door. Here dies the very light of day, which the ground beneath steals away from
+the world and locks up captive in the dungeon of night.”8
+As the ascendant is symbolic of light and represents white or pale colours,
+the loss of light at the descendant caused this house to be associated with
+black or or very dark colours.
+There is evidence of a rapid growth of astrological ideas between the
+writings of Manilius and Ptolemy, and by the time Ptolemy wrote his
+Tetrabiblos, a century and a half later, it was common for astrologers to
+
+<<<PAGE 35>>>
+associate the 8th house with ‘the beginning of death’. The descendant
+retained its association with critical periods of danger however, as seen in
+Ptolemy’s formula to establish the length of life where he says:
+“… the destructive degrees in the prorogation that follows the order of leading signs are
+only the degree of the western horizon, because it causes the lord of life to vanish.”9
+The signification of the 7th house for opponents and therefore ‘the other’ –
+both in love and war – is partly explained by its diametrical aspect to the
+ascendant.10 However, the symbolic influence of the direction west is an
+integral element of this. The west is generally perceived as hostile or
+weakening through its association with darkness, and has a very ancient
+signification relating to those who confront us. Under Pythagorean
+philosophy, which takes it origin from concepts employed by the ancient
+Mesopotamians and Egyptians, the orientation right is linked to the east and
+left is linked to the west. Throughout scripture and in all world philosophies
+the symbolic use of the right or the east is taken to imply qualities that are
+beneficial, strong, righteous, direct, open, familiar and fixed upon the ‘self’;
+whereas the left and the west are symbolic of strength and energies given
+over to others, originating a sense of union, partnership and committal (as
+seen in this house’s association with marriage) but also implying a
+weakened sense of self and an indication of potentially harmful, indirect,
+obscure, sinister or unfamiliar energy.
+Similarly, the east is noted as masculine and diurnal, while the west is
+feminine and nocturnal. Hence masculine planets are said to be
+strengthened in the eastern areas of the chart, and the feminine planets
+rejoice in the western quadrants. In particular, references are found to the
+Moon being strongly dignified in the descendant and debilitated in the
+ascendant – the rules of electional astrology still dictate that it is
+unfortunate to place the Moon in the ascendant when electing the best time
+to start new ventures. Although we associate partners of any gender with
+the 7th house in contemporary astrology, initially the 7th house was mainly
+attributed to the female and was used to signify women in general.
+7th House Associations Through History
+Manilius:
+The consummation of affairs; the conclusion of toil;
+
+<<<PAGE 36>>>
+the closing years and end of life; death; worship of
+the gods; marriages; leisure; social events; banquets.
+Others
+(classical):
+Marriage
+Firmicus:
+The nature and number of marriages. Cardinal, but
+aspected detrimentally to the ascendant.
+Al-Biruni:
+Women, concubines; marriage feasts. Contentions.
+Partnerships. Losses. Lawsuits.
+Lilly:
+Marriage; partners; public (known) enemies; thieves.
+The opposing party in love, war, quarrels or lawsuits.
+Modern:
+Those with whom we must share our lives or actions,
+or those in a close relationship of an emotional or
+business nature. Open enemies. The ‘not self’ –
+projection.
+Within the quadrants of this ‘cardinal cross’ the cycle of life revolves:
+conception occurs at the IC, though emergence into manifestation, or
+physical form, occurs at the ascendant. The quadrant from the ascendant to
+the midheaven relates to the period of youth and vigour; that from the MC
+to the descendant relates to middle-age and maturity, and that from the
+descendant to the IC represents old age and death. Early astrologers such as
+Antiochus or Porphyry described the quadrant from the IC to the ascendant
+as representing a final state of infirmity or the period after death,
+(preparation for rebirth)11 whilst in the mid-17th century Jean Baptiste
+Morin, one of the few astrologers to offer a philosophical explanation of
+house meanings, also recognised this underlying cycle of experience as a
+basis for his Cabal of the Twelve Houses Astrological:
+“What part of Heaven then (Nature her self guiding and teaching us) shall we call the
+First Cause of the Natural Beginning of every thing? Surely that which in the very
+Beginning of the thing, ariseth above the Horizon thereof and arising causeth the thing it
+self also to arise. For, certain it is that of all the places of Heaven, the East is more
+powerful than the rest, as is testified by all Astrologers, concerning the Rising,
+Culminating, and Setting of the Stars; and as Experience it self convinceth, in the
+Change of Air … But successively, that Part of Heaven, which is more elevated above
+the Horizon, and possesseth the Mid Heaven, in the rise or Beginning of the thing, shall
+have the Government of the vigour and Operative vertue thereof; That which setteth at
+
+<<<PAGE 37>>>
+the same time, the Declination of it, from its perfect estate: And lastly, That which
+obtains the Bottom of Heaven, shall be taken for the Cause of its Corruption.”12
+It seems that Howard Sasportas was on the right track in considering the
+houses as ‘cycle of life’ or ‘wheel of experience’, but his mistake was to try
+to identify it within their numerological order. This order corresponds with
+the astronomical motion of a planet through the signs of the zodiac, but in
+astrology it is the diurnal motion of heaven from east to west – brought
+about by the daily rotation of the Earth upon its axis – that carries a far
+deeper significance. Ptolemy referred to this as the ‘First Primary Motion’
+which overrides the natural motion of the planets as they strive to progress
+through the zodiac. The 14th century poet Geoffrey Chaucer summarised its
+importance in writing:
+“First Cause of Motion, Cruel Firmament,
+Driving the Stars with Thy Diurnal Sway
+And Hurling all from East to West
+That Naturally would take another way.”13
+Although it first appears to contradict this order, the numeration of the
+houses is actually based upon it, originating from the two hourly ‘watches’
+of Egyptian astronomers. The houses are numbered anticlockwise because
+this is the order that the stars within them rise and become visible at the
+Eastern horizon – hence the ascendant was known as the horo-scope
+meaning ‘watcher of the hour’.
+
+<<<PAGE 38>>>
+For modern students, a major reversal is required to fully comprehend
+the ancient empirical basis of the astrological techniques in use today. The
+symbolic importance of the cycles that occur around us are only perceived
+if we lift our eyes and our minds from our static, two-dimensional charts,
+and reconnect with celestial motions as they are experienced by human
+senses: rising in the east, culminating in the south14 and declining in the
+west. Zodiacal measurement locates planetary positions along the ecliptic,
+but this is a universal measurement; it says nothing about the personal
+signatures of the planets as they relate to specific locations at specific points
+of time. This is one of the major functions of the houses – the definition of
+the celestial positions with regard to local space. The major reversal is that,
+through the influence of modern science, we have been taught to view our
+cosmos as a heliocentric system and we tend to conceive of it from the
+outside looking in. But astrological symbolism interprets celestial positions
+as they are drawn down to the earth and requires us to maintain the
+geocentric perspective of being on the inside looking out. The divisions of
+the houses, at least initially, developed out of this. Once our perspective is
+realigned, the true nature of the fundamental cycle is readily apparent. The
+angles of the horoscope relate to the universally accepted ‘tree of life’
+which connects the existence of man with the cycle of nature of which he is
+a part.
+
+<<<PAGE 39>>>
+In effecting an underlying structure, diurnal revolution explains a great
+deal, but it does not reveal the full meaning of the individual houses
+because other symbolic systems have played a part. It is however, of
+particular relevance to the interpretation of the 2nd and 8th house axis, and
+the following chapter considers the association between the 2nd house and
+financial matters, the 8th house and death; and how the relevance of
+aspectual connections to the ascendant are interwoven through the
+interpretations of the house division scheme.
+
+<<<PAGE 40>>>
+3
+ASPECTS & GATES
+THE 2ND/8TH HOUSE AXIS
+Each of the signs, as it revolves, receives the influence of Heaven and to Heaven imparts
+its own. The nature of the position prevails, exercises jurisdiction within its province,
+and subjects to its own the character of the signs as they pass by, which now are enriched
+with distinction of every kind, and now bear the penalty of a barren abode.
+Manilius, (c. 10 AD) Astronomica, II v.860
+One way in which modern astrology often fails to utilise the full potential of
+house signification is in reducing them all to the same strength and efficacy;
+ignoring the fact that location within the sphere impacts upon the
+prominence and force (or inhibition and weakness) of planetary expression.
+In our eagerness to avoid the negative-undertones of words like ‘malefic’,
+‘unfortunate’ and ‘destructive’ we must be wary of not inverting this
+essential influence of the houses, or of limiting their value by being
+prejudiced towards everything having a constructive, creative or
+superficially positive interpretation. The 8th house remains the house of
+death, loss and grief, no matter how pleasantly we wrap that up in digestible
+phrases such as ‘personal-transformation’.
+The ancients placed great emphasis upon whether a house was
+describing an active and augmenting area of heaven, or one that induced
+recession and decline. The use of the terms cardinal, succedent and cadent
+reflect this, and offer rich descriptions to illustrate whether who or what is
+being symbolised is healthy or ailing, near or far, powerful and vibrant, or
+impoverished and insecure.1 These qualities are often woefully understated
+in popular modern texts, whilst astrologers practicing with traditional
+methods use them constantly in determining the outcome of a conflict or
+lawsuit, finding lost objects or missing persons, discovering the course of a
+relationship or illness, or the potential of a job offer. Sometimes, the entire
+interpretation of the chart can hinge mainly upon this one consideration.
+Although the description of the realm of life in which a planet is operating
+is obviously a very significant element of house interpretation, we shouldn’t
+
+<<<PAGE 41>>>
+deny the extent to which the houses can also empower a planet; or indeed
+castrate it when the area is a ‘barren abode’.
+Astrologers, even in striving to offer a positive resolution to any
+problem, must first take account of reality; including the reality of failure,
+the need for withdrawal, and the disheartening experience of loss. The
+ancient perspective portrayed the houses in terms of powerful = good; weak
+= bad, though their vision was never as simplistic as that of those who
+interpret this viewpoint out of context. No one could suggest that ancient
+philosophies lacked a healthy respect for retreat and decline, or failed to
+recognise its rightful place in the broader balance of life, but most of us
+would agree that it’s a more comfortable position to be strong, active and in
+control, than to be ineffectual, infirm or impotent.
+Where traditional texts speak of houses that are bad, weak, barren,
+destructive or evil, they describe the areas where there is a lack of dynamic
+planetary expression; the planets’ ability to exercise their influence being
+impeded according to the degree of ‘destructiveness’. This naturally
+symbolises the areas in life where we are unable to effectively control our
+environment. We may become the victim of circumstance or inherit the
+consequences of our own past actions. Sometimes tragedy may occur for no
+apparent reason, or hindrances that we might otherwise shrug off appear
+(through our weakened sense of control) more intimidating and
+overwhelming. A psychological insight is useful, and often essential to find
+the best way to navigate through these difficult periods, but it cannot
+transmute a situation which is riddled with loss into one that is potentially
+full of gain and happiness, without the processing of the loss. Destruction,
+and the experience of alienation, exist, no matter how hard we twist the
+symbolism around or look beyond the scope of the present. In any full cycle
+of life there will always be the joy of creativity and attraction, many periods
+of pleasure and success interspersed with sadness and grief, separation, and
+the closure of physical death. Without negative astrological terminology in
+our symbolic expression, we would be working with a very weak and
+incomplete vocabulary.
+One factor that largely determined the ancient recognition of house
+‘empowerment’ is the aspectual relationship between the cusps of the
+houses and the ascendant. Since the ascendant represents the entry of light,
+and therefore life and vitality, the aspect (view) that each house has of the
+ascendant determines both the quantity and quality of ‘life-energy’ imbued
+
+<<<PAGE 42>>>
+into that area of heaven, determining an essential focus of meaning that has
+filtered through to the evolution of modern interpretations. The 7th house,
+for example, is a powerful house where planets are capable of exerting a
+strong and dynamic influence because it directly faces the ascendant by
+opposition and has easy access to its light. In facing it ‘head-on’, any planet
+in this area has a forceful resonance of energy. By opposition we need not
+expect this to be a comfortable energy (consider the unease you can feel
+when someone is speaking to you with their eyes locked directly into
+yours), but it is intense and emotive because of the very direct confrontation
+with the ascendant, the pivotal point in the cosmic scheme. When planets
+here relate their signification to other people in our lives, either through
+projection or direct experience, we can expect their influence upon us to be
+passionate and dramatic, and in some way characterised by the extremities
+of love or hatred. The 7th house therefore signifies the people who are
+brought into a close and intimate relationship which surpasses that of
+common acquaintance and in some way sees us identifying ourselves as a
+half within the whole. The term ‘significant other’ is generally applied
+because it relates as much to adversaries as lovers or partners.
+
+<<<PAGE 43>>>
+The same is true of the 10th and 4th houses, which access the ascendant
+by a forceful square aspect. Their essence is power and strength of
+influence: that of the 10th being manifest and observable; that of the 4th
+being deep-rooted and fundamental. The 9th and 5th houses are favourable
+and have positive associations because they are aspected to the ascendant
+by harmonious trines. The aspectual relationship has allowed these houses
+to acquire less traumatic significations than would have otherwise been the
+case. The 9th house is cadent, but generally considered to be less
+weakening than other cadent houses because of this, and in recognition of
+its location in the upper realms of the chart. The 5th house is reputedly one
+of the most pleasant areas of the chart, despite being tucked away ‘under
+the earth’. The 11th and 3rd houses are similarly considered beneficial
+because they are linked to the ascendant by the sextile aspect; the 11th
+much more so than the 3rd, due to its elevated position. The benefits of the
+3rd house are diminished by the fact that it is under the earth and cadent.
+However, the 2nd, 8th, 6th and 12th houses are linked to the ascendant
+by aspects that are traditionally considered too weak and ineffective to be
+conducive of support: the inconjunct and semi-sextile. The inhibited access
+to the light of the ascendant means that all of these houses are regarded as
+‘dark’ areas, symbolically denoting a lack of vital energy. Other factors
+must be considered, but within the fundamental meaning of these houses
+there is an underlying principle of subdued self-expression.
+The Second/Eighth House Axis
+Failure to discriminate between the strength of planetary influences as they
+traverse the various regions of the chart, can lead to modern variations of
+house meaning that are popularly believed to recognise and extend from
+originating astrology philosophy, but actually disregard it.
+With the 8th house, this becomes of particular concern when it is said to
+describe the sex life, or the potential for pregnancy. Such an idea arises
+from the view that the area is one which deals with personal transformation
+at a most profound level – since it is the house of death, then by extension it
+must suggest a rebirth and the process that leads to such a birth too. But
+death, at whatever level it occurs – be it physical, material, spiritual or
+emotional – is the process of loss that operates within the larger perspective
+of personal transformation which the chart as a whole relates to. It has
+
+<<<PAGE 44>>>
+cycles and stages of its own, being preceded by weakness and succeeded by
+grief. Only after an appropriate period of mourning and readjustment can
+creative energies re-emerge to foster the growth of new life. Pregnancy,
+therefore, belongs to the fertile area of the 5th house, and never to the 8th,
+because this is an area that captures the essence of ‘loss of creativity’. The
+idea of astrologers electing a good time to enjoy sexual activities by
+strengthening the influence of the 8th house could be amusing; were it not
+for the abusive violations and experiences of fear and anguish related to sex
+that may fall within its domain.
+Another dubious notion is the belief that a chart where the emphasis
+falls upon the 8th house represents a good time to apply for a loan or enter
+into a financial arrangement with another person. This idea is based upon
+the rulership of the 8th house over ‘other people’s money’, since it is the
+2nd house from the 7th. Astrologers who apply this logic often forget that
+the 8th house is the area where our loss can become another’s gain. In
+horary charts drawn to locate lost or stolen property, for example, the
+significator in the 7th house shows it has fallen into another person’s hands;
+in the 8th they have turned it into a financial asset. It is good to have
+‘friendly’ 8th house influences in such charts, but in matters concerning our
+own financial matters it is most important to see that the 2nd house is
+supportative and free from affliction.2
+Traditionally the second house is representative of our own substance
+and profit whilst the 8th indicates an area of decline. The origin of this can
+again be traced to the cycle of nature and the Sun’s interaction with the
+Earth. It is worth noting that originally the 8th house was known as ‘the
+beginning of death’, because from its cusp the heavenly sphere falls
+towards the descendant. The area is an entirely unfortunate one – it has no
+effective access to the light of the ascendant and its diurnal motion is one of
+decline.
+The lack of any strong aspect from the ascendant to the 2nd house also
+gave this house an unfortunate reputation in early astrology. Like the 8th,
+classical astrologers knew it by such ominous names as the ‘Gate of Hades’,
+‘Gate of Hell’, or ‘Portal of Pluto’, a tradition arising from the ancient
+Mesopotamians and Egyptians who placed the rulership of the direction
+north under the ‘Guardians of the Gates’. Manilius gave little detailed
+description of the influence of the 8th-2nd house axis, except to show that it
+was unfortunate and affected by ‘underworld’ symbolism:
+
+<<<PAGE 45>>>
+“Suspended, the former [8th house] faces downward, the latter [2nd house] on its back,
+they either fear destruction at the hands of the neighbouring cardinal or will fall if
+cheated of its support. With justice are they held to be the dread abodes of Typhon,
+whom savage Earth brought forth when she gave birth to war against heaven.”3
+The text of the 4th century astrologer Firmicus Maternus gives a better
+insight into the origin of the 2nd house’s association with wealth. He sees it
+as a house of ‘increase’; yet whilst he recommends that it should be known
+primarily as ‘the house of hope’4 he also mentions that it is called the ‘Gate
+of Hell’, which he assumes is due to the lack of access to the light of the
+ascendant:
+“This house shows increase in personal hopes and material possessions. But it is a
+passive house and not aspected to the ascendant. Therefore it is called the Gate of Hell,
+because it is not in any way aspected to the ascendant.”5
+Significantly however, Firmicus also includes older Greek terminology,
+which informs us that the 8th house was known as Epicataphora, which
+means ‘falling down into the Underworld’. The 2nd house was known as
+Anaphora, ‘rising up from the Underworld’, illustrating that although both
+were regarded as portals to the underworld and incorporated darker
+elements in their symbolism, there was an important distinction – the 8th
+was the portal of entry, the 2nd of release.
+A further clue to the symbolism of the 2nd house lies in the ancient
+myth of Ishtar’s descent into the underworld. It was impossible to enter the
+underworld unless completely naked, so her journey involved the removal
+of all her garments and jewels upon entry, these being returned to her
+possession upon release. The myth reflects the cyclical process of loss and
+increase which is symbolic of death and rebirth. The following extract from
+World Mythology by Donna Rosenberg is her own introduction to the myth
+which seems appropriate here. Her book is written about mythology, not
+astrology, so offers an independent viewpoint to consider. It is especially
+significant if one considers that there is an ancient association between
+Saturn (the traditional planet of death) and the 4th house; and the Moon and
+the 3rd house (the 3rd house was known as ‘Dea’ meaning Goddess to
+classical astrologers because it was ‘the house of the Moon’):
+
+<<<PAGE 46>>>
+The chart wheel shows some of the main spheres of activity associated with the houses by Firmicus
+and his contemporaries. It includes the planets which were considered to have ‘proper residence’ in
+each place, and which Firmicus referred to in the manner “this is the house of Venus”, etc.
+“In early agricultural societies, productive soil was of major importance, and the entire
+community was earth-oriented. Ancient farming peoples observed that plants and people
+were born, grew to maturity, and died, and that others were born again, often the
+following spring. This fact became the central focus of religion. Death was an accepted
+part of the life cycle, for it was followed by rebirth or new life. The people worshipped
+
+<<<PAGE 47>>>
+the Great Goddess to insure the fertility of their fields and themselves so that their
+community would survive.
+Hades was not only the god of the dead, from which new life would emerge, but he was
+also known as the god of wealth. (His other name, Pluto, was derived from ‘Ploutos’
+which means wealth.) The dead earth revived each spring to burst forth with new plant
+life; in addition, the earth contained the metals (copper and tin) from which bronze was
+made.”6
+From this passage it can be seen that the association of the 2nd house with
+wealth and material increase arose as a development of its underworld
+connection. It also makes sense that the ancients called the 3rd house ‘Dea’
+meaning Goddess, because it was the Earth Goddess who continued the
+process begun by Hades and returned fertility to the Earth.
+At an early stage the whole area surrounding the lower midheaven was
+one that related to the hidden process of renewal, the seed germinating
+beneath the ground, and the foetal embryo of returning fertility which
+celebrated its appearance at the ascendant. Within this process the 2nd
+house, being the portal of release, acquired a symbolic representation of the
+return of hope and physical and spiritual increase. It was seen as a house of
+expectation of benefit, as opposed to the 8th house being an area holding
+only fearful anticipation of loss. Over time this led to a more defined
+association with wealth, resources, material possessions, and all that assists
+our survival, with its general condition reflecting whether these are in
+meagre supply or abundance.
+2nd House Associations Through History
+Manilius:
+Unfortunate. The abode of Typhon.
+Others
+(classical):
+Livelihood; profit; inheritance; estate; fortune;
+business; gain. Intercourse with women.
+Firmicus:
+Increase in personal hopes and material possesions.
+Expectation of inheritance and wealth. Passive and
+debilitated because it does not aspect the ascendant.
+‘Gate of Hell’ (Anaphora).
+Al-Biruni:
+Nutriment; livelihood; assistants. Profession of
+children. (10th from 5th)
+
+<<<PAGE 48>>>
+Lilly:
+Estate, fortune, substance, wealth and poverty.
+Moveable goods.
+Modern:
+Financial matters and possessions. Resources which
+support the physical body. Income. Feelings.
+8th House Associations Through History Manilius:
+Manilius:
+Unfortunate. The abode of Typhon.
+Others
+(classical):
+Death and its nature; trial; penalty; loss; weakness.
+Firmicus:
+The kind of death. No planet other than the Moon
+rejoices in this house and then only in nocturnal
+charts. Debilitated and passive because it does not
+aspect the ascendant. Called ‘Gate of Hell’
+(Epicataphora).
+Al-Biruni:
+Death; murder, poison. Inheritance. Wife’s property
+(2nd from 7th). Expenditure; poverty.
+Lilly:
+Death; wills; partner’s money. Fear and anguish of
+mind.
+Modern:
+Income, taxes, legacies; shared feelings, sex, birth
+and death. Big business. Insurance. Crime.
+
+<<<PAGE 49>>>
+4
+PLANETARY JOYS
+THE 5TH/11TH HOUSE AXIS
+In this temple dwells Jupiter: let its ruler convince you that it is to be reverenced.
+Manilius, (c. 10 AD) Astronomica, II v.893
+Although all houses derive some of their meaning from the Sun’s
+relationship to the earth, not all of them are as clearly dependent upon it as
+those discussed so far. Obviously other factors are involved and in
+searching for the origin of meanings it soon becomes apparent that there is
+no one single philosophy that can be used to completely illuminate the
+evolution of their significations. Our current house meanings are the
+product of amalgamated symbolic viewpoints whose integration has settled
+over many centuries. Significations attached to spatial sections are to some
+extent borne from diurnal revolution, but aspects have also played a part, as
+have inter-house relationships and proximity to the cardinal points. Another
+dominating influence was what we have now come to know as the planetary
+‘joys’ or areas where the planets ‘rejoice’. These have been fleetingly
+mentioned so far and are illustrated in the diagram showing the rulerships
+of Firmicus, who referred to the eleventh house as ‘the house of Jupiter’
+with the same sense of natural affiliation as when he refers to Sagittarius or
+Pisces as ‘the sign of Jupiter’. To classical astrologers the relationship
+between a house and its planetary ruler was very considerable. In modern
+astrology the associations have become all but forgotten.
+The use of planetary ‘house rulers’ is paramount in the work of
+Manilius, who referred to the houses as the temples of the planets. His
+scheme is notable (and often dismissed) however, because he differs from
+other authorities in attributing Venus to the 10th house and Saturn to the
+4th. All later authors of the sources we have extant consider Venus to take
+residence in the 5th house and Saturn in the 12th. But this point could be of
+substantial importance, since it can be seen that an alteration in house
+meanings also occurred with the alteration of the planetary rulers. Consider
+
+<<<PAGE 50>>>
+first the description that Manilius offers of the 10th house, considered by
+him to be ‘the temple of Venus’:
+“To this abode is fittingly given the power to govern wedlock, the bridal chamber, and
+the marriage torch; and this charge suits Venus, the charge of plying her own weapons.
+Fortune shall be this temple’s name; mark it well.”1
+Manilius was not unique among the early astrologers in attributing marriage
+to the 10th house; other authors, including Ptolemy, followed him in that.
+But it is interesting to note how his understanding of this ‘abode’ ties in
+with the natural signification of the planet he associates it with. By contrast,
+his description of the 5th house is very brief and bears little resemblance to
+the interpretations of later authors who were to recognise it as the house of
+Venus. Speaking first of the 11th house, Manilius continues to describe its
+polar opposite:
+“Like this temple [the 11th house], but with an inverse likeness, is that which is thrust
+below the world and joins the nadir of the heavens [the 5th house]. Wearied after
+completion of active service [as it passed through the 6th] it is again marked out for a
+further term of toil, as it waits to shoulder the yoke of the cardinal temple and its role of
+power [as it moves towards the 4th]: not as yet does it feel the weight of the world, but
+already aspires to that honour.”2
+Some astrological historians suggest that Manilius’ variance on the
+association between houses and planets should be dismissed as an error, but
+deeper scrutiny of his text reveals the connection between a planet and its
+‘temple’ to be much more emphasised and influential in his interpretations
+
+<<<PAGE 51>>>
+than we find in later works. More likely, the associations he described were
+very much in line with the scheme he was presenting, and they certainly
+seem central to the meanings he attributed to the houses. The evidence for
+this is also striking in the case of the 4th house, which Manilius described
+as the temple of Saturn:
+“Where at the opposite pole [from the MC], occupying the foundations, and from the
+depths where midnight gloom gazes up at the back of the Earth, in that region Saturn
+exercises the powers that are his own: cast down himself in ages past from empire in the
+skies and the throne of heaven, he wields as a father power over the fortunes of fathers
+and the plight of the old.”3
+Here the natural association between Saturn and the traditional rulerships of
+the 4th house appear too convincing to be brushed aside as a mistake. The
+17th century astrologer William Lilly, for example, linked patrimony
+(ancestral wealth) with both Saturn and the 4th house; the same is true of
+agriculture, the aged, fathers, the earth, toil, mining, minerals, drowning,
+death, burial and tombs. In fact, almost everything traditionally linked with
+the 4th house is also naturally associated with Saturn.
+Rather than concluding that Manilius’s astrology is flawed in its
+presentation, it seems much more reasonable to assume that this was part of
+the design. Manilius is the oldest source to which any house interpretations
+can be traced, so he perhaps portrays an earlier cultural viewpoint, one that
+was subsequently adapted to modify the way the houses and planets were
+linked together. Manilius states that he is introducing to the classical world
+“strange lore untold by any before” and his many references to oriental
+gods and myths suggests that he was more directly in touch with the
+philosophies of the older civilisations than the later classical authors whose
+works were to become the influential sources for western traditional
+astrology. In addition, the classical culture brought a move towards
+rationalisation and the impulse to emphasise the logic and science in
+astrology at the expense of the mystical. Philosophers of the classical period
+were concerned with neat, balanced and philosophically pleasing schemes,
+particularly in the case of aligning planets to sects, an issue which sets the
+astrology in Ptolemy’s Tetrabiblos apart from the more ancient texts of star
+lore.
+When Ptolemy classified the planets within their sects he defined them
+as either masculine or feminine, and either diurnal (of the day) or nocturnal
+(of the night). For the most part these terms, derived from Pythagorean
+
+<<<PAGE 52>>>
+philosophy, are synonymous: the day, characterised by light, heat, activity
+and force, is generally considered masculine; night, characterised by dark,
+cold, passivity and rest, is generally considered feminine.
+But there is a variation in the particulars: the division of
+masculinity/femininity is primarily dependent upon the qualities of dryness
+(masc.) or moisture (fem.), whilst the division of diurnal/ nocturnal is more
+dependent upon the qualities of heat (diurnal) or cold (nocturnal).
+Mercury is dual-natured; both masculine and feminine it is equally
+suited to the diurnal or nocturnal hemisphere, though appears particularly
+well placed in the ascendant, where night and day intersect. It was
+associated with the 1st house, to which ancient astrologers also gave
+rulership of the intellect. William Lilly notes that Mercury rejoices in this
+house:
+“because it represents the head and the tongue, fancy and memory; when he is well-
+dignified and posited in this house, he produceth good orators.”4
+Of the planets, the masculine planets, Jupiter, Saturn and the Sun, are
+considered diurnal; the feminine planets, Venus and the Moon, are
+nocturnal. Mercury, which is dual-natured, belongs to both sects, having an
+asexual nature that is responsive to its location in the sphere and its aspects
+with other planets.
+We might naturally assume that Mars, a hot planet, is administered to
+the diurnal sect; and that Saturn, a cold planet, is nocturnal. However, this is
+not the case. Ptolemy argues that these two destructive planets should be
+assigned to sects opposite their own natures in order to temper their malefic
+influence because:
+“When stars of the same kind are joined to those of the good temperament their
+beneficial influence is increased, but if dissimilar stars are associated with destructive
+ones the greatest part of their injurious power is broken.”5
+
+<<<PAGE 53>>>
+This does not mean that Mars is strengthened in a nocturnal location; it
+means that its excess of heat is subdued and moderated, so that its power to
+destroy is lessened. The same is true of Saturn. These two planets are
+extreme and intemperate which is why they are considered naturally
+malefic. They become less likely to damage if Mars (excessive in heat) is
+located in a cooling environment and Saturn (excessive in cold) is located
+in a warming one. Therefore all the planets attributed to the diurnal sect
+(Sun, Jupiter and Saturn) express their energies more favourably in the
+diurnal hemisphere, whereas the nocturnal planets (the Moon, Venus and
+Mars) are more favourable in the nocturnal hemisphere.
+The definition of planets according to the diurnal or nocturnal sect is
+based upon familiarity with the Sun and Moon, and the importance of sect
+in traditional astrological techniques can hardly be overstated. Part of the
+astrologer’s task was to evaluate the strength and dignity of each planet
+before any kind of judgement was made, and the affinity of the planets with
+their own sects was one way to do this. The 13th century Italian astrologer
+Guido Bonatus includes the following in his list of considerations for
+astrologers:
+“The 47th [consideration] is to consider whether the Significator be in his light or no,
+that is, a diurnal planet in the day, above the earth, and in the night under the earth, and a
+nocturnal planet in the night above the earth and in the day under it: for this renders such
+planet more strong. But if a nocturnal planet be Significator of anything in the day above
+the earth, or a diurnal planet in the night, the same is thereby weakened and under a kind
+of impediment, that he can scarce accomplish what he signifies.”6
+William Lilly termed the correspondence of a diurnal planet in a day chart,
+above the earth and in a masculine sign ‘hayz’, but he thought it more
+appropriate to find a nocturnal planet in the night in a feminine sign and
+under the earth. In horary questions the significator so found shows “the
+content of the querent”.7
+Reading through the interpretations of planets in the houses given by the
+4th century astrologer Firmicus Maternus, it is clear that he lays great stress
+upon whether or not a planet corresponds with its own sect, with diurnal
+planets suffering a measure of affliction in nocturnal charts (and vice versa).
+This example of his interpretation of Saturn in the 10th house illustrates the
+difference affected by a planet being in or out of sect:
+
+<<<PAGE 54>>>
+“20. Emperors, generals, and praetorian prefects are the indication of Saturn in the tenth
+house, that is the MC. If Saturn is on the MC by day and in his exaltation with the Sun
+on the ascendant, this will make respectable farmers of good character, but wealthy,
+whose holdings are near the sea, rivers, or lakes. It will also provide large income, great
+glory, and inheritance from important persons, especially if Mars is not in aspect. But if
+Mars in strongly aspected he will diminish this good fortune.
+21. Saturn by night on the MC indicates misfortunes; loss of inheritance, no marriage,
+no children, especially if he is in the house or terms of a malefic planet. But if a benefic
+planet, that is, Venus or Jupiter, is in favourable aspect to Saturn thus located by night,
+those things which were denied will be given in another way. But in general, Saturn by
+night on any angle indicates the greatest evils. He destroys wives and children and
+always predicts grief from loss of relatives.”8
+With these examples in mind, it can be presumed that once classical
+astrology adopted sect as a dominating influence, it would have been
+considered highly inappropriate for Venus – a nocturnal, feminine planet –
+to hold dominion over the pinnacle of the diurnal hemisphere; and equally
+inappropriate for Saturn – a masculine, diurnal planet – to govern the lower
+nocturnal angle. By re-assigning the ‘temples’ of these two planets from
+those described by Manilius, the whole scheme falls neatly into place: the
+diurnal planets reign in the diurnal hemisphere while the nocturnal planets
+reign below.
+Naturally, it would be important to place a beneficial planet such as
+Venus in a suitably favourable house; and although all the houses below the
+horizon are considered secondary to those above, the 5th is the most fitting
+because of its harmonious trine to the ascendant. Similarly, although Saturn
+shares less of a natural association with the 12th house than it does with the
+4th, they have familiarity because both are considered baleful and their
+influence is limiting and restrictive.
+
+<<<PAGE 55>>>
+The Fifth House
+The preceding discussion shows that, in the case of the 5th house, we have
+an interesting example of how planets associated through the concept of
+house rulership or ‘joy’ have reflected their meanings into the houses, and
+how those meanings have modified in accordance with alteration of the
+planetary associations. Even if we accept that much of the 5th house’s
+fortunate reputation is derived from the trine aspect to the ascendant, the
+specifics of the meanings used by authors after Manilius are clearly
+Venusian in origin. Firmicus is quite clear in informing us that classical
+astrologers called the 5th house the ‘House of Good Fortune’ because it is
+the house of Venus. Consider some of its traditional associations: –
+• The principle rulership of the 5th house is in signifying pregnancy and
+children, as befits Venus, the ‘goddess of fertility’ of whom the classical
+historian Pliny wrote:
+“… its influence is the cause of the birth of all things upon earth; at both its risings it
+scatters a genital dew with which it not only fills the conceptive organs of the Earth but
+also stimulates those of all animals.”9
+• The 11th century Arabic astrologer, Al Biruni, called it the house of joy,
+clothes, pleasure and friends – all of which fall naturally under the
+rulership of Venus.10
+
+<<<PAGE 56>>>
+• The 12th century Hebrew astrologer, Ibn Ezra, describes an association
+with pleasure, food, drink, gifts and diplomats.11
+• The 16th century astrologer, Claude Dariot, used the 5th house for
+signification of love, ambassadors and gifts.12
+• The 17th century astrologer William Lilly called it “the house of
+Pleasure” and associated it with taverns, plays, recreation and sport – all
+of which he also ascribed to the natural signification of Venus (including
+sport as a pleasurable, recreational activity).13
+5th House Associations Through History
+Manilius:
+A region of uncertainty.
+Others
+(classical):
+Children, good fortune; friendship.
+Accomplishments.
+Firmicus:
+The number of children and their sex. Called the
+house of Good Fortune because it is the house of
+Venus. Favourable because it aspects the ascendant
+by trine.
+Al-Biruni:
+Children, friends, clothes, pleasure, joy. Wealth of
+father (2nd from 4th).
+Lilly:
+Children, pregnant women. Banquets, taverns, plays,
+gaming, Ambassadors.
+Modern:
+Creativity, children, pleasures, holidays, love affairs,
+gambling, sport, gifts, all pleasant things.
+In every instance the derivation from Venus is striking. Modern astrology
+books that suggest the 5th house is the house of pregnancy and ‘creativity’
+because it relates to the 5th sign, Leo, disregard the fact that Leo is marked
+throughout tradition as a sterile and barren sign – in matters of pregnancy
+one of the main arguments to judge a denial of fertility. A little reflection
+upon historical literature shows that few, if any, of the principal rulerships
+associated with the 5th house derive from Leo; the house has been indelibly
+tinged with the aura of Venus. It is significant that Manilius did not mention
+
+<<<PAGE 57>>>
+any of these rulerships in his description of the house. He did not place
+Venus there so had no reason to do so.
+The Eleventh House
+The opposite house to the 5th, the 11th, was known to the classical authors
+as the ‘House of Good Spirit’. A planet appearing in the 11th house has
+distanced itself far enough from the ascendant to be seen in clear vision,
+and in the rising of the Sun will be free of combustion. Symbolically, it is
+perceived to have freed itself of the connotations of captivity and
+invisibility associated with the 12th house and to have moved into a
+condition of strength, freedom, release, hope, triumph, movement towards
+the attainment of desires and general good fortune. Naturally, this is the
+temple of Jupiter.
+Today we call the 11th house the house of friends but that also implies
+benefactors and anyone who helps and supports our aims, as befits its
+planetary ruler. All of the symbolism underpinning the interpretation of this
+house is favourable. Besides its affiliation with the ‘greater benefic’, it
+forms a sextile relationship with the ascendant and, most importantly,
+enjoys an elevated position above the earth, rising in diurnal motion
+towards the summit of heaven. It is this movement upwards towards the
+midheaven which gives the house a connection with motivation and
+positive ambition. Manilius tells us that the 11th house is the most fortunate
+house of all, better even than the 10th; for whilst the midheaven represents
+completion and power, it has nowhere to aspire to – the only movement it
+can make is to decline:
+“Consummation attends the topmost abode, and no movement save for the worse can it
+make, nor is aught left for it to aspire to.”14
+Not so the 11th house, this “surges ever higher being ambitious for the
+prize”. Hence it is associated with hope, trust, and expectation – the
+working towards something whilst the goal is still ahead to garner
+inspiration. It bestows optimism, joy, faith and luck. Lilly knew it as the
+house of friendship, hope, trust, confidence and praise, and noted that if
+anyone asks if they will obtain the thing they hope for, or has a secret wish
+and is reluctant to tell you what it is, the condition of the 11th house ruler
+
+<<<PAGE 58>>>
+will reveal whether or not they will attain what they want.15 A favourable
+11th house and a strong 11th house ruler is a blessing in any chart.
+11th House Associations Through History
+Manilius:
+Hope, ambition, triumph. Blessed with the lot of
+Happy Fortune. The temple of Jupiter.
+Others
+(classical):
+Good luck, hope; attainment of desires, freed persons,
+friends, gifts, children.
+Firmicus:
+Called Good Spirit. Favourable because it aspects the
+ascendant by sextile and is the house of Jupiter.
+Al-Biruni:
+Happiness, friends, praise, love, friendship of women,
+ornaments, commerce, longevity.
+Lilly:
+Friends and friendship; hope, trust, praise, comfort,
+promotion by recommendation of friends; secret
+hopes and wishes.
+Modern:
+Friends and acquaintances, clubs and societies.
+Objectives in life, intellectual pleasures. Detached
+contacts made in day to day affairs.
+
+<<<PAGE 59>>>
+5
+THE KING & QUEEN
+THE 3RD/9TH HOUSE AXIS
+That part of heaven which rises first from the bottommost regions and brings back the
+sky once more controls the fortunes and fates of brothers; and it acknowledges the Moon
+as its mistress, who beholds her brother’s realms shining on her from the other side of
+heaven and reflects human mortality in the dying edges of her face. Goddess is the name
+to be given to this region.
+Manilius, (c. 10 AD) Astronomica, II v.856
+The more the origins of astrology are explored, the more apparent it
+becomes that the complex structure of its techniques has arisen out of the
+simplest needs of survival and society. Contemporary astrology adapts
+house meanings to embrace concepts pertinent to modern life, but their
+essence is timeless and universal, relevant to all races and creeds. The
+struggle for existence and relationship with the cosmos; life; mating; the
+rearing of children and family relationships; the provision of nourishment
+and shelter; liberty and health; sickness and death – these basic concerns
+unite us all, man and beast, and are the pivots upon which all later additions
+to the houses are attached. Though astrology lends itself to many different
+shades and styles of life, its strength is that it is fundamentally a study of
+life.
+Similarly, the origin of many astrological techniques is a simple
+recognition of the cycle of the Sun and Moon around the Earth. These two
+planets are always considered as partners and opposites: the Sun is of the
+day and its domain lies in the upper regions of the chart, whereas the Moon
+belongs to the night and reigns in the lower realms. Contrary to what might
+appear to make sense to us, the ancients did not regard the 10th house as the
+temple of the Sun and the 4th as the temple of the Moon but chose instead
+the 9th and 3rd houses. This seems, again, to point to an older, underlying
+recognition of diurnal movement, whereby it is the Sun’s passage through
+the 9th house, in the period immediately after noon, in which solar radiance
+is recognised as being most powerful and effective, (so that we are
+
+<<<PAGE 60>>>
+generally warned to stay out of the Sun during this period of the day in
+summer).
+The Third House
+For symbolic purposes, it was also appropriate to associate the Moon with
+the 3rd house and not the 4th. The 4th was connected with death which is
+why Manilius called it the temple of Saturn, ‘the Great Reaper’. But from
+the process of death life resumed again under the influence of the Moon,
+whose links with fertility were obvious. The Moon was the personification
+of the Great Goddess, whose essence pervaded the earth offering nurture
+and protection; accordingly the 3rd house was called Dea meaning
+Goddess. In the words of Ptolemy:
+“The Moon, as the heavenly body nearest the earth, bestows her effluence most
+abundantly upon mundane things, for most of them, animate or inanimate, are
+sympathetic to her and change in company with her; the rivers increase and diminish
+their streams with her light, the seas turn their own tides with her rising and settings, and
+plants and animals in whole or in some part wax and wane with her.”1
+In traditional astrological philosophy the Moon represents the mundane,
+elemental world, the animal spirit, or ‘Spirit of the Earth’. In astronomy, the
+Earth and the Moon hold a special relationship – together they form a
+binary system with a shared centre of gravity that lies within the body of
+Earth. Our ancestors were aware of the integrated relationship between the
+two bodies because of the obvious influence of the Moon’s cycle and its
+corresponding effect upon tribal and cultural concerns and matters of
+community. As a consequence it is not out of place to find the Moon, our
+immediate neighbour in space, governing a house that relates to our
+immediate environment on Earth. Today we know the 3rd house as ‘the
+house of neighbours’ but this shift in terminology no longer reminds us of
+the sense of community spirit which was so vital to our ancestors. It not
+only implies our close environment, but also our everyday surroundings and
+the tight-knit community with whom we exchange ideas and viewpoints.
+Brothers, sisters, cousins and lateral contemporaries are the principal
+concerns of this house;2 but not the older generation of parents or
+grandparents who are represented by the 4th house of roots and inheritance.
+Traditionally, parents were never expected to dialogue with their children as
+equals in the way that a brother or sister would; their role was to instil a
+
+<<<PAGE 61>>>
+sense of moral values, to protect and pass-down the lessons of their own
+experience, allowing the next generation to benefit from the wisdom of age
+and maturity.
+3rd House Associations Through History
+Manilius:
+The fortunes and fates of brothers. Temple of the
+Moon.
+Others
+(classical):
+Brothers, friends, relatives. Wealth; messages.
+‘Goddess’; royalty, slaves, travel.
+Firmicus:
+Brothers, sisters and friends. Travellers. Favourable
+because it aspects the ascendant by sextile. Called
+Dea, ‘Goddess’.
+Al-Biruni:
+Brothers, sisters, relations, relations-in-law, jewels;
+friends; mitigation; short journeys.
+Lilly:
+Kin and neighbours. Small or inland journeys.
+Letters, rumours, reports and messages.
+Modern:
+Family; school life, education; short journeys,
+communications. Speech, mind, environment. Self-
+expression.
+Among the principal rulerships of the third house we find: writing,
+messages, rumours, all forms of communication and short journeys.
+Naturally we assume that these derive from the third house’s association
+with the third sign of the zodiac – Gemini – and its planetary ruler,
+Mercury. But to the ancients, the Moon always held a special responsibility
+for communication, and in particular for conveying meaning through the
+written word – which was originally perceived as a sacred symbol, no less
+magical than any other symbol in its ability to convey meaning and intent.
+With the ancient Egyptians, the Moon-god Thoth was the ‘god of scribes’
+whose symbol was the stylus. He was the secretary and messenger of the
+gods and embodied most of the characteristics that were later attributed to
+Hermes by the Greeks and Mercury by the Romans.
+
+<<<PAGE 62>>>
+The recent findings of Gauquelin’s research have reminded astrologers
+of the importance of the Moon in charts of professional writers and
+authors,3 but traditional astrological literature has always supported this
+view. Both the Moon and Mercury are primary significators of the ‘mind’,
+with Mercury tending to represent the rational and the Moon tending to
+represent the imaginative. However, when the 16th century astrologer
+Jerome Cardan speaks of the influence of planetary spheres over areas of
+learning, he associates Mercury with geometry and arithmetic but links the
+Moon’s realm to the sphere of learning grammar.4
+In ancient times the Moon was known as the ‘Traveller’ because of its
+rapid movement through the heavens, and we frequently encounter lists
+such as that in William Lilly’s Christian Astrology, which includes as the
+type of men and women symbolised by the Moon “travellers”, “letter
+carriers” and “messengers”.5 This is because transference through the Moon
+(by its separation from one planet and application to another) symbolises
+the relaying of information, the passing on of a message, or the
+communication of interest. In traditional astrology the Moon’s principal
+role is ‘transmitter of influences’, whereby it collects the virtues of the
+planets as it moves between them and brings their influence down to bear
+upon the sublunar sphere of the earth. Guido Bonatus referred to the Moon
+as a mediatrix between superior and inferior bodies saying:
+“For she is the schoolmistress of all things; the bringer down of all the planets’
+influences, and a kind of ‘internuncio’ between them, carrying their virtues from one to
+the other, by receiving the disposition of one planet and bearing it to another.”6
+The Moon’s special responsibility upon the mundane, the ‘everyday’ and
+the ‘earthly’ is also clearly expressed in the natural philosophy of William
+Ramesey:
+“She is most powerful in operation of all the other Planets on Elementary bodies, by
+reason of her proximity to us, and her swiftness, by which she transfers the light and
+influence of all the Superiors to us, by her configuration with them.”7
+Direct evidence that this sort of lunar influence is embedded into the third
+house significations, appears in Bonatti’s explanation of the planetary joys:
+“The Moon rejoices in the third because the third signifies short and quick journeys, and
+things which change quickly, and which repeat. Whence the Moon signifies speedy and
+quick changes from one purpose to another, from one thing to another.”8
+
+<<<PAGE 63>>>
+It would be wrong to assume that the Moon’s proclivity for change has
+arisen out of an association with the third house. That is clearly not the
+case. The Moon is an impressionable and changeable planet because it takes
+its virtue from the planets it communicates between, causing rapid shifts of
+emphasis and influence, and becoming empty of influence when void of
+aspect. As Ramesey observes:
+“She is neither fortunate nor unfortunate, but as she is placed and in configuration with
+either the Fortunes or Malevolents”.9
+Rather, it is likely that the third house’s signification over changeable
+environments and short journeys evolved out of its association with the
+Moon. The traditional signification of the Moon includes the everyday
+environment, the tribal community, swift journeys and changes, writing,
+and all forms of communication. We should surely take it as more than
+coincidence that the house conceived as her temple and named in her
+honour rules all of those things too.
+The Ninth House
+Whereas the Moon was associated with the Great Earth Goddess,
+influencing human life through its earthly and mortal environment, the Sun
+was the Supreme Lord and Ruler of the Divine Heaven. To the Egyptians
+the disc of the Sun signified the face of God and research into the ancient
+
+<<<PAGE 64>>>
+theology of widespread cultures increasingly demonstrates that solar-
+symbolism underpins the concept of God as the creator and source of all
+life. The 9th house, traversed by the Sun immediately after noon, was
+recognised as the temple of the Sun. Manilius said of it:
+… “where the height of heaven first slopes downward and bows from the summit, these
+Phoebus [the Sun10] nourishes with his splendour; and it is by Phoebus’s influence that
+they decree what ill or hap our bodies take beneath his rays. This region is called by the
+Greek word signifying God.”11
+Through this identification with the Sun, the sovereign of heaven, the 9th
+house is associated with fate, destiny and the will of the gods. Its traditional
+rulerships include religion, revelations, dreams, visions, and soothsaying.
+Today we call it the house of religion and the Church, often forgetting that
+spiritual matters were once intricately linked with divination as a route to
+Divine Revelation. Cardan referred to the Sun’s sphere as that which
+pertained to the moral world;12 although ancient pagan religion was not only
+concerned with doing what is morally right, but also paying due respect to
+the gods, connecting with their will, and winning their approval in order to
+gain their favour.
+The 9th house’s connection with the Sun - and the Sun’s connection
+with divination - is reflected in the characteristics of most Sun-gods. From
+the 5th century BC onwards the chief of the Sun-gods for the Greeks was
+Apollo who was associated with light, honesty and purity as well as
+wisdom, divination and prophecy. His characteristics were similar to
+Shamash, the Sun-god of the Mesopotamians, known to them as ‘the
+revealer of truth’; the god who was able to cast his light into dark mysteries
+and reveal all that was hidden and obscure.
+In the 9th house, the elemental, mundane knowledge gleaned from the
+daily experiences of the 3rd house, is lifted to a higher level of
+comprehension, one that is inspirational and probing of grander mysteries.
+Being associated with the Sun, all things concerned with Higher Spirit or
+philosophical understanding are attributed here, and it is linked with places
+where wisdom and understanding are developed (such as universities, at
+one time the dominion of the church). Its identification with long distance
+travel is said to be an extension of the desire to learn, in the sense that we
+travel to broaden our horizons physically and mentally, and this seems
+naturally supported through the modern association with Jupiter. However,
+
+<<<PAGE 65>>>
+the ancient origination lies in the classical notion that all the cadent houses
+represent alien places, foreign territory and travels that take us away from
+the comfort and security of home. Through the 3rd house’s association with
+the Moon’s rapid changes and mundane environment, the journeys given to
+the 3rd house are swift and never too unfamiliar. But the 9th house,
+connected to the Sun’s longer, annual journal, and seen as representative of
+the seat of divinity, is reflective of places and situations that are far beyond
+our normal reach and which take us into the unknown. This is often tied
+into spiritual quests and places of retreat. It is noteworthy that when
+William Lilly judges of long journeys, he uses the 7th house as denoting the
+intended place of destination, and sees a significator in the 9th house as an
+indication that the traveller:
+9th House Associations Through History
+Manilius:
+Destiny and decrees of the gods. Temple of the Sun.
+Others
+(classical):
+Travel. God; manifestations of the gods; revelations;
+soothsaying. Friendship of and benefit from kings.
+Firmicus:
+Religion. Foreign travel. The social class of men. The
+house of the Sun god. Favourable because it aspects
+the ascendant by trine.
+Al-Biruni:
+Travel, religion, fate, attainment of knowledge from
+the stars and divination. Philosophy, interpretation of
+dreams.
+Lilly:
+Foreign lands; long journeys; far away places.
+Religion; clergy. Dreams, visions; learning.
+Modern:
+Higher education. Travel; foreigners; languages.
+Moral ideas, conscience, dreams.
+… “is gone from the place to which he first went into a further country, or if capable he
+is entered into some religious order or .. is imployed in some journey far distant from his
+former abode.”13
+
+<<<PAGE 66>>>
+The 3rd and 9th houses are also known to have been used to represent
+royalty in the classical period, with the 9th house specifically representing
+kings and the 3rd house representing queens. Although other aspects of
+astrological symbolism would seem to support a stronger basis for royalty
+being attributed to the 10th house, there is no explanation for this other than
+that it evolved through association between house meanings and the two
+luminaries who acted as their sovereigns.
+
+<<<PAGE 67>>>
+6
+CADENCY & DECLINE
+THE 6TH/12TH HOUSE AXIS
+It is enough for now to have recorded the Temples of Heaven and their names, the innate
+influences of each place, and the deities that dwell within.
+Manilius, (c. 10 AD) Astronomica, II v.965
+In ancient astrology the 12th and 6th houses had similar meanings, both
+connected with weakness, infirmity and toil. Manilius said of their axis:
+“The temple that is immediately above the horoscope and is the next but one to heaven’s
+zenith [12th] is a temple of ill omen, hostile to future activity and all too fruitful of bane;
+nor that alone, but like unto it will prove the abode which with confronting star shines
+from the occident and adjacent to it [6th]. And so that this temple should not outdo the
+former, each alike moves dejected from a cardinal point with the spectacle of ruin before
+its eyes. Each shall be a portal of toil; in one you are doomed to climb in the other to
+fall.”1
+From this passage it can be seen that the overriding basis of their weakness
+is their cadency – each alike moves dejected from a cardinal point with the
+spectacle of ruin before its eyes. The word ‘cardinal’ comes from the Latin
+cardo meaning ‘hinge’, ‘axis’ or ‘pivot’, and is used in a general sense to
+indicate something of primary importance. To Manilius the cardinal houses
+represent power because they support the heavenly sphere. He claims:
+“These points are charged with exceptional powers, and the influence they exert on fate is
+the greatest known to our science, because the celestial circle is totally held in position by
+them as by eternal supports.”2
+The succedent houses are so named because the planets within them succeed
+by diurnal movement to the cardinal position. Manilius said that the 5th
+house it is not as yet in the position of power but is ready to aspire to it –
+meaning that diurnal motion will carry the stars within it to a position of
+greater influence when they enter the 4th house.
+
+<<<PAGE 68>>>
+The Latin word cadent means ‘falling’ or ‘declining’ and comes from the
+same root as the word cadaver which means ‘decayed’ or ‘fallen’, and which
+in a medical sense refers to a corpse. A planet in a cadent house has been
+carried by diurnal movement away from the cardinal position, symbolising
+someone who has moved from a position of strength into a condition of
+weakness, or representing a fall from grace. The angular houses signify our
+own ‘seats of power’, places of familiarity and control. The further the
+distance between a planet and the angles the less potency it possesses and
+the more alienation it experiences in its environment. Originally all of the
+cadent houses had some representation over foreign places and situations.
+The lack of familiarity undermines the ability to be effective, in turn
+denoting weakness and bringing implications of fear and danger. But
+whereas the fortunate aspects from the ascendant to the 3rd and 9th houses
+alleviate this, in the 6th and 12th it is aggravated by poor access to the light
+of the ascendant.
+
+<<<PAGE 69>>>
+* The time frame is established by what makes sense to the situation
+The Twelfth House
+Although we continue to refer to the 9th house as ‘the house of the church’,
+we have generally slipped from recognising it as a house that is reflective,
+not only of philosophical and intellectual quests, but also all shades of
+spiritual or religious belief and experience. The 9th house relates to
+meditative, inspirational, personal, pagan, divinatory and mystical
+influences, as well as orthodox worship and ecclesiastical customs.
+Whatever the nature of your god, whatever the basis of your belief, even the
+rejection of it in atheism, this is signified by the 9th house. Overlooking this,
+many modern textbooks associate astrology and astrologers with the 11th
+house, perhaps being unwilling to recognise astrology as primarily
+divinational, although science and all fields of learning that attempt to
+advance human knowledge are attributed to the 9th house too. Similarly,
+many traditionally 9th house matters such as dreams, visions, spiritual
+communications, ‘revelations from the gods’ – even spirituality itself and
+
+<<<PAGE 70>>>
+union with God – are frequently associated with the 12th house, through a
+combination of its association with ‘the unknown’, assumption of Piscean
+‘intangibility’, and the modern theory that the 12th completes the ‘life-cycle’
+of the houses through dissolution.
+12th House Associations Through History
+Manilius:
+Temple of ill-omen, misery, bane and toil. Hostile to
+future activity. Doomed to climb.
+Others
+(classical):
+Bad luck; self-undoing; slaves; enmity; danger;
+infirmity; death; foreign country.
+Firmicus:
+Enemies; slaves; defects and illnesses. Called Malus
+Daemon, ‘bad spirit’. House of Saturn. Debilitated
+and passive because it does not aspect the ascendant.
+Al-Biruni:
+Enemies; misery; anxieties; prison; debt; fines; bail;
+fear; adversity; disease; cattle; harbours; slaves;
+servants; exile.
+Lilly:
+Secret enemies, witches, sorrow, self-undoing;
+imprisonment. Great cattle such as horses, oxen and
+elephants.
+Modern:
+Seclusion. Service to others; charity. The unconscious;
+self-sacrifice; escapism, mysticism.
+This is one area where it would be easy to misrepresent the fundamental
+basis of the 12th house signification through associations that edge further
+and further towards positive implications. That which is unknown may be
+reflective of the unconscious but it would take a serious distortion of
+astrological philosophy to view this house as indicative of spiritual
+connections with God. Such a suggestion is not supported by traditional
+texts, which refer to the 12th house as ‘evil’ – the most difficult, hostile and
+unfortunate area of the chart. In view of the fearful terminology it is no
+wonder that modern astrologers find the traditional associations of this house
+unpalatable and sometimes prefer to look away. Termed ‘the portal of toil’
+by Manilius and ‘Bad Spirit’ by others, it is traditionally associated with
+
+<<<PAGE 71>>>
+imprisonment, slavery, poverty, misery, malicious motivation, disgrace,
+infirmity, self-undoing, and all manner of affliction by which vital self-
+expression is impeded. It describes that which is kept hidden and out of
+sight; hence it relates to secrets, clandestine activity, subterfuge, and
+manipulative enemies. William Lilly gave it signification for witches and it
+is possible that our idea of mysticism springs from that.3 But Lilly was
+thinking of “such men as maliciously undermine their neighbours, or inform
+secretly against them”4 a characteristic appropriate to the essentially malefic
+nature of the house whereas our general understanding of spirituality and
+mysticism is not.
+The basis for the unfortunate reputation given to 12th house is the
+assimilation of various strands of negative symbolism. Cadency lies at the
+root of it, but Ptolemy proposed that adversity is further emphasised because
+the luminosity of stars in this portion of heaven is obscured by its acute
+angle to the ascendant and the exhalations of the Earth. He wrote:
+“[It is] called the house of Evil Daemon, because it injures the emanation from the stars in
+it to the Earth and is also declining, and the thick, misty exhalations from the moistures of
+the Earth creates such turbidity and, as it were, obscurity, that the stars do not appear in
+either their true colours or magnitudes.”5
+An additional factor is that, with the rising of the Sun, stars inside this area
+are within the boundaries of invisibility from which they are yet to be
+released in their heliacal rising. In such a condition planets are considered
+‘combust’ or ‘under the Sun’s beams’, their lack of visibility being implicit
+of weakness and poor expression. The 12th house, as well as the condition of
+combustion, can both be used to symbolise imprisonment.
+All of these debilitating factors, augmented by the association with
+Saturn, have been invested into the meaning of the 12th house. Not
+surprisingly it has gathered up many aspects of misfortune in its
+signification, primarily derived from the sense of weakness and invisibility.
+It may symbolise matters that have not yet reached a point of maturity where
+they can be fully understood, or for other reasons there may be a sense that
+open expression is denied, possibly because of a danger of misunderstanding
+or resentment from others. Traditionally it has a strong emphasis upon slaves
+and slavery, and hostility from those who plot against us secretly (as
+opposed to those who make an open, direct attack, who are represented by
+the 7th). But this is also a house of ‘self-undoing’, indicating where we need
+to exercise particular caution and self-reflection in order to avoid acting
+
+<<<PAGE 72>>>
+against our own best interests. Within natal interpretation, it is often
+perceived as an area of internalisation, concerned with the processing of
+painful emotions such as guilt, fear or alienation. In recognition of its
+traditional sense of darkness and weakness, some see it as reflective of
+karmic hangovers or sacrificial life-missions, or a place where we must learn
+to simply bear the burdens that are not easily overcome.
+The Sixth House
+In the symbolism of the ancients, entrance to the underworld has taken place
+in the 6th house and the process of penance has begun. The 6th house is the
+temple of Mars, Nergal to the Mesopotamians, who represented to them the
+feared lord of the underworld and the author of pestilence and disease.
+Firmicus tells us that it is an unfortunate house because of its rulership by
+Mars, but its cadency and lack of aspect to the ascendant have also played a
+major part.
+Like the 12th, the 6th house was perceived as a hostile area, full of
+misery, labour and toil, and specifically related to matters of illness and
+disease. Anciently, it was said to represent slavery, but perhaps in a milder
+form than that of the 12th, since its traditional rulership is primarily
+concerned with servants, maids and labourers, or the mundane chores
+performed out of necessity.
+Many modem astrologers, being aware that the 6th house rules labour
+and toil, often over-emphasise its influence in career matters and
+professional concerns; yet the words ‘profession’ and ‘career’ suggest a
+striving towards betterment which is properly represented by the midheaven.
+The 6th is concerned with drudgery and holds no promise of advancement.
+To use such words undermines the negativity of the area and the physical
+restraint it places upon us. The fact that servants were attributed here is a
+reflection of the level of respect they commanded – they were paid to do the
+menial tasks that others sought to avoid if possible. The work that is
+symbolised by the 6th is performed out of need. Employers have no
+relevance here, though employees clearly do.
+The 6th house does however, have some signification for those
+professions that demand a great deal of poorly rewarded hard work. It also
+rules professions that are directly involved with illness and disease, and we
+find in traditional aphorisms that Mars in conjunction with Venus in this
+house is an argument for a good physician.6 Jerome Cardan recognized the
+
+<<<PAGE 73>>>
+sphere of Mars as relevant to the study of medicine; possibly because
+traditional medicine could be so painful and surgery was often compared
+with butchery; but still, it offers another interesting reflection upon the fact
+that Mars finds its joy in this house.
+There is a widespread tendency to refer to the 6th house as ‘the house of
+health’, with examples of this occurring even in the classical period. But this
+is poor terminology since the significations of this house represent the
+factors that afflict our health. Health and vitality is described by the first
+house, illness by the 6th. In decumbiture we evaluate whether the 1st house
+ruler is a stronger, more effective planet than the 6th house ruler, in order to
+judge whether the patient has the innate strength and vitality to overcome the
+afflicting disease.
+Our animals are also represented by the 6th house, especially smaller
+forms of cattle which reinforces the link with farming and agriculture which
+became popular in the medieval period. The origin of this rulership is
+derived from the perception of animals as beasts – especially ‘beasts of
+burden’ whereby any animal kept by a human owner, whether domesticated
+or not, is to some extent refused the liberty of those that exist in the wild.
+Lilly states that the 6th rules all manner of lesser cattle and small beasts,
+while the 12th rules ‘great cattle’ such as horses, oxen and elephants. Ezra
+offers a basis for the distinction, saying that the 12th rules all animals which
+serve as a mount for man,7 suggesting that the association is based upon
+levels of servility and mastership, and emphasising the connotation that this
+axis bears to the restriction of liberty and free will. But larger animals also
+generated fear in communities less controlled than ours, provoking a sense
+of vulnerability we could only imagine if the animals we happily visit in
+zoos and enclosures were encountered in the wild.
+6th House Associations Through History
+Manilius:
+Temple of ill-omen, misery, bane and toil. Hostile to
+future activity. Doomed to fall.
+Others
+(classical):
+Slaves, toil, illness, infirmity; enmity, ‘bad fortune’.
+Firmicus:
+Health: physical infirmities and sickness. Called Mala
+
+<<<PAGE 74>>>
+Fortune because it is the house of Mars. Debilitated
+and passive because it does not aspect the ascendant.
+Al-Biruni:
+Sickness, defects of the body, overwork. If
+unfortunate: loss of property, disease of internal
+organs; slaves, maids and cattle.
+Lilly:
+Sickness and disease. Servants, labourers. Farmers,
+farming and cattle. Small animals.
+Modern:
+Work; subordinates. Domestic chores. Health.
+Most ‘missing animal’ horaries drawn by traditional astrologers related
+to cattle, where the concern was commercial and there was no emotional
+bond between the animal and its owner. William Lilly appears to have done
+few of them; he apologises for having no example horaries relating to
+straying cattle since he worked within the environs of London where such
+concerns were rare, adding “only I once set the figure preceding concerning
+a dog (who is in the nature of small beasts)”.8 His contemporary William
+Ramesey clearly reveals the disdain by which the association arose:
+“The Sixth house is the Cadent from the North Angle,9 and is in order the sixth house
+from the Ascendant: it beholds not the Ascendant; it hath therefore signification of
+sicknesses, of what kind soever it be; it hath also signification of Servants, Bond-men and
+women, and Slaves; and of Cattle of the smaller sort for the same reason, as having no
+loving familiarity or correspondency with the Ascendant in friendship, &c”.10
+The attribution of pets to the 6th house is one that faces no challenge in
+modern astrology. It seems to have found universal agreement and I have
+used it on many occasions for pet-related horaries and have found the
+signification reliable. Yet this is one area where the link between the
+philosophical origin of the attribution and modern expectations of it has lost
+its continuity. No element of 6th house symbolism, traditional or modern,
+truly expresses the basis of our concern over pets that are loved, unless we
+admit the notion of domesticity to imply servile obedience.
+
+<<<PAGE 75>>>
+7
+HOUSE RULERSHIPS IN PRACTICE
+The First House
+Main Rulerships: Life, vitality and health. Stature, colour, complexion,
+form and shape of body. Older sources note its influence upon the intellect,
+the way the mind works, and speech. In general, the first house represents
+the focal point for the personality and manner of expression. As well as
+describing the physical appearance, the condition of this house and that of
+its planetary ruler indicates the level of personal charisma, will, and
+emotional strength.
+In Horary Astrology: The querent in any question, or the collective of
+which the querent is a part, ie., in questions such as ‘will we win?’, it
+signifies the querent’s team. If a question is asked regarding a mundane
+situation in which the querent is not personally involved but has a strong
+sympathy and inclination, then use the 1st house to represent the party the
+
+<<<PAGE 76>>>
+querent favours and supports. In questions regarding war, for example, the
+1st house signifies the querent’s own country, since they identify with the
+concerns of their country when the question is expressed.
+Questions regarding the safety or well being of something or someone
+having no relationship to the querent are assigned directly to the ascendant.
+This effectively takes the querent out of the horary and is used where the
+querent has no involvement in the situation; for example, ‘will the missing
+person I read about be found alive?’, ‘is the ship safe or has it been sunk?’.
+The rule applies where the question is asked out of sympathetic concern. If
+the question regards an enemy of the state or someone the querent feels
+opposed to (for example, ‘will the escaped murderer be caught?’, ‘will the
+invaders be successful?’) it doesn’t apply – particular or general enemies
+are signified by the 7th house.
+In Mundane Astrology: The common people or general state of the nation.
+The country and its inhabitants as a whole; its general condition of
+prosperity and health or the reverse.
+In Lawsuits or Conflicts: Whoever initiates the action. For the
+commencement of a trial, the prosecution.
+In Events: Generally it signifies whoever makes the first move; in
+business, who makes the proposal; in war, who makes the first offence; in
+games, the home team.
+In Medical Matters: The head and face: eyes, ears, mouth, hair, nose,
+tongue, teeth; Culpeper notes: “whatsoever is above the first vertebra of the
+neck”.1
+Saturn, Mars or the north node in this house denote a blemish in the
+face, or in the part of the body represented by the sign on the cusp; Lilly
+notes:
+“as if Aries be in the ascendant, the mark, mole, or scar is without fail in the head or
+face; and if few degrees of the sign ascend, the mark is in the upper part of the head; if
+the middle of the sign be on the cusp, the mole, mark or scar is in the middle of the face,
+or near it; if the later degrees ascend, the face is blemished near the chin, towards the
+neck”.2
+
+<<<PAGE 77>>>
+In decumbiture charts the 1st house represents the patient, whilst the
+condition of its ruler shows the strength of their vitality – as opposed to the
+6th house ruler which represents the disease. If the 1st house ruler is
+stronger than the 6th, the patient will overcome the illness.
+In Commerce: The buyer.
+Colours: White and pale colours. Lilly notes:
+“Of colours, it hath the white; that is, if a planet be in this house that hath signification of
+white, the complexion of the party is more pale, white or wan; or if you enquire after the
+colour of the clothes of any man, if his significator be in the first house, and in a sign
+corresponding, the party’s apparel is white or grey, or somewhat near that colour, so also
+if the question be for cattle, when their significators are found in this house, it denotes
+them to be of that colour or near it”.3
+Qualities: Cardinal, masculine, diurnal.
+Direction: East.
+Associated Planets and Signs: Mercury has its joy in the 1st; Lilly notes:
+“because it represents the head, and he the tongue, fancy and memory: when he is well
+dignified and posited in this house, he produces good orators”.4
+Aries and Saturn are co-significators, of which Lilly writes:
+“for as this house is the first house, so is Aries the first sign, and Saturn the first of the
+planets; and therefore when Saturn is but moderately well fortified in this house, and in
+any benevolent aspect of Jupiter, Venus, Sun or Moon, it promises a good sober
+constitution of body, and usually long life”.5
+Names: The Eastern angle, Ascendant (‘what is rising’), Horoscope (‘hour
+watcher’), Anatole (‘east/sunrise’); House of Life.
+The Second House
+Main Rulerships: Resources, material comforts, earnings and all issues
+concerning wealth or of a financial nature. The manner of attaining wealth
+(note sign on cusp, planetary ruler and its condition). Personal goods and
+belongings, assets, income, gain, money lent to others, profit (or loss when
+
+<<<PAGE 78>>>
+afflicted), supporters and assistance from others. Succedent houses
+generally show the resources and support given to the preceding angle, ie.,
+the 5th will show the financial status and assistants of the father, the 8th
+will show the wealth of the partner and the enemy’s resources and
+supporters, and the 11th will show the friends and supporters of whoever is
+in power and the profit to be made from the business.
+In Horary Astrology: The querent’s finances and assets; any personal or
+‘moveable’ possession (real estate or property falls under the rulership of
+the 4th house, although the 2nd house is still relevant in showing the
+financial implications of property deals). If someone asks about the
+financial prospects of selling their car this is a 2nd house matter concerning
+a personal possession; in other matters cars generally fall under the
+rulership of the 3rd house of day-to-day travel issues. In lost property
+questions, use the 2nd house and its ruler to signify the missing item.
+Always be aware of the condition of the 2nd house and its ruler in any
+question where money is important – where a financial agreement is sought,
+a strong 2nd house ruler applying to good aspects indicates financial benefit
+to the querent, but a weak 2nd-ruler and strong 8th-ruler suggests a loss for
+the querent and gain for the other party. This is equally true in questions
+relating to gambling and stocks and shares. See the 8th house for issues
+relating to loans.
+In Mundane Astrology: The nation’s assets and financial status. The
+treasury, the exchequer, revenue and all places and activities concerned with
+money-making; such as banks, the stock exchange, financial institutions,
+money markets and trade. Exports and money lent to other nations. Ibn Ezra
+placed food under this house and we may assume that in mundane charts it
+influences the status and value of the nation’s crops, produce, general
+resources and essential supplies.
+In Lawsuits or Conflicts: In war charts this house shows allies and
+supporters of whoever initiates the conflict; their ammunition and
+resources.
+In Lawsuits: Friends, assistants, witnesses and those who act as a resource
+for the prosecution.
+
+<<<PAGE 79>>>
+In Events: As above applied to whoever initiates the action.
+In Medical Matters: The throat and neck, down towards the shoulders.
+In Commerce: The financial status of the buyer.
+Colours: Green.
+Qualities: Succedent, feminine, nocturnal.
+Direction: East-north-east.
+Associated Planets and Signs: No planet rejoices in this house. Co-
+significators are Jupiter and Taurus. Lilly notes:
+“if Jupiter be placed in this house, or be lord hereof, it is an argument of an estate or
+fortune. Sun and Mars are never well placed in this house, either of them show
+dispersion of substance, according to the capacity and quality of him that is either born
+or asks the questions”.6
+The Sun ruling the 2nd is not such an affliction.
+Names: Anaphora (‘rising up’): House of Wealth and Substance.
+The Third House
+Main Rulerships: Brothers and sisters, cousins or general members of the
+family (not parents, they belong to the 4th house). Neighbours and our local
+neighbourhood. The environment in which we live and work. Short
+journeys or travel made on a regular basis. Lilly says,“as he may go and
+come in a day, or at least on the next”7 and notes that this house shows a
+propensity for “oft removing from one place to another”.8
+Letters, rumours, reports, messages and messengers. Communications
+generally. Newspapers, magazines, telephones, postal service. Written
+deeds and contracts. Speeches and debates. Our ability to express ourselves
+and communicate to others. Languages, mobility skills and self-expression.
+In Horary Astrology: As above applied to the querent. In questions of a
+financial or business nature, an affliction to the 3rd house warns of
+
+<<<PAGE 80>>>
+difficulties in contracts and written deeds. In relationship charts, it suggests
+communication problems or mental incompatibility – Mars in the 3rd can
+show arguments and cross words; Saturn, an inability to communicate. Ivy
+Goldstein-Jacobson states that it is the house of gossips and visitors, and
+that a malefic in the 3rd can show an unwelcome visitor or unwanted
+delivery.9
+In Mundane Astrology: National rumours, propaganda. The press and
+press releases. All means of disseminating news and information such as
+the post office, communication networks, computers, telephones, faxes,
+newspapers, magazines, emails, publications, literature, periodicals and
+television.
+The transport system and all means of inland transit, locomotion or
+communication, such as railways, road and river traffic, cars, underground
+networks, etc.
+The education system, although where this effects children it is also
+represented by the 5th house. Public opinion and issues concerning freedom
+of speech; international and common languages. It also rules neighbouring
+nations and documents that relate to international agreements.
+In Lawsuits or Conflicts: In lawsuits this house relates to writs, contracts
+and deeds that affect the prosecution. It also signifies all written statements
+and the ability to affect the situation through letters and correspondence. In
+war charts it represents the propaganda of the initiator.
+In Events: As above, related to whoever initiates the action. Barbara
+Watters notes:
+“if very afflicted it may indicate that he who makes an offer or proposes something is
+lying”.10
+In Medical Matters: The shoulders, arms, hands and fingers.
+In Commerce: Written reports, deeds, contracts affecting the purchase.
+Colours: Orange.
+Qualities: Cadent, masculine, nocturnal.

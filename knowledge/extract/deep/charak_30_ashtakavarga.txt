@@ -1,0 +1,471 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 438-452
+# compiled into: ashtakavarga.json (BAV tables)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 438>>>
+
+...XXX...
+Ashtakavarga
+Earth, water, fire, air, ether, mind and
+reason and ego – thus is
+My nature divided eightfold.
+Gita VII/4
+Ashtakavarga is a unique system of prediction in Vedic
+astrology. It is
+primarily used to decipher the results of planetary transits.
+Combined with
+the dasha system, it helps in making remarkably accurate
+predictions. The
+whole system of Ashtakavarga is quite elaborate and,
+therefore, beyond the
+scope of this work. Here, only the elementary concepts of
+this technique of
+prediction are being presented. For greater details, the
+reader is referred to
+the Ashtakavarga: The Dots of Destiny by Vinay Aditya.
+Basis of Ashtakavarga
+1.Each chart has seven planets (from the Sun to Saturn)
+and the lagna from
+where all good or bad results ensue. The Ashtakavarga (i.e.,
+ eight-fold)
+system considers these eight points as of special relevance. Rahu
+and Ketu
+are not considered in Ashtakavarga calculations, though there is some
+controversy in this regard.
+2.Each of the seven planets influences certain houses
+ beneficially when
+considered from the above-mentioned eight points. The
+ remaining houses
+are influenced adversely. The houses beneficially influenced
+are marked by a
+rod or a dot (called henceforth as the benefic point).
+3.Seven different charts are thus possible for the
+ seven different planets.
+These are called as Bhinnashtakavargas. The position
+of each planet in the
+
+<<<PAGE 439>>>
+natal chart is of primary consideration.
+4.Any given house can have a maximum of eight benefic
+points contributed
+by the planet in respect of seven planets and the lagna. The
+ greater the
+number of benefic points in a house, the stronger and more benefic
+it is.
+5.When the benefic points contributed by each planet in
+different signs are
+added, we get a Sarvashtakavarga. The Sun contributes a
+total of 48 benefic
+points, the Moon contributes 49 points, Mars contributes 39
+points, Mercury
+contributes 54 points, Jupiter contributes 56 points, Venus
+ contributes 52
+points, and Saturn contributes 39 benefic points. A total of 337
+ benefic
+points are contributed, by the seven planets, to various houses in
+relation to
+seven planets and the lagna.
+6.In general, good results accrue when planets transit
+ strong houses (i.e.,
+houses containing greater number of benefic points) and
+bad results follow
+when they transit weak houses (with fewer benefic points).
+Below are given the specific houses where each of the seven
+ planets
+proves auspicious when considered from each of the eight cardinal
+points
+(the seven planets and the lagna). This gives the Bhinnashtaka of the
+seven
+planets.
+The Sun
+The Sun is beneficial in the houses indicated against
+ each of the eight
+cardinal points, as follows:
+(1) Sun     1,   2,   4,   7,   8,   9,   10,       11,
+(2) Moon      3,   6,   10,       11,
+(3) Mars  1,   2,   4,   7,   8,   9,   10,       11,
+(4) Mercury 3,   5,   6,   9,   10,       11,       12,
+(5) Jupiter     5,   6,   9,   11,
+(6) Venus      6,   7,   12,
+(7) Saturn     1,   2,   4,   7,   8,   9,   10,       11,
+(8) Lagna 3,   4,   6,   10,       11,       12,
+Total: 48 benefic points.
+The Moon
+
+<<<PAGE 440>>>
+The Moon is beneficial in the houses indicated against
+ each of the eight
+cardinal points, as follows:
+(1) Sun     3,   6,   7,   8,   10,       11,
+(2) Moon      1,   3,   6,   7,   10,       11,
+(3) Mars  2,   3,   5,   6,   9,   10,       11,
+(4) Mercury 1,   3,   4,   5,   7,   8,   10,       11,
+(5) Jupiter     1,   4,   7,   8,   10,       11,       12,
+(6) Venus      3,   4,   5,   7,   9,   10,       11,
+(7) Saturn     3,   5,   6,   11,
+(8) Lagna 3,   6,   10,       11,
+Total: 49 benefic points.
+Mars
+Mars is beneficial in the houses indicated against each
+of the eight cardinal
+points, as follows:
+(1) Sun     3,   5,   6,   10,       11,
+(2) Moon      3,   6,   11,
+(3) Mars  1,   2,   4,   7,   8,   10,       11,
+(4) Mercury 3,   5,   6,   11,
+(5) Jupiter     6,   10,       11,       12,
+(6) Venus      6,   8,   11,       12,
+(7) Saturn     1,   4,   7,   8,   9,   10,       11,
+(8) Lagna 1,   3,   6,   10,       11,
+Total: 39 benefic points.
+Mercury
+Mercury is beneficial in the houses indicated against
+ each of the eight
+cardinal points, as follows:
+(1) Sun     5,   6,   9,   11,       12,
+(2) Moon      2,   4,   6,   8,   10,       11,
+(3) Mars  1,   2,   4,   7,   8,   9,   10,       11,
+(4) Mercury 1,   3,   5,   6,   9,   10,       11,       12,
+
+<<<PAGE 441>>>
+(5) Jupiter     6,   8,   11,       12,
+(6) Venus      1,   2,   3,   4,   5,   8,   9,   11,
+(7) Saturn     1,   2,   4,   7,   8,   9,   10,       11,
+(8) Lagna 1,   2,   4,   6,   8,   10,       11,
+Total: 54 benefic points.
+Jupiter
+Jupiter is beneficial in the houses indicated against
+each of the eight cardinal
+points as follows:
+(1) Sun     1,   2,   3,   4,   7,   8,   9,   10,       11,
+(2) Moon      2,   5,   7,   9,   11,
+(3) Mars  1,   2,   4,   7,   8,   10,       11,
+(4) Mercury 1,   2,   4,   5,   6,   9,   10,       11,
+(5) Jupiter     1,   2,   3,   4,   7,   8,   10,       11,
+(6) Venus      2,   5,   6,   9,   10,       11,
+(7) Saturn     3,   5,   6,   12,
+(8) Lagna 1,   2,   4,   5,   6,   7,   9,   10,       11,
+Total: 56 benefic points.
+Venus
+Venus is beneficial in the houses indicated against
+each of the eight cardinal
+points, as follows:
+(1) Sun     8,   11,       12,
+(2) Moon      1,   2,   3,   4,   5,   8,   9,   11,       12,
+(3) Mars  3,   5,   6,   9,   11,       12,
+(4) Mercury 3,   5,   6,   9,   11,
+(5) Jupiter     5,   8,   9,   10,       11,
+(6) Venus      1,   2,   3,   4,   5,   8,   9,   10,       11,
+(7) Saturn     3,   4,   5,   8,   9,   10,       11,
+(8) Lagna 1,   2,   3,   4,   5,   8,   9,   11,
+Total: 52 benefic points.
+Saturn
+
+<<<PAGE 442>>>
+Saturn is beneficial in the houses indicated against
+each of the eight cardinal
+points, as follows:
+(1) Sun     1,   2,   4,   7,   8,   10,       11,
+(2) Moon      3,   6,   11,
+(3) Mars  3,   5,   6,   10,       11,       12,
+(4) Mercury 6,   8,   9,   10,       11,       12,
+(5) Jupiter     5,   6,   11,       12,
+(6) Venus      6,   11,       12,
+(7) Saturn     3,   5,   6,   11,
+(8) Lagna 1,   3,   4,   6,   10,       11,
+Total: 39 benefic points.
+Example
+It is now possible to tabulate the above information in
+respect of each
+planet. This would give us a ‘scattered’ picture known as the
+ “Prastaraka
+Ashtakavarga”. From this can be derived the Bhinnashtaka varga of
+ each
+planet.
+Let us work out the Bhinnashtaka charts for a native (John
+F. Kennedy)
+born on May 29, 1917 at 3:15:28 hours (LMT), Long. 071W08', Lat.
+42N20'
+(USA). The horoscopic chart is as under.
+
+<<<PAGE 443>>>
+Similarly Prastaraka and Bhinnashtaka charts are prepared
+ for all the
+planets. The Bhinnashtaka charts for the remaining planets are
+given below.
+Prastaraka charts for the remaining planets are not being given
+for reasons of
+constraints of space.
+
+<<<PAGE 444>>>
+
+<<<PAGE 445>>>
+
+<<<PAGE 446>>>
+Adding up the benefic points obtained by different signs
+(and houses),
+we get what is called as the Sarvashtakavarga. This gives a ready
+view of the
+relative beneficence or maleficence (also strength and weakness) of
+different
+houses in numerical terms.
+A maximum of 56 benefic points are possible in a given sign
+ in the
+Sarvashtakavarga chart. Twenty-eight is considered as the average
+strength;
+more than this makes the house progressively strong; less than this
+progressively weak.
+Table XXX-1 is being given below to indicate benefic points
+contributed
+to the various houses as considered from each of the seven planets
+and the
+lagna. These may be used to make a Sarvashtakavarga chart without
+making
+any Bhinnashtaka chart.
+Table XXX-2 shows the application of this information to
+chart XXX-1.
+
+<<<PAGE 447>>>
+Ashtakavarga for Daily Use: The Concept of Kakshya
+The Prastaraka charts for different planets can be
+ represented in a
+different manner to make use of the concept of Kakshyas. Each
+rashi or sign
+is divided into eight equal parts or Kakshyas, each of an extent
+ of 3°45'.
+They are owned by the seven planets and the lagna in the following
+manner:
+
+<<<PAGE 448>>>
+The Prastaraka chart for each planet can thus be readjusted
+to bring in the
+concept of the Kakshyas. The Prastaraka chart for the Sun for
+ the chart
+XXX-1 would thus appear as given below:
+Prastarakas for the different planets can be made in a
+ similar manner.
+When a planet in transit happens to be within the first 3°45'
+of a sign, it is
+considered to be in the Kakshya of Saturn. Between 3°45' and
+ 7°30' of a
+sign, the planet in transit is considered to be in the Kakshya of
+ Jupiter.
+Similarly, a planet’s transit in various Kakshyas in the Prastaraka of
+a given
+planet can be ascertained. A planet is considered to be productive of
+benefic
+results when it transits a Kakshya where there is a benefic point.
+Kakshyas
+for daily use: The concept of Kakshyas can be employed for
+daily use.
+The method of this application is simple. Prepare the Prastaraka
+charts for the
+ seven planets. Then find out the longitudes of each of the
+seven planets on a
+ given day. In the Prastaraka of the Sun, see if the
+
+<<<PAGE 449>>>
+transiting Sun is passing
+through a Kakshya with a benefic point. For the
+Moon’s transit, consider the
+Prastaraka of the Moon. See for all the planets.
+When several planets are
+ transiting the Kakshyas where the natal planets
+have contributed benefic
+points, that day is auspicious. When several planets
+transit the Kakshyas where
+there are no benefic points, it is adverse time for
+the native. Depending upon
+the number of planets transiting Kakshyas with
+benefic points, the results in
+general will be as follows:
+1. All seven planets transiting Kakshya with a benefic
+point: Excellent; day
+of achievements.
+2. Six planets: Excellent.
+3. Five planets: Very good.
+4. Four planets: Good results; this is the borderline.
+5. Three planets: Average; some difficulties.
+6. Two planets: Very bad.
+7. One planet: Extremely bad; set backs, accidents.
+8. No planet transiting a Kakshya with a benefic point:
+ Extremely bad,
+accidents, even death.
+The above mentioned results must only be applied with
+ caution. The
+Kakshyas are not the final word in Ashtakavarga. It must also be
+remembered that Ashtakavarga is only a system of transits and, therefore,
+subservient
+to the natal chart as well as the dasha system.
+General Principles Applicable to Ashtakavarga
+As is true of all horoscopic study, Ashtakavarga also
+sheds light on the two
+basic aspects of a chart:
+A.The static aspect, by the number of benefic points in
+different houses. This
+shows the promise inherent in a horoscopic chart.
+B.The dynamic aspect, when dashas and transits are
+ applied to the
+Ashtakavarga charts. It involves certain subtle calculations
+ which,
+meticulously done, yield extraordinary results. This indicates the time
+ of
+fructification of the promise inherent in a chart.
+
+<<<PAGE 450>>>
+Some very general principles governing the use of
+ Ashtakavarga are
+described below.
+1.Ashtakavrga must be calculated on the basis of the
+Rashi position of the
+planets and not the Bhava position which may differ from
+the natal chart.
+2.Ashtakavarga is subservient to the dashas as well as
+the inherent promise
+in the horoscope. It will not take precedence over the
+natal chart but is a
+most substantial complimentary aid. In any given chart, a
+particular dasha
+indicates happenings of a particular nature. The extent and
+nature of such a
+promise fructifying during the relevant dasha must be judged
+ from the
+Ashtakavarga.
+3.Primarily, the results of Ashtakavarga are determined
+ from Gochara or
+transit of planets over different houses as reckoned from the
+ lagna or the
+Moon.
+4.The nature of results produced by a planet depend
+upon the house it owns
+or occupies, as well as the natural significations of
+this planet.
+5.In a Bhinnashtakavarga, the maximum number of benefic
+points is eight
+and the minimum is zero. Four points in a house indicates
+average or mixed
+results. As the number of benefic points increases to 5, 6 or
+ 7, the
+beneficence of the house increa­ses. With 8 points in a house, excellent
+results are expected.
+Houses with 3, 2 or 1 benefic points become progressively
+inauspicious.
+Houses with no benefic points in them are extremely bad. Transits
+ of
+malefics through these houses prove decidedly harmful.
+6.The results produced by the varying number of benefic
+points in a house
+have been described thus in the classics:
+No benefic point: Humiliation,
+disease and danger.
+1 point: Disease, misery,
+hardships, aimlesswandering.
+2 points: Mental anguish,
+censure by the ruler, deprivation by the thieves.
+3 points: Mental and physical
+discomforts.
+4 points: Both good and bad
+results in equal measure.
+5 points: Learning, wealth,
+children, good clothes.
+
+<<<PAGE 451>>>
+6 points: Good character,
+ victory over opponents, wealth, vehicles,
+renown.
+7 points: Honours, awards,
+extremely good fortune.
+8 points: Regal grace and
+glory.
+7.Planets which are strong, exalted or placed in their
+own houses lose much
+effect if they are associated with fewer benefic points in
+ their
+Bhinnashtakavarga charts.
+8.Weak, debilitated or combust planets retain much of
+ their efficacy if
+associated with greater than average number of benefic points
+ in their
+Ashtakavarga charts.
+9.Sarvashtakavarga chart provides an overall view of
+ the strength and
+weakness of different houses. It is the most elaborate and the
+most scientific
+of all transits as it contains a cumulative planetary influence
+of all the seven
+planets in relation to all the seven planets and the lagna.
+Such observations,
+and several others, can be made on its basis as are given hereunder:
+(a) When the lagna
+and the eighth house have more than average number
+(28 is the average number!)
+of benefic points, the native possesses good
+health. Less than average number
+ of benefic points in these houses
+indicates proneness to disease. In the chart
+of J.F. Kennedy, the eighth
+house is relatively weak.
+(b) Larger number
+of benefic points in the eleventh house compared to
+the tenth indicates greater
+ achievements (or earnings) through less
+labour.
+(c) Larger number
+of benefic points in the twelfth house compared to the
+eleventh indicates
+ excessive spending compared to the earnings. Or it
+may mean benefits or
+earnings from foreign countries.
+(d) More benefic
+ points in the second house compared to the twelfth
+stresses on greater
+accumulation and less spending or enjoyments.
+(e) A strong sixth
+ house may indicate struggles and a proneness to
+illness.
+10.A quantum jump between any two houses indicates a
+significant rise or
+fall as the planets transit from one house to the next.
+
+<<<PAGE 452>>>
+11.An observation of Col. Gaur (see Professions by Col.
+A.K. Gaur) is that
+when the fifth house has greater number of benefic points
+compared to the
+tenth house, the career of the native suffers, unless a strong
+eleventh house
+acts as an antidote. Whether this principle can be extended to
+other houses of
+the chart is a matter of research.
+12.Transits of Jupiter through strong houses confer
+ dignity on the native;
+those of Saturn confer power and leadership.
+13.When the MD, AD and PD lords transit strong houses,
+ they produce
+benefic results. When they transit weak houses, the results
+ produced are
+adverse.
+14.For daily application, the consideration of transit
+ of planets through
+Kakshyas yields reasonably dependable results, especially
+when considered
+along with the dasha-antardasha.
+15.Ashtakavarga has been advocated to be used in
+Muhurta also. A simple
+method of using Ashtakavarga for Muhurta is to choose a
+lagna from which
+a particular house, which happens to signify the intended
+undertaking, has
+greater num­ber of benefic points. The significator for the
+ intended
+undertaking should also be transiting a strong house. For example, the
+Sun is
+the karaka for official matters or government jobs, Mars stands for land
+deals and houses, Venus for marriage or vehicles, Jupiter for children or
+education, etc. These planets must be transiting strong houses at the time of
+such pursuits as pertain to these significators.
+16.Accuracy in results demands the use of subtler
+ techniques of
+Ashtakavarga, integrated with dashas and transits.

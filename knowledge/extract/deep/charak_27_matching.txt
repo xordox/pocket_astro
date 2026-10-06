@@ -1,0 +1,472 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 409-421
+# compiled into: ashtakoota.json, doshas.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 409>>>
+
+...XXVII...
+Matching of Charts: The Traditional
+Method
+The great brahma (the Maya with the three
+ qualitites of
+Sattva, Rajas and Tamas) is My womb; in that I establish the
+seed. From that results the birth of all beings, O’ Bharata 
+(Arjuna).
+Gita XIV-3.
+Marriage has been considered a very
+ sacred duty of human beings in
+India. It involves an intimate link between two
+ different individuals.
+Generally in India, amongst the traditional people, the
+ two individuals
+involved in the act of marriage are strangers to each other,
+their union often
+having been arranged by their parents. There has been some
+change lately,
+particularly amongst the urban populace, so that the marrying
+couple meet,
+or often select, each other before being tied in wedlock.
+The traditional Indian marriage being between two strangers,
+the ancient
+seers devised astrological methods to choose the right partner.
+This involves
+a process of matching of the horoscopes of the prospective bride and
+groom
+before getting them united in wedlock. The methods of horoscopic matching
+involve different factors which aim to ensure a physical as well as a mental
+matching of the prospective partners, keeping in view the social system of
+those times. While the traditional techniques need to be applied in a
+modified
+manner in the changed social ambience of today, they are still valid
+in a
+general sense. It will be no exaggeration to state that, even today, more
+
+<<<PAGE 410>>>
+than
+ninety percent of Hindus have their horoscopes matched before getting
+married.
+In fact, the natal astrology in ancient India was primarily directed at
+marriage, progeny and Muhurta.
+Personal Selection
+Even in the traditional India of ancient times, couples have
+fallen in love
+and united in wedlock. The scriptures deem that a relationship
+based on true
+mutual love needs no further matching of horoscopic charts of the
+couple.
+The Blemish of Mars
+The disposition of Mars in a chart is considered to be of
+ special
+significance while considering a marital relationship. The location of
+Mars
+in the houses 1, 4, 7, 8 and 12 is labelled as ‘Mangala Dosha’ or the
+blemish
+of Mars. If Mars is located in any of these houses, in the chart of the
+girl, it
+is said to lead to widowhood by causing death of her husband. Similar
+disposition of Mars in the chart of the boy can cause death of his wife. It is
+said that such disposition of Mars in a horoscope must be considered both
+from
+the lagna as well as the Moon. When the horoscopes of the bride and
+the groom
+both are free from Mangala Dosha, when considered both from
+the lagna and the
+Moon, the situation is favourable and needs further study.
+The blemish of Mars may be considered nullified in the
+ following
+circumstances:
+(a)When the blemish exists in the horoscopes of both
+the boy and the girl.
+(b)When one chart has the blemish of Mars while the
+other chart shows its
+neutralisation by the placement of another malefic (Sun,
+ Saturn, Rahu or
+Ketu) in one of the houses mentioned above.
+From the above it is apparent that any malefic located in
+the houses 1, 4,
+7, 8 or 12 from the lagna as well as the Moon in a given chart
+is not good for
+marital harmony unless equally matched by a similar disposition
+of malefics
+in the chart of the spouse. Preferably, the number of malefics influencing
+these houses must also be matched. Sometimes, remedial measures are
+prescribed
+to neutralise the Mangala Dosha.
+Matching the Traditional Way
+
+<<<PAGE 411>>>
+Eight different ‘Kootas’ (the Ashtakoota!) or ‘factors of
+matching’ are
+taken into consideration while matching the charts of the
+prospective bride
+and bridegroom. These are based on the sign and the nakshatra
+of the natal
+Moon in the charts of the couple.
+These eight factors, which are successively stronger in
+ effect and
+considered to be possessive of successively increasing ‘gunas’ or
+ benefic
+qualities, are as follows:
+1. Varna
+2. Vashya
+3. Taara
+4. Yoni
+5. Graha-maitri
+6. Gana
+7. Bhakoota
+8. Naadi
+With Varna having one guna and the successive Kootas
+possessing the
+number of gunas progressively increasing by one until Naadi
+possesses eight
+gunas, a maximum of thirty-six gunas are possible. When a
+horoscopic pair
+shows anything from 24 to 36 gunas, it is considered an
+excellent match.
+When the match shows 12 to 24 gunas, it is considered only
+mediocre; less
+than 12 is adverse and generally not recommended for marriage.
+Very strict
+adherence to these rules may not be necessary when the planetary
+disposition in both charts is otherwise favourable.
+1. Varna
+The twelve Moon signs, in four groups of three each,
+indicate the four castes
+as follows:
+(i) Brahmins (the literate!): signs 4, 8, 12
+(ii) Kshatriyas (the warriors!): signs 1, 5, 9
+(iii) Vaishyas (the traders!): signs 2, 6, 10
+(iv) Shudras (the unskilled!): signs 3, 7, 11
+
+<<<PAGE 412>>>
+The first Varna (Brahmin) is the superior most and the
+subsequent ones
+are inferior in that order so that the Shudra is the inferior
+most. The Varna of
+the bridegroom should be the same as that of the bride, or
+superior to that of
+the bride. This earns the couple one guna or benefic point.
+ This Koota
+ensures that the woman may only be raised higher in status.
+2. Vashya
+The word ‘Vashya’ means ‘controllable’. The Moon signs of
+the bride
+and the bridegroom must fall in the same group, to earn two benefic
+points;
+or the bride’s sign should be in the groom’s ‘Vashya’ for the same
+benefic
+score. The signs are classified as follows:
+(i)Chatushpada (quadruped): Mesha, Vrisha, second half
+of Dhanu, first half
+of Makara.
+(ii)Manava/Nara (biped) :Mithuna, Kanya, Tula, first
+ half of Dhanu,
+Kumbha.
+(iii)Jalachara (aquatic): Karka, Meena, second half of
+Makara.
+(iv)Vanachara (wild): Simha (not included amongst the
+quadrupeds above).
+(v)Keeta (insect): Vrishchika. (Karka has been included
+ under Jalachara,
+vide supra).
+All signs except Vrishchika (the Keeta) are Vashya for Simha
+ (the
+Vanachara sign). Except Simha, all signs are Vashya for Manava (the biped
+signs). The Jalachara serves as food for Manava as does Chatushpada for
+Vanachara, and these combinations are not favoured. The following table
+(Table
+ XXVII-2) shows the points gained from Vashya matching of the
+couple’s charts.
+
+<<<PAGE 413>>>
+3. Taara
+Count from the bride’s nakshatra to the groom’s (both
+ inclusive) and
+divide by nine. A remainder of 3, 5 or 7 is considered malefic
+and yields ‘0’
+gunas. Else, it is benefic and merits 1½ points. Similarly count
+ from the
+groom’s nakshatra to the bride’s and divide by nine. A remainder of 3,
+5 or 7
+is again malefic (‘0’ gunas), while anything else is benefic and merits
+1½
+points. A fully benefic Taara (favourable countings in both cases) thus
+yields
+three benefic points. Table XXVII-3 gives the benefic points yielded by
+Taara in a couple’s charts depending upon the remainder obtained after
+dividing
+by nine the number obtained by (i) counting the nakshatras from the
+groom’s
+nakshatra to the bride’s (horizontal), and (ii) from the bride’s to the
+groom’s
+(vertical).
+4. Yoni
+
+<<<PAGE 414>>>
+The different nakshatras are said to possess the ‘Yonis’ of
+ different
+animals. The birth nakshatras of the bride and the groom should
+indicate the
+Yonis of animals that are not mutually hostile. If they indicate
+the same Yoni
+or a neutral Yoni, it is considered desirable. Fourteen
+categories of Yonis,
+each indicated by two nakshatras, are described. For this
+purpose, the Abhijit
+nakshatra (extending from 6°40'00" to 10°53'20"
+in the Makara rashi) is also
+to be considered, raising the total number of
+nakshatras to twenty-eight.
+The nakshatra pairs, their relevant Yonis and the
+intensely inimical Yoni are
+indicated below:
+When the groom and the bride belong to the same Yoni, they
+ earn 4
+points. If they belong to the intensely inimical Yonis, they get no
+points. In
+case of mutually friendly Yonis, they get 3 points, for neutral
+Yonis 2 points,
+and for simply inimical Yonis only 1 point. Table XXVII-4
+ indicates the
+gunas earned by the couple on the basis of their Yonis.
+
+<<<PAGE 415>>>
+5. Graha-maitri
+This is based on mutual inclination of the lords of the Moon
+signs of the
+bridegroom and the bride. When the two lords are friends or are
+the same,
+full 5 points are granted. When the lord of the Moon sign of the one
+ is
+friendly towards the other while the other’s lord is neutral, 4 points are
+given. When both rashi lords are neutral to each other, 3 points are given.
+When one is friendly to the other and the other is inimical to it, only 1 point
+is allotted. Half a point is given where one planet is neutral to the other
+while
+the other is inimical. No gunas are earned if both the Moon-sign lords
+are
+mutually inimical. See Table XXVII-5 for Graha-maitri gunas.
+
+<<<PAGE 416>>>
+6. Gana
+The twenty-seven nakshatras are divided into three
+ categories of nine
+nakshatras each. Each category of nine nakshatras indicates
+one of the three
+Ganas, viz., Deva-gana, Manushya-gana and Rakshasa-gana. The
+nakshatras
+indicating these Ganas are as follows:
+(a)Deva
+ Gana: Ashwini, Mrigashira, Punarvasu, Pushya, Hasta, Swati,
+Anuradha, Shravana, Revati.
+(b)Manushya-gana:
+Bharani, Rohini, Ardra, the three Purvas (P. Phalguni, P.
+Asadha, P.
+ Bhadrapada), the three Uttaras (U. Phalguni, U. Asadha, U.
+Bhadrapada).
+(c)Rakshasa-gana:
+ Krittika, Ashlesha, Magha, Chitra, Vishakha, Jyeshtha,
+Moola, Dhanishtha,
+Shatabhishaj.
+The benefic points earned by the couple depending upon their
+ Gana
+based on their Moon’s nakshatras are indicated in Table XXVII-6.
+7. Bhakoota
+Here, the mutual disposition of the natal Moon signs of the
+ couple is
+considered. When the Moon signs of the couple happen to fall mutually
+in
+positions 2/12, 6/8 or 5/9, no gunas are earned. Under other situations,
+seven
+
+<<<PAGE 417>>>
+points are allotted. Table XXVII-7 indicates the Bhakoota-gunas for
+various
+combinations of the Moon signs of the couple.
+While considering Bhakoota gunas, a few points need to
+be taken note of.
+These are as follows:
+(a)6/8 position: The sixth rashi from an odd sign and
+the eighth from an even
+sign form malefic mutual 6/8 positions since the lords
+ of such signs are
+mutually hostile. On the other hand, the sixth rashi from an
+even sign and the
+eighth from an odd sign form favourable mutual 6/8 positions
+since the lords
+of such signs are mutually not hostile but friendly. A
+ favourable 6/8
+disposition of the Moon signs of the couple is not too bad.
+(b)An adverse 6/8 position is supposed to lead to death
+of a marital partner.
+A mutual 2/12 position of the Moon signs of the couple
+ leads to penury
+while a mutual 5/9 disposition causes childlessness.
+(c)When the two marital partners have the same Moon
+ sign in their natal
+charts, it in considered favourable provided that the
+nakshatras of the two
+Moons are different.
+(d)When the rashi lords of the two Moons in mutual 2/12
+ positions are
+friendly, the blemish of the 2/12 disposition is greatly
+ diminished. It is
+further desirable to have the bride’s Moon sign identical
+with the 12th house
+of the groom’s Moon instead of vice versa.
+8. Naadi
+
+<<<PAGE 418>>>
+The twenty-seven nakshatras fall into three Naadis as
+follows:
+(a)Adya:
+ Ashwini, Ardra, Punarvasu, Uttara Phalguni, Hasta, Jyeshtha
+Moola,
+Shatabhishaj, P. Bhadrapada.
+(b)Madhya:
+ Bharani, Marigashira, Pushya, Purva Phalguni, Chitra,
+Anuradha, P. Asadha,
+Dhanishtha, U. Bhadrapada.
+(c)Antya:
+Krittika, Rohini, Ashlesha, Magha, Swati, Vishakha, U. Asadha,
+Shravana, Revati
+The Nakshatras of the groom and the bride should not
+fall in the same Naadi.
+The gunas are considered as shown in Table XXVII-8.
+The following points need consideration while judging
+the Naadi-gunas:
+(a)When both the bride and the groom have the same
+ Rashi but different
+nakshatras, the blemish of the same Naadi does not apply.
+(b)When both the bride and the groom have the same nakshatra
+but different
+rashis, again the blemish of the Naadi does not apply.
+(c)When both the bride and the groom fall in the Adya
+Naadi, the groom
+suffers. When they both have Antya Naadi, the bride suffers.
+ When both
+have Madhya Naadi, both bride as well as groom suffer adverse
+ effects,
+including death.
+The process of chart matching in respect of a couple,
+considering the eight
+Kootas or gunas, is being shown here (Charts XXVII-1 and
+ 2). The
+nakshatra of the male is Moola (19th nakshatra) and that of the female
+is
+Uttara Bhadrapada (26th nakshatra). Their rashis are Dhanu and Meena
+respectively.
+
+<<<PAGE 419>>>
+A total of twenty four gunas as available here falls in the
+ range of
+acceptability. It will also be seen that the chart of the male has
+Mars in the
+twelfth house and, therefore, indicates the Mangala Dosha. This
+ finds
+neutralisation in the chart of the female because of the placement of
+Rahu in
+the eighth. It might be preferable to have a horoscope where the
+Mangala
+
+<<<PAGE 420>>>
+Dosha is neutralised by a malefic occuping the same house in the chart
+of
+one spouse as occupied by Mars in that of the other.
+More About Naadi
+A more detailed method of reckoning Naadi has been suggested
+depending upon the nature of the nakshtras. According to this method, three
+different considerations are employed as follows:
+(a)Tri-Naadi
+ (three Naadis): This is considered in cases where the girl’s
+nakshatra belongs to the group of nakshatras that completely fall in a given
+sign. Such nakshatras include Ashwini, Bharani, Rohini, Ardra, Pushya,
+Ashlesha,
+Magha, P. Phalguni, Hasta, Swati, Anuradha, Jyestha, Moola, P.
+Asadha,
+ Shravana, Shatabhishaj, U. Bhadrapada, Revati. The Naadis for
+matching to be
+considered here are the same as shown above (Table XXVII-
+8).
+(b)Chatur-Naadi
+(four Naadis): When the girl’s nakshatra belongs to one of
+the
+nakshatras that has three of  its quarters in one sign (and one quarter in
+another), four Naadis are to be considered. The relevant nakshatras here are
+Krittika, Punarvasu, U. Phalguni, Vishakha, U. Asadha, P. Bhadrapada, i.e.,
+the
+nakshatras of the Sun and Jupiter.
+The four Naadis are as follows:
+(i) First Naadi: Krittika,
+ Magha, P. Phalguni, Jyeshtha, Moola, U.
+Bhadrapada, Revati.
+(ii) Second Naadi: Rohini,
+Ashlesha, U. Phalguni, Anuradha, P. Ashadha,
+P. Bhadrapada, Ashwini.
+(iii) Third Naadi: Mrigashira,
+ Pushya, Hasta, Vishakha, U. Ashadha,
+Shatabhishaj, Bharani.
+(iv) Fourth Naadi: Ardra,
+ Punarvasu, Chitra, Swati, Shravarna,
+Dhanishtha.
+(c)Pancha-Naadi
+ (five Naadis): This is to be applied where the girl’s
+nakshatra
+happens to occupy two adjacent nakshatras equally (i.e., it has its
+two
+quarters falling in two adjacent signs). These nakshatras are Mrigashira,
+Chitra and Dhanishtha, i.e., the nakshatras of Mars. The five Naadis to be
+considered are as given below:
+
+<<<PAGE 421>>>
+(i) First Naadi: Mrigashira,
+Chitra, Swati, Shatabhishaj, P. Bhadrapada.
+(ii) Second Naadi: Ardra,
+Hasta, Vishakha, Dhanishtha, U. Bhadrapada.
+(iii) Third Naadi: Punarvasu,
+U. Phalguni, Anuradha, Shravana, Revati.
+(iv) Fourth Naadi: Pushya,
+P. Phalguni, Jyeshtha, U. Ashadha, Ashwini,
+Rohini.
+(v) Fifth Naadi: Ashlesha,
+Magha, Moola, P. Ashadha, Bharani, Krittika.
+According to this method too, the nakshatras of the
+bridegroom and the
+bride should fall in different Naadis to earn the eight
+benefic points. Naadi
+matching ensures a long marital life and protection
+against dangers.
+The Ashta-Kootas mentioned here for matching the horoscopes
+ of
+prospective bride and bridegroom indicate the traditional method of
+horoscope matching. This method lays great stress on a mental match for the
+couple, hence its almost total reliance on the rashi or the Moon signs of the
+marital partners. When two horoscopes secure a score of 18 or above, out of
+a
+ possible total of 36, they are considered acceptable for marriage. The
+greater
+the score, the higher is the compatibility.
+It may, however, be pointed out that this is only one of the
+methods of
+matching the horoscopic charts. In actual matching, several
+ additional
+factors need to be considered. These include a thorough study of
+each of the
+two horoscopes separately, consideration of the longevity of the
+partners, the
+promise of a reasonably good marital life and  of progeny,
+ and the dasha
+pattern. Also to be considered are the vargas like the navamsha
+ and the
+Saptamsha. In the modern times, it also needs to be considered whether
+the
+partners want marriage primarily for progeny or for such other aspects of
+life
+as financial stability, excessive earning and professional excellence for
+one
+or both of them. In a way, the process of matching of charts for marriage
+has
+become more difficult and time consuming today than it used to be in the
+ancient times.

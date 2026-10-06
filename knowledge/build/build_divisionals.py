@@ -1,0 +1,89 @@
+#!/usr/bin/env python3
+"""Shodashavarga: the sixteen divisional charts, their construction rules,
+what each is read for, and the vimshopaka weighting schemes.
+
+Source: Charak, Elements of Vedic Astrology, ch. X (Vargas or Subtle Divisions);
+Sutton, Vargas — The Divisional Charts.
+"""
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+
+V = [
+ dict(id="D1", name="Rashi", parts=1, arc="30°00'", reads="the body and the whole life; every other varga is read against it",
+      rule="The sign itself."),
+ dict(id="D2", name="Hora", parts=2, arc="15°00'", reads="wealth and sustenance",
+      rule="In an odd sign the first half is the Sun's hora (Leo), the second the Moon's (Cancer); reversed in an even sign."),
+ dict(id="D3", name="Drekkana", parts=3, arc="10°00'", reads="siblings, courage, the nature of effort",
+      rule="First third: the same sign. Second third: the 5th from it. Third: the 9th from it."),
+ dict(id="D4", name="Chaturthamsha", parts=4, arc="7°30'", reads="property, home, fixed assets, fortune",
+      rule="From the sign itself, then the 4th, 7th and 10th from it."),
+ dict(id="D7", name="Saptamsha", parts=7, arc="4°17'08\"", reads="children and progeny",
+      rule="Odd signs count from the sign itself; even signs count from the 7th from it."),
+ dict(id="D9", name="Navamsha", parts=9, arc="3°20'", reads="the spouse, dharma, and the underlying strength of every graha",
+      rule="Movable signs start from themselves, fixed signs from the 9th, dual signs from the 5th.",
+      note="The single most important varga after D1. A graha strong in D1 but weak in D9 promises more than it delivers."),
+ dict(id="D10", name="Dashamsha", parts=10, arc="3°00'", reads="career, profession, action in the world",
+      rule="Odd signs start from themselves; even signs start from the 9th from the sign."),
+ dict(id="D12", name="Dwadashamsha", parts=12, arc="2°30'", reads="parents and inherited karma",
+      rule="Counted from the sign itself, twelve in order."),
+ dict(id="D16", name="Shodashamsha (Kalamsha)", parts=16, arc="1°52'30\"", reads="vehicles, comforts, and general happiness",
+      rule="Movable signs start from Aries, fixed from Leo, dual from Sagittarius."),
+ dict(id="D20", name="Vimshamsha", parts=20, arc="1°30'", reads="spiritual practice, upasana, and religious inclination",
+      rule="Movable signs start from Aries, fixed from Sagittarius, dual from Leo."),
+ dict(id="D24", name="Chaturvimshamsha (Siddhamsha)", parts=24, arc="1°15'", reads="education, learning and scholarship",
+      rule="Odd signs start from Leo, even signs from Cancer."),
+ dict(id="D27", name="Bhamsha (Nakshatramsha)", parts=27, arc="1°06'40\"", reads="general strengths and weaknesses; physical stamina",
+      rule="Fire signs start from Aries, earth from Cancer, air from Libra, water from Capricorn."),
+ dict(id="D30", name="Trimshamsha", parts=30, arc="1°00'", reads="misfortunes, evils, and the specific nature of difficulty",
+      rule="Odd signs: Mars 0-5, Saturn 5-10, Jupiter 10-18, Mercury 18-25, Venus 25-30. Even signs reverse the order."),
+ dict(id="D40", name="Khavedamsha", parts=40, arc="0°45'", reads="auspicious and inauspicious effects; maternal legacy",
+      rule="Odd signs start from Aries, even signs from Libra."),
+ dict(id="D45", name="Akshavedamsha", parts=45, arc="0°40'", reads="general conduct and character; paternal legacy",
+      rule="Movable signs start from Aries, fixed from Leo, dual from Sagittarius."),
+ dict(id="D60", name="Shashtiamsha", parts=60, arc="0°30'", reads="past-life karma; the finest resolution in the chart",
+      rule="Multiply the degrees within the sign by two, take the integer part, add one, and count that many signs from the sign itself (for odd signs; even signs count from the 7th).",
+      note="Carries the highest vimshopaka weight. Requires a birth time accurate to under a minute — PocketAstro withholds D60 unless the time source is a record."),
+]
+
+DOC = {
+ "engine": "pocketastro-divisionals",
+ "version": 1,
+ "sources": ["Charak, Elements of Vedic Astrology — ch. X (Vargas or Subtle Divisions).",
+             "Sutton, The Essentials of Vedic Astrology — Vargas, The Divisional Charts."],
+ "vargas": V,
+ "vimshopaka_schemes": {
+   "shadvarga": {"total": 20, "weights": {"D1": 6, "D2": 2, "D3": 4, "D9": 5, "D12": 2, "D30": 1}},
+   "saptavarga": {"total": 20, "weights": {"D1": 5, "D2": 2, "D3": 3, "D7": 2.5, "D9": 4.5, "D12": 2, "D30": 1}},
+   "dashavarga": {"total": 20, "weights": {"D1": 3, "D2": 1.5, "D3": 1.5, "D7": 1.5, "D9": 1.5,
+                                           "D10": 1.5, "D12": 1.5, "D16": 1.5, "D30": 1.5, "D60": 5}},
+   "shodashavarga": {"total": 20, "weights": {"D1": 3.5, "D2": 1, "D3": 1, "D4": 0.5, "D7": 0.5, "D9": 3,
+                                              "D10": 0.5, "D12": 0.5, "D16": 2, "D20": 0.5, "D24": 0.5,
+                                              "D27": 0.5, "D30": 1, "D40": 0.5, "D45": 0.5, "D60": 4}},
+   "reading": {"above_15": "excellent — the graha delivers across the board",
+               "10_to_15": "good", "5_to_10": "mixed", "below_5": "the promise does not reach the ground"},
+ },
+ "varga_dignity_names": {
+   "2": "parijatamsha", "3": "uttamamsha", "4": "gopuramsha", "5": "simhasanamsha",
+   "6": "parvatamsha", "7": "devalokamsha", "8": "brahmalokamsha", "9": "shakravahanamsha",
+   "10": "shridhamamsha",
+   "note": "A graha's own or exalted status repeated across N vargas earns these classical titles; more repetitions means a more reliable promise.",
+ },
+ "practice_rules": [
+   "Never read a varga as a standalone chart. It refines the D1's statement; it cannot contradict it.",
+   "A graha in the same sign in D1 and D9 is vargottama and delivers what it promises.",
+   "Read D9 for marriage and for the real strength of every graha; D10 for career; D7 for children; D4 for property; D24 for education; D20 for practice.",
+   "Divisional charts amplify birth-time error. D1 and D9 tolerate a few minutes; D60 tolerates seconds.",
+   "The varga lagna matters as much as the varga positions — check the lagna lord in every varga you read.",
+ ],
+ "birth_time_accuracy": {
+   "D1": "±4 minutes changes the lagna near a sign boundary",
+   "D9": "±3.3 minutes moves a navamsa",
+   "D10": "±3 minutes moves a dashamsa",
+   "D60": "±30 seconds moves a shashtiamsha — requires a recorded time",
+ },
+}
+for out in (ROOT / "assets/kb/divisionals.json", ROOT / "knowledge/extract/divisionals.json"):
+    out.write_text(json.dumps(DOC, indent=1, ensure_ascii=False) + "\n")
+print("divisionals.json", len(json.dumps(DOC)), "bytes,", len(V), "vargas")

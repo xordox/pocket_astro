@@ -1,0 +1,1725 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 174-233
+# compiled into: dashas.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 174>>>
+
+...XIV...
+The Dashas or Operational Periods of
+Planets
+O Partha! This very multitude of existences
+ coming forth
+again and again merges helplessly at the onset of night (of
+Brahma), and (again) manifests at the onset of day.
+Gita VIII/19
+Application of the dasha system is
+an extremely brilliant feature of Vedic
+astrology. Whereas the horoscopic
+ chart, with its planetary positions,
+provides a static picture of a native, the
+dashas add the dynamic aspect to it.
+The promise indicated in a horoscope
+attains fruition when an appropriate
+dasha operates. The dashas, thus, help in
+timing the events.
+There are numerous dasha systems advocated by sage
+Parashara. The two
+very widely used dashas are:
+1. The Vimshottari dasha, with a cycle of 120 years;
+and
+2. The Yogini dasha, with a cycle of 36 years.
+The Parashari dashas are generally nakshatra based. That is
+to say, they
+depend upon the birth nakshatra or the nakshatra of the Moon in
+the birth
+chart. Of the two dashas mentioned above, the Vimshottari is the more
+widely used.
+The Vimshottari Dasha
+The twenty-seven nakshatras are divided into three groups of
+ nine
+nakshatras each. These are owned by the nine planets (see table II-2).
+Each
+
+<<<PAGE 175>>>
+planet is allotted a specific number of years over which it operates. The
+order of the dashas is also fixed. This may be seen in table XIV-1.
+Depending upon the Moon’s nakshatra in the birth chart, the
+dasha of a
+particular planet operates at the time of birth. Subsequent
+planetary periods
+follow according to the order mentioned above.
+Balance of dasha at birth
+After having decided the planet whose dasha operates at the
+ time of
+birth, it is important to find out how long that dasha would last. This
+depends
+upon the exact location of the Moon in a nakshatra.
+Each nakshatra has a span of 13°20'. For the Sun’s
+nakshatra, this 13°20'
+would mean 6 years; for the Moon’s nakshatra, it will
+mean 10 years; and so
+on. If the Moon is in the beginning of its nakshatra, a
+larger portion of the
+years allotted to it are yet to pass. If it is at the end
+of the nakshatra, only a
+small fraction of the total allotted period will
+ remain. The balance of a
+planet’s dasha, thus, is proportionate to the extent
+of the Moon’s nakshatra
+which is yet to elapse.
+
+<<<PAGE 176>>>
+The reader may refer to Tables XIV-2 and XIV-3 to work out
+the balance
+of Vimshottari dasha operating at the time of birth, depending upon
+ the
+location of the Moon in different signs. More detailed tables are available
+in
+the ephemerides which may be referred to if necessary.
+
+<<<PAGE 177>>>
+Subperiods in Vimshottari Dasha
+It will be noted that the planetary periods, as noted above,
+last for several
+years for each planet. It is difficult to use such broad time
+spans for timing
+
+<<<PAGE 178>>>
+day to day events. So as to narrow down the time when an event
+is likely to
+take place, the major planetary periods (also called as
+ Mahadashas)
+mentioned above are further reduced into sub-divisions called
+sub-periods or
+Antardashas.
+Under each Mahadasha (MD), the Antardasha (AD) of all the
+ planets
+operate. The first AD in an MD belongs to the same planet and the
+remaining ones follow in order. The duration of the Antardashas of the
+various
+planets is in proportion to the duration of their major periods. The
+duration
+of an AD in a given MD can be easily calculated by the formula:
+‘a’ divided by 120 x ‘b’
+Where ‘a’ is the dasha period of the MD lord and ‘b’ is
+the dasha period of
+the AD lord according to Table XIV-1, vide supra.
+For example, let us calculate the AD of Saturn in the
+ MD of the Moon.
+According to the formula given above, we have
+10 (Dasha period of Moon) / 120 x 19 (Dasha period of
+Saturn) = 19 /12
+years, or 1 year and 7 months
+In this way, any AD can be calculated.
+Sub-sub-periods or Pratyantardasha (PD)
+Still finer divisions of time can be obtained by dividing a
+ given
+Antardasha into sub-sub-periods (PD’s) in the same proportions as the
+duration of their dasha periods mentioned above. The first PD in a given AD
+belongs to the AD lord itself while the remaining PD’s follow in the usual
+order of the Vimshottari dasha.
+A PD is calculated in an AD by the formula:
+a /120 x b/120 x c
+where:
+‘a’ is the dasha duration of the MD lord;
+‘b’ is the dasha duration of the AD lord; and
+‘c’ is the dasha duration of the PD lord.
+
+<<<PAGE 179>>>
+The results obtained in years is converted into months by
+multiplying by
+12; and into days by further multiplying by 30.
+Tables XIV-4 to Tables XIV-12 give the AD’s and PD’s
+(sub-periods and
+sub-sub-periods) in the MD’s (major periods) of different
+planets.
+
+<<<PAGE 180>>>
+
+<<<PAGE 181>>>
+
+<<<PAGE 182>>>
+
+<<<PAGE 183>>>
+
+<<<PAGE 184>>>
+
+<<<PAGE 185>>>
+
+<<<PAGE 186>>>
+
+<<<PAGE 187>>>
+
+<<<PAGE 188>>>
+
+<<<PAGE 189>>>
+
+<<<PAGE 190>>>
+
+<<<PAGE 191>>>
+
+<<<PAGE 192>>>
+
+<<<PAGE 193>>>
+
+<<<PAGE 194>>>
+
+<<<PAGE 195>>>
+
+<<<PAGE 196>>>
+Further finer divisions
+The PD or sub-sub-period can be divided into Sookshma dasha
+which is
+subject to further subdivision into Pranadasha. The Sookshma dasha and
+the
+Pranadasha permit very accurate timing of events. However, their use
+
+<<<PAGE 197>>>
+demands a very accurate recording of the birth time which is not always
+possible.
+The Yogini Dasha
+The Yogini dasha cycle is a cycle of 36 years. There are
+eight Yoginis
+with a specific lord of each, as also a specific dasha period.
+This is given
+below in Table XIV-13.
+The Yogini dasha operating at the time of birth is obtained
+by adding 3 to
+the nakshatra of the Moon, and dividing by eight. The remainder
+gives the
+number of the Yogini dasha operating at the time of birth, according
+to the
+order given above. As in the Vimshottari dasha, the balance of Yogini
+dasha
+must be determined from the remaining part of the Moon’s nakshatra.
+Tables XIV-14, XIV-15, XIV-16 and XIV-17 give basic
+ information
+about the Yogini dasha operating at birth, the duration of the
+AD’s, and the
+nature of the AD’s under various MD’s. These are reproduced from
+Applications of Yogini Dasha by Jhanji and Sharma, to which the reader is
+referred for further information. This dasha is widely used by India’s old and
+brilliant astrologers, particularly in the Himalayan belt, for fast and sure
+predictions.
+
+<<<PAGE 198>>>
+
+<<<PAGE 199>>>
+
+<<<PAGE 200>>>
+
+<<<PAGE 201>>>
+
+<<<PAGE 202>>>
+
+...XV...
+Interpretation of the Vimshottari Dasha
+Under My guidance, the nature brings forth
+all things, moving
+and unmoving; because of this, O Kaunteya, the world
+revolves in cycles.           
+Gita IX/10
+Planets produce their results only
+ when their dasha periods operate.
+Within the MD of a planet, the AD’s of all the
+planets operate one after the
+other. Similarly, the PD’s of different planets
+operated in each AD. The MD
+gives a broad timing which is narrowed by the use
+ of the AD. The PD
+narrows it down further to within a few months. The Sookshma
+ and the
+Prana dashas, if calculated accurately, help time an event extremely
+closely.
+Planets produce their results:
+1. According to their inherent nature, which includes
+their natural disposition
+toward other planets; and
+2. According to their disposition in the horoscope, in
+the Rashi chart as well
+as the vargas.
+MAHADASHAS
+The principles that govern the results of dashas of
+planets are as follows:
+1. Favourable results are produced by a dasha lord
+which is strong, exalted,
+in its own house, in its Moolatrikona, in a friend’s
+ house, under benefic
+association or aspect, and located in good houses like the
+ kendras or the
+trines or the 11th or the 2nd house or associated with the 9th
+or the 10th lord.
+
+<<<PAGE 203>>>
+2. Adverse results are produced by a dasha lord which
+is weak or debilitated,
+in the house of an enemy, combust, placed in houses 6,
+8 or 12, and under
+malefic association or aspect.
+3. Timing of fructification of results: A planet
+located in the first Drekkana
+of a sign produces its results during the
+beginning of its dasha. Located in
+the middle Drekkana of a sign, the planet
+ produces its results during the
+middle part of its dasha. When located in the
+ third Drekkana, its results
+manifest during the concluding portion of its
+dasha.
+For a retrograde planet, the above order gets reversed.
+4. Ownership of a house: The ownership of a house by
+ the dasha lord is
+extremely important. During the dasha of its lord, a house
+suddenly becomes
+active, and events pertaining to it manifest in varying ways
+depending upon
+the strength, the weakness and the extent of affliction of its
+lord.
+The results of the Mahadashas of various planets are
+ being, briefly,
+described below.
+Dasha of the SUN
+When favourable:
+Gain in wealth, varied comforts,
+ favours from the king, rise in status.
+Associated with the 5th lord: child
+ birth. With the 2nd lord: prosperity,
+vehicles.With the 4th lord: vehicles.
+When adverse:
+Miseries, loss of wealth, disfavour
+ of the ruler, foreign residence, loss of
+status, punishment, opposition from
+friends and relatives, loss of father.
+Dasha of the MOON
+When favourable:
+Wide renown, prosperity, auspicious
+ events at home, association with the
+ruler, accomplishment of undertakings,
+favour from the king, rise in status,
+child birth, growth of cattle,
+ acquisition of white clothes. Particularly
+beneficial when located in the 2nd
+house.
+When adverse:
+
+<<<PAGE 204>>>
+Loss of wealth, physical and mental
+torment, trouble from servants, worries
+in connection with the mother,
+opposition to the ruler.
+Dasha of MARS
+When favourable:
+Rise in status, benefit from lands,
+gain of wealth, royal favours, acquisition
+of vehicles and clothes, gain in a
+ foreign land, and generally good for
+siblings.
+In a kendra or 3rd house: Gains
+ through personal efforts, victory in war,
+royal favours and varied comforts in
+the beginning of the dasha, followed by
+some adverse results towards the end.
+When adverse:
+Loss of face, dominance by
+opponents, illness, accident-proneness.
+Dasha of RAHU
+When favourable:
+Varied comforts, prosperity,
+ religious inclinations, auspicious celebration,
+honour in foreign countries,
+recognition by a foreign ruler.
+When adverse:
+Displacement, mental anguish, loss
+of wife and child, unclean food, bodily
+suffering, loss of wealth. Relatively
+comfortable during the mid-portion of
+its dasha.
+Dasha of JUPITER
+When favourable:
+Rise in status, several comforts,
+ royal favour, acquisition of vehicles,
+worship of gods and Brahmins, comforts
+from wife and children, study of
+Vedic chants and hymns, accomplishment through
+king’s grace and generally
+auspicious results.
+When adverse:
+
+<<<PAGE 205>>>
+Displacement, mental anguish, loss
+of cattle, pilgrimage. Beginning of the
+dasha is more hurtful but gradually
+becomes favourable as it concludes.
+Dasha of SATURN
+When favourable:
+Favours from the ruler, religious
+pursuits, learning and wealth, rise in status,
+varied physical comforts.
+When adverse:
+Displacement, great fear, loss of
+ parents, illness to wife and child,
+inauspicious happenings, imprisonment, etc.
+Note:Saturn is particularly
+favourable when associated with or aspected by
+benefics, in a kendra, trine or
+ the 11th house, and in the signs of Jupiter
+(Dhanu, Meena).
+Dasha of MERCURY
+When favourable:
+Great comforts, wealth and prosperity,
+ renown, gain of knowledge and
+learning, auspicious and virtuous deeds, good
+health, good food and earnings
+from business.
+When adverse:
+King’s wrath, mental anguish,
+ opposition from relatives, foreign travel,
+servility, urinary ailments, loss of
+pleasure and wealth, fear from thieves and
+fire, loss of cows and land.
+ Generally favourable in the beginning of the
+dasha, ruler’s favours in the
+ middle of the dasha, followed by untoward
+results towards the concluding part
+of the dasha.
+Dasha of KETU
+When favourable:
+Acquisition of objects of desire,
+ lordship of a village or town or country,
+foreign travel, varied comforts.
+When adverse:
+
+<<<PAGE 206>>>
+Imprisonment, loss of dear ones,
+ displacement, mental anguish, illness,
+association with low people.
+Note: Ketu in 3rd, 6th or 11th house
+causes rise in status in the beginning of
+the dasha, fears during the middle of
+the dasha, and distant travel during the
+concluding portion of the dasha.
+Dasha of VENUS
+When favourable:
+Royal status, vehicles, good
+clothes, ornaments, good food, favours from the
+ruler, good house, great
+prosperity, marriage, high status in army, gains from
+all directions.
+When adverse:
+Opposition from near and dear ones,
+ troubles from womenfolk, loss in
+professional status, separation from near and
+dear ones. Venus as the lord of
+the 2nd house or 7th house causes illness
+during its dasha.
+ANTARDASHAS OR SUB-PERIODS
+The various planets run their Antardasha (AD) within
+the major period (MD)
+of each planet. Their good or bad results depend upon:
+1. Favourable or adverse disposition of the MD lord;
+and
+2. Favorable or adverse disposition of the AD lord.
+The AD lord works within the overall limits imposed by
+the MD lord. The
+results promised by an MD lord manifest within an appropriate
+AD. Whether
+a particular AD would prove favourable or adverse depends upon the
+disposition of the AD lord. The following factors must be considered while
+deciding on the nature of a particular AD lord.
+1. Favourable: An AD lord gives favourable results when
+it is:
+(a) Exalted, in its
+own house or in its Moolatrikona sign.
+(b) Placed in
+kendras or trikonas.
+(c) Placed in the
+11th house.
+(d) Associated with
+or aspected by natural benefics.
+
+<<<PAGE 207>>>
+(e) Associated with
+the 9th or the 10th lord or with a Yogakaraka planet.
+(f) Placed in a
+kendra or trikona from the MD lord.
+2. Adverse: This happens when the AD lord is:
+(a) Weak,
+debilitated, combust or placed in its enemy’s house.
+(b) Located in
+Trika houses.
+(c) Influenced by
+natural malefics.
+(d) Influenced by
+the Trika lords.
+(e) Placed in an
+adverse house (6, 8 or 12) from the MD lord.
+(f) Afflicted as
+above and, additionally, happens to be the lord of the 2nd
+or the 7th house. In
+this situation, it causes untimely death or physical
+illness. This is particularly
+so when the AD lord is in one of the Trika
+houses.
+The results of the various antardashas in the major periods
+of planets are
+being briefly described below. These are primarily based on the
+ views of
+Parashara.
+Antardashas in the Mahadasha of the SUN
+Sun
+Favourable:
+Varied gains, prosperity, rise in
+professional status.
+Adverse:
+Excessive expenditure, bilious
+ excess, misfortune to near and dear ones,
+untimely death.
+Moon
+Favourable:
+Auspicious occasions (marriage,
+etc.), prosperity, favours from women, gain
+in wealth, accomplishment of
+ desires through favours from the ruler,
+proliferation of such sources of wealth
+as houses, lands, cattle and vehicles,
+comforts fom wife and children, good
+fortune, glory, acquisition of clothes
+and ornaments, and reconciliation with
+enemies.
+
+<<<PAGE 208>>>
+Adverse:
+Troubles to wife and children,
+involvement in controversies, opposition to
+the ruler, mental anguish, fear of
+drowning, imprisonment, distress from the
+sons, unclean food, urinary ailments,
+untimely demise.
+Mars
+Favourable:
+Auspicious ceremonies, gains from
+ houses, lands and agriculture, gain of
+wealth, favours from the ruler, command
+ of an army, stability of mind,
+destruction of enemies, acquisition of reddish
+ robes and precious stones,
+general well being of the siblings.
+Adverse:
+Distorted discrimination, mental
+ anguish, failure in undertakings, loss of
+wealth acquired from the ruler,
+physical illness, loss of near and dear ones,
+accident-proneness,
+incarceration, and generally adverse results.
+Rahu
+Favourable:
+The first two months of the Rahu AD
+ causes loss of wealth and general
+apprehensions. Thieves, serpents and
+accidents cause concern. Good results
+ensue after two months. Favours from the
+ruler and good fortune are other
+results.
+Adverse:
+Confinement, imprisonment,
+ displacement, theft, accidents, fear from
+thieves, loss of lands, houses, etc.,
+and danger of untimely death.
+Jupiter
+Favourable:
+Auspicious ceremonies, king’s
+ favours, gain of wealth, child birth,
+attainment of objects of desire,
+ inclination towards charities and religious
+pursuits, devotion to God and guru,
+mental peace and virtuous undertakings.
+Adverse:
+Physical illness to the native as
+well as to his wife and child, king’s wrath,
+mental anguish, loss of desired
+objects.
+
+<<<PAGE 209>>>
+Saturn
+Favourable:
+Loss of enemies, gain of wealth,
+auspicious ceremonies, royal favours.
+Adverse:
+Chronic and painful illness,
+imprisonment, loss of work and wealth, great
+apprehension, unexpected
+opposition, separation from parents.
+Mercury
+Favourable:
+Gain in status, royal favours
+ conferring vehicles, ornaments and good
+clothes, good health to wife and
+children, indulgence in religious pursuits,
+auspicious happenings like marriage
+ or child birth, performance of
+prescribed religious rituals, renown, honours
+and awards.
+Adverse:
+Physical illness, mental anguish,
+ ill health to wife and child, aimless
+wandering.
+Ketu
+Favourable:
+Ketu produces favourable results in
+the MD of the Sun, if it is located in
+Oopachaya (3, 6, 10 and 11) houses,
+associated with Yogakaraka planets and
+in the vargas of benefics. It leads to
+increase of friends, good fortune, mental
+satisfaction, rise in status and
+generally good results.
+Adverse:
+Physical illness, mental anguish,
+increased expenditure, king’s wrath, disease
+of the oral cavity and teeth,
+urinary ailments, displacement from home, loss
+of father, inauspicious news,
+untimely death.
+Venus
+Favourable:
+Fulfilment of objects of desire,
+association with the good and the powerful,
+royal favours, increase in status,
+good food, acquisition of precious stones
+and general prosperity.
+
+<<<PAGE 210>>>
+Adverse:
+Wrath of the ruler, mental torment,
+ loss of child, wife and wealth,
+displacement, deprivation of physical comforts,
+ untimely death. The
+beginning of the dasha produces mediocre results, the
+middle of the dasha
+causes benefic results, while the concluding portion of the
+dasha yields very
+adverse results.
+Antardashas in the Mahadasha of the MOON
+Moon
+Favourable:
+Acquisition of such objects of
+comfort as good clothes, horses, elephants and
+vehicles, devotion towards God
+and guru, recitation of sacred chants, rise in
+status, prosperity.
+Adverse:
+Loss of wealth, displacement from
+ home, laziness and excessive
+somnolence, mental torment, illness to mother,
+incarceration and untimely
+death.
+Mars
+Favourable:
+Great fortune, royal favours,
+ acquisition of garments and ornaments,
+accomplishments through personal effort,
+ gains from houses, lands and
+business.
+Adverse:
+Losses in business, physical illness,
+separation from dear ones, ruler’s wrath,
+poor digestion.
+Rahu
+Favourable:
+Success in all undertakings, favours
+ from a ruler from a western country,
+acquisition of vehicles and garments,
+pilgrimage, religious undertakings.
+Note: These results ensue when Rahu
+is in an Oopachaya house from the
+lagna, or in a benefic house (kendra,
+trikona, 3rd or 11th house) from the
+
+<<<PAGE 211>>>
+MD lord.
+Adverse:
+Displacement from place of work,
+ mental anguish, unfounded fears,
+dominance and torture by enemies, fear from
+ poisonous animals (snakes,
+scorpions, etc.), loss of face, and wrath of the
+ruler.
+Note: Rahu produces adverse results
+ even when located in a kendra or a
+trikona.
+Jupiter
+Favourable:
+Enhanced status, royal favours, gain
+ of wealth, child birth, auspicious
+occasions, acquisition of lands and
+ vehicles, fulfilment of desires,
+courageous deeds, general prosperity.
+Adverse:
+Inauspicious events, displacement,
+loss of child and preceptor, loss of lands,
+vehicles and houses, unclean food,
+wandering in foreign countries, untimely
+death.
+Saturn
+Favourable:
+Acquisition of wealth, gains from
+ friends and children, royal favours,
+pilgrimage, favours from a Shudra king.
+Adverse:
+Troubles from enemies, bodily
+illness, unfounded fears, sad news.
+Mercury
+Favourable:
+Enhanced income and status, study of
+scriptures, increased knowledge and
+learning, contentment, gains in business,
+marriage and child birth, religious
+rituals, association with scholars,
+acquisition of precious stones.
+Adverse:
+Physical illness, losses in
+agriculture and business, confinement, troubles to
+wife and child.
+
+<<<PAGE 212>>>
+Ketu
+Favourable:
+Gain of wealth, religious pursuits,
+increased income from cattle.
+Adverse:
+Mental inconsistency, enmity with
+low people, sudden controversy, physical
+illness.
+Venus
+Favourable:
+Rise in status, acquisition of
+garments, vehicles and ornaments through royal
+favours, benefits from cattle,
+ residence in a new house, good food, good
+health, association with several
+ charming women, birth of a daughter,
+general prosperity.
+Adverse:
+Foreign residence, painful illness,
+fear of theft, untimely death.
+Sun
+Favourable:
+Acquisition of lost wealth and
+ status, increased income, auspicious
+occasions at home, gains from lands, birth
+of a son, good health.
+Adverse:
+Fear from thief, serpent and the
+ ruler, febrile illness, laziness, foreign
+residence.
+Antardashas in the Mahadasha of MARS
+Mars
+Favourable:
+Renown through the ruler’s grace,
+proliferation of wealth, acquisition of lost
+wealth and status, gains from
+horses, lands and cattle.
+Adverse:
+
+<<<PAGE 213>>>
+Injury from weapon or fire, fear
+ from thief, serpent and the king, urinary
+ailment, mental and physical torment.
+Rahu
+Favourable:
+Honour by the ruler, gains from
+houses and lands, success in business, dips
+in holy rivers, foreign visits.
+Adverse:
+Fear of injury, thieves and serpents,
+ loss of cattle, incarceration, loss of
+wealth and untimely death.
+Jupiter
+Favourable:
+Enhanced status, royal favours,
+ general prosperity, auspicious events,
+proliferation of lands and houses, good
+ health, benefits from cattle,
+successful business, comforts from wife and
+children.
+Adverse:
+Fall in status, wrath of the ruler,
+loss of servants and siblings, fever, excess
+of Pitta or bile, untimely death.
+Saturn
+Favourable:
+Rise in profession, gain in status,
+good fortune, honour by the ruler, comforts
+to children and grandchildren.
+Adverse:
+Fear from a mlechchha (belonging to
+ an alien land) king, imprisonment,
+physical illness, losses in travel, mental
+anguish, injuries from thieves and
+fire, loss of siblings, tragic events,
+sudden death.
+Note: Saturn is bad when located in
+a kendra or trikona from the MD lord
+Mars. It is worse when in houses 8 or 12
+from Mars.
+Mercury
+Favourable:
+
+<<<PAGE 214>>>
+Association with the virtuous,
+religious inclination, pious deeds, name and
+fame, pursuance of the prescribed
+path, good food, rise in status, acquisition
+of cattle, clothes and vehicles,
+gains from agriculture, command of an army,
+increased learning, general
+prosperity.
+Adverse:
+Loss of face, heart disease,
+ incarceration, increase of enemies, foreign
+residence, lack of discriminative
+ ability, fear from thieves and fire, bad
+speech, opposition from dear ones.
+Ketu
+Favourable:
+Many comforts, increased income,
+service of the king, acquisition of horses,
+etc., gain in status, command of an
+army, religious pursuits, acquisition of
+garments and ornaments, etc.
+Adverse:
+Dental disease, fear of theft,
+physical illness, illness to wife and children,
+loss of face, and mental
+torment.
+Venus
+Favourable:
+Rise in status, vehicles and
+ physical comforts, gain in health and glory,
+excessive income, inclination
+towards music, song, dance and art, religious
+pursuits.
+Adverse:
+Physical illness, loss of wealth,
+fear from thieves and the ruler, injury from
+weapons, residence in a foreign
+land, discord at home and loss of cattle.
+Sun
+Favourable:
+Acquisition of fame, vehicle and
+ progeny, increased income and wealth,
+good health, stability of mind, royal
+ favours, recognition in foreign
+countries.
+Adverse:
+
+<<<PAGE 215>>>
+Physical illness, mental anguish,
+ losses at work, disease of the head,
+snakebite, febrile illness.
+Moon
+Favourable:
+Rise in status, acquisition of
+ wealth through the ruler, virtuous deeds,
+auspicious occasions at home,
+fulfilment of desires.
+Adverse:
+Illness to wife and child, loss of
+lands and cattle, fear from thieves, mental
+anguish, untimely death.
+Antardashas in the Mahadasha of RAHU
+Rahu
+Favourable:
+Royal honours, profits in business,
+ westward journey, rise in professional
+status, courageous pursuits, gain in
+wealth.
+Note: Rahu is particularly
+ favourable in Karka, Vrischika, Kanya and
+Dhanu.
+Adverse:
+Fear of injury, loss of near and
+dear ones, illness to wife and child, troubles
+from the ruler, loss of face.
+Jupiter
+Favourable:
+Rise in status, stability of mind,
+loss of enemies, gain in wealth, travel and
+recognition in western countries,
+fulfilment of undertakings, return to one’s
+native country, birth of child,
+good food, gain of houses and lands, religious
+inclinations.
+Adverse:
+Loss of wealth, obstruction in
+undertakings, mental turmoil, heart disease,
+illness to father and mother, loss
+of elder brother, untimely death.
+Saturn
+
+<<<PAGE 216>>>
+Favourable:
+Service of the ruler, auspicious
+ occasions in the house (marriage, etc.),
+founding of ponds and orchards,
+fulfilment of the objects of desire through a
+Shudra king, westward journey,
+return to one’s native land.
+Adverse:
+General laziness, discord with wife
+ and children, fear of enemies and the
+ruler, loss of face, heart disease,
+roaming in foreign countries, unclean food,
+untimely death.
+Mercury
+Favourable:
+Enhancement of status, general well
+ being, gains in business, higher
+education, good vehicle, marriage, comforts of
+ the bed, good health,
+fulfilment of desires, recitation of sacred hymns,
+religious pursuits.
+Adverse:
+Loss of wealth and physical
+comforts, despising the gods and the Brahmins,
+resorting to falsehood, distorted
+ wisdom, excessive expenditure, untimely
+demise.
+Ketu
+Favourable:
+Fulfilment of desires, benefits from
+undertakings, gains from cattle, favours
+from the ruler, acquisition of wealth
+and ornaments.
+Adverse:
+Aimless wandering, physical and
+mental illness, fear from thieves, serpents
+and injuries, separation from
+mother and father.
+Venus
+Favourable:
+Acquisition of wealth through
+Brahmins, auspicious happenings, honour and
+favours from the ruler, acquisition
+of a new house, good friends, good food,
+marriage, inclination towards song and
+music, charitable disposition.
+Adverse:
+
+<<<PAGE 217>>>
+Physical illness, sudden discord,
+ separation from parents, danger from
+poisons, serpents, thieves and the ruler,
+imprisonment, punishment, loss of
+wife, child and the employer, blood
+disorders, diabetes.
+Sun
+Favourable:
+Gain of wealth, favours from the
+ ruler, name and fame, lordship over a
+village or a town or a country, great
+ glory, foreign travel, fulfilment of
+desires.
+Adverse:
+Wrath of the ruler, increase of
+enemies, fear from thieves, fire and the ruler,
+serious illness.
+Moon
+Favourable:
+Status of a king, honour from the
+king, gain of wealth, good health, comforts
+through wife, sons and vehicles,
+increase of houses and lands, success in all
+undertakings.
+Adverse:
+Unfounded fears and phobias, wastage
+ of money, losses in journey,
+proneness to physical injury, abdominal disease,
+untimely death.
+Mars
+Favourable:
+Acquisition of lost money and
+status, good food, good garments, comforts at
+home, beneficial journey, command
+ of an army, material benefits through
+siblings.
+Adverse:
+Discord with wife and sons,
+ displacement from home, fear of thieves,
+serpents and injury, general debility
+and laziness.
+Antardashas in the Mahadasha of JUPITER
+Jupiter
+
+<<<PAGE 218>>>
+Favourable:
+Attainment of rulership, worship by
+the ruler, acquisition of wealth, vehicles
+and physical comforts, gain of
+glory, name and fame.
+Adverse:
+Association with the low, illogical
+ arguments, separation from wife and
+children, death of the employer, physical
+illness.
+Saturn
+Favourable:
+Gain in professional status,
+acquisition of garments, ornaments and wealth,
+benefits from lands and houses,
+beneficial travel to the west, proliferation of
+cattle, benefits from the
+Shudras.
+Adverse:
+Loss of wealth and property, mental
+ anguish, febrile illness, proneness to
+injury, inauspicious happenings, loss of
+ cattle, obstruction to profession,
+physical disease, untimely death.
+Mercury
+Favourable:
+Good health, gain in status, several
+ comforts, fulfilment through king’s
+favours, increased earnings in one’s own
+land, comforts to father and mother.
+Note: Despite a favourable placement
+ of Mercury, its AD in the MD of
+Jupiter causes loss of money.
+Adverse:
+Losses in business, febrile illness,
+loss of wealth, foreign travel, losses in
+travel, eye disease, injury from
+ weapon or fire, sudden discord, untimely
+death.
+Ketu
+Favourable:
+Gain of wealth, earning through
+ unfair means, acquisition of vehicles,
+fulfilment of desires, favours from a
+Yavana ruler.
+
+<<<PAGE 219>>>
+Note: Even a favourably disposed
+Ketu during its AD in the MD of Jupiter
+provides little monetary benefit,
+unclean food and food belonging to others.
+May be good for spiritual pursuits.
+Adverse:
+Loss of wealth through the wrath of
+the ruler, physical illness, loss of vigour,
+mental anguish and discord with
+brother.
+Venus
+Favourable:
+Much wealth and prosperity,
+excessive physical comforts, plenty of clothes
+and vehicles, gainful journey to
+the east, good for parents, devotion to God
+and guru, charitable disposition,
+marriage, association with learned people,
+inclination toward song and music.
+Adverse:
+Discord with dear ones, harm to wife
+ and child, intense fear, troubles
+through women, loss of money, discord with
+ the father-in-law, untimely
+death.
+Sun
+Favourable:
+Gain of wealth and status,
+acquisition of vehicles and other wordly comforts,
+success in all undertakings.
+Adverse:
+Headache, fever, sinful acts,
+separation from dear ones, physical illness.
+Moon
+Favourable:
+Gain of glory, comforts from wife
+ and children, good food (consisting of
+milk products), pious deeds, well being
+of progeny, good income, charitable
+disposition.
+Adverse:
+Loss of face, wealth and dear ones,
+foreign travel, troubles from thieves, loss
+of mother’s brother, illness to
+mother, illness to the native.
+
+<<<PAGE 220>>>
+Mars
+Favourable:
+Gain in learning, marriage ceremony,
+gain of lands and houses, success in
+undertakings, good food, generally
+auspicious.
+Adverse:
+Loss of wealth, houses and lands,
+ physical illness, eye disease, mental
+anguish.
+Rahu
+Favourable:
+Inclination toward Yoga, gain of
+wealth (during the first five months of the
+AD), leadership of a village or a
+ country, favours from a Yavana king,
+distant travel, command of an army,
+religious inclinations.
+Adverse:
+Fear from thieves, serpents and
+weapons, opposition to the king, physical
+exertion, discord with brothers,
+inauspicious happenings, bad dreams, bodily
+disease.
+Antardashas in the Mahadasha of SATURN
+Saturn
+Favourable:
+Rise in status, benefits to wife and
+ progeny, availability of vehicles,
+command of a king’s army, acquisition of
+lordship over a village or a town.
+Adverse:
+Fear from the ruler, troubles
+ arising from poisons and weapons, bleeding
+disorders, displacement from one’s
+country, mental anguish, untimely death.
+Mercury
+Favourable:
+Name and fame, learning, gain of
+ wealth, mental and physical comforts,
+pilgrimage, bath in holy waters, gains in
+ business, good food, charitable
+nature.
+
+<<<PAGE 221>>>
+Adverse:
+Physical illness, obstruction to
+ undertakings, mental anguish, unfounded
+fears.
+Note: The above adverse results
+ occur during the middle and concluding
+portions of the AD of Mercury. During
+ the early part of this AD, despite
+affliction, good results are experienced.
+Ketu
+Favourable:
+Increased earnings, pilgrimages,
+religious inclinations, and association with
+the ruler.
+Note: Good results only ensue if
+Ketu is associated with the lagna lord, or in
+houses 3 or 11 from the MD lord.
+ In other situations generally held
+favourable (e.g., placement in a kendra or a
+trikona, or with a Yogakaraka
+planet), AD of Ketu only produces adverse
+results.
+Adverse:
+Displacement, penury, foreign
+ travel, incarceration, unclean food, febrile
+illness, untimely death.
+Venus
+Favourable:
+Accomplishment of desires, gain of
+ wealth, wife and progeny, physical
+comforts, good health, auspicious
+ceremonies, name and fame, acquisition of
+imported garments, favours from the
+ ruler, composing of poetry, study of
+sacred scriptures.
+Adverse:
+Loss of home, wife and friends, eye
+disease, febrile illness, toothache, heart
+disease, rectal disease, fear of
+ drowning, fall from a tree, extreme mental
+anguish.
+Sun
+Favourable:
+Favours from the employer, increased
+wealth, acquisition of vehicles, cows
+and comforts.
+
+<<<PAGE 222>>>
+Adverse:
+Heart disease, mental distress, loss
+of residential place, separation from dear
+ones, febrile illness.
+Moon
+Favourable:
+Favours from the ruler, acquisition
+ of vehicles, garments and ornaments,
+prosperity, comforts to mother, father and
+wife.
+Adverse:
+King’s wrath, loss of wealth,
+ separation from parents, illness to children,
+untimely food, necessity to take
+medicinal remedies, excessive somnolence,
+increase of opponents.
+Mars
+Favourable:
+Gain of wealth, command of an army,
+favours from the ruler, benefits from
+lands and cattle, building of a new
+house, benefits from siblings.
+Adverse:
+Danger from thieves, serpents,
+accidents and weapons, joint pains, troubles
+to father and brother, loss of
+cattle, unclean food, untimely death.
+Rahu
+Favourable:
+Gain of wealth, lands and houses,
+ pilgrimage, auspicious celebrations,
+increased glory, favours from the ruler,
+physical comforts.
+Note: Rahu here is particularly
+beneficial if located in Mesha, Vrisha, Karka,
+Simha, Kanya or Meena.
+Adverse:
+Discord with others, mental torment,
+physical illness, discord with children,
+foreign residence, loss of houses and
+lands.
+Jupiter
+Favourable:
+
+<<<PAGE 223>>>
+Accomplishment of all undertakings,
+honour from the ruler, acquisition of
+wealth and jewellery, devotion toward God
+and guru, association with the
+learned, benefits to wife and son, study of
+scriptures, religious inclination,
+great renown and glory.
+Adverse:
+Loss of near and dear ones, loss of
+ wealth, foreign travel, obstacles to
+profession, unclean food, physical and
+mental ailments, imprisonment, death
+of a near relative.
+Antardashas in the Mahadasha of MERCURY
+Mercury
+Favourable:
+Acquisition of precious stones,
+ learning, high education, name and fame,
+honours from the ruler, comforts to
+wife, son, mother and father.
+Adverse:
+Loss of cattle and wealth,
+opposition from near and dear ones, abdominal
+pain, mental anguish, death of a
+near relative.
+Ketu
+Favourable:
+Physical comforts, good health and
+wealth, gainful journey, acquisition of
+learning, spread of fame, favours from
+the ruler.
+Adverse:
+Fall off a vehicle, trouble from
+thieves and the king, sinful acts, scorpion
+stings, discord with low people,
+illness and misery.
+Venus
+Favourable:
+Virtuous and religious pursuits,
+help from friends and the employer, gain of
+wealth, favours from the ruler,
+ sudden and unexpected gains, profit in
+business, charitable inclination.
+Adverse:
+
+<<<PAGE 224>>>
+Heart disease, loss of face, febrile
+illness, separation from dear ones, mental
+torment, untimely death.
+Sun
+Favourable:
+King’s grace, gain of lands,
+increase in wealth, good food and clothes.
+Adverse:
+Troubles from thieves, fire, weapons
+and excess of Pitta, headache, mental
+torment, separation from a dear friend, untimely
+death.
+Moon
+Favourable:
+Comforts from wife and children,
+ acquisition of a new home, good food,
+inclination toward song and music,
+indulgence in sacred learning, southward
+journey, acquisition of clothes in a
+distant land, gain of pearls, pilgrimage,
+stability of mind, earnings from a
+foreign land.
+Adverse:
+Physical and mental torment,
+humiliation through association with women,
+fear from thieves, fire and the
+king, loss of wealth.
+Mars
+Favourable:
+Peace at home, gain of wealth,
+recovery of lost wealth and status, acquisition
+of lands, houses and vehicles,
+comforts to wife and children, good health,
+name and fame.
+Adverse:
+Physical and mental illness, fall in
+status, loss of wealth, joint pains, fevers,
+injuries, accidents, king’s
+ displeasure, displacement from home, untimely
+death.
+Rahu
+Favourable:
+Respect from others, excessive gain
+ in wealth, bath in sacred waters,
+religious rituals.
+
+<<<PAGE 225>>>
+Note: Rahu is particularly
+favourable in Vrisha, Karka, Kanya and Kumbha.
+Adverse:
+Loss of wealth, displacement from home,
+physical illness, mental anguish,
+imprisonment, heart disease, untimely death.
+Jupiter
+Favourable:
+Gain of wealth, association with the
+ruler, marriage, good food, listening to
+sacred texts, devotion to gods and
+guru, charitable disposition.
+Adverse:
+Discord with the ruler, physical
+hurt from thieves, etc., death of parents, loss
+of wealth, punishment by the
+ruler, discord with wife and children, ill health
+and disease.
+Saturn
+Favourable:
+Rise in status, great enthusiasm,
+good house, pilgrimages.
+Adverse:
+Intense trouble, loss of
+discriminative faculty, troubles to wife and child, fall
+in professional
+status, foreign travel, bad dreams, untimely death.
+Antardashas in the Mahadasha of KETU
+Ketu
+Favourable:
+Gain of wealth and cattle, king’s
+favours, good for progeny, acquisition of
+lands, villages, houses, etc.
+Note: Favourable disposition of Ketu
+notwithstanding, Ketu AD in its own
+MD causes some mental tension.
+Adverse:
+Heart disease, humiliation, loss of
+wealth and cattle, fickleness of mind, ill
+health and loss of dear ones.
+
+<<<PAGE 226>>>
+Venus
+Favourable:
+King’s favours, sudden gain in
+wealth, recovery of lost wealth and status,
+acquisition of vehicles, baths in
+holy waters, oceans, etc., lordship over lands
+and villages, good health,
+variedcomforts.
+Adverse:
+Sudden quarrels, loss of wealth and
+ cattle, head and eye disease, heart
+ailment, humiliation, physical and mental
+torment.
+Sun
+Favourable:
+Gain of wealth, glory through the
+ king, auspicious happenings,
+accomplishment of desired objects, good health,
+ mental stability, lordship
+over small villages.
+Adverse:
+Fear from the ruler, loss of
+parents, foreign travel, fear of snakes and thieves,
+accidental injury,
+punishment from the ruler, loss of wealth, untimely death.
+Moon
+Favourable:
+Favours from the king, great enthusiasm,
+ gain of lands and houses, gains
+from profession, acquisition of vehicles,
+inclination towards virtuous deeds,
+visit by a dear friend, accomplishment of
+one’s undertakings, foreign travel,
+good health.
+Adverse:
+Mental anguish, obstruction in
+undertakings, separation from parents, loss of
+cattle, unfounded apprehensions,
+untimely death.
+Mars
+Favourable:
+Benefits from village, lands and
+cattle, rise in status through the king.
+Adverse:
+
+<<<PAGE 227>>>
+Fear of untimely death, misery in a
+foreign country, troubles from thieves
+and the ruler, urinary ailment,
+diabetes, fear of febrile illness and poisoning.
+Rahu
+Favourable:
+Sudden excessive wealth gain, gains
+from a mlechchha ruler, acquisition of
+lands, houses and villages.
+Adverse:
+Excessive urination, physical
+ debility, fever with chills and rigors,
+poisoning, sudden calamities.
+Jupiter
+Favourable:
+Gain of wealth, enhanced enthusiasm,
+prosperity, grand celebration, foreign
+visits, help to near and dear ones.
+Adverse:
+Fear from thieves, serpents and
+accidental injuries, separation from wife and
+children, displacement, untimely
+death.
+Saturn
+Favourable:
+Accomplishment of all undertakings,
+victory in war, many comforts.
+Adverse:
+Physical and mental torment, loss of
+ wealth and cattle, unfounded fears,
+displacement from home, fear of theft in
+journey, laziness, humiliation, loss
+of parents, untimely death.
+Mercury
+Favourable:
+Gain in status, listening to holy
+scriptures, undertaking charities, religious
+pursuits, acquisition of lands and
+progeny, desirable association, increased
+fortune, good health, good food,
+gains in business, pilgrimages.
+Adverse:
+
+<<<PAGE 228>>>
+Residence in others’ houses, loss of
+wealth, vehicles and garments, illness to
+wife and child, fear from the king,
+untimely death.
+Antardashas in the Mahadasha of VENUS
+Venus
+Favourable:
+Wealth gain through the help of
+Brahmins, son’s marriage, favours from the
+king, building a new house, good and
+sweet food, indulgence in charities and
+religious pursuits, acquisition of
+ cattle, vehicles and garments, westward
+journey, great enthusiasm.
+Adverse:
+Fear from thieves and injuries, loss
+of dear ones, illness to wife and child,
+death.
+Sun
+Favourable:
+Gain of wealth, acquisition of wife,
+lordship and property, visit by a dear
+friend, comforts to mother, father and
+brother.
+Adverse:
+Febrile illness, mental anguish,
+ discord with dear ones, trouble to father,
+injuries, snake bites, physical
+illness.
+Moon
+Favourable:
+Varied gains, renown and glory, bath
+in sacred rivers, devotion to gods and
+Brahmins, indulgence in song and music,
+increase of cattle, lordship over
+village or town.
+Adverse:
+Loss of wealth, phobias, mental
+torment, foreign travel, discord in place of
+work, separation from dear ones.
+Mars
+Favourable:
+
+<<<PAGE 229>>>
+Prosperity through the king, profits
+from vehicles, lands and precious stones.
+Adverse:
+Trouble to parents, febrile illness,
+excessive expenditure, loss in business.
+Rahu
+Favourable:
+Great physical comforts, gain of
+wealth, fulfilment of undertakings, loss of
+enemies, great enthusiasm.
+Adverse:
+Obstacles to one’s pursuits, mental
+anguish, ill health to parents, excessive
+laziness.
+Jupiter
+Favourable:
+Recovery of lost status, gain of
+wealth, honour from the ruler, indulgence in
+the study of sacred texts, son’s
+marriage, good for parents and siblings.
+Adverse:
+Troubles from thieves and the ruler,
+ physical illness, mental torment,
+displacement leading to foreign residence.
+Saturn
+Favourable:
+Association with friends and
+ relatives, honour from the ruler, daughter’s
+birth, pilgrimage, religious
+inclination, rise in professional status.
+Adverse:
+Excessive expenditure, bodily
+ disease, illness to wife and child, aimless
+wandering, loss of cattle.
+Mercury
+Favourable:
+King’s favours, good fortune, birth
+ of a son, earnings through legitimate
+means, listening to sacred scriptures,
+artistic pursuits, good and sweet food.
+Adverse:
+
+<<<PAGE 230>>>
+Loss of cattle, residence in other’s
+ house, mental torment, losses in
+undertakings, physical disease.
+Ketu
+Favourable:
+Good food, excessive profit in
+business, increase of cattle, gain in wealth,
+victory in war.
+Adverse:
+Troubles from thieves, serpents and
+ injury, loss of discriminative ability,
+headache, mental distress, quarrelsome
+ nature, loss of wealth, opposition
+from wife and child, obstacle to profession,
+and physical disease.
+INTERPRETATION OF THE PRATYANTARDASHA (PD)
+An appropriate use of PD helps in making accurate
+predictions with a
+close timing. The good and the bad results of a PD depend on
+similar factors
+on which the results of AD depend. Thus the PD of an exalted or
+strong or
+beneficially disposed planet produces good results. A weak or
+ afflicted
+planet on the other hand produces adverse results. The promise of an
+AD
+manifests in an appropriate PD. The results of various Praty-antardashas
+under the several Antardashas are being briefly presented below, chiefly
+based
+on Parashara’s dicta. These results must be modified according to the
+disposition of the PD lord as well as its house-lordship.
+I. PD’s in the AD of the SUN
+Sun:
+Loss of wealth, headache, trouble to wife.
+Moon:
+Mental anguish, loss of wealth, quarrels.
+Mars:
+Fear from foes and fire, imprisonment.
+Rahu:
+Fear from foes, phobias, loss of wealth.
+Jupiter:
+Annihilation of foes, great glory, acquisition of vehicles.
+Saturn:
+Mental anguish, serious illness, loss of cattle.
+Mercury:
+Acquisition of learning, gain of wealth, religious  inclination.
+Ketu:
+Danger to life, substantial loss, torment through enemy.
+Venus:
+Ordinary gains, nothing extraordinary.
+II. PD’s in the AD of the MOON
+
+<<<PAGE 231>>>
+Moon:
+Prosperity, royal favours, pleasures from women.
+Mars:
+Gain of wealth and wisdom, fear from foes.
+Rahu:
+Gain of wealth, untimely death.
+Jupiter:
+Great renown, higher learning, gain of wealth.
+Saturn:
+Physical illness, loss of wealth, humiliation.
+Mercury:
+Birth of a son, learning, great fame.
+Ketu:
+Discord with Brahmins, untimely death.
+Venus:
+Prosperity, birth of a daughter, good food.
+Sun:
+Loss of enemies, dominance all round.
+III. PD’s in the AD of MARS
+Mars:
+Fear from foes, frightening opposition, danger of death.
+Rahu:
+Loss of wealth, bad food, imprisonment.
+Jupiter:
+Loss of discrimination, mental torment, failures.
+Saturn:
+Quarrels, distress, loss of wealth.
+Mercury:
+Loss of wisdom, loss of wealth, loss of friends.
+Ketu:
+Headache, bodily illness, untimely death.
+Venus:
+ Trouble from ‘Chandala’ (the out-caste), risk of injury,
+gastroenteritis.
+Sun:
+Gain of lands and friends, mental peace.
+Moon:
+ Gains from southern direction, acquisition of white clothes and
+ornaments.
+IV. PD’s in the AD of RAHU
+Rahu:
+Imprisonment, illness.
+Jupiter:
+Name and fame, acquisition of wealth and vehicles.
+Saturn:
+Incarceration, loss of physical comforts.
+Mercury:
+Gain through wife, success in foreign lands.
+Ketu:
+Loss of discrimination, unnecessary obstacles.
+Venus:
+Unfounded fears (fears of the ‘Yoginis’), tragic events.
+Sun:
+Bodily illness, carelessness, untimely death.
+Moon:
+Mental distress, phobias, illness to father.
+Mars:
+Peri-anal inflammation, mental anguish, blood disorders.
+V. PD’s in the AD of JUPITER
+
+<<<PAGE 232>>>
+Jupiter:
+Much wealth, auspicious events.
+Saturn:
+Gain of wealth and kine, means of comfort.
+Mercury:
+Learning, wealth, visits by dear friends.
+Ketu:
+Fear of drowning or imprisonment, untimely death.
+Venus:
+Learning, several means of pleasure.
+Sun:
+Gains from father, mother, friend and the king.
+Moon:
+End of all miseries, success in undertakings.
+Mars:
+Injuries by weapons, indigestion.
+Rahu:
+Trouble from ‘Chandala’, loss of wealth, illness.
+VI. PD’s in the AD of SATURN
+Saturn:
+Bodily illness, quarrels, miseries.
+Mercury:
+Loss of discrimination, loss of wealth, fear from foes.
+Ketu:
+Confinement by the enemy, morbid fear, mental anguish.
+Venus:
+Acquisition of the object of desire.
+Sun:
+Rise in status, quarrel at home, illness.
+Moon:
+ Great undertakings, excessive expenditure, sexual relations with
+several women.
+Mars:
+Injury to the son, fear from fire and foe.
+Rahu:
+Loss of wealth and lands, foreign travel, death.
+Jupiter:
+Troubles at home, mental distress.
+VII. PD’s in the AD of MERCURY
+Mercury:
+Learning, wealth and comforts.
+Ketu:
+Unclean food, abdominal and eye disease.
+Venus:
+ Gains in the northern direction, rise in professional status, losses
+from
+cattle.
+Sun:
+Loss of health, loss of mental poise.
+Moon:
+Gain of woman and wealth, birth of a daughter.
+Mars:
+Gain of wealth and wisdom, fear from thieves, fire and weapons.
+Rahu:
+Discord with women, sudden fears, injury from weapon.
+Jupiter:
+Royal status, excessive learning.
+Saturn:
+Bodily injury, loss of wealth.
+VIII. PD’s in the AD of KETU
+
+<<<PAGE 233>>>
+Ketu:
+Sudden calamity, foreign travel, loss of wealth.
+Venus:
+Fear from mlechchhas, eye disease, headache.
+Sun:
+Opposition to friends, defeat, untimely death.
+Moon:
+Loss of discrimination, humiliation, illness.
+Mars:
+Injury from falls, fire or weapon.
+Rahu:
+Trouble from women, dominance by enemies.
+Jupiter:
+Loss of wealth, sudden calamity, varied losses.
+Saturn:
+Death of friends, bodily disease.
+Mercury:
+Loss of discrimnation, mental distress, morbid fears.
+IX. PD’s in the AD of VENUS
+Venus:
+Gain of pearls, white clothes and pretty women.
+Sun:
+Febrile illness, troubles from foes and the ruler.
+Moon:
+Birth of a daughter, gain in wealth and status.
+Mars:
+Injury in a brawl, blood disorders.
+Rahu:
+Discord with women, sudden fear.
+Jupiter:
+Gain of high status, vehicles and precious stones.
+Saturn:
+ Gain of beasts of burden (donkeys, camels, etc.), and of dark
+coloured objects (iron,
+black pulses, etc.).
+Mercury:
+Gain of wealth and learning, rise in status.
+Ketu:
+Displacement from one country to the other, fearful untimely death.
+The results of PD’s in the various AD’s must be applied only
+judiciously.
+Where good results are described, they are modified favourably or
+adversely
+by benefic or malefic association or aspect. Similarly, bad results
+ too get
+substantially modified. Planets also produce results according to the
+houses
+they own. This latter factor must obtain primary concern when the above
+mentioned results are being applied to individual charts.

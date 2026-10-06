@@ -1,0 +1,2196 @@
+# source: _OceanofPDF.com_360_degrees_of_wisdom_-_Lynda_Hill.pdf
+# pages: 1-40
+# compiled into: degrees.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 1>>>
+360º
+360 DEGREES 
+ O F  W I S D O M :
+THE SABIAN ORACLE
+by Lynda Hill
+
+<<<PAGE 2>>>
+HOW TO USE THE SABIAN
+ORACLE
+There are several ways to use this book.
+• Shuffle the cards and look up the Symbol in the book
+• Think of a number between 1 and 360 and look up the relevant
+page number.
+• Open the book at random.
+• Look up the Symbols for your birthday in the Birthday Table.
+• Using your Birthchart investigate the Symbols for any planet or
+point in the chart.
+Like all Oracles,
+whichever answer you find is the one you need.
+May the Symbols
+speak to you!
+
+<<<PAGE 3>>>
+ACKNOWLEDGEMENTS
+It has taken 10 years for this book to evolve. I am incredibly grateful that I can stand on
+the shoulders of giants such as Marc Edmund Jones, Dane Rudhyar and Elsie Wheeler.
+So many people have helped me on my journey. Thank you to all those who believed in
+the work, encouraged me or assisted me along the way.
+Special thanks go to:
+Richard Hill and his partner Sue Davis. Richard and I shared our lives for 20 years and
+continue to be supportive of each other as we enter an exciting new period of our lives.
+My daughter Jess—my wonderful editor and sounding board in the writing of this book.
+Her brilliance has taught me many things; one of them being how to be a better writer.
+My son Joel, the coolest person I know on the planet. He did more than his fair share of
+the cooking whilst I sat at the computer.
+Deirdre Hill, for so many things.
+My father Ken Rigby, who for many years was an astrologer and an Edgar Cayce healer.
+Alice Kashuba and Dale O’Brien, wonderful students of the Sabian Symbols, who were
+there from the very beginning of my sojourns into the United States.
+Gary Rabideau and Claudia Lapp for doing the Birthday Index and being great mates.
+Elizabeth Paul Avedon for designing the Oracle cards, believing so strongly in my work
+and giving me the step up the ladder that I needed at just the right time.
+Paul Smyth for doing the wonderful layout and design.
+Philip Sedgwick for being so special—such an incredible mind and inspiration.
+Graham Dawson and Stephanie Johnson—directors of Esoteric Technologies Pty Ltd., the
+company behind Australia’s successful astrology software programs Solar Fire, Solar Maps,
+Solar Writer and Solar Spark for their enthusiastic nudge that led me to write the Oracle.
+Eben Weiss, Michael Lutin, Ray Merriman, Alan Oken, Georgina Haul, Judith Levy, Bob
+and Diana Zoller, Rick Levine, Scott Davis, Vicki and Dennis Spanogle, Janis Watson, Ananda
+Bagley, Linda Reid, Ben Cameron, Chrissie Eglem, Deborah Kennedy, Yasmin Boland, Jessica
+Adams, Ian Mortimer, Ada Cumming, Val and Frank Budny, Diana Hunter, Richard Giles and
+Susie, Randy and Brian Main, Rick and Angie Romero
+And all the special people who’ve touched my life.
+
+<<<PAGE 4>>>
+360 Degrees Of Wisdom: The Sabian Oracle
+This book is dedicated to Elsie Wheeler
+First published in 1995 by Hill & Hill P/L
+First Edition March 1995
+Reprinted August 1995
+Revised Edition December 1995
+Special Edition May 2002
+© Lynda Hill 2004
+All rights reserved. No part of this book, either in part or in whole, may
+be reproduced, transmitted, translated, or utilized in any form or by
+any means without permission in writing from the author or publisher,
+with the exception of brief passages, quoted in articles, reviews or for
+personal use.
+Layout and cover design by Paul Smyth
+Contact details: Lynda Hill P.O. Box 172 AVALON 2107 Australia
+Ph:(61 2)9918.9539 Fax:(61 2)9973.1453
+email: lyndah@bigpond.com
+http://www.sabiansymbols.com
+
+<<<PAGE 5>>>
+CONTENTS
+Preface ............................................................................................ i
+The Sabian Symbol Story................................................................ ii
+My Journey With The Sabian Symbols ........................................ viii
+Using The Cards............................................................................. x
+How To Prepare Oracle Cards .................................................... xiv
+Using The Birthday Tables ........................................................... xv
+ARIES ............................................................................................. 1
+TAURUS.........................................................................................31
+GEMINI .........................................................................................61
+CANCER........................................................................................91
+LEO .............................................................................................121
+VIRGO.........................................................................................151
+LIBRA..........................................................................................181
+SCORPIO.....................................................................................211
+SAGITTARIUS..............................................................................241
+CAPRICORN ...............................................................................271
+AQUARIUS ..................................................................................301
+PISCES.........................................................................................331
+Appendix A: Birthday Tables ......................................................361
+
+<<<PAGE 6>>>
+i
+PREFACE
+Introduction
+More and more people in this new era are seeing how magical and mystical life
+can be. We are finding our way into much broader, enriching and rewarding levels.
+So many of us are now exploring the spiritual aspects of our existence; observing our
+lives, and the effects we have on the people around us and on planet earth. Life today
+is increasingly complex, however, with so many decisions to make and puzzles to solve.
+We hunger for meaning and guidance and often want and need answers to life’s many
+questions—here and now.
+As many of us already know, there are tools for discovering what’s going on, and why,
+which help us to find our path. Throughout history successive generations have created
+intuitive guidance tools that reflected the vibration of their culture and their times—the
+I Ching in ancient China; the Runes in Scandinavia; the Tarot in early Europe.
+Oracles have been ‘read’ from an incredible array of objects including stones, bones,
+tea—leaves, coins, sticks, the backs of tortoise shells and cards. The word “oracle” comes
+from the Latin word meaning “to pray”. It is also connected to the word for mouth. An
+oracle is described in Webster’s Dictionary as being ‘a divine announcement’ and ‘the
+medium by which a god reveals hidden knowledge or makes known the divine purpose’.
+Further, it is said to be ‘an authoritative or wise statement or prediction’. In essence an
+oracle is a tool that allows a conversation with divine forces. They give us signposts and
+maps so that we can make better, more informed choices in life. In truth, we have the
+answers to the questions we ask inside of us; however we often need the answers to
+come through a vehicle outside of ourselves. Now we have the Sabian Oracle, which
+gives us a direct route into issues that reflect our modern era.
+Based on the Sabian Symbols, first created in 1925, and consisting of 360 answers,
+the Sabian Oracle can be used to guide us through questions about our day—to—day
+lives: work, relationships, health, spirituality etc. Using the Sabian Oracle will help
+you to discover what’s going on and why, leading to deeper self—awareness. You are
+able to make more informed choices and greatly enhance your life. It provides us with
+a psychic and spiritual tool for deep guidance, insight and the ability to see into the
+amazing occurrences and synchronicities that occur to us and happen around us. You
+can ask questions about what your future holds, how to go about doing something, what
+you need to know about a situation or the people involved, directions on your spiritual
+path or you can use it to get a message for the day. They lead us out of the wilderness
+into a place of greater self—determination, fulfillment and enjoyment. Using them also
+widens and enlarges our psychic abilities and awareness and increases our attunement
+with our intuitive depths.
+
+<<<PAGE 7>>>
+SABIAN SYMBOLS
+i­
+The Sabian Symbol story
+What are the Sabian Symbols?
+The ancients divided up the sky, just like any other circle, into 360 degrees. They
+assigned each of the 12 constellations (star signs or zodiac signs) 30 degrees each: 12
+times 30 = 360. The Sabian Symbols are a set of 360 phrases of words that correspond
+with each of the 360 degrees of the wheel of the zodiac, from Aries 1 to Pisces 30.
+Consisting from as little as 2 words (Virgo 2: ‘A Harem’) to as many as 21 words (Taurus
+5: ‘A Youthful Widow, Fresh and Soul—Cleansed From Grief, Kneels at an Open Grave
+to Receive the Secret of Eternal Life), each one of these Symbols holds both a story
+and a unique energy field of their own. These images hold meaning for those degrees
+of the signs. Although the Symbols have their foundations in astrology, absolutely no
+knowledge of astrology is needed to use them.
+The Sabian Symbols were given birth in San Diego, California, in 1925 by Marc
+Edmund Jones, a noted American astrologer and spiritualist and the gifted clairvoyant
+Elsie Wheeler. Jones was interested to find a set of word images to go with every degree
+of the zodiac. Elsie Wheeler was an extraordinary clairvoyant confined to a wheelchair
+for most of her life. Jones chose Elsie Wheeler as his partner in this ‘experiment’ as she
+had a remarkable ability to “see” messages, images and symbols. She used this talent
+to help her clients, but was rather weary of the standard questions she received, such
+as “when will I be rich?” and “when will I meet the love of my life?” She was eager to
+take part as she believed that this was an opportunity to really contribute something
+to astrology.
+How Elsie and Marc brought through the Symbols
+One day in San Diego in 1925 (unfortunately the date was not recorded) not far from
+the harbor, astrologer Marc Edmund Jones assisted spiritualist—medium Elsie Wheeler
+into his car. Elsie was afflicted with severe arthritis, making any movement very difficult
+and most likely painful. Marc’s car made its way from the house on India Avenue where
+Elsie lived up the sloping hills to Balboa Park. Exactly where in the park they worked
+is not known. Marc Edmund Jones wrote that they found a place where they could be
+surrounded by the vibrations of modern American life but would not be disturbed by
+passers—by. Also, as Elsie was unable to walk, they could not be moved from the car.
+Marc Edmund Jones wrote in his book ‘The Sabian Symbols in Astrology’ (first
+published in 1953), “Miss Elsie Wheeler was very anxious to start… it was necessary
+to provide uninterrupted hours, with a problem of inevitable fatigue to be taken into
+account. She had to be carried, no others could be present and conditions in general had
+to enable her to function in her accustomed manner. Balboa Park in San Diego offered
+a spot where a driveway was a matter of a very few yards from one of the city’s busiest
+traffic intersections, fortuitously meeting the necessity that work of this sort be done in
+the turmoil of some metropolitan center or other unusually dense aggregation of people
+
+<<<PAGE 8>>>
+Preface
+iii
+active in the business of being. There was a screen of trees and bushes, and during the
+day no one would show any interest in a car parked here for a few hours.”
+Marc had a set of 360 3” x 5” cardboard cards that he had prepared. These were
+blank except for a small notation of the sign and number on one side (i.e. Aries 1, Aries
+2 up to Pisces 30). Marc would shuffle the cards and place one in front of Elsie, neither
+of them knowing the sign or number on the card. Marc wrote about this: “One card
+was put face down before the medium, and she reported on the picture she saw by
+inward vision. This was noted hurriedly in pencil on the card itself.” During the whole
+process, Marc kept shuffling the cards. Hence, the Sabian Oracle clairvoyantly came
+through Elsie’s psychically attuned mind completely at random (i.e. not in zodiac order
+Aries 1, Aries 2, Aries 3 etc.) They did ninety Symbols, took a break, did another ninety,
+had lunch and a short drive, then did another ninety and finished the last ninety at the
+end of the day.
+That the entire set of Sabian Symbols was visualized and recorded in one day is a truly
+extraordinary feat! If the process of visualizing and recording the Symbols took four
+hours in the morning and four hours in the afternoon, on average 45 Symbols would
+have to have been visualized per hour, or one every minute and a half. Elsie Wheeler
+was obviously tapping into another level of consciousness.
+What they’d achieved on that day became clearer and clearer to Marc Edmund Jones
+over the following years. He had called the exercise an ‘experiment’, but exactly what
+they had discovered is still emerging today through the minds of those who use the
+Symbols
+The magic behind the 'Experiment'
+Marc Edmund Jones believed that Elsie Wheeler had tapped into what he called the
+‘ancient mind matrix’ of the Sabian alchemists of ancient Mesopotamia. Jones wrote
+that “…psychism seams to deal with (a) sort of group identity, or with an intelligence
+which is immortal in the fact that it can be revivified and consulted at will.”
+Marc said that there was a presence and cooperation “on the invisible side of life”
+of one of the Brothers of the ancient Sabian occult sect. At the end of the day, when
+the entire Oracle had been completed, Marc sensed something was wrong with one
+of the Symbols, and asked Elsie to do that particular one again. He felt this so strongly
+that it occurred to him that he was being guided by something, so he asked Elsie if
+‘the Brother’ was there. Upon hearing that he was, Marc asked her what he was doing,
+to which she responded that he was “standing with his arms folded.” Marc then said
+“Ask him why he didn’t correct that.” Elsie responded, “He says that is up to you.” It
+appears that on all levels, a higher kind of ‘consciousness’ or ‘intelligence’ was operating.
+Why the name‘Sabian’?
+The Sabian Symbol story is embedded in the ancient cultures of the Middle East. Marc
+Edmund Jones felt that there was an “unseen agency”—an external, esoteric mind—set at
+work in the birthing of the Sabian Symbols. Connection was made through a ‘Brother’, a
+
+<<<PAGE 9>>>
+SABIAN SYMBOLS
+iv
+member of the ancient Mesopotamian brotherhood, the Sabian Brotherhood. He believed
+that they were the ‘voices’ that were spiritually behind Elsie Wheeler, delivering the
+messages that became the Symbols.
+The Sabian people were an ancient race of alchemists, living in Harran, a city on
+the banks of the Euphrates River in Mesopotamia, where astrology is said to have
+originated. Harran existed from the third millennium BC to the thirteenth century AD.
+It was the repository for the philosophy of the ancient Chaldeans, who were among
+the founders of astrology. The Sabians were alchemists who were into talismanic magic
+and hermeticism. Michael Baigent in his book ‘From the Omens of Babylon’ describes
+talismanic magic as “the magic whereby a deity’s power is attracted or coerced down
+to be concentrated into a physical object.. It is, perhaps, analogous to a huge spiritual
+lens which might magnify and concentrate the powers from above.”
+In early Babylonia the moon—cult was the national religion: the name Chaldeans
+means ‘moon—worshippers’. As the religion was gradually wiped out elsewhere, the
+Sabian people maintained and developed the tradition of Chaldean astrology. They
+built temples to planets and their rather sophisticated system of alchemy linked the
+7 planets (as were known then) with metals, colors and numbers. They worked with
+talismans, oracles and magic. The last temple that was left standing was a moon temple,
+destroyed by the Tartars in AD 1032. The sect itself disappeared during Mongol invasions
+of the thirteenth century, when its water supply was diverted to a neighboring town.
+The Visionaries behind the Oracle
+Elsie Wheeler the clairvoyant
+Elsie May Wheeler was born on September 3, 1887 at 9.39 pm in Norris City,
+Illinois. Severely afflicted and crippled with arthritis, she spent her entire life in a
+wheelchair. Jones said of her “She couldn’t turn her head and could barely hold her
+hands” Her intuitive and visionary abilities were not impaired by her handicap. She
+was an extraordinary clairvoyant and said to be blessed with the ability to see images
+quickly and clearly.
+In the 1920 Census, Elsie is listed as being at the Bethesda Hospital and Home for
+the Incurables in St. Louis, Missouri. She moved to San Diego some time in the early
+1920’s, living with her uncle Frank W. Baxter on India Street, Washington and Market
+Street at various times. In the 1930 Census, Frank was listed as being a barber and Elsie
+as a spiritualist medium. She spent many of her days at the San Diego Indoor Sports
+club, a place disabled people have been socializing at since the early 1900’s, and is still
+in operation today.
+Even though her Birthday Symbol is Virgo 12: A Bride With Her Veil Snatched Away,
+Elsie never married nor had children. It seems that she was “wedded” to a higher
+spiritual purpose. Her ‘Veil’ seems to be firmly in place as not much has been recorded
+or written about her, but the legacy she leaves behind lives on through the gift that is
+
+<<<PAGE 10>>>
+Preface
+v
+the Sabian Oracle. The beauty and grace with which she is said to have lived her life is
+enhanced by the gift she gave to the world. She died at the age of 51 in San Diego on
+the 26th November 1938.
+Marc Edmund Jones the astrologer
+Marc Edmund Jones was born on October 1, 1888, at 8:37 AM CST, in St. Louis,
+Missouri. He lived a colorful and varied life, being a Presbyterian minister, American
+Theosophist, occult philosopher and prolific scriptwriter for the film industry. Jones
+was an astrologer for over sixty years and is widely accredited with having made major
+contributions to the field of astrology. Not only did he create the Sabian Symbols, he
+devised a whole different approach to the understanding and teaching of astrology,
+assigning to it a more spiritual basis. He died on March 5, 1980, in Stanwood, WA at
+the age of 91.
+What is the zodiac?
+The zodiac is an imaginary band of sky that follows the sun’s annual path as seen from
+earth. If we could observe the motion of the sun against the stars for an entire year, it
+would appear to trace out a large belt or circle in the sky that we call the “ecliptic”. This
+circle also happens to be the plane of the earth’s orbit around the Sun. The zodiac is a thin
+band of the sky on either side of the ecliptic. The word “zodiac” literally means “circle
+of life”, or “circle of living beings” as most of the zodiac signs are animals or people.
+The band is divided into twelve equal parts, each containing a different astrological
+constellation. These are the Sun signs or Star signs of the zodiac.
+The zodiac acts as the earth’s aura. Just as a human being possesses an aura which
+surrounds and penetrates the physical body, so also is the Earth planet clothed with the
+subtle matter of the zodiac. The physical plane is familiar ground to everyone, but not
+so the spheres that lie beyond it. These include the etheric, the astral, the mental, the
+spiritual, and the higher spiritual. All of these dimensions affect us in many ways.
+The earliest recorded mention of the zodiac we know of comes from the lands of
+ancient Mesopotamia, which is roughly the area of modern Iraq. The Mesopotamians,
+most particularly the people of Babylon, recorded astronomical events on clay tablets.
+These tablets show the first record of the use of the zodiac in the 5th century BC. Other
+evidence for a Mesopotamian origin for the zodiac exists in the types of animals chosen
+for the constellations (e.g. lions and scorpions).
+What are Zodiac Signs?
+The expressions “star sign”, “sun sign” or “zodiac sign” all actually mean the same
+thing. When someone says “I’m an Aries”, what they’re really saying is they were born
+at the time of the year when the sun was in the zodiac sign of Aries. In other words,
+their sun sign is Aries. Because our calendar is designed to coincide with the motions of
+
+<<<PAGE 11>>>
+SABIAN SYMBOLS
+vi
+the Sun around the zodiac, the Sun is in Aries at nearly the same time period each year
+(roughly March 21st to April 20th). Hence the 12 zodiac or sun signs are like months
+of a calendar based on the zodiac.
+The zodiac is divided into 12 signs, each 30 degrees long. The zodiac signs start
+with Aries, which begins at the spot on the ecliptic where the Sun is on the first day of
+spring in the northern hemisphere i.e. March 21. These 30 degree sections of the sky
+mark out the signs from Aries through to the last sign, Pisces. The 12 signs of the zodiac
+are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn,
+Aquarius, and Pisces.
+Some notes on symbolism
+Symbolism is a catalyst or key to accessing our inner wisdom, our connection with
+the universal consciousness, our spirit or soul—what some call the higher self. This
+aspect of ourselves does not think in words, but in images, feelings, colors and sounds
+from a symbolic perspective. It is the abstract part of our psyche that our logical and
+rational society often does not accept as valid because it doesn’t make literal sense: it
+requires interpretation into objective language, which is not always wholly adequate
+or accurate.
+One of the major current effects that is occurring is a real need to reconnect with ‘the
+feminine’ —the right brain, intuitive functions. More than ever, we are realizing that the
+left brain, the logical and reasoning mind, doesn’t provide wholly adequate answers to
+the questions we are asking. We are finding more creative solutions that add meaning
+to our lives and moments of illumination than we previously thought possible. We are
+often surprised by images and situations that affect us far more deeply than is logically
+explicable. It is symbolism that creates a pathway to our deeper understandings and
+brings our deeper understandings into the conscious world. As Tom Chetwynd says
+in his book Dictionary of Symbols “Symbols have always been treasured as a means of
+releasing sources of energy from the unconscious.”
+When we ask the Sabian Symbols a question, we must keep in mind the need to widen
+our vision. Looking at the answer through a narrow range of focus may lead to missing
+the many rewarding possibilities inherent in the answer we’re given. For instance, a
+client asked about the romantic possibilities that were available to him as he was in
+the process of breaking up a long term relationship. The answer he got was Leo 15: A
+Street Pageant Moving Along a Street Packed With People. After a minute looking at
+the Symbol, he realized the answer he was receiving was to get out into life, out where
+there are lots of people in order to increase his possibilities of meeting someone. The
+literal translation of the Symbol did not necessarily include that exact message for him;
+it was more about adapting the Symbol to his particular question. However, it is indeed
+possible that he may meet someone whilst at a street market, or bumping into someone
+on the street, as these things are inherent in that Symbol.
+Looking with an increased depth of view always helps when you’re dealing with
+oracles.
+
+<<<PAGE 12>>>
+Preface
+vii
+Notes for astrologers
+How does one use the Sabian Symbols in astrology?
+When looking up the Symbol for a planet or placement in a chart, one must round up
+the degree to the next whole number i.e., if the planet is at 27.15 Pisces, you should read
+Pisces 28. This is because the zodiac starts at 00.00 Aries and the Symbols begin at
+Aries 1. So, even if the degree you’re looking at is 27.00 Pisces, you would still read
+Pisces 28. Having said that, it should be emphasized that the Symbol for the degree
+before (i.e. Pisces 27) will shine a lot of light on the issue being investigated—the
+degree before indicates the ‘karmic’ issues of the planet or placement, a talent that’s
+been brought through or an issue that needs to be worked out and possibly let go of.
+Think of the interpretations applied to the moon’s south node as a guide to the degree
+before. The degree after (Pisces 29) is also very illuminating.
+These Symbols can be used in every aspect of astrology, including horary, mundane,
+electional and indeed for any of the zodiacal systems such as heliocentric, sidereal or
+draconic. A great exercise that helps one to see more into these Symbols is to look up
+the symbol for the Sun at sunrise and watch what happens throughout the day. You can
+also tune into the degree of the new or full moon for clues to what’s going on during
+that period.
+. The Symbols can be applied to any point in the zodiac. They will reveal, at times
+brilliantly and clearly, added layers of meaning to the degree of any of the planets, any
+asteroids that one might use, the angles—in fact anywhere there’s a zodiacal degree.
+My belief is that wherever one seeks meaning, one will find meaning.
+As we move out of the Piscean age and into the Aquarian age, we are transmuting in
+many ways, with the vibration of our spiritual and intellectual minds moving into higher
+gears as we evolve. In such hectic times, we hunger for meaning and guidance, but
+often don’t have the time or the patience to pause and reflect deeply on our situation.
+The Sabian Oracle opens the doorway between our inner feelings and intentions and
+our conscious mind. They do this by helping to put what is within us into words.
+Being provided with possibilities enables us to act positively and confidently, and think
+rationally.
+Welcome to the wonderful mystical, magical Sabian Oracle.
+Recommended reading:
+The Sabian Symbols in Astrology by Marc Edmond Jones, Sabian Publishing Society, 1976.
+An Astrological Mandala by Dane Rudhyar, Vintage Books (Random House), 1973.
+From the Omens of Babylon: Astrology and Ancient Mesopotamia by Michael Baigent,
+Arkana (Penguin) 1994.
+The Sabian Assembly website: http://www.sabian.org
+Lynda Hill’s website: http://www.sabiansymbols.com
+
+<<<PAGE 13>>>
+viii
+MY JOURNEY WITH THE SABIAN SYMBOLS
+Finding and studying the Sabian Symbols has changed my life far more than I could
+have imagined. My life has been enormously enriched. The interest that people have
+in the Sabian Symbols has led me to travel the world for the last 10 years, teaching and
+giving readings and my articles are published in magazines and journals all over the
+world. It feels like an honor to do this work.
+These days, studying and spreading the message of the Sabian Symbols is an integral
+part of my life. In my youth I didn’t understand why I was irresistibly drawn to certain
+places. From 1976 and over the course of twenty years I traveled to more than 80
+countries. I was most touched with the depth and wisdom of civilizations of the past,
+particularly the middle east. I now realize I have been guided and driven to take this
+journey—even from my early years.
+I originally came across the Sabian Symbols in the late 1980’s. I found them
+fascinating and very telling about a person’s life and indeed their destiny. I used them
+here and there in my work and found them to be extraordinary in painting the stories
+that we live out. However, on my birthday in 1992, a clairvoyant friend of mine, Georgina,
+said that I had a mission to spread the word of something “special” in astrology. She told
+me that I would be invited to speak at conferences in Australia and around the world,
+particularly the United States. My instant response was, “Sure, Georgina, except when I
+stand up in front of a crowd to speak, I turn to jelly. I even cried once.” I didn’t feel filled
+with confidence on any level to do what she was saying I’d do. She continued, saying
+that I’d write books, one of which would be a big success. I would become known for
+teaching something special and I would gain the respect of my peers. I remember her
+words when I protested that I had nothing special to lecture or write about: “Well, I’m
+just telling you what I’m seeing.”
+Despite my reluctance, at first, to admit it, the things that Georgina said to me
+resonated with what I wanted. Two weeks later, in my office, I decided to “ask” for what
+she’d said. I stated what I wanted, holding the thought for a moment or two. I asked for
+something “special” to contribute to astrology, for the ability to be able to lecture and
+write, for the respect of my peers and to be able to travel with my work. Soon after,
+I picked up a copy of Dane Rudhyar’s ‘An Astrological Mandala’, a book published in
+1973 on the Sabian Symbols, and within weeks of asking for these things, I was tearing
+around the house like a woman possessed, researching and writing about them.
+Within the next month I lectured for the first time in my life: I gave two lectures
+in Sydney and 5 months later delivered my first talk to an American audience at the
+Aquarian Revelation Conference in Lansing, Michigan. I also spoke on a panel at that
+conference in front of some three hundred people at the invitation of one of astrology’s
+brightest stars, Alan Oken. In the thirteen years since then, I have given lectures,
+workshops and readings in the United States, England, Scotland, Wales, Ireland, Holland,
+South Africa, New Zealand and Australia. At the time of writing this, I’ve completed
+19 lecture tours of the United States and three world tours. Every step of the way I’ve
+felt guided and supported.
+
+<<<PAGE 14>>>
+My Journey With The Sabian Symbols
+ix
+It really all began at the age of 22. I felt compelled to travel to the Middle East, to
+walk on the soil and breathe the air. I felt particularly drawn to Iraq, Turkey and Jordan.
+On this particular trip, in 1976, I was interested in astrology, but didn’t have any in-depth
+understanding of it; I certainly had no awareness of the Sabian Symbols.
+I arrived in Tehran by myself to meet up with a bus tour that would take me
+through the Middle East, taking in Iran, Iraq, Jordan, Syria, Egypt, Israel, Turkey and
+then through Europe to London. It was an “overland expedition” that drew the young,
+alternative-minded travelers of the day. We were told that we were the second bus to
+be given permission to travel through Iraq after the borders opened up. I joined 36
+Australian, British, New Zealand and U.S. nationals and careened off through the lands
+of Iran and Iraq. Here I was, 22 years old, in the cradle of civilization: Baghdad, Babylon,
+Ur, Ctesiphon, Petra, Aqaba, Jerusalem, etc, relishing the atmosphere and wondering, at
+times, what I was doing there. The trip left an indelible impression on me. I remember
+saying that I had photographs of the people of Iraq in my photo album, and pictures of
+them in my heart. When I’d say this, I’d wonder why I felt it so strongly.
+During my visit to Petra, the ancient rose-red city in southern Jordan, I was sitting
+in the amphitheatre and suddenly had an overwhelming sense of emotion engulf me.
+In completely alien surroundings, I felt I’d been brought home. I was even moved to say
+“thank you” to some higher being. I had never felt truly at home anywhere, and haven’t
+felt the same in any of the 80 or so countries I’ve traveled to since.
+In 1995, Robert Zoller, a New York medieval astrology scholar who translates ancient
+Latin astrological texts into English, was my tour guide around New York. I spoke of
+my fascination with the Middle East and particularly Petra. We were walking along the
+street when he pointed out that the Sabian alchemists’ ancestors from Mesopotamia,
+an area which encompassed modern day Iraq, were the Nabateans, the people who
+built Petra. This aroused feelings in me that defy words or logic. How extraordinary
+that some 20 years before, Petra had felt so amazingly familiar.
+These kinds of synchronicities really do defy words. It’s an amazing journey, this
+journey we’re on! Life is more amazing than we know and the Sabian Symbols help us
+realize its magic and mystery.
+Lynda Hill
+January 2004
+Avalon, Sydney
+
+<<<PAGE 15>>>
+SABIAN SYMBOLS
+x
+USING THE ORACLE CARDS
+First—concentrate on your question or situation
+The Sabian Oracle seems to work most effectively when your question is important
+to you and your concentration is undisturbed. This is true of most oracles. However,
+if you want guidance and are not sure which question to ask, you can ask “what do I
+need to know most?” or “what’s coming up for me?” There are no rules, but the more
+focused you are, the more you will understand what the Oracle is telling you.
+Pick a red card and a blue card
+The simplest method is to pick two cards, one red and one blue. The red cards are
+marked with a sign and the blue ones with a number.
+Look up the answer in the book
+The end result (e.g. Aquarius 29) is then looked up in the book and the answer
+needs to be contemplated.
+It really is as simple as that.
+However, there are other ways of selecting a Symbol. Each page has been numbered
+from 1 to 360 so that you can simply choose a number in your mind or even a number
+that may come up in your surroundings. You can also randomly choose a sign and a
+number; or perhaps just open the book and see where your eyes fall. However, the
+thing to remember when using these other methods is after using them for some time
+you may effect the selection by preferring particular numbers or signs or the book
+may open to the most often used pages. The best method by far is the card method. It
+ensures a true selection that the others may not.
+The rule I use for accessing the wisdom of The Sabian Symbols is that there are
+no mistakes, even if you read the ‘wrong’ interpretation, or find out later you’ve made
+some kind of mistake. There are no mistakes. We receive the message we’re meant to
+receive when we’re meant to.
+If a card falls or jumps (as they sometimes do) out of the deck, attention should be
+paid to it. For instance, if you’ve just selected a red card and its Aries and the number
+18 falls out as you’re shuffling, you should continue, select another blue card, but refer
+to Aries 18 as part of your answer.
+Sometimes, the first answer outlines the actual situation, and gives advice about
+it. You may indeed need further guidance and consulting the Sabian Oracle again will
+provide deeper insight. There are no rules for how many times you should consult the
+Oracle about a particular question, but it must be remembered that time should be
+
+<<<PAGE 16>>>
+xi
+taken in considering what it is telling you. The first answer is most likely to contain the
+purest expression of the situation and any subsequent queries on the same matter will
+show added layers and descriptions. Unfortunately, continuing to pull the cards until
+you get the ‘right answer’ is not a good way to go about it, as you can become confused
+and lose the wisdom that should really be helping you.
+You can also make up your own spreads. For instance, you could pull three
+cards about an issue: one for the past, one for the present and one for the future. The
+possibilities are only limited by the imagination.
+A magical tool we can all use
+Remarkable things happen when we use the Sabian Symbols. Events can become
+unreal and multi-layered. Watching the Symbol come alive around you expands your
+sense of everything being interrelated and events of synchronicity happen more and
+more often. Things often occur that defy explanation.
+One such time was during a workshop in New Zealand. During the first part of my
+lecture, a woman at the back of the class asked if she could use numerology to come
+up with a Sabian Symbol. I replied that it didn’t matter what system was used to come
+up with a Symbol, there would be meaning in it. With expressions of amazement she
+told the class that she’d added up the numbers for the letters in her name and it came
+to 35. She’d looked up the Sabian Symbol on page 35—Taurus 5: ‘A Youthful Widow,
+Fresh and Soul Cleansed From Grief, Kneels at an Open Grave to Discover the Secret
+of Eternal Life’. Her husband had built a coffin for her! The woman said that the coffin
+was stored in their garage and every time she drove in and out of the garage, she was
+confronted by it. She said it was to save money and added that he’d built one for himself,
+their two coffins stood on end, side-by-side in her garage.
+The Sabian Symbols can have a sense of humor at times. I was speaking at an
+astrology conference in Moscow in 1996. A party was held for the speakers, both
+foreign and Russian, on Saturday night in the hostel room of a couple of the Russian
+academics. It was by no means luxurious; it was a cheap student hostel. One by one,
+the furniture in the room collapsed. First the table where I had put 2 bottles of wine;
+then we were warned not to sit on a particular chair and a different one collapsed and
+the bed collapsed into pieces as we tried to move it to make way for more people.
+Amongst gales of laughter, somebody drew two cards to get a message for the
+moment. They drew Virgo 27: ‘Aristocratic Elderly Ladies Drinking Afternoon Tea in a
+Wealthy Home’—the Sabian Symbols revealing a great sense of humor, as this was the
+exact opposite of what was happening. The guy whose bed fell apart fell against the
+wall and slid down it, laughing. The Symbol was showing the sheer wealth of spirit
+and enjoyment.
+Of course, many times the answer will reflect serious and important issues in your
+life. One client of mine selected the Symbol Virgo 22: ‘A Royal Coat of Arms Enriched
+With Precious Stones’. Up until she pulled that Symbol she wasn’t feeling very happy or
+regal at all. However, what she read surprised and encouraged her as she was directly
+
+<<<PAGE 17>>>
+SABIAN SYMBOLS
+xii
+descended from New Guinea royalty and the Symbol was reminding her of it. It told
+her to believe in herself and always hold her head up high.
+Several years ago, our 14 year old tabby cat, Bubbles, died. We were all very upset,
+especially my two children. The same day she died, my daughter Jess, who was about 12
+at the time, asked me if we could ask the Sabian Oracle for a message about Bubbles. She
+picked two cards and the answer she received was at once enlightening and reassuring;
+Aquarius 14: A Train Entering a Tunnel. We somehow knew that Bubbles was heading
+for the ‘light’ and we sat and cried together tears of joy, feeling that she was moving
+somewhere towards the light. The following day, Jess asked if we could ask the Oracle
+again. I hesitated, wondering what on earth it could tell us, but knowing that the Oracle
+is always illuminating in some measure, I decided to take another look. The Symbol
+Jess got was Leo 27 Daybreak – The Luminescence of Dawn in the Eastern Sky. That
+felt extraordinary! Reading the words I’d written about that Symbol was very healing
+for Jess: “You may feel that there is finally a chance for a new beginning. Things have
+been sacrificed and there may be a certain emptiness, but now you can see the light and
+move forward again. New ideas, new opportunities, new perspectives, new realizations
+are emerging.” It seemed to us that Bubbles had reached the other side, indeed it felt
+that she was reincarnating!
+Some things to remember
+The ‘you’ referred to in the wording of the text may refer to you, a friend, the
+situation you’re in, etc. Read the text and look to see how it fits the particular situation
+you’re enquiring about.
+Sometimes the image of the Symbol opens up a dialogue between your intuitive
+awareness and conscious awareness, sometimes it is the text, sometimes just snippets
+of it, but the purpose of the Symbols is not only to instruct you, but also inspire you
+to recognize and realize your own understanding of the answer – the answer that is
+right for you.
+There are a number of generally accepted meanings and archetypes to certain
+images. It is, however, important to remember that each individual must allow for
+their own personal response to a Symbol. The Symbols will have different meanings
+to different people at different times in different situations, although the nature of the
+Symbol will define the parameters of possibility
+The more you expand your vision, the more you’ll find layers and layers of meaning.
+There is always more to a Sabian Symbol than first meets the eye. If you take notice, you
+will see actual representations of the Symbol in the world around you. For instance,
+you may pull Aquarius 29: ‘A Butterfly Emerging From a Chrysalis’ and see butterflies
+around you: Perhaps you’ll be walking out doors and a butterfly floats past you, you go
+to lunch and your girlfriend turns up wearing a butterfly clip, you see a butterfly in an
+advertisement on the television. Clues can pop up everywhere, particularly if you leave
+your mind open and receptive to the impressions. Further, the more you open up to
+seeing the Symbol around you, the more you will expand your psychic awareness. Your
+intuition will reward you more and more with deeper insights and understanding.
+
+<<<PAGE 18>>>
+Using The Oracle Cards
+xiii
+What separates the Sabian Symbols from most other symbolic oracles is that the
+language is modern and reflects the images of today. A wonderful oracle like the I Ching
+is made difficult by the references to things that were relevant to the ancient Chinese
+culture. Things like princes, tigers and ox-carts. The Sabian Symbols talk about cars,
+trains and airplanes. In the symbolic context these images have clear and current
+meaning. The Car is symbolic of the individual; a Train speaks of the collective; Window
+Shopping of desirable things that are out of reach; the Glass Bottomed Boat shows
+observing things and viewing the emotions; Santa Claus bringing gifts; and so on.
+The Caution section at the bottom of each page is included to open your mind to
+the more difficult or confronting possibilities that you may need to be watchful for
+in your situation. Your intuition will soon tell you if the situation surrounding your
+question is more positive or negative.
+The greatest barrier to understanding what the Symbol is telling you is not allowing
+your mind to switch to an intuitive way of thinking. It’s best not to let the rational mind
+and your hopes and desires color your interpretation. Spend time and wait until you
+become aware of the answer that feels right—even if the answer is difficult. We tend
+to grow spiritually or emotionally through difficult experiences. The Sabian Oracle is
+here to give you a guiding hand. The answers truly lie inside you; the Oracle serves to
+make you consciously aware of them.
+I advise people using the Sabian Symbols to use them as a tool for inspiration and
+guidance. Look at the words and allow your mind to become consciously aware of your
+situation. It is by taking control and ownership of your own experience that makes a
+tool like the Sabian Oracle so valuable.
+To learn more about how to use the Sabian Symbols, and how to apply them in
+astrology, please visit http://www.sabiansymbols.com
+
+<<<PAGE 19>>>
+SABIAN SYMBOLS
+xiv
+All you need is two packs of ordinary playing cards with different colour
+(or style of) backing. Most commonly available is red and blue. You can
+use only one pack, but you will need to make some marking on the back
+or add a sticker to distinguish between the court cards and number cards.
+Creating the 42 cards:
+1. Separate the court cards from the number cards. (The Ace is a number card)
+2. Remove and discard the Spade number cards. (Ace - 10)
+3. Put the red backed court cards with the blue backed number cards.
+(You will then have a spare set of blue court cards and red number cards)
+4. Now you are ready to name the court cards and number the number cards.
+Naming and numbering the cards:
+The court cards represent the 12 Sun signs and the number cards represent the
+30 degrees. You now need to mark the cards. You can use an indelible pen or
+some other form of permanent marker. You can also use stickers that you can
+write on..
+The correspondences:
+Aries ______ K
+Taurus ____ Q
+Gemini ____ J
+Cancer ____ K
+Leo _______ Q
+Virgo _____ J
+Libra ______ K
+Scorpio ____ Q
+Sagittarius _ J
+Capricorn _ K
+Aquarius __ Q
+Pisces _____ J
+1-10 ___A - 10
+11-20 __ A - 10
+21-30 __A - 10
+Your cards are now ready!
+HOW TO PREPARE
+ORACLE CARDS
+In case you misplace your cards, here is a method to create a replacement 
+deck.
+
+<<<PAGE 20>>>
+Using the Birthday Index
+You can learn a lot about yourself by looking up the Sabian Symbol for your birthday
+(go to Appendix A for the Birthday Table). For each day of the year, there are three Sabian
+Symbols listed. Each of these will all have an effect on your life in some way. Sometimes
+the message of a Symbol listed for a birthday will immediately stand out, other times
+the meaning may not be quite so obvious. The Sabian Symbols are played out through
+the way we express our personalities and by the events in our lives. Alternatively, you
+may see the Symbol demonstrated through the agency of someone else in your life;
+friends, parents, partners etc. However, even in the case of seeing the Symbol expressed
+through somebody else, it is often that person mirroring something that you perhaps
+haven’t noticed or learnt about yourself.
+It is also extremely useful to look up the Symbols for the date of an event, something
+that’s happened, or indeed, something you’re planning to do. If you are planning a
+wedding or a party, for instance, see what the Symbols are saying for that date.
+Celebrity Birthday Symbol Examples
+Princess Diana - July 1
+Cancer 9 – a Small Naked Girl Bends over a Sparkling Pond Trying to Catch a Fish
+Diana was often photographed in her bathing costume, swimming in the ocean
+or relaxing by a pool. This Symbol also speaks of naiveté and innocence, qualities she
+was both known and admired for.
+Cancer 10 – A Large Diamond in the First Stages of the Cutting Process
+When the first pictures of Diana appeared in the media, she was like a beautiful
+uncut diamond. As the years went by, we saw a beautiful woman emerge, well known
+for her penchant for fashion and beauty.
+Cancer 11 – A Clown is Caricaturing Well Known Personalities
+The ‘Clown’ is reflected in her need to put on a face for many occasions. It seems
+she was seldom really allowed to just ‘be herself’.
+Michael Jackson - August 29
+Virgo 6 - A Merry Go Round
+The ‘Merry Go Round’ reflects his life as more circus than reality. Indeed, he has
+merry go rounds at his own theme park/home, Neverland.
+Virgo 7 – A Harem
+Among other things, the Harem Symbol speaks of his large family and his sizable
+
+<<<PAGE 21>>>
+SABIAN SYMBOLS
+xvi
+entourage of people.
+Virgo 8 - A Girl Takes Her First Dancing Lesson
+Jackson can easily take credit for changing the face of modern dance.
+Christopher Reeve - September 25
+Libra 2 - The Light of the Sixth Race Transmuted to the Seventh
+This Symbol speaks of his days as Superman, plus the “superhuman” qualities he
+expresses in his everyday life. In the movie ‘Superman’, he is portrayed as coming from
+a planet that is more highly evolved than Earth.
+Libra 3 - The Dawn of a New Day Reveals Everything Changed
+One moment he was a vital, athletic and able man, the next minute he was in a
+totally new reality, facing life in a wheelchair. Reeves has also said that after the accident,
+every single time he woke up, he’d have to face the reality he was really in after having
+dreams that pictured him with full mobility.
+Libra 4 - A Group of Young People Sit in Spiritual Communion around a Campfire
+Reeve has an uncanny ability to bring people together in a common cause—his
+work for the support of spinal research has developed worldwide awareness.
+Hillary Clinton - October 26
+Scorpio 2 -A Broken Bottle and Spilled Perfume
+Hillary had an amazing capacity to restrain her emotions during the scandals
+surrounding her husband. Even though the ‘contents’ of her marriage and private life
+were ‘Spilled’ (so to speak!), she retained a high degree of dignity.
+Scorpio 3 – Neighbors Help in a House-Raising Party in a Small Village
+Hillary is known for her community work. Indeed, she wrote a book titled “It
+Takes a Village”.
+Scorpio 4 – A Youth Holding a Lighted Candle in a Devotional Ritual
+This Symbol speaks about Hillary’s devotion, her causes and her career. Her
+speeches are often focused on talking about our hopes and fears, and about our
+children’s futures.
+Deepak Chopra - 22 October
+Libra 28 -A Man Alone in Deep Gloom. Unnoticed, Angels are Coming to His Aid
+People all over the world claim that his philosophies have helped them through
+difficult periods of their life.
+
+<<<PAGE 22>>>
+Using The Birthday Index
+Libra 29 – Mankind’s Vast and Enduring Effort to Reach for Knowledge Transferable
+from Generation to Generation
+Chopra’s books seem to have assumed a timeless quality, and an appeal to people
+of all ages.
+Libra 30 - Three Mounds of Knowledge on a Philosopher’s Head
+This is indicative of his finely tuned teachings and ideas.
+Marilyn Monroe - June 1
+Gemini 10 - An Airplane Dives Toward the Earth as Though Falling
+Through taking risks her life often got out of hand. This symbol also reflects the
+depressions she frequently experienced.
+Gemini 11 – Newly Opened Lands Offer the Pioneer New Opportunities for Experience
+This Symbol paints the picture of how Norma Jean went off to Hollywood, starting
+a brand new life.
+Gemini 12 – A Black Slave Girl Demands Her Rights of Her Mistress
+Marilyn was under estimated by both her peers in the movie industry and her
+audience. People saw her as just a pretty face and didn’t take her seriously.
+Recently, I met a Pisces woman who was lamenting being married to an Aries man.
+She said she was tired of battling with him. I asked her what her birth date was and
+she replied March 3. I told her that one of her Sabian Symbols was Pisces 13 - A Sword,
+Used in Many Battles, In a Museum. I explained to her that ‘battling’ was not something
+she wanted to be doing anymore. This Symbol gives the advice “There may have been
+a lot learnt in the ‘Battles’ you’ve experienced, but one thing that’s best learnt is that
+continuing to fight may lead to a bitter end, with no one being a true winner’. The
+Symbol for Pisces 14 – A Lady Wrapped in Fox Fur contained clues to how she needs
+to use her feminine intelligence in order to get the most out of her relationship with
+her husband.
+I asked what her husband’s birthday was. Her reply was the 11th April. One of the
+Symbols for his birthday is Aries 21 - A Boxer is Entering the Ring. She explained how
+he would take any opportunity to pick on her or to start a fight. This insight lead to
+some extraordinary insights into their situation and no doubt helped her to understand
+what was happening between the two of them. In order for him to gain the benefits
+of the other Sabian Symbol for his birthday – Aries 22 – The Gate to the Garden of All
+Fulfilled Desires, he had to drop his “warring” attitude and accept his life for all the
+beauty and promise it contained without fighting or being defensive.
+But enough about everybody else—it’s time for you to look up your own Birthday
+Symbols!
+
+<<<PAGE 23>>>
+SABIAN SYMBOLS
+xviii
+
+<<<PAGE 24>>>
+ARIES
+E
+1
+What does this SYMBOL say to you?
+A WOMAN HAS RISEN OUT OF THE
+OCEAN,A SEAL IS EMBRACING HER
+Commentary: ‘A Woman Has Risen Out of the Ocean’. She is
+consciously aware of leaving the past behind in order to emerge
+into a whole new arena of existence and activity. The ‘Seal
+Embracing Her’ symbolizes her being welcomed into this new
+arena. This degree is right on the cusp of Pisces and Aries, when
+the yearly astrological cycle begins again. It’s like the beginning
+of a new year. In the Northern hemisphere it marks the beginning
+of spring—the Spring Equinox. Long ago there was a belief that
+the spirits of those who had drowned at sea had the ability to
+enjoy life in the ocean in the form of ‘Seals’. When they wished,
+the Selkies could, once per moon cycle, swim ashore, drop their
+sealskins and become mortals again.
+Oracle: New understandings and awareness are coming to light.
+Whatever is emerging, either in you or around you needs to be
+accepted, welcomed and nurtured. It’s best to resist the old
+familiar ways of being or relating as they can pull you back to
+outgrown and possibly unsatisfactory conditions. Maybe you feel
+you are not being acknowledged, don’t have a voice or are not
+being heard. Take heart as comfort and salvation are likely to be
+found in the most unexpected places. Despite any setbacks, be
+aware that you possess the power to make the necessary changes
+in your life. It is time to claim your place or make a mark in this
+new world. So much potential lies ahead of you. Welcome this
+new beginning and be fearless in the face of the changes that
+are coming. Accept the ‘Embrace’ of those who welcome you
+into this new sphere. It is inevitable that you’ll leave something
+behind as you move into this new territory. Enjoy the journey
+and give birth to self-love, self-worth and divine creativity. Let
+go of the past and emerge into life and love.
+Keywords: Cycles starting. Beginnings. Emergence into concrete
+manifestation. Embracing and honoring the shadow. Recognizing
+our animal side. Tropical islands or lands. Rocky shores. Seals.
+Oceans and water. Shedding skins. Transmutation. The Selkie
+myth. Grounding one’s energy. Stepping between the sea and
+the shore. Androgyny. Love and its embrace. Finding your feet
+and your voice. Mermaids.
+The Caution: Using masculine power to overshadow emotions.
+Refusing to move on. Feeling held back by fears and old life
+patterns. Falling back into previous, unsatisfactory conditions.
+Dragging others backwards. Immobilizing fear of the unknown.
+Being just another “fish in the sea”.
+Change starts when someone
+sees the next step.
+William Drayton
+But the beginning of things,of
+a world especially,is necessarily
+vague,tangled,chaotic,and
+exceedingly disturbing.How
+few of us ever emerge from
+such a beginning! How many
+souls perish in its tumult!
+Kate Chopin
+Who would be A merman bold,
+Sitting alone Singing alone
+Under the sea,With a crown of
+gold,On a throne?
+Lord AlfredTennyson
+The journey of a thousand
+leagues begins from beneath
+your feet.
+LaoTzu
+And forget not that the earth
+delights to feel your bare feet
+and the winds long to play with
+your hair.
+Kahlil Gibran
+Everything teaches transition,
+transference,metamorphosis:
+therein is human power,in
+transference,not in creation;
+and therein is human destiny,
+not in longevity but in removal
+we dive and reappear in new
+places.
+RalphWaldo Emerson
+Aries 1
+
+<<<PAGE 25>>>
+SABIAN SYMBOLS
+E
+2
+What does this SYMBOL say to you?
+A COMEDIAN ENTERTAINING A GROUP
+OF FRIENDS
+Commentary: ‘A Comedian Entertaining a Group of Friends’ is
+seen. The function of the ‘Comedian’ is to show that there’s a need
+to have a lighter and more positive attitude to ourselves, others
+and life in general. He’s ‘Entertaining a Group of Friends’ which
+promotes a feeling of coming together or sharing through laughter
+and fun. The talk may center on people, things or situations with
+the more amusing aspects brought out. An objective awareness
+of life can bring enjoyment to concerns as we see things in a
+different or wider perspective.
+Oracle: We often need to be reminded that we are essentially
+human and share the same imperfections, frailties and
+shortcomings as the next person. Look for the fun in what’s going
+on around you as light relief can often be found through seeing
+the humor and the funny side. In answer to your question this
+Symbol often shows that there’s a need to let go of seriousness.
+Try looking at things with a smile on your face. Simple changes
+in attitude or approach can often free your mind and bring about
+a much better outcome. However, this can show somebody not
+taking life seriously enough or perhaps putting on a show to get
+attention or to be liked. Look at what’s happening and evaluate
+it: Is there any truth in what’s being said or is it really just a joke?
+Although there is often pleasure in sharing fun, sometimes it is
+just masking the more serious aspects of the situation. The old
+saying “many a truth is told in jest” is often right. Things are
+often revealed by a slip of the tongue. Whatever, remember; it’s
+good to be lighthearted–and other people’s spirits will probably
+be raised at the same time.
+Keywords: Seeing the funny side. Having insights. Always being
+on the ‘go’ mentally. Putting on a show for others. Having presence
+and charisma. Being the life of the party. Banter. Cracking up
+with laughter. Ragging each other. Humorous interplay. Saying
+what the group wants to hear. Jokes. The buffoon. Inside jokes.
+The jester.
+The Caution: Being silly or trivial to avoid reality and gain
+acceptance. Feeling separate because of different views. Not
+seeing the light side. Being a bore with many irrelevant things
+said. Being flippant and insincere. Not being amused. Demanding
+the spotlight. Feeling responsible for how others feel. Not
+knowing when to stop. Not having good boundaries.
+In the end,everything is a gag.
+Charlie Chaplin
+Sometimes when reading
+Goethe I have the paralyzing
+suspicion that he is trying to be
+funny.
+Guy Davenport
+The best way to cheer yourself
+up is to try to cheer somebody
+else up.
+MarkTwain
+To make mistakes is human;to
+stumble is commonplace;to
+be able to laugh at yourself is
+maturity.
+Proverb
+The ultimate test of whether
+you possess a sense of humor
+is your reaction when someone
+tells you you don’t.
+FrankTyger
+Not one shred of evidence
+supports the notion that life is
+serious.
+Anon
+A serious and good
+philosophical work could be
+written consisting entirely of
+jokes.
+LudwigWittgenstein
+Different taste in jokes is a great
+strain on the affections.
+George Eliot
+Aries 2
+
+<<<PAGE 26>>>
+ARIES
+E
+3
+What does this SYMBOL say to you?
+A CAMEO SHOWS THE PROFILE OF A
+MAN THAT SUGGESTS THE OUTLINE OF
+HIS COUNTRY
+Commentary: ‘A Cameo Profile’ is a simple yet strong definition
+of an individual’s character, shape, loyalties and role in life.
+The ‘Cameo’ suggests the appearance of a growing objective
+awareness of how someone fits into the larger picture. You may
+find that you, or someone else, have a more important role than
+was previously thought; or that you are imprinting your mark; or
+possibly becoming a model of one’s tradition, culture, thoughts
+or ideas.
+Oracle: There’s often a need to feel included or involved in the
+larger picture in order to feel “whole” or accepted. Taking the
+time to examine your place in society can bring about insights
+into just what the big picture is for you. Understanding and
+expanding your true place in the scheme of things can lead to
+actually having a much larger ‘Profile’. This could be on any
+level, emotional, physical, mental or spiritual. The ‘Country’ that
+this Symbol implies may not have national boundaries. There
+is the spiritual “country”, the ideological “country”, even past
+life “countries”. There are some people who find their roots in
+a mixture of these places, or realities, and don’t actually feel
+a belonging to their actual “homeland”. The sense of having a
+place is often deep-seated and truly found in the individual’s
+belonging to the essential self. How do you, and others, fit into
+this situation? Does your ‘Profile’ define you in a different way
+from what you’d like, or are you happy with the outline of your
+image? Picture who you want to be or what you want out of
+life. Using a pen and paper, draw your ‘Cameo’ or just picture
+what the outline of your ‘Country’ should be, as it could be an
+interesting exercise. We are what we believe we are. What face
+are you showing to the world?
+Keywords: Observing one’s limitations. Living a life that is large.
+Atlases and maps. Standing by one’s self. Allegiances with creed,
+religion, race or country. Nationhood. Brotherhood. The land.
+People in uniforms of any kind. The face of fighters who fought
+‘the good fight’. Borders and limitations to activity. Identification.
+Expatriates.
+The Caution: Stereotyping one’s self or others. Blindly following
+the dogma of parents, government or officials. Not seeing the
+true essence of one’s self. Expecting to fit into some “shape” or
+model. Becoming identified with externals. Seeking recognition
+from others.
+As a woman I have no country.
+As a woman my country is the
+whole world.
+VirginiaWoolf
+He worked like hell in the
+country so he could live in the
+city,where he worked like hell
+so he could live in the country.
+Don Marquis
+A man’s country is not a certain
+area of land,of mountains,
+rivers,and woods,but it is a
+principle;and patriotism is
+loyalty to that principle.
+GeorgeWilliam Curtis
+Socrates said he was not an
+Athenian or a Greek,but a
+citizen of the world.
+Plutarch
+He who has an art has
+everywhere a part.
+Romanian Proverb
+I have never belonged
+wholeheartedly to a country,a
+state,or to a circle of friends,nor
+even to my own family.
+Albert Einstein
+All the world is a stage,and all
+the men and women merely
+players.They have their exits
+and entrances;each man in his
+time plays many parts.
+William Shakespeare
+Aries 3
+
+<<<PAGE 27>>>
+SABIAN SYMBOLS
+E
+4
+What does this SYMBOL say to you?
+TWO LOVERS ARE STROLLING THROUGH
+A SECLUDED WALK
+Commentary: ‘Two Lovers’ are shown ‘Strolling Through a
+Secluded Walk’. This image shows that there’s sometimes a need
+to escape the realities of the world and touch the deeper feelings
+of one’s heart. The ‘Secluded Walk’ that the ‘Lovers’ are taking
+pictures the need for private time, solitude or quiet romance. An
+actual ‘Secluded Walk’ may not be necessary – what is important
+is the ability to exclude outside energies that interfere with the
+sharing of intimate time.
+Oracle: This Symbol shows that some time should be taken
+away from the hustle and bustle of the everyday world, even
+if only for a short while. Sometimes a detour must be taken
+and the materialistic world put aside in order to share special
+moments with someone close to you. You may desire, or even
+need to exclude others or outside energies from your life at the
+moment. These things may be interfering with what needs to
+be said or done in order to solve relationship difficulties and
+to move forward in life. If you are by yourself in this situation,
+the solution may lie in taking time off and just being alone and
+rediscovering yourself. This can open the door to sharing more
+intimate dimensions of yourself with another person when you
+feel you’re ready for it. This is especially true if your life has been
+hectic or confused recently. Sending out an invitation to someone
+special to share moments of your life may bring more rewards
+than are immediately apparent. Can you schedule things so that
+you can afford some time out?
+Keywords: Walking love’s path. Secret love affairs. Seeking shelter
+from others’ eyes. Wanting or needing to be undisturbed. The
+young at heart. Being by one’s self and wondering where the
+‘’other’’ is. Romance. Quiet moments. Seclusion and peace.
+Intimacy and sharing. Desired destinations. Walking and strolling
+together. “Keep Out” signs. Relationships that are solid and
+satisfying. Issues of seclusion, inclusion or exculsion. Privacy.
+Being self-sufficient.
+The Caution: Being ‘selfish’ by keeping one’s partner or friend
+to oneself. Jealousy when others are around. Feeling ‘left out’
+and uninvited. Narrow-minded responses to people or things.
+Loneliness and/or the desire to be left alone. Denial of self and
+needs. Not wanting contact. Rejecting those who don’t measure
+up. Seeing one’s partner as a possession.
+Let there be spaces in your
+togetherness.
+Kahlil Gibran
+Whether joy or sorrowful,the
+heart needs a double,because
+a joy shared is doubled and a
+pain that is shared is divided.
+Ruckett
+The man who goes alone can
+start today;but he who travels
+with another must wait till the
+other is ready,and it may be a
+long time before they get off.
+Henry DavidThoreau
+I was never less alone than
+when by myself.
+Edward Gibbon
+Far from the madding crowd’s
+ignoble strife.
+Thomas Gray
+Love does not consist in gazing
+at each other,but in looking
+together in the same direction.
+Antoine De Saint-Exupery
+I was never less alone than
+when by myself.
+Edward Gibbon
+Far from the madding crowd’s
+ignoble strife.
+Thomas Gray
+Aries 4
+
+<<<PAGE 28>>>
+ARIES
+E
+5
+What does this SYMBOL say to you?
+A WHITE TRIANGLE IS SEEN;IT HAS
+GOLDEN WINGS
+Commentary: ‘A White Triangle’ with ‘Golden Wings’ is a
+spiritually uplifting image. It is hard to know exactly what the
+clairvoyant Elsie Wheeler saw when she received this image,
+but it could be that she saw the vision of a moth—the White
+Triangle Tortrix which has gold colored wings. The Symbol it
+implies the possibility of being able to raise yourself above the
+ordinary, using your natural gifts to find a new perspective into
+what’s going on. What’s needed is an uplifted view to expand
+your scope of awareness.
+Oracle: This is a beautiful Symbol that indicates that you don’t
+have to feel stuck in the present situation – you can rise above it
+to something more spiritual, beautiful and joyful. It can picture
+an eagerness for spiritual integration. At this time there may
+be a need not to ground your visions, but allow them the free
+flight of imagination. However, sometimes the drive for spiritual
+integration or the longing for ecstatic experiences can cause a
+feeling of being out of touch with reality. It is important to
+persevere through any feelings of disorientation until a new
+sense of balance is discovered—then the grounding of your
+vision (or situation) can take place naturally. Use your imagination
+and remember to integrate the three agencies: body, mind and
+spirit. ‘A White Triangle With Golden Wings’ is a wonderful image
+or mandala for meditation. Drawing it on a piece of paper and
+hanging it up on the wall may well bring some amazing insights
+into the situation or the question that has brought you to the
+Oracle. Seeking harmony will cause things to move, sometimes
+in a very surprising way!
+Keywords: Inspiration and zeal. Feeling elevated and inspired
+through spiritual or creative agencies. Flying to a greater
+perspective. Taking off. Purity of thought and expression. Angelic
+forms. Creative imagination. Self-transcendence. Finding new
+dimensions of experience. Illusions of sight. Visions. Untethered
+imaginations. Ascension. Ascended beings. Moths. Butterflies.
+Flying Machines.
+The Caution: Not noticing your own down-to-earth needs
+or the needs of those around you. Losing the plot. Escapism.
+Forgetting about the requirements and desires of the body.
+Being ungrounded. The space cadet. Things that aren’t based
+in reality.
+You cannot depend on your
+eyes when your imagination is
+out of focus.
+MarkTwain
+Love and desire are the spirit’s
+wings to great deeds.
+Goethe
+I know of no more encouraging
+fact than the unquestionable
+ability of man to elevate his life
+by conscious endeavor.
+Henry DavidThoreau
+Scully:Another Bermuda
+Triangle?
+Mulder:It’s more like a wrinkle
+in time..
+The X-Files
+He who has imagination
+without learning has wings but
+no feet.
+Horace
+You see things as they are and
+ask‘Why’?
+I dream things as they never
+were and ask‘Why not’?
+George Bernard Shaw
+And I said,oh that I had wings
+like a dove! For then would I fly
+away,and be at rest.
+The Bible
+Aries 5
+
+<<<PAGE 29>>>
+SABIAN SYMBOLS
+E
+6
+What does this SYMBOL say to you?
+A SQUARE BRIGHTLY LIGHTED ON ONE
+SIDE
+Commentary: ‘A Square Brightly Lighted on One Side’ is a Symbol
+of containment, walls and boundaries. A four-sided structure can
+lead to feeling contained, boxed in, trapped or claustrophobic in
+a place or situation. However, the ‘Square’ of this Symbol is not
+completely walled in; it is being lit up ‘On One Side’, which shows
+there are solutions and a way out. It indicates creative solutions
+are at hand, if one will turn their attention to that possibility.
+Oracle: In the situation facing you there’s a need to not concern
+yourself too much with one side of an issue, even though you
+may feel boxed in with little sign of resolution. Look around with
+a positive, problem–solving attitude, and apply simple, active
+solutions. There is a way out of your dilemma, although at first
+it may not be very obvious. It is important not to surrender to
+frustrations and limitations. As an exercise, try drawing an image
+of a square with one side not drawn in. Label each of the sides with
+a part of the problem that makes you feel trapped and constricted.
+What part of your problem, or the solution, could you write in
+the fourth ‘Brightly Lighted’ side? What are your possibilities for
+free movement in this situation? There is a ‘Lighted’ illumination
+and a solution if you turn your attention to it. Moving towards that
+‘Light’ and refusing to be limited can lead to a sense of freedom
+and security to do what you need to do. Open a window, turn
+on a light or open the curtains. Relinquishing the experience of
+“bouncing off the walls” will most likely bring you to the place
+where you belong and the answers that you seek.
+Keywords: Illuminated solutions that provide ways out of tight
+situations. Having to put up walls to protect or defend versus
+taking down the barriers. Putting all your eggs in one basket.
+Feeling fully contained. Walls and fences. Boxes. Understanding
+the borders of one’s activities. Looking for stabilization. Lighting
+up dark corners. Sunshine. Stepping outside the square or feeling
+there is no square. Moving out. Windows and doors. Rubik’s
+Cube.
+The Caution: Surrendering, feeling trapped. Seeing only one
+side. Bouncing around, feeling like there’s no way out. Internal
+struggles that prevent seeing solutions. Not acknowledging
+or expressing true feelings. Desperately wanting to escape
+tight situations. Fear of ambush. Fear of attack from behind.
+Claustrophobia. Padded cells. Painting oneself into a corner.
+Fresh activity is the only means
+of overcoming adversity.
+JohannWolfgangVon Goethe
+Conformity is the jailer of
+freedom and the enemy of
+growth.
+John F.Kennedy
+Within yourself deliverance
+must be searched for,because
+each man makes his own
+prison.
+Sir Edwin Arnold
+A man will be imprisoned
+in a room with a door that’s
+unlocked and opens inwards,as
+long as it does not occur to him
+to pull rather than push.
+LudwigWittgenstein
+Room Service? Send up a larger
+room.
+Groucho Marx
+There comes a time in a man’s
+life when to get where he has
+to go–if there are no doors or
+windows,he walks through a
+wall.
+Bernard Malamud
+Light can penetrate dark,but
+dark can’t penetrate light.
+Kryon
+It’s futile to gaze at the world
+through a car window.
+Albert Einstein
+Aries 6
+
+<<<PAGE 30>>>
+ARIES
+E
+7
+What does this SYMBOL say to you?
+A MAN SUCCESSFULLY EXPRESSING
+HIMSELF IN TWO WORLDS AT ONCE
+Commentary: ‘A Man Successfully Expressing Himself in Two
+Worlds at Once’ shows someone having the ability to be versatile
+and adaptable. When operating in ‘Two Worlds’, one’s life may
+seem divided with divergent responsibilities, needs and urges.
+As this image implies that this person is ‘Successfully Expressing
+Himself’, it shows that this is a time when it is possible, and
+probably necessary, to cope with separate or diverse areas of
+life.
+Oracle: You have the ability, or the challenge, to shift your focus
+from one thing to another when it is necessary. There is also the
+drive, determination and focus not to run out of energy. However,
+there is a need to be careful not to scatter your energies, as
+this may lead to wasting time and losing valuable opportunities
+for growth. Remember to be versatile and adaptable. There is
+often the need for a form of balance between the emotional,
+spiritual and material arenas. It’s through being clear and true
+to the difference between these two areas, these ‘Two Worlds’,
+that great things can be achieved. For instance, one can have
+a “straight” job during the day, and be doing something really
+unusual during the rest of the time, or live between two homes,
+two cities, two relationships, etc. On another level, there could
+be a realization of operating on the physical, more everyday level
+of your life whilst having messages coming through from more
+spiritual realms. You can be successful in anything you undertake
+now, as long as you are happy with the compromises that may
+be asked of both you and others and the splitting up of areas of
+your life. Are you enjoying the best of both ‘Worlds’?
+Keywords: Integrating the spiritual with the material. Balancing
+things. Doing juggling acts. Moving through people’s lives and
+social stratas. Translations of words and thoughts from one area
+of life to another. Having separate family situations. Living a
+dual life. Being adaptable. Moonlighting. Alternate realities.
+Shifting focus when necessary. Versatility. Looking elsewhere.
+The Caution: Fooling yourself that you can be all things to
+different people, but eventually failing in one or both. Exhaustion
+through trying to achieve too much. Deception, if allegiances are
+not clear. Infidelity and fickleness. Scattering of interests with
+little being achieved. Bigamy. Two-faced. Lies and masquerades.
+Feeling like one doesn’t truly fit in anywhere. Not being able to
+stop.
+Think like a man of action,and
+act like a man of thought.
+Henri L.Bergson
+I’ve been trying for some time to
+develop a lifestyle that doesn’t
+require my presence.
+GaryTrudeau
+Any woman who has a career
+and a family automatically
+develops something in the
+way of two personalities,
+like two sides of a dollar bill,
+each different in design...her
+problem is to keep one from
+draining the life from the other.
+Ivy Baker Priest
+There are no elements so
+diverse that they cannot be
+joined in the heart of a man.
+Jean Giraudoux
+I’m happy when I’m juggling,
+but I feel like I’ve gone from,like,
+3 balls to 10 bowling balls.But,
+that’s a good problem.I don’t
+really have a complaint about
+that.
+Kirstie Alley
+It is the nature of ambition to
+make men liars and cheats,to
+hide the truth in their breasts,
+and show,like jugglers,another
+thing in their mouths.
+Sallust
+Aries 7
+
+<<<PAGE 31>>>
+SABIAN SYMBOLS
+E
+8
+What does this SYMBOL say to you?
+A WOMAN’S HAT WITH STREAMERS
+BLOWN BY THE EAST WIND
+Commentary: ‘A Woman’s Hat With Streamers Blown By the East
+Wind’. The ‘East Wind’ often implies messages or forces coming
+in seemingly from out of the blue. These messages could be about
+spirit or spiritual teachings. There’s a degree of gentleness here
+and adaptability to external forces. Eastern philosophies can come
+to mind as a way of thinking through this experience. Indeed,
+some of the oriental systems of thought may play a major part
+in this situation.
+Oracle: In the situation facing you, you may feel as though you’re
+being blown a little off course from what you originally set out to
+do. This can happen even more if you or someone you’re dealing
+with can’t make up their mind, or are constantly shifting their
+perspective. There’s a need to adjust continually to the direction
+of outside forces. Shifts of mind and attitude may happen as a
+result or may, indeed, need to happen. Any changes are best
+greeted and considered playfully and lightly. Allow wisdom to
+lead you to new and different solutions, but be wary of acting
+superficially. Look to see if your mind keeps changing course and
+blowing you off center. If you do lose your way temporarily, be
+assured that you can be steered back onto the right course with
+just a little contemplation on the direction your life is meant to be
+taking you. Take your time, be patient and act with the feminine
+forces of gentility, grace and dignity. This Symbol indicates that
+you are somewhat protected from the more disturbing elements of
+your situation. Is someone running after something or someone,
+trying to retrieve it whilst it just keeps being ‘Blown’ further
+away? In what direction is this ‘Wind’ blowing you?
+Keywords: Attuning oneself through Eastern philosophies.
+Protective guidance. Balloons and hot-air ballooning. Compasses.
+Weather vanes and wind chimes. East meets west. Being adaptable
+to the moment. The winds of time and change. Shifts in the
+‘Wind’ bringing shifts in attitude or direction. Hats, scarves,
+streamers.
+The Caution: Only accepting solutions that satisfy selfish or
+social needs. Insincere and easily blown around. Fickleness.
+Being tossed around by momentary patterns in the “weather”.
+Conflicting ideals. Forgetting things in a moment. Being easily
+distracted. Changing course midstream. Being blown off the
+path, thereby losing ones center or way. Breezes that disturb
+ones equilibrium. Losinng yourself in other’s opinions.
+I am a feather for each wind
+that blows.
+William Shakespeare
+Our plans miscarry because
+they have no aim.When you
+don’t know what harbor you’re
+aiming for,no wind is the right
+wind.
+Seneca
+Like a kite cut from the string,
+lightly the soul of my youth has
+taken flight.
+IshikawaTakuboku
+Distracted by what is far
+away,he does not see his nose.
+Malagasy Proverb
+If the winds of fortune are
+temporarily blowing against
+you,remember that you can
+harness them and make them
+carry you toward your definite
+purpose through the use of your
+imagination.
+Napolean Hill
+If you pay nervous attention
+to other people’s opinions,
+maneuver to obtain their
+indulgence and to stand high
+in their esteem,you will be
+whisked about in their winds
+and you will lose yourself.
+Jo Coubert
+A great wind is blowing
+and that gives you either
+imagination or a headache.
+Catherine II
+Aries 8
+
+<<<PAGE 32>>>
+ARIES
+E
+9
+What does this SYMBOL say to you?
+A SEER GAZES INTENTLY INTO A
+CRYSTAL BALL BEFORE HIM
+Commentary: ‘A Seer Gazes Intently Into a Crystal Ball Before
+Him’ shows the talent, the need and the tools for intense focus and
+concentration. The ‘Seer’ sees many things as he ‘Gazes Intently’,
+looking for clues through a narrow focus in the ‘Crystal Ball’.
+Using a ‘Crystal Ball’ is his method of receiving information from
+the world of spirit. By looking deeply into a situation, images can
+form and meaning can be revealed. This enhances the ability to
+observe things that others may miss.
+Oracle: In your situation the whole picture is probably right
+before you but you may need help in interpreting its meaning.
+With a little concentrated effort, you will be able to see things
+more clearly. Find or retrieve information and clues by really
+looking at the structure of things. What are you doing and how
+are you focusing towards what you really want? The more you
+narrow your ‘Gaze’, and the more you trust in your own intuition,
+the sharper and clearer the focus will become. What is your
+unconscious mind trying to tell you? Find something to focus
+on, something beautiful, illuminating or inspiring in some way.
+Consider what messages your psyche is trying to bring you. If you
+have a dream, write it down. Drawing this Symbol may show an
+ability to see things ahead of their time. Tools of divination such
+as crystal balls, tarot cards, the runes, the I Ching, the Sabian
+Symbols or anything you have at your disposal will help you
+find the answers. However, there may be a need for caution if
+you are constantly seeking answers from tarot cards, astrology,
+clairvoyants, etc. Perhaps you should know when to call a halt,
+examining your own goals rather than merely getting answers
+from other people. Whatever, be patient and have a good,
+long, insightful look. The steadier your ‘Gaze’ the more will be
+revealed.
+Keywords: Flashes of inspiration. Tuning in and looking within
+for answers. Creative visualizations. Aura readings. Cutting
+through irrelevant messages. Looking carefully at structure.
+Seeking perfection. Clairvoyance. Illumination and deep insights.
+Looking ahead to see the signs.
+The Caution: Confused by literal meanings. Not seeing the
+symbolic message. Always looking this way and that, not at the
+center. Getting lost in the big picture. Daydreaming and ignoring
+what’s really going on. Obsessing over what may happen. Needing
+to know what’s coming up. Being impatient.
+The only limits are,as always,
+those of vision.
+James Broughton
+We are always in search of
+the redeeming formula,the
+crystallizing thought.
+Etty Hillesum
+People who see a drawing in
+the“NewYorker”will think
+automatically that it’s funny
+because it is a cartoon.If they
+see it in a museum,they think it
+is artistic;and if they find it in a
+fortune cookie they think it is a
+prediction.
+Saul Steinberg
+Everyone sees the unseen in
+proportion to the clarity of his
+heart,and that depends upon
+how much he has polished it.
+Whoever has polished it more
+sees more — more unseen
+forms become manifest to him.
+Jalal-Uddin Rumi
+Refrain from asking what is
+going to happen tomorrow,
+and every day that fortune
+grants you,count as gain.
+Horace
+It is said that the present is
+pregnant with the future.
+Voltaire
+The most pathetic person in
+the world is someone who has
+sight,but has no vision.
+Helen Keller
+Aries 9
+
+<<<PAGE 33>>>
+SABIAN SYMBOLS
+E
+10
+What does this SYMBOL say to you?
+A TEACHER GIVES NEW SYMBOLIC
+FORMS TO TRADITIONAL IMAGES
+Commentary:‘ATeacherGivesNewSymbolicFormstoTraditional
+Images’. This Symbol shows someone who can take a thing or a
+situation and transform and update it. The ‘Traditional Images’
+can be ideas, objects, icons, beliefs; things we are familiar with.
+That a ‘Teacher Gives New Symbolic Forms’ shows the ability to
+restructure, reinterpret and present them more in tune with the
+times. It indicates a need for a fresh and revitalized perspective
+on things. This is what Marc Edmund Jones and Elsie Wheeler did
+with the Sabian Symbol “experiment”. This book has taken the
+Symbols a step further, giving them further depth and insight.
+Oracle: In the situation facing you there’s a need to analyze
+and perhaps rewrite what has been observed and learned
+in the traditional roles we live out. Things may need a new
+interpretation to bring them up to speed with today’s thinking.
+Someone in this situation may have truly original ideas, but there’s
+a possibility of holding these back, feeling it has all been done
+before. The message here is to allow yourself to be creative and
+look for modern answers, seeing things in a different light or
+from a different angle. This may lead to realizations you have
+never even considered or imagined. Bringing out something new
+will revitalize your situation and affect those around you. This
+can bring new understandings about people and the way things
+work. There could be a revisioning of how one sees something
+like marriage, work, relationships, education etc. Sometimes this
+requires one to be daring, to “step outside the box”. Be prepared
+to take a different stance or look at things from a new and fresh
+perspective. Don’t stick to limitations, either your own or those
+others place on you. You may have to make a stand against those
+in a higher or more exalted position that think they know more
+than you—perhaps they don’t.
+Keywords: New dimensions breaking old thought forms or
+behavior. Quantum science. Innovation and re-creation. Working
+with educational tools. Finding new inspiration. Being “ahead of
+one’s time”. New-age consciousness. Ideas out of the past for the
+future. Sticking one’s neck out. Rewriting the book.
+The Caution: Rejecting old ideas because they are old instead
+of reforming them. Throwing things of worth out, without
+examining them. Having little respect for things that are really
+worthwhile or traditional. Sticking with the tried and true, no
+matter what. Thinking that no one will be interested in your
+ideas. Heresy. Dogma.
+It is better to fail in originality
+than to succeed in imitation.
+Herman Melville
+Originality does not consist
+in saying what no one has
+ever said before,but in saying
+exactly what you think yourself.
+James Stephens
+Adam was the only man who,
+when he said a good thing,
+knew that nobody had said it
+before him.
+MarkTwain
+It is the fate of new truths to
+begin as heresies and end as
+superstitions.
+Thomas H.Huxley
+Half my life is an act of revision.
+John Irving
+Civilization had too many
+rules for me,so I did my best to
+rewrite them.
+Bill Cosby
+Great innovators and original
+thinkers and artists attract
+the wrath of mediocrities as
+lightning rods draw the flashes.
+Theodor Reik
+I have for instance among my
+purchases ...several original
+Mona Lisas and all painted
+(according to the signature) by
+the great artist Kodak.
+Spike Milligan
+Aries 10
+
+<<<PAGE 34>>>
+ARIES
+E
+11
+What does this SYMBOL say to you?
+THE PRESIDENT OF THE REPUBLIC
+OR THE RULER OF ONE’S COUNTRY
+Commentary: ‘The President’ or the ‘Ruler’ pictures a person
+who’s in control, has a sense of authority and is called upon to
+do the right thing for his people, his ‘Country’ and indeed, his
+position or office. This ‘President’ or ‘Ruler’ has the right, and the
+duty, to call the shots in their territory or sphere of operation.
+Oracle: This Symbol says that it’s time to take charge, and to
+expand your base of operations. There may be a need to take
+control and command respect from others by showing that you
+have the confidence to make your own decisions. This is your
+opportunity to prove that you have the integrity and the necessary
+energy to get things done. It’s also a great time to bring a sense
+of order and discipline into your life – physically, spiritually or
+emotionally. It is important to grasp the boundaries of your
+influence and power as this will lead to a strong and renewed
+sense of self. Who’s in charge of operations in this situation—is
+it you or another? What can you do to strengthen your position
+and show that you can be relied upon to get the job done? If
+someone is trying to take your sense of individuality and power
+away through being bossy and in control, what can be done to
+reclaim your authority? Giving your power away to someone can
+lead to being taken advantage of in many ways. The undermining
+of one’s authority can lead to a loss of position and self-respect.
+Stay in a relationship only if it gives you a good sense of yourself.
+Whoever is involved in this situation should wield their power
+in a careful and thoughtful way. There may be a need to accept
+people’s recognition of you as a person in control of your own
+life and destiny. Doing this with dignity can lead to a whole new
+sense of self, position and personal power.
+Keywords: Developing willpower. Inner power, discipline
+and integrity. Discipline of thoughts, emotions and actions.
+Leadership, power and ability along with their responsibilities.
+Accepting responsibility for one’s actions. “Calling the shots”.
+Rulers, presidents, leaders. Taking charge. The need for loyal
+subjects. Being voted in. The democratic process.
+The Caution: Taking control. Lording it over everyone. Being
+overbearing. Not allowing others to be in charge of their own lives,
+health or situation. Egotistical and self-centered. Undermining
+others through a lack of self-awareness or confidence. Being
+larger than life. Dictators and tyrants. Military Governments.
+What government is the best?
+That which teaches us to
+govern ourselves.
+Goethe
+No man is free who is not a
+master of himself.
+Epictetus
+He is free...who knows how
+to keep in his own hands the
+power to decide.
+Salvador De Madriaga
+To put the world in order,we
+must first put the nation in order;
+to put the nation in order,we
+must put the family in order;to
+put the family in order,we must
+cultivate our personal life;and
+to cultivate our personal life,we
+must first set our hearts right.
+Confucius
+He that would govern others
+first should be the master of
+himself.
+Philip Massinger
+He is not fit to command others
+that cannot command himself.
+Proverb
+I am,indeed,a king,for I know
+how to rule myself.
+Pietro Aretino
+It is a strange desire to seek
+power and to lose liberty.
+Francis Bacon
+Aries 11
+
+<<<PAGE 35>>>
+SABIAN SYMBOLS
+E
+12
+What does this SYMBOL say to you?
+A FLOCK OF WILD GEESE
+Commentary: The ‘Flock of Wild Geese’ is a beautifully inspiring
+image of brotherhood and Aquarian ideals. Watching them fly
+can inspire feelings of group cohesion and the beauty of natural
+rhythms. The ‘Flock’ shows the need to join with others in a
+journey or a quest. Remember to take your cue from the ‘Wild
+Geese’ – when they fly in formation, they take turns in leading
+the way. Likewise, when one gets tired or sick, another takes
+the lead.
+Oracle: Whilst this is a Symbol of working together with others,
+be wary of losing your sense of individuality. There may be a
+feeling of wanting to leave behind previous life constraints, to
+be able to spread your wings, to seek freedom from difficulties.
+However, there’s a need to take note of “seasonal” variations
+that are happening around you. Obviously there is a time to
+“fly” and a time to relax and recover. You can’t always be on the
+go; you must look after your needs for nourishment and sleep.
+‘Geese’ are known for forming lifelong partnerships, so marriage
+or partnership may indeed be a consideration in this situation.
+However, it can sometimes be hard to “ground” relationships.
+This Symbol is very much about brotherhood, respect and getting
+along with others. Setting out with those of like mind can lead to
+an expanded view of life or indeed a whole new adventure. Still,
+continually taking off on tangents with others whilst you could
+be making more permanent and loyal commitments to the long
+term can really test relationships. Remember to be aware of your
+responsibilities, to both yourself and others in the group. Know
+that there is support out there for you; just ask.
+Keywords: Aquarian ideals of brotherhood. Attunement to
+planetary rhythms. Spirit liberated from matter. Wanting to take
+off by one’s self, but not being able to. Focused group activity
+and support. Group mentality, action and agreement. Intuition
+and telepathy. Choreography. Camaraderie. “Honking” to egg
+each other on. Flying in the slipstream. Responses to seasonal
+changes. Migrating at the right times. Travelling. Herds, gangs.
+broods. Flying in formation.
+TheCaution: Following the leader without knowing where one’s
+going. Never knowing where to land, or where to ground oneself.
+Wild goose chases. Not recognizing the brotherhood in humanity.
+Losing a sense of individual identity. Going off in the wrong
+direction. Being lost in the crowd. Beiing one of a gaggle.
+Birds of a feather flock together.
+Saying
+There is a destiny that makes us
+brothers,No one goes his way
+alone;All that we send into the
+lives of others,Comes back into
+our own.
+Edwin Markham
+I met a hundred men going
+to Delhi and everyone is my
+brother.
+Indian Saying
+A goose flies by a chart which
+the Royal Geographical Society
+could not mend.
+OliverWendell Holmes
+Don’t refuse to go on an
+occasional wild goose chase.
+That’s what wild geese are
+made for.
+Henry S.Haskins
+Cross in a crowd and the
+crocodile won’t eat you.
+Malagasy Proverb
+Likeness causes liking.
+Romanian Proverb
+Not the cry,but the flight of the
+wild duck,leads the flock to fly
+and follow.
+Chinese Proverb
+Why do you lead me a wild
+goose chase?
+Miguel de Cervantes Saavedra
+Aries 12
+
+<<<PAGE 36>>>
+ARIES
+E
+13
+What does this SYMBOL say to you?
+A BOMB WHICH FAILED TO EXPLODE
+IS NOW SAFELY HIDDEN FROM
+DISCOVERY
+Commentary:‘ABombWhichFailedtoExplode’showspotentially
+explosive energies are around which haven’t gone off yet that may
+now be ‘Safely’ defused. Things are “safe” from detection, but
+dangerous elements are possibly still within. Handling ‘A Bomb’
+needs to be done with extreme care and caution. That the ‘Bomb’
+is ‘Now Safely Hidden From Discovery’ shows it’s still potentially
+explosive, but has somehow been made safe. The duration of the
+apparent calm depends on whether the “defusing” is done with
+attention to all of the details involved, no matter how small.
+Oracle: Has this situation been defused or is still likely to
+‘Explode’? Unexploded ‘Bombs’ can be like grenades – ready
+to go off at any moment, spraying everyone with shrapnel. The
+‘Bomb’ is often something of an emotional nature, but can also be
+the suppression of a truth that has emotional side effects. There
+may be time to eliminate the impending explosion before it is
+discovered, bringing relief and release. If, however, things remain
+charged up, the result could be depression or internal anger and
+calling in the “bomb squad” may be necessary. This could mean
+the help of friends, family, and assistants. Calling in your own
+emotional, mental or spiritual ‘Bomb’ squad allows you to take
+control of your emotional nature. If a ‘Bomb’ is ‘Discovered’, it may
+point to the guilty party who will have to explain their behavior.
+Did you plant this ‘Bomb’ or did someone else? Take time to reflect
+on rash emotional decisions or situations that, if ‘Exploded’, could
+damage much more than was intended. Getting everything under
+control and safely out of the way will reveal how you can handle
+things. Act with integrity. People involved can learn a lot from
+how they react, especially when under pressure.
+Keywords: Pressure valves. Getting away with something.
+Tantrums and frustration. Tempers that simmer. Explosive
+behavior. Bombs, explosions. Sudden and forceful events.
+Intelligence organizations, CIA, FBI, ASIO, etc. Valuable lessons of
+self-restraint. Relief from problems. Discharging nervous energy.
+Security checks. Last minute escapes.
+The Caution: Suppressing stress or illness. Doing inappropriate
+thingsandthinkingthesecretsafe.Repressingemotions.Undefined
+anger. Pressure cooker energy that needs to be released slowly.
+Explosions damaging more than expected. Activists. Deception
+behind one’s back. Clash of ideals. Terrorism.
+Anger will never disappear so
+long as thoughts of resentment
+are cherished in the mind.
+Anger will disappear just as
+soon as thoughts of resentment
+are forgotten.
+Buddha
+How much more grievous are
+the consequences of anger than
+the causes of it.
+Marcus Aurelius
+“I lose my temper,but it’s all
+over in a minute,”said the
+student.“So is the hydrogen
+bomb,”I replied.“But think
+of the damage it produces!”
+George Sweeting
+I do not like this word“bomb.”It
+is not a bomb.It is a device that
+is exploding.
+Jacques le Blanc—French
+ambassador to New Zealand
+on Greenpeace’s Rainbow
+Warrior bombing.
+As in an explosion,I would
+erupt with all the wonderful
+things I saw and understood
+in this world.
+Boris Pasternak
+When the habitually even-
+tempered suddenly fly into a
+passion,that explosion is apt
+to be more impressive than the
+outburst of the most violent
+amongst us.
+Margery Allingham
+Aries 13
+
+<<<PAGE 37>>>
+SABIAN SYMBOLS
+E
+14
+What does this SYMBOL say to you?
+A SERPENT COILING NEAR A MAN
+AND A WOMAN
+Commentary: ‘A Serpent Coiling Near a Man and a Woman’
+symbolizes the story of the “temptation” of Adam and Eve in the
+Garden of Eden. The ‘Serpent’ offered Adam and Eve the gift of
+self-knowledge. However, this “knowledge” also revealed to them
+that they were naked and that this was sinful. The ‘Serpent’ was
+said to have brought them both knowledge and guilt. The “snake”
+can be symbolic of anything that induces fear or negativity into
+a situation. On the other hand, what the “snake” symbolizes
+can bring a healing and a profound sense of, or need for, self-
+knowledge. This Symbol can show the celebration of the physical
+body and the enjoyment of another through all of the senses.
+Oracle: Something or someone may be coming between two
+people. ‘A Serpent’ is shown ‘Coiling Near a Man and a Woman’;
+this can be a third person or some kind of threat. It can bring
+jealousy, resentment, distrust or separation. What comes between
+people may be an idea or a belief system, such as the fear of
+God. It may be some insight or knowledge that has come to
+light; it may be another person or a lover. Temptation, fear and
+passion can all too easily get in the way of any relationship, old or
+new. It can sometimes be difficult to tell exactly what’s coming
+between people; it could be an emotion, psychological condition
+or memory. The ‘Serpent’ in this situation is not necessarily in a
+threatening pose, yet it can still induce a sense of fear or tension
+because of assumptions and prejudice. Snakes by their very nature
+don’t have to do anything to be intimidating—they arouse fear,
+uneasiness and other, more extreme, reactions by their mere
+presence. Maybe one needs to let go of inhibitions in order to
+find new depths and ways of relating. If the fear of the “snake”
+were to disappear, would you then be able to return to your own
+“Garden of Eden”? Alone, or as a couple?
+Keywords: Enticement. Allurement. Revealing archetypal
+knowledge that may not be “socially acceptable”. Temptations.
+The Adam and Eve story. Jealousy. Sexual instincts. Life and death
+issues. Relating based on control. Kundalini energy. Realizing
+polarity. Individuation. Eating the Apple. The “knowledge of good
+and evil”. Having one’s eyes opened. Marking one’s territory.
+TheCaution: Feeling guilty. Being afraid to express one’s feelings.
+Basic instincts and sexual energy. The fear of knowledge, secret
+or otherwise. Using sexuality as a control device. Disgust or
+distrust of the body. Sexually transmitted diseases. Hiding nudity
+or sexuality. Being thrown out of paradise.
+Religion has done love a great
+service by making it a sin.
+Anatole France
+It was from the rind of
+one apple tasted that the
+knowledge of good and evil as
+two twins cleaving together
+leaped forth into the world.
+John Milton
+This desire to govern a woman–
+it lies very deep,and men and
+women must fight it together
+before they shall enter the
+garden.
+E.M.Forster
+Forbidden fruit is sweet.
+Traditional Proverb
+Adam was human;he didn’t
+want the apple for the apple’s
+sake;he wanted it because it
+was forbidden.
+MarkTwain
+Adam and Eve had many
+advantages,but the principal
+one was that they escaped
+teething.
+MarkTwain
+There are several good
+protections against temptation,
+but the most popular is
+cowardice.
+MarkTwain
+Do not bite at the bait of
+pleasure until you know that
+there is no hook.
+Thomas Jefferson
+Aries 14
+
+<<<PAGE 38>>>
+ARIES
+E
+15
+What does this SYMBOL say to you?
+AN INDIAN WEAVING A BLANKET IN
+THE LIGHT OF THE SETTING SUN
+Commentary: ‘An Indian Weaving a Blanket’ shows that people
+need to take time out to do the things that aren’t particularly
+exciting or rewarding on a large scale, but do, however, provide
+feelings of contentment, warmth, safety and security. In ‘Weaving
+the Blanket’, the ‘Indian’ not only creates something that is useful,
+but weaves into it images of their life and history. Often the
+patterns and pictures woven into it easily identify the tribe this
+‘Blanket’ comes from. Being ‘In the Light of the Setting Sun’,
+there may be a feeling of the energy of the light, the ‘Sun’, fading,
+leaving little time to achieve what needs to be done.
+Oracle: By practicing our skills in an artful way there can be
+a celebration and remembrance of the experiences that led to
+this moment. Doing one’s chores with enjoyment leads to inner
+contentment and a sense of self. In contemplation or meditation
+one can find peace, relaxation and a feeling of meaning and
+accomplishment. Taking time to do the job well is important,
+as is reverence for those things in your possession. Even small
+contributions in life are important and your integrity should not
+be compromised. A lot of effort goes into ‘Weaving a Blanket’ and
+there may be no worthwhile shortcuts to its completion. Do you
+need to bring many strands from different areas or parts of your
+life together? What materials are available to you? It’s best to relax
+into your activities. Take time to enjoy the tranquility of dusk,
+possibly catching sight of a sunset. Conditions will change with
+time and you can get back to more exciting ventures. Remember
+to”weave your dream”.
+Keywords: The fabric of one’s being. Traditional pastimes
+and skills. Weaving security and independence. Patience and
+gentle handcrafting. Stories, especially those handed down.
+Tales and traditions. Consideration of one’s unique history.
+Weaving, spinning looms. The warp and weft of life. One’s life
+story—past and present. Being focused on one’s tasks. Colours,
+dyes. Threads.
+The Caution: Underestimating skills of self-expression in
+comparison with intellectual skills. Allowing dull routines to
+overcome. Feeling one hasn’t got much to contribute. Inability
+to apply to routine and necessary tasks. Being too “full-time”
+about one’s work. Feeling insecure no matter what the situation.
+Selling off one’s integrity. Finding that it’s too late in the day to
+get anything done. Not knowing when to stop.
+Man was made for Joy and
+Woe,
+And when this we rightly know,
+Thro theWorld we safely go.
+Joy andWoe are woven fine,
+A clothing for the soul divine.
+William Blake
+We sleep,but the loom of life
+never stops and the pattern
+which was weaving when the
+sun went down is weaving
+when it comes up tomorrow.
+HenryWard Beecher
+Humankind has not woven
+the web of life.We are but one
+thread within it.Whatever
+we do to the web,we do to
+ourselves.All things are bound
+together.All things connect.
+Chief Seattle
+For the American Indian,the
+ability of all creatures to share
+in the process of ongoing
+creation makes all things
+sacred.
+Paula Gunn Allen
+Life is what we make it,always
+has been,always will be.
+Grandma Moses
+America is woven of many
+strands.I would recognise
+them and let it so remain.Our
+fate is to become one,and yet
+many.This is not prophecy,but
+description.
+Ralph Gleeson
+Aries 15
+
+<<<PAGE 39>>>
+SABIAN SYMBOLS
+E
+16
+What does this SYMBOL say to you?
+BRIGHTLY CLAD BROWNIES
+DANCING IN THE WARM DYING
+LIGHT
+Commentary: ‘Brightly Clad Brownies Dancing in the Warm
+Dying Light’ is a wonderful and rather mischievous image.
+‘Brownies’ are nature spirits that come to help us with our
+work. The concept of ‘Brownies’ has existed in many cultures
+for a long time. They lived with humans and sometimes they
+were said to live in the attic. They often helped the humans in
+the kitchen; they got the fire going by blowing on it, took care
+of the human’s children and saw that the food was properly
+cooked. But nowadays, with the use of electric machines and
+lights, ‘Brownies’ are disappearing more and more. However it
+is said some of them still try to stay around. Although mostly
+associated with housework, we can call on their help in many
+different ways. Nature spirits are often around us, particularly if
+we believe in them, welcome them and trust in their presence.
+They are ‘Dancing in the Warm Dying Light’ inferring that while
+intuitive powers are at a real high, the available physical energy
+is not; it is sunset, and the close of the day.
+Oracle: You may be feeling tired and in need of help to get
+everything, or even anything, done. Have faith, and call on any
+assistance you can as this Symbol implies that you will surely
+receive it. This Symbol shows that you are being guided and
+protected. Friends or people may arrive unexpectedly to help
+out at the “last moment”. Sometimes the people who turn up to
+help are “strangers”. Trust that things will be okay even if things
+feel “too late in the day”. Of course, you could be a ‘Brownie’
+for someone else, assisting others when they need it. How about
+‘Dancing’? It can refresh and revitalize the spirit and invite love
+and light into your life.
+Keywords: Reveling in nature. Believing in guides. Fairies and
+nature spirits. The wonder and awe of nature. The setting sun.
+Last minute preparations before evening. The psychic magic of
+dusk. Light that dances. Unseen guardians. Receiving guidance
+and help. Seeing the invisible. Help at the last minute. Fairy
+godmothers. Questions of: what is the “real” world?
+The Caution: Self-delusions. Missing the true picture of what’s
+happening in the “real-world”. Losing the plot. Relying on
+others, including angels, nature spirits, etc., instead of yourself.
+Neglecting responsibilities. Crying wolf. Using people.
+The worst thing about work
+in the house or home is that
+whatever you do is destroyed,
+laid waste or eaten within
+twenty-four hours.
+Lady Kasluck
+Housework is what a woman
+does that nobody notices unless
+she hasn’t done it.
+Evan Esar
+Housekeeping ain’t no joke.
+Louisa May Alcott
+Few tasks are more like the
+torture of Sisyphus than
+housework,with its endless
+repetition:the clean becomes
+soiled;the soiled is made clean,
+over and over,day after day.
+Simone de Beauvoir
+At worst,a house unkempt
+cannot be so distressing as a life
+unlived.
+Rose Macaulay
+For the elemental creatures
+go about my table to and fro.
+William ButlerYeats
+All of us,at certain moments of
+our lives,need to take advice
+and receive help from other
+people.
+Alexis Carrel
+To the man who himself strives
+earnestly,God also lends a
+helping hand.
+Aeschylus
+Aries 16
+
+<<<PAGE 40>>>
+ARIES
+E
+17
+What does this SYMBOL say to you?
+TWO PRIM SPINSTERS SITTING
+TOGETHER IN SILENCE
+Commentary: ‘Two Prim Spinsters’ are shown ‘Sitting Together
+in Silence’. This Symbol shows people that know and understand
+each other, without the need for chatter. Feelings of contentment
+can come in time spent with a special friend, someone who you
+feel completely at ease with. A real sense of understanding of
+what the other is feeling and thinking can be a central quality of
+strong companionship. Of course, the ‘Two Spinsters’ may not
+be together through choice, but rather through life situations.
+Oracle: In the situation facing you, remember that it is easy
+to become socially isolated when you hold on to conservative,
+judgmental, or moral ideas. Ask yourself if there is a select,
+restricted group with whom you are associating. Look for any
+opportunities to open you up to deeper and further levels of
+communication. Be wary that a false sense of security doesn’t
+isolate you from change and growth. People don’t want to
+talk to each other if they feel their relationship has become
+boring, with nowhere to go and without much of a future. If
+people have nothing to say to each other should they spend
+their time together? Unresolved issues may be too difficult to
+discuss, they can lie beneath the surface causing fear, isolation
+and loneliness. ‘Silence’ or quietness can conceal frustration or
+feelings of sacrifice and loss. If there are no children in their
+lives and they are said to be ‘Spinsters’, unmarried women, is
+that an issue? There is an old-fashioned belief which says: It is
+important to our friends to believe that we are unreservedly
+frank or honest with them and important to friendship that we
+are not. That may have suited conditions in the past, but now we
+have to be more open, honest and communicative, with others
+and with ourselves.
+Keywords: The need to loosen up emotional blockages. The
+struggle to hold onto one’s original identity. Compromise because
+of social expectations. Meditations that communicate. Exclusive
+relationships. Relationships that have a quiet “knowing”.
+Dignified silence. Inner withdrawal. Communicating through
+body language.
+TheCaution: Emotionalisolation.Refusingtoacceptrelationship.
+Pretending to be someone that one is not. Disapproval of younger,
+more vital energies. Being fussy and judgmental. Chattering that
+is not conducive to growth or true relating. Gossip. Difficulty
+in communicating. Being shutoff, or shutdown. The loss of joy
+and spontaneity.
+Silence gives consent.
+Pope BonifaceVIII
+Silence is one of the hardest
+arguments to refute.
+Josh Billings
+When you have nothing to say,
+say nothing.
+Charles Caleb Colton
+Wisdom is knowing when to
+speak your mind and when to
+mind your speech.
+Evangel
+The best mirror is an old friend.
+Proverb
+Television has proved that
+people will look at anything
+rather than each other.
+Ann Landers
+For the friendship of two,the
+patience of one is required.
+Indian Proverb
+Good men are scarce.
+Proverb
+We are growing serious,and let
+me tell you,that’s the next step
+to being dull.
+Joseph Addison
+The loneliest woman in the
+world is a woman without a
+close woman friend.
+George Santayana
+Aries 17

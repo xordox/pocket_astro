@@ -1,0 +1,570 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 128-155
+# compiled into: divisionals.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 128>>>
+
+...X...
+Vargas or Subtle Divisions
+In Your body, O Lord, I see all the gods and
+ the varied
+multitudes of beings as well, and Brahma (the Creator) seated
+on the
+ lotus throne, and all the sages as also races of the
+serpents divine.
+Gita XI/15
+It is easy to appreciate that any
+given sign remains on the horizon for an
+average of two hours, plus or minus a
+ few minutes. This means that all
+persons born during that time will have a
+ similar planetary disposition in
+their charts. Also, a given sign rises on the
+ horizon at approximately the
+same time (with a difference of approx. 4 minutes)
+on the subsequent day
+also. It is possible that the planetary disposition as
+well as the rising sign
+may remain unaffected even if the two births happen a
+day apart. In cases of
+twins too, where the rising signs and the planetary
+positions are likely to be
+similar, segregation of the natives appears
+difficult.
+One of the very brilliant methods of overcoming the difficulties
+mentioned above is the use of vargas or subtle divisions. Each sign is
+divided
+into a specific number of parts. Thus, the lagna or the rising sign
+falls in a
+ specific area of a division. In any given division or varga, the
+placement of
+the lagna and the planets forms that specific varga or divisional
+chart.
+Parashara describes sixteen divisions called as the
+ Shodasha-vargas.
+These vargas not only help segregate the apparently similar
+charts, they also
+specifically deal with specific areas of a native’s life.
+Thus, the use of vargas
+is essential in order to make accurate and specific
+predictions.
+
+<<<PAGE 129>>>
+The sixteen vargas of Parashara are as follows:
+1. Rashi or the complete sign of 30°.
+2. Hora or one-half of a sign (15°).
+3. Drekkana or one-third of a sign (10°).
+4. Chaturthamsha or one-fourth of a sign (7°30').
+5. Saptamsha or one-seventh of a sign (4°17'8.5").
+6. Navamsha or one-ninth of a sign (3°20').
+7. Dashamsha or one-tenth of a sign (3°).
+8. Dwadashamsha or one-twelfth of a sign (2°30').
+9. Shodashamsha or one-sixteenth of a sign
+(1°52'30").
+10. Vimshamsha or one-twentieth of a sign (1°30').
+11. Chaturvimshamsha or one-twentyfourth of a sign
+(1°15').
+12. Bhamsha (Sapta-vimshamsha) or one-twentyseventh of
+a sign (1°6'40").
+13. Trimshamsha or one-thirtieth of a sign (1°00').
+14. Khavedamsha or one-fortieth of a sign (0°45').
+15. Aksha-vedamsha or one-fortyfifth of a sign (0°40').
+16. Shashtyamsha or one-sixtieth of a sign (0°30').
+These sixteen vargas are briefly described below.
+1. Rashi: This comprises one full sign of 30 degrees. A
+rashi chart is the
+basic horoscope. Here, the lagna depends upon the sign
+rising at the horizon
+at the time of birth. The planets are located in the
+signs which they occupy in
+the zodiac.
+2. Hora (Table X-1): Here, a sign is divided into two
+parts of 15° each. This
+is arrived at thus:
+(a) The first 15
+degrees in an odd sign belong to the Sun (or the sign
+Simha) and the second 15
+degrees to the Moon (or the sign Karka).
+(b) The first 15 degrees
+in an even sign belong to the Moon (or Karka)
+and the second 15° to the Sun (or
+Simha).
+
+<<<PAGE 130>>>
+3. Drekkana (Table X-2): When a sign is divided into
+three equal parts of
+10° each, such parts are called as Drekkanas. In each
+sign, the first Drekkana
+belongs to the same sign; the second Drekkana belongs
+to the sign fifth from
+it; and the third Drekkana to the sign ninth from it.
+4. Chaturthamsha (Table X-3): This comprises one-fourth
+of a sign, being
+equivalent to 7°30'. Here, the first 7°30' of a sign belong to
+the same sign,
+the second 7°30' (i.e., 7°30' to 15°0') belongs to the sign
+falling in the fourth
+house from it; the third (15°0' to 22°30') to the sign
+seventh from it and the
+last (22°30' to 30°0') to the sign falling tenth from
+it.
+
+<<<PAGE 131>>>
+5. Saptamsha (Table X-4): A sign of 30 degrees is
+divided into seven equal
+parts (of 4°17'8.5" each). In odd signs, the
+seven parts belong to the seven
+signs falling in regular order from the odd
+sign concerned. In even signs, the
+first part belongs to the sign seventh from
+it, and the remaining six signs
+follow in regular order.
+6. Navamsha (Table X-5): This is the most important of
+the divisional charts.
+Here, each sign is divided into nine equal parts of
+3°20' each. In movable
+signs, the first Navamsha belongs to the same sign, and
+the remaining eight
+Navamshas follow in regular order from it. In the fixed
+ signs, the first
+Navamsha belongs to the sign falling in the ninth house from
+it. In case of
+the mixed signs, the first Navamsha belongs to the sign falling
+in the fifth
+
+<<<PAGE 132>>>
+house from it. It is said that a planet gives its effect more
+certainly according
+to its Navamsha than its Rashi position. When a planet
+occupies the same
+sign in the Rashi chart as also the Navamsha chart, it is
+called Vargottama, a
+highly beneficial situation.
+7. Dashamamsha (Table X-6): Each Dashamamsha division
+consist of 3°. In
+odd signs, the first three degrees belong to the same sign,
+ the next three
+degrees to the sign falling next in order, and so on. In even
+signs, the first
+three degrees belong to the sign falling in the ninth house
+from itself, the
+next three degrees to the next (or the tenth) sign, and so on.
+
+<<<PAGE 133>>>
+8. Dwadashamsha (Table X-7): This comprises of
+one-twelfth of a sign, and
+is equivalent to 2°30'. The first Dwadashamsha of a
+sign belongs to the same
+sign, the remaining eleven Dwadashamshas fall in
+subsequent eleven signs
+in regular order.
+
+<<<PAGE 134>>>
+9. Shodashamsha (Table X-8): Here, a sign is divided
+into sixteen divisions
+comprising of 1°52'30" each. In movable signs, the
+first Shodashamsha starts
+from Mesha; the next one is Vrisha, and so on, until
+the twelfth which is
+Meena. From the thirteenth Shodashamsha, the order starts
+ from Mesha
+again and proceeds in the same manner until the sixteenth
+ Shodashamsha
+falls in Karka.
+In case of fixed signs, the first Shodashamsha is Simha, and
+ the last
+Vrischika. In mixed signs, the first Shodashamsha is Dhanu and the
+ last
+Meena.
+
+<<<PAGE 135>>>
+10. Vimshamsha (Table X-9): This is the twentieth
+ division of a sign
+measuring 1°30' of arc. In movable signs, it starts from
+Mesha, in fixed signs
+from Dhanu and in mixed signs from Simha. Subsequent
+ Vimshamshas
+belong to the signs falling in order subsequently.
+
+<<<PAGE 136>>>
+11. Chaturvimshamsha or Siddhamsha (Table X-10): Each
+of these measures
+1°15'. There are twenty-four Chaturvimshamshas; they start
+from Simha in
+odd signs and from Karka in even signs. Subsequent
+ Chaturvimshamshas
+follow in regular order.
+
+<<<PAGE 137>>>
+12. Bhamsha or Sapta-vimshamsha (Table X-11): There are
+27 Bhamshas (of
+1o 6' 40" each) in a sign. In fiery signs
+ (i.e., 1, 5 and 9) they start from
+Mesha; In earthy signs (i.e., 2, 6 and 10),
+they start from Karka; In airy signs
+(i.e., 3, 7 and 11), they start from Tula
+and in watery signs (i.e., 4, 8 and 12),
+they start from Makara. The subsequent
+order is the usual regular order.
+
+<<<PAGE 138>>>
+13. Trimshamsha (Table X-12): Literally speaking, it is
+considered as one-
+thirtieth division of a sign. Actually, however, each sign is
+divided into five
+unequal parts, each part belonging to one of the five planets
+from Mars to
+Saturn. In odd signs, the first five degrees belong to Mars, the
+ next five
+
+<<<PAGE 139>>>
+degrees to Saturn, the next eight degrees to Jupiter, the subsequent
+ seven
+degrees to Mercury, and the last five degrees to Venus. This order gets
+reversed in case of even signs where the planets Venus, Mercury, Jupiter,
+Saturn and Mars respectively own five degrees, seven degrees, eight
+degrees,
+five degrees and five degrees, in a sign.
+14. Khavedamsha (Table X-13): This is the one-fortieth division of a sign,
+measuring
+0°45' of an arc. In odd signs, the first Khavedamsha is Mesha; in
+even signs it
+is Tula. The remaining divisions follow in regular order in both
+cases.
+
+<<<PAGE 140>>>
+
+<<<PAGE 141>>>
+15. Aksha-vedamsha (Table X-14): Each sign here is
+divided into forty-five
+parts, of 0o40' arc. In movable signs the
+first such division falls in Mesha; in
+fixed signs in Simha; and in mixed signs
+in Dhanu. The remaining divisions
+follow the usual regular order.
+
+<<<PAGE 142>>>
+
+<<<PAGE 143>>>
+16. Shashtyamsha (Table X-15): This is the sixtieth
+division of a sign and
+measures 0°30' of arc. Being very fine, it needs a very
+ accurate time
+recording in order to be correct. Sage Parashara lays a lot of
+stress on the
+predictive utility of this sub-division. In practice, however, it
+is rare to be so
+accurate in one’s time recording as to find a correct
+Shashtyamsha. The first
+Shashtyamsha in a sign starts from the same sign. The
+ subsequent
+Shashtyamshas belong to the subsequent signs that follow in regular
+order.
+
+<<<PAGE 144>>>
+
+<<<PAGE 145>>>
+Note: In the Tajika system or the Hindu method of
+annual horoscopy, some
+additional and special divisional charts are utilised.
+ Those have not been
+mentioned here.
+Application of the Sixteen Vargas
+
+<<<PAGE 146>>>
+The sixteen vargas of a horoscope are supposed to deal
+with specific areas as
+mentioned below.
+1. Lagna or the Rashi Chart: Physical well being of the
+native.
+2. Hora: Wealth and prosperity.
+3. Drekkana: Brothers and sisters, and their well
+being.
+4. Chaturthamsha: Luck; also residence.
+5. Saptamsha: Children and grand-children.
+6. Navamsha: Spouse.
+7. Dashamsha: Any specific benefit; profession of the
+native.
+8. Dwadashamsha: Father and mother.
+9. Shodashamsha: Pleasures and troubles from vehicles,
+horses, elephants,
+etc.
+10. Vimshamsha: Spiritual pursuits, penance.
+11. Chaturvimshamsha: Education, learning.
+12. Bhamsha: Strength and weakness.
+13. Trimshamsha: Miseries, troubles.
+14. Khavedamsha: Auspicious and inauspicious
+happenings.
+15. Akshavedamsha: All things combined.
+16. Shashtyamsha: All things combined.
+Note:
+1. Navamsha is the most commonly used divisional chart
+ which is of
+extreme practical utility. The promise in the Rashi chart must be
+confirmed
+in the Navamsha chart before making any prediction. It is said that
+ the
+planets give their results according to their disposition in the Navamsha
+in
+preference to their indications in the Rashi chart.
+2. Manasagari has the following areas allotted to seven
+ of the divisional
+charts.
+(a) Lagna: Body and
+character.
+(b) Hora: Wealth.
+
+<<<PAGE 147>>>
+(c) Drekkana: Results
+of past karmas.
+(d) Sapthamsha: Number
+of brothers & sisters.
+(e) Navamsha: All
+things combined.
+(f) Dwadashamsha: Spouse.
+(g) Trimshamsha: Death.
+3. Sapthamsha may also be employed to ascertain the
+ character or
+temperament of the native.
+4. Khavedamsha and Akshavedamsha are also used to
+determine the overall
+strength of planets.
+Sub-groups of the 16 vargas
+Those versed in astrology do not always use all the sixteen
+ vargas as
+mentioned above. Out of these, four groups may be considered. In each
+group, the relative significance of the different divisional charts varies. It
+is
+customary to consider the combined value of the various divisional charts in
+any of the four groups as equal to 20 units. These four groups, and the
+relative value of the vargas constituting them, are as follows:
+
+<<<PAGE 148>>>
+
+<<<PAGE 149>>>
+
+<<<PAGE 150>>>
+Note: It is important to realise the relative importance of
+ the
+Shashtyamsha (one-sixtieth division) among the Dashavargas and the
+Shodashvargas. However, being a very subtle division, depending on the
+most
+ accurate time recording, the Shashtyamsha is hardly ever used in
+practice.
+
+<<<PAGE 151>>>
+
+...XI...
+The Sub-Planets
+As fire is obscured by smoke, and as a mirror
+by dust, as an
+embryo is enveloped by its coverings, so is this (wisdom)
+obscured by that (passion).
+Gita III/38
+There are certain mathematical
+ points which are of particular
+significance in Vedic astrology. These points do
+ not have any physical
+existence. They, however, function as minor grahas or
+subplanets. They are
+also called as ‘Aprakasha grahas’ or non-luminous planets.
+ Since their
+calculation and interpretation add an extra burden on the
+ astrologer, most
+astrologers do not use them routinely in their practice. The
+ subplanets,
+however, offer a very fertile area for research.
+The subplanets may be discussed under three distinct
+heads.
+I. The Gulikadi Group
+This group consists of five subplanets. To calculate their
+ position, the
+day (i.e., the time duration from sunrise to sunset) is divided
+into eight equal
+parts. The first part belongs to the lord of the day itself
+(e.g., the Sun for
+Sunday, the Moon for Monday, Mars for Tuesday, etc.).
+ Subsequent parts
+belong to the remaining six planets. The eighth part is
+without a lord. The
+part ruled by Saturn is called Gulika (or Mandi); that
+ ruled by Jupiter is
+called Yamakantaka, the one ruled by Mars is called Mrityu,
+the one falling
+under the Sun is called as Kaala or Kaala-Vela, and the one
+ ruled by
+Mercury is known as Ardhaprahara.
+
+<<<PAGE 152>>>
+If the birth has taken place at night, its duration (i.e.,
+the duration of time
+from sunset to sunrise) is divided into eight parts. The
+first part belongs to
+the planet falling fifth in order from the day lord
+(e.g., Jupiter for Sunday,
+Venus for Monday, Saturn for tuesday, etc.). The
+remaining parts are ruled
+by the six remaining planets, leaving the eighth part
+without a lord again.
+The various subplanets coincide with the parts belonging
+ to their ruling
+planets.
+Cast an ascendant for the end of Saturn’s part. This gives
+the longitude of
+Gulika. Ascendants cast for the ending moments of the parts
+belonging to
+other planets give longitudes of the respective subplanets.
+Mandi: Some people differentiate between Gulika
+and Mandi. According to
+them, when the day and night are of 30 Ghatis (12
+hours) each, for a day
+birth, the Mandi rises at the end of 26 Ghatis on
+Sunday, at 22 Ghatis on
+Monday, at 18 Ghatis on Tuesday, at 14 Ghatis on
+Wednesday, at 10 Ghatis
+on Thursday, at 6 Ghatis on Friday, and at 2 ghatis on
+Saturday. In case of
+night time birth, consider the values given for the day
+ falling fifth from
+itself, e.g., 10 Ghatis from the onset of night on Sunday, 6
+ Ghatis on
+Monday, 2 Ghatis on Tuesday, 26 Ghatis on Wednesday, and so on.
+When the duration of the day or of night is different from
+ 30 Ghatis,
+appropriate alterations must be made. An ‘ascendant’ calculated for
+ the
+specific time indicated above gives the position of Mandi.
+The formula for the calculation of time of rise of
+Mandi is:
+(a) Day time birth:
+Duration of day in
+Ghatis/30 x 26, 22, 18, 14, 10, 6, or 2 depending upon
+the day of birth from
+Sunday onwards.
+(b) Night
+time birth:
+Duration of night
+in Ghatis/30 x 10, 6, 2, 26, 22, 18, or 14 depending
+upon the day of birth from
+Sunday onwards.
+II. The Dhoomadi Group
+Here the following five subplanets are obtained by
+ manipulation of the
+longitude of the Sun.
+
+<<<PAGE 153>>>
+(a) Dhooma: Longitude of the Sun plus 4s13°20'
+yields Dhooma, which is a
+representative of Mars.
+(b) Vyatipata (or Pata): 12 signs minus Dhooma yields
+ Vyatipata, a
+representative of Rahu.
+(c) Parivesha (or Paridhi): Add six signs to Vyatipata
+ to obtain Parivesha
+ruled by the Moon.
+(d) Inderchapa (or Chapa, or Kodanda): Represented by
+Venus, Inderchapa is
+obtained by subtracting Parivesha from 12 signs.
+(e) Ketu (or Upaketu): This is obtained by adding
+16°40' to Inderchapa. It
+represents Ketu. Ketu increased by one sign yields the
+longitude of the Sun.
+III. The Prana-Pada
+A Pranapada sign is equivalent to 15 Palas (or Vighatis).
+Each Pala (24
+seconds of clock time) is thus equal to two degrees of Pranapada.
+To get the
+position of Pranapada, the following steps must be gone through:
+1. Obtain the Ishta-Kaala or the time of birth since
+ sunrise, expressed in
+Ghatis and Palas.
+2. Convert the Ishta-Kaala into Palas and multiply by
+two. This gives the
+Pranapada degrees (one may convert these into signs and
+ degrees by
+dividing these by 30).
+3. The Pranapada is obtained as follows:
+(i) The Sun in a
+movable sign: Pranapada degrees + longitude of the Sun
+(ii) The Sun in a
+fixed sign: Pranapada degrees + longitude of the Sun +
+240 degrees (9th house
+from the Sun)
+(iii) The Sun in a
+mixed sign: Pranapada degrees + longitude of the Sun
++ 120 degrees (5th house
+from the Sun)
+The result gives the position of Pranapada in degrees, which
+ can be
+converted into signs. Multiples of 12 signs must naturally be deleted.
+Gulika in Different Houses
+
+<<<PAGE 154>>>
+Gulika is considered the son of Saturn. It is a highly
+malefic subplanet.
+Its results in different houses are being briefly described.
+Like all malefics, it
+causes beneficial results in houses 3, 6 and 11.
+First House: Sickly, sinning, stupid,
+ill-tempered, excessive sexual urge.
+Second House: Disabled, miserable, wretched
+nature, shameless, poor, and
+indulgent in immoral acts.
+Third House: Good looking, leader of a village,
+virtuous, respected by the
+ruler, wealthy, long lived, and without brothers.
+Fourth House: Bereft of all comforts, ailing,
+ sinful, and tormented by
+excess of Vaata and Pitta.
+Fifth House: Destitute, immoral, short-lived,
+jealous, impotent, irresolute,
+controlled by his wife, speaks ill of others, an
+atheist; adverse for progeny.
+Sixth House: Healthy, destroyer of his foes,
+good in looks, liked by females,
+courageous, and kind to others.
+Seventh House: Subdued by his wife, a sinner,
+weak of limb, adulterous,
+stupid, ungrateful, bereft of friends, lives off his
+wife’s earnings.
+Eighth House: Miserable, tormented by hunger,
+ cruel, very ill-tempered,
+devoid of wealth and virtue.
+Ninth House: Indulgent in wicked deeds, cruel,
+lacking common sense, a
+back biter, may hurt his parents and preceptors.
+Tenth House: Blessed with sons, varied comforts,
+inclined towards religious
+pursuits. According to another reading, the native
+ gives up his prescribed
+duties and performs shameful acts.
+Eleventh House: Happy, wealthy, good looking, a
+leader, of a diminutive
+body, and widely respected. Adverse for elder brother.
+Twelfth House: Indulgent in low deeds, wicked,
+ill-looking, defective of a
+limb, lazy, associates with fallen women.
+Gulika associated with other planets
+Sun: Hates his father; short life to father.
+Moon: Adverse for mother.
+
+<<<PAGE 155>>>
+Mars: Devoid of younger brother; separation from
+brother.
+Mercury: Insane.
+Jupiter: Indulges in blasphemous heresy.
+Venus: Associates with women of easy morals;
+sexually transmitted disease.
+Saturn: Chronic illness, short life.
+Rahu: Suffers, and causes, illness through
+poisons.
+Ketu: Suffers, and causes, injury through fire.
+The results of other subplanets have been described by sage
+Parashara
+and others. They constitute areas of research, which are beyond the
+scope of
+this work.
+Note: Aspects of planets modify the above mentioned results
+substantially.

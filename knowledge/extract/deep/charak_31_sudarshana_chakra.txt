@@ -1,0 +1,395 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 453-462
+# compiled into: interpretation.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 453>>>
+
+...XXXI...
+Sudarshana Chakra
+I behold Thee as one without beginning,
+ middle or end, of
+infinite power, of numberless arms, with the Moon and the Sun
+as Thine eyes, with Thy face as a flaming fire, whose radiance
+burns up this
+universe.
+Gita XI/19
+The Sudarshana Chakra is the discus that lord Krishna
+carries on his right
+index finger in the battlefield. It is used selectively,
+to annihilate the most
+dreaded opponent, and is supposed to be unfailing in its
+ effect. The
+Sudarshana Chakra of Parashara is likewise supposed to yield the
+ most
+dependable results in horoscopic analysis. It makes a composite use of
+three
+lagnas: the natal lagna, the Chandra lagna and the Surya lagna.
+While teaching Jyotish to his disciple Maitreya, sage
+ Parashara spoke
+thus of the Sudarshana Chakra: “Now, O’ Brahmin, I shall talk
+ of that
+confidential and superlative piece of wisdom which lord Brahma Himself
+spoke of, with the good of the world in mind. This is about the Chakra,
+named
+as Sudarshana, by the use of which the wise are able to decipher the
+auspicious
+and the inauspicious events of human beings, pertaining to the
+twelve houses
+from the lagna onwards, from birth till their death, every year,
+every month
+and every day. May you, therefore, listen about that carefully”.
+Sage Parashara then goes on to describe how to make use of
+ the
+Sudarshana Chakra in order to obtain accuracy in making predictions.
+Constructing the Sudarshana Chakra
+
+<<<PAGE 454>>>
+Make three circles, one outside the other, on a common
+ centre. Draw
+lines across as well as tangentially to divide it into twelve
+parts. Within the
+minor circle, mark the twelve rashis in an anticlockwise
+direction, starting
+from the natal lagna. Locate the planets in the appropriate
+signs according to
+their placement in the natal chart.
+In the middle circle, start from the Moon-sign instead of
+the natal lagna
+and place the planets in the houses as considered from the Moon
+in the natal
+chart.
+In the outermost circle, start from the Sun-sign as in the
+natal chart and
+mark the signs and planets in an anticlockwise direction
+accordingly.
+We shall use here the example of Smt. Indira Gandhi, the
+ late Prime
+Minister of India, born on November 19, 1917, at 23:11 hours IST, at
+Allahabad 25°N27', 81°E51' (Chart
+ XXXI-1). The Sudarshana Chakra
+appropriate to this chart is depicted as Figure 1.
+It will now be seen that the first house is represented by
+the natal lagna,
+the Moon lagna and the Sun lagna. It will be affected by all
+the planets that
+in the natal chart occupy the lagna as well as those that are
+in association
+with the Moon and the Sun. The distribution of planets in the
+ remaining
+houses of the chart will vary accordingly. It is in essence a
+composite view
+of the lagna chart, the Moon chart and the Sun chart lying one
+over the other.
+
+<<<PAGE 455>>>
+Applicability
+The Sudarshana Chakra gives an authentic view of all the
+houses of the
+horoscope and its use is highly recommended. This is because it
+comprises
+the study of all the twelve houses from three cardinal points of the
+horoscope: the lagna, the Moon and the Sun. However, its application is to
+be
+restricted to those cases only where the lagna, the Moon and the Sun fall
+in
+different houses of the chart. When any two or all three fall in the same
+house, this method should not be used. In such cases, predictions must be
+done
+from the natal lagna only.
+Guidelines for prediction
+The first house of the Sudarshana Chakra contains the lagna,
+the Sun and
+the Moon (as well as any other planets that associate with these
+ three
+lagnas). This house is to be treated as the (composite) lagna. The next
+one is
+
+<<<PAGE 456>>>
+to be considered the (composite) second house; and so on in case of the
+remaining houses.
+• The Sun in the lagna is not to be considered as a
+malefic in the Sudarshana
+Chakra system. In fact, it is to be considered as a
+benefic here.
+• Natural malefics in exaltation or in their own signs
+ are also to be
+considered as benefic.
+• Natural benefics would behave adversely if they are
+ debilitated or in
+inimical signs.
+• The house that harbours its own lord or a benefic
+planet tends to prosper.
+Benefic aspect on the house also ensures its
+well-being.
+• A house that is associated with or aspected by
+malefics tends to suffer.
+• A house that has an occupant yields results according
+the effects of the
+occupant of the house.
+• An unoccupied house yields results according to the
+ planet or planets
+aspecting it.
+• A house occupied or aspected only by benefics yields
+benefic results.
+• The one occupied or aspected only by malefics yields
+malefic results.
+• When there are both benefic and malefic influences on
+a house, the nature
+of results yielded by the house would depend on whether the
+benefics or the
+malefics predominate.
+• When both benefic and malefic influences are equal on
+a given house, the
+nature of results would depend on the relative strengths of
+the benefics and
+the malefics that influence it. The stronger of the two
+influences is likely to
+prevail.
+• When a house is neither occupied nor aspected, the
+results must be judged
+from the disposition of its lord.
+Deciding on the Benefic and Malefic Nature of Planets
+It is important to understand about what is a benefic and
+ what is a
+malefic. Any planet, benefic or malefic by nature, would acquire
+beneficence if it occupies benefic vargas. On the other hand, a planet
+
+<<<PAGE 457>>>
+acquires
+maleficence if it falls in malefic vargas. Here, the vargas of natural
+benefics
+as well as own and exaltation signs confer beneficence. Contrarily,
+the vargas
+ of natural malefics as well as signs of inimical planets and
+debilitation
+confer maleficence. It is customary to use the Saptavargas, viz.,
+Rashi, Hora,
+ Drekkana, Saptamsha, Navamsha, Dwadashamsha and
+Trimshamsha. We tabulate the
+disposition of the planets in different vargas
+as appropriate to our example
+ chart, to decide about their relative
+beneficence or maleficence (Table XXXI-1). We also
+ consider here the
+inherent nature of each planet as a factor, besides its
+disposition in the seven
+vargas.
+It may be noted that the nature of planets based on their
+disposition in the
+Saptavargas is not specific to the Sudarshana Chakra.
+ However, this
+information can be used in the Sudarshana Chakra to decide about
+the nature
+of results one would expect from the different houses in the
+ Sudarshana
+Chakra.
+Results from the Different Houses
+After deciding on the nature of planets, it is required to decipher
+whether
+the different houses in the Sudarshana Chakra would yield benefic or
+malefic results. This is determined from the number of benefic and malefic
+influences (by association or aspect) on each house. This has been shown in
+Table XXXI-2.
+
+<<<PAGE 458>>>
+
+<<<PAGE 459>>>
+Here we have considered aspects only where the house is not
+occupied.
+Also, if there are both benefic and malefic influences on a house,
+its final
+nature will depend on the balance between such influences. A given
+number
+of benefic influences will cancel an equal number of malefic influences
+and
+vice versa. In the chart under consideration, no planet earns the status of
+a
+clear-cut malefic in the Saptavargas. There is, therefore, no house in the
+chart which is supposed to yield purely malefic results. The extent to which
+a
+given house would behave as benefic, in comparison to another one, would
+depend
+on the actual number of benefic influences operating upon the house.
+One may be
+ tempted to consider the benefic and malefic nature of the
+different houses from
+the actual nature of the occupants or aspectors of a
+house, without determining
+the nature of planets from the Saptavargas. The
+use of Saptavarga, however,
+makes this exercise more accurate and reliable.
+It will be seen from the above
+that houses 1, 5, 11 and to some extent 7 are
+particularly beneficial and
+strong in this horoscope.
+Timing of Events: The Dasha Scheme
+The Sudarshana Chakra must be employed to time the life
+events of a
+native. For this purpose, sage Parashara has given a method of
+working out
+the Sudarshana Chakra Dasha. In this system, each house, starting
+from the
+lagna, has a mahadasha (MD) of one year so that all the houses of the
+chart
+provide us a cycle of twelve years of MD. The first MD is that of the
+lagna,
+the second of the second house, and so on. After twelve years, another
+cycle
+of dashas begins from the lagna. A native may run several cycles of this
+dasha during his lifetime. The MD’s in respect of the example chart are
+tabulated in Table XXX-3.
+Within each MD, there are twelve antardashas (AD’s), each of
+a month’s
+duration. The first AD starts from the house represented by the MD.
+Thus,
+within each MD, there is an AD represented by each of the twelve houses
+of
+the chart, starting from the MD and proceeding in the natural order.
+Each AD of a month’s duration is further segmented into
+ twelve
+pratyantardashas (PD’s), each of a duration of two-and-a-half days,
+represented by the twelve houses starting from the house represented by the
+AD
+in question.
+
+<<<PAGE 460>>>
+We thus see here that the twelve houses of the Sudarshana
+Chakra have
+their MD’s, AD’s and PD’s in order to enable the astrologer to make
+specific
+predictions in respect of each house of the chart and to time these
+events
+accurately. It will, however, be seen that twelve years is relatively a
+short
+period in the life of a native. Therefore, several cycles of similar
+ dashas
+would operate within the lifetime of an individual. The life events,
+however,
+are not likely to exactly repeat themselves every twelve years. It is,
+therefore, essential that the Sudarshana dasha indicated here be studied along
+with the Vimshottari dasha as well as the Gochara (Transits) prevalent at that
+time.
+Interpretation of Dashas: Some Principles
+Some important principles appropriate to the interpretation
+of dashas are
+being given here. These must be kept in mind while analysing the
+results
+from the Sudarshana Chakra.
+• The house whose dasha is in operation must be treated
+as the lagna or the
+first house. For example, if it is the dasha of the fifth
+house, the fifth house
+
+<<<PAGE 461>>>
+should be considered as the lagna or the first house and
+the remaining houses
+considered from it accordingly, i.e., the sixth house is
+to be treated as the
+second house, the seventh as the third house, and so on.
+• After a span of twelve years, the MD cycle begins
+afresh from the lagna.
+• For a detailed assessment, not only should the house
+representing the MD
+be treated as lagna, but also the houses represented by a
+given AD or PD.
+These may be termed as the dasha lagnas.
+• Whenever the houses 1, 4, 7, 10, 5, 9 and 8 from a
+ dasha lagna are
+occupied by benefics, the year or the month or the days
+represented by that
+dasha are productive of beneficial results.
+• Any house that harbours only Rahu or only Ketu tends
+to suffer, and yields
+adverse results only.
+• A house occupied by several malefics also yields
+adverse results.
+• Benefics yield good results if they fall in houses
+other than 2 and 12. They
+are harmful if they occupy houses 2 and 12.
+• Malefics yield desirable results when they occupy
+ houses 3, 6 and 11.
+Elsewhere, they produce adverse results.
+• Since similar MD’s, AD’s and PD’s will operate
+repeatedly (e.g., same MD
+every twelve years), the results indicated must be
+considered along with the
+results deciphered from an analysis of the Vimshottari
+ dasha as well as
+Gochara.
+• While we have shown how benefic, malefic and neutral
+nature of houses is
+to be determined, it is important to also consider the
+natural beneficence or
+maleficence of planets while applying the above
+principles.
+• Sage Parashara advocates that one should confirm the
+Sudarshana Chakra
+results with those indicated by Ashtakavarga. If both the
+Sudarshana Chakra
+and Ashtakavarga indicate similar benefic or malefic results,
+ these will
+definitely happen. If they vary, only mixed results will come to
+pass.
+Some Observations about our Example Chart
+In the chart under consideration, we have seen above that
+ strongly
+benefic houses are the lagna, the fifth, the seventh and the eleventh
+houses.
+
+<<<PAGE 462>>>
+Houses two, six, nine and twelve are also benefic, though not strongly
+so.
+Houses three, four, eight and ten are neutral. There are no purely malefic
+houses in this chart. It is thus to be expected that the dashas of houses 1, 5,
+7
+and 11 would prove particularly significant for the native. 
+She got married on March 26, 1942 during the dasha of the
+lagna. This
+she managed despite a lot of controversy and paternal resistance
+against it. It
+was during her lagna dasha ending in November 1966 that she
+became the
+first woman Prime Minister of India in a power struggle that
+ subjugated
+some of the more deserving claimants for the job. Her last phase of
+lagna
+dasha, in 1978, was a period of political wilderness and ill health,
+coinciding
+with the Vimshottari MD-AD of Saturn-Venus, one the lord of the
+ eighth
+house and the other the afflicted occupant of the sixth house.
+The dasha of her seventh, a maraka, house was adverse for
+ her close
+relations and for her own self. She lost her mother in 1936. In
+September
+1960, she lost her husband. Her own death too occurred in her seventh
+house
+dasha, on October 31, 1984.
+In 1964, during the dasha of her eleventh house, she was
+inducted into
+the union cabinet as the Minister for Information and
+Broadcasting, after the
+death of her father. This was a highly significant
+landmark in her political
+career. During her fifth house dasha in 1970, she
+ displayed tremendous
+strength and managed to sideline some of the powerful
+political adversaries
+of hers.
+In conclusion, we find that the Sudarshana Chakra of
+ Parashara is an
+excellent astrological tool that should be used far more
+extensively than it
+has been used in the past. It takes into consideration the
+ natal lagna (the
+physical body), the Chandra lagna (the mind; the mother; also
+the genetic
+link) and the Surya lagna (the soul; the father; the ancestors). It
+thus provides
+a comprehensive assessment of a man’s physical, mental and
+spiritual make
+up. It must be employed along with the Vimshottari dasha,
+Gochara as well
+as Astakavaraga in order to obtain accurate results.

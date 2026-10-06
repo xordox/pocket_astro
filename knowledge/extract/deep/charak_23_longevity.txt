@@ -1,0 +1,621 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 351-367
+# compiled into: interpretation.json (refusal policy)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 351>>>
+
+...XXIII...
+Mathematical Calculation
+of Longevity
+May I see for a
+hundred years, live for a hundred years, hear
+for a hundred years. May I speak
+for a hundred years, live in
+comfort and freedom for a hundred years.
+Yajurveda XXVI/24
+Sages opine that good and bad
+ results on the basis of planetary
+combinations in a horoscope must only be
+pronounced after determining the
+length of life. It is fruitless to make any
+prediction if the native is not going
+to live long enough for the prediction to
+materialise. For general purposes of
+astrology, the life of a native may fall
+under one of the following categories:
+1.Balarishta or age upto 8 years. During this period,
+the survival of a child is
+subject to combinations of Balarishta and
+Arishta-Bhanga.
+2.Yogarishta, from 8 to 20 years. This is a difficult
+area and an exact length
+of survival during this period is a matter of very
+fine judgement on the part
+of an astrologer.
+3.Alpayu or short span, upto 32 years of life.
+4.Madhyayu or medium life span, from 32 to 70 years (or
+66 years according
+to some).
+5.Poornayu or full length of life, from 70 to 100
+years.
+Determination of span of Life
+
+<<<PAGE 352>>>
+Determination of longevity is a difficult area of astrology.
+ The
+availability of numerous methods of longevity determination only indicates
+that no one method is totally reliable. A general method of deciding on short,
+medium or full life span involves the consideration of three groups of
+factors:
+Group I.: (a) Lagna lord, and (b) the eighth lord.
+Group II.: (a) Lagna, and (b) the Moon.
+Group III.: (a) Lagna, and (b) the Hora lagna.
+In each of the three groups above, there are two components.
+See which
+rashis these two components (a) and (b) fall into. The placement of
+each of
+the two factors (a) and (b) provides the life span indicated by the
+concerned
+group thus:
+1. If both (a) and (b) fall in Chara rashis: Poornayu
+2. Both in Sthira rashis: Alpayu
+3. Both in Dwiswabhava rashis: Madhyayu
+4. One in Chara and the other in Sthira: Madhyayu
+5. One in Chara and the other in Dwiswabhava: Alpayu
+6. One in Sthira and the other in Dwiswabhava: Poornayu
+If all three groups or any two of these indicate the same
+life span, that
+must be considered as final. In case the three groups indicate
+three different
+life spans, consider the one indicated by Group III (i.e.,
+lagna and the Hora
+lagna).
+In case the three groups indicate three different life
+spans, but there is the
+Moon located in the lagna or the seventh house,
+ consider the life span
+indicated by Group II (i.e., lagna and the Moon).
+Determination of the Hora lagna
+The Hora lagna for the purposes of longevity demands some
+elucidation.
+It may be determined as below.
+Step I Find out the number of hours and minutes that
+have elapsed from the
+time of sunrise to the time of birth.
+
+<<<PAGE 353>>>
+Step II      Consider the hours as rashis (divide by 12
+if their number exceeds
+12, and accept the remainder). Divide the minutes by 2
+and consider them as
+degrees. These rashis and degrees may be called as the
+Ishta-Kaala.
+Step III     Obtain the Hora lagna thus:
+(a) If the lagna is even, add
+the Ishta-Kaala to the cusp of the lagna.
+(b) If the lagna is odd, add
+the Ishta-Kaala to the longitude of the Sun.
+Example
+Native born at 4:30am (IST) on March 12, 1957 at Lat.
+ 32°N43', Long.
+074°E52'.
+Lagna: Makara 10°38'; Sun: Kumbha 27°51'; Moon: Mithuna
+29°56'; Mars:
+Vrisha 3°01'; Mercury: Kumbha 19°50'; Jupiter (R): Kanya 4°22';
+ Venus:
+Kumbha 19°20'; Saturn: Vrischika 20°55'; Rahu: Tula 28°26'; Ketu: Mesha
+28°26'.
+This is the same as Chart XXI-5 under Dhana yogas
+(q.v.).
+Sunrise (on March 11, 1957) = 6:49 a.m.
+No. of hours elapsed from sunrise to time of birth = 28
+hours 30 minutes
+(i.e., the time of birth) minus
+6 hours 49 minutes (sunrise), or 21 hours 41 minutes.
+Ishta-Kaala, converted to signs, degrees, etc.,
+21s20.5° or 9s20°30'
+Since the birth lagna is even, the Hora lagna is
+obtained by adding the Ishta-
+Kaala to the cusp of the birth lagna.
+
+<<<PAGE 354>>>
+Thus,        s     °     '
+the lagna       9    10  38
+Ishta-Kaala   9    20  30
+Hora lagna    19  1    8
+or (removing multiples of 12 signs) 7s1°8',
+i.e., Vrischika 1°8'.
+Considering the above three groups of longevity, we
+have:
+Group I: Lagna lord (Saturn): Sthira (Vrischika)
+Eighth lord: Sthira (Simha)
+Longevity: Alpayu (short span)
+Group II:Lagna: Chara (Makara)
+Moon: Dwiswabhava (Mithuna)
+Longevity: Alpayu (short span)
+Group III:Lagna: Chara (Makara)
+Hora lagna: Sthira (Vrischika)
+Longevity: Madhyayu (medium
+span)
+Since two of the above groups indicate Alpayu (short
+life span), that must be
+accepted.
+An alternate method
+Mantreswara describes an alternative method of finding
+ the life span by
+considering the following factors:
+Group I: Drekkana sign of (a) the lagna, and (b) the
+Moon
+Group II: Navamsha sign of (a) the lagna lord, and (b)
+lord of the Moon sign
+Group III: Dwadashamsha sign of (a) the lagna lord and
+(b) the eighth lord.
+Applying these principles to the example chart above,
+we have:
+Group I
+Lagna Drekkana
+sign: Sthira (Vrisha)
+Moon’s Drekkana
+sign: Sthira (Kumbha)
+
+<<<PAGE 355>>>
+Longevity: Alpayu
+(short span)
+Note:
+Construct a Drekkana chart for this.
+Group II
+Sign occupied by
+the lagna lord (Saturn) in the Navamsha chart: Chara
+(Makara)
+Sign occupied by
+the lord of the Moon sign (Mercury) in the Navamsha
+chart: Dwiswabhava (Meena)
+Longevity: Alpayu
+(short span)
+Note: See the
+Navamsha chart for this.
+Group III
+Sign occupied by
+ the lagna lord (Saturn) in the Dwadashamsha chart:
+Chara (Karka)
+Sign occupied by
+ the eighth lord (Sun) in the Dwadashamsha chart:
+Chara (Makara)
+Longevity Poornayu
+(Full span)
+Note: Construct a
+Dwadashamsha chart for this purpose.
+Since two of the
+above groups indicate Alpayu, that must be accepted.
+It may be noted here that this method of Mantreshwara
+ deserves to be
+researched on. It has been applied less often in actual
+horoscopes.
+Other combinations that indicate the length of life are
+as follows:
+1.All benefics in kendras: Poornayu
+2.All benefics in panapharas: Madhyayu
+3.All benefics in apoklimas: Alpayu
+4.Eighth lord and all malefics in kendras: Alpayu
+5.Eighth lord and all malefics in panapharas: Madhyayu
+6.Eighth lord and all malefics in apoklimas: Poornayu
+7.Strong lagna lord, benefics in kendras, and malefics
+ in houses 3, 6, 11:
+Poornayu
+
+<<<PAGE 356>>>
+8.Stronger of the lagna lord and the eighth lord in a
+ kendra indicates
+Poornayu, in a panaphara Madhyayu, and in an apoklima Alpayu.
+9.Lagna lord and the eighth lord located in their own
+ houses ensure
+Poornayu, in the houses of neutrals Madhyayu, and in inimical
+ houses
+Alpayu.
+10.Weak lagna lord in the houses 6, 8 or 12, bereft of
+benefic aspect: Alpayu
+11.Malefics in kendras, bereft of benefic aspect, and
+ the lagna lord being
+weak: Alpayu
+12.Malefics in houses 2 and 12, sans benefic aspect:
+Alpayu
+Methods of Mathematical Calculation of Longevity
+It may be pointed out at the outset that mathematical
+ methods of
+calculation of longevity do not always prove accurate in actual
+horoscopes.
+The actual length of life appears to be a divine secret not to be
+deciphered
+too easily. There are several methods available some of which are
+ being
+described below.
+I. PINDAYU
+According to this method of calculation of longevity, the
+seven planets,
+from the Sun to Saturn, contribute 19, 25, 15, 12, 15, 21 and 20
+ years
+respectively, when at their points of exaltation. They each contribute
+ half
+this period (i.e., 9.5, 12.5, 7.5, 6, 7.5, 10.5 and 10 years respectively)
+at their
+points of debilitation. Between deep exaltation and deep debilitation,
+they
+contribute proportional amounts.
+Step I:   Find
+out the distance of a planet from its point of debilitation by
+subtracting this
+latter point from the longitude of the planet. This gives
+the ‘arc’ of longevity.
+Note: The
+same ‘arc’ of longevity is obtained by subtracting either of the
+planet’s
+longitude and its debilitation point from the other. In case the
+result exceeds
+180 degrees (six signs), this must be subtracted from 360
+degrees (or 12
+signs).
+Step II:   Since
+ 180 degrees (between exaltation and debilitation)
+corresponds to half the age
+contributed by the planet, find the actual age
+
+<<<PAGE 357>>>
+contributed by the arc of
+ longevity, from the number of degrees the
+planet is removed from its
+debilitation point.
+Step III:       Add the above value to half the age contributed by the
+planet (since this
+amount is contributed by the planet anyway, even at
+deep debilitation).
+Let us apply this information to the example chart
+being considered in this
+chapter.
+
+<<<PAGE 358>>>
+
+<<<PAGE 359>>>
+Note: Detailed steps in actual determination of
+ the arc of longevity have
+been omitted in the above calculations. See ‘Note’ to
+Step I, wide supra, for
+details.
+Thus the years contributed by the seven planets are as
+follows:
+Sun: 16.775
+Moon: 21.046
+Mars: 11.041
+Mercury: 6.839
+Jupiter: 12.526
+Venus: 18.803
+Saturn: 18.282
+Haranas or Reductions
+The above values of longevity contributed by the seven
+ planets are
+subjected to four stages of Haranas or reductions. These are as
+follows:
+A. Astangata Harana (a reduction consequent upon
+combustion):
+Planets become combust when close to the Sun. Their
+limits are as follows:
+Moon within 12° of the Sun.
+Mars within 17° of the Sun.
+Mercury within 14° of the Sun. (within 12° if
+retrograde)
+Jupiter within 11° of the Sun.
+Venus within 10° of the Sun. (within 8° if retrograde)
+Saturn within 15° of the Sun.
+A combust planet loses half his contributed years.
+Exceptions: Saturn and Venus. They are not
+ subject to reduction due to
+combustion.
+The example chart shows conjunction of Venus and Mercury
+with the Sun.
+Both are combust but only Mercury loses half its contributed
+years.
+The years contributed by the seven planets after
+Astangata Harana would
+thus be:
+
+<<<PAGE 360>>>
+Sun: 16.775
+Moon: 21.046
+Mars: 11.041
+Mercury:  3.419 (reduced by half)
+Jupiter: 12.526
+Venus: 18.803
+Saturn: 18.282
+B. Shatru-Kshetra Harana (or reduction consequent
+upon occupation of an
+enemy’s house): One-third of the contributed age
+ (after Astangata Harana
+stage) is lost if a planet is in an enemy’s house.
+Exceptions:
+(i)     Retrograde planets.
+(ii)    Mars, according to some.
+In the example chart, the Sun, Jupiter and Saturn
+occupy the houses of their
+natural enemies. Of these, Jupiter is retrograde and
+falls under exceptions.
+The Sun and Saturn, however, lose their contributed age
+by one-third.
+Thus, the years contributed by the seven planets after
+Shatru-Kshetra Harana
+are:
+Sun: 11.183
+Moon: 21.046
+Mars: 11.041
+Mercury: 3.419
+Jupiter: 12.526
+Venus: 18.803
+Saturn: 12.188
+C. Chakrapaata Harana (or reduction consequent upon
+ the placement of
+planets in the six houses, from the seventh house to the
+twelfth house). This
+reduction is more if the planets are in the twelfth
+house, and progressively
+
+<<<PAGE 361>>>
+less as they occupy houses 11, 10, 9, 8 and 7.
+Benefics cause half the loss as
+compared to malefics.
+Note:
+(a) When there are
+ multiple planets in one house, only the strongest
+planet causes reduction in
+the contributed age.
+(b) Weak Moon is
+not to be considered a malefic in longevity calculation.
+In the example chart: Saturn, a malefic, in the
+eleventh house loses half its
+contribution. Jupiter, a benefic, in the ninth
+ house loses one-eighth of its
+contribution.
+The years contributed by the seven planets after the
+Chakrapata reduction
+are:
+Sun: 11.183
+Moon: 21.046
+Mars: 11.041
+Mercury: 3.419
+Jupiter: 10.960
+Venus: 18.803
+Saturn:  6.094
+Total: 82.546 years
+D. Krurodaya Harana (or reduction consequent upon
+the occupation of the
+lagna by a malefic): This reduction is applied if the
+lagna is occupied by a
+malefic (Sun, Mars or Saturn). The procedure here is
+thus:
+
+<<<PAGE 362>>>
+(a) Convert the
+degrees, etc., of the lagna into minutes.
+(b) Multiply the
+above minutes by the age contributed by each planet.
+(c) Divide the
+value obtained by Chakraliptaa (i.e., 21,600 minutes; i.e.,
+the total
+number of minutes in the zodiac).
+(d) The quotient is
+reduced from the total Ayu or span of life obtained
+earlier. This gives the
+span of life according to the Pindayu calculation.
+Note:
+(i) If the malefics
+occupy the lagna but there is also a benefic aspect,
+only half the reduction is
+to be applied.
+(ii) If the lagna
+is occupied by both malefics and benefics, the planet
+nearest to the cusp of
+the lagna must be considered. For example, if a
+benefic lies closer to the cusp
+of the lagna compared to a malefic, this
+reduction is not applied.
+(iii) Another
+method to obtain the Krurodaya reduction is thus:
+The number of the Navamsha rising in the lagna, multiplied
+by the age
+contributed by each planet, and divided by 108 (the total number of
+Navamshas in the zodiac). The quotient is reduced from the total span of
+life.
+The maximum reduction to be effected could reach upto one-twelfth of
+the total
+longevity in case the lagna happens to be at the very end of a sign.
+In the example chart, the lagna is not occupied by malefics.
+ The
+Krurodaya reduction is thus not applicable here.
+Contribution from the lagna
+Some authorities suggest that age contributed by the lagna
+ should be
+added to the total Pindayu obtained from the above method. This is
+calculated as follows:
+(a) If the lord
+of the lagna is stronger: The completed signs indicating
+the lagna
+represent the number of years, while the degrees and minutes
+of the cusp of the
+lagna represent the equivalent months and days (i.e.,
+one sign or 30 degrees
+represent one year).
+(b) If the lord
+of the navamsha lagna is stronger: The navamsha rising in
+the lagna
+ represents the number of years, months and days to be
+
+<<<PAGE 363>>>
+contributed. The method
+for this is the same as that for finding out the
+contribution of lagna in
+Amshayu (Vide infra).
+(c) If the lagna
+lord and the navamsha lord are equally strong: Add the
+total contribution
+from both to the Pindayu already obtained.
+II. AMSHAYU
+The procedure for this method of longevity
+ determination involves the
+following steps.
+Step 1 Convert
+the signs, degrees and minutes of a planet’s longitude, as
+well as the cusp of
+the lagna into minutes.
+Step 2 Divide
+each of the above separately by 200.
+Step 3 If
+the quotient is more than twelve, divide it by 12 to obtain the
+number of
+years.
+Step 4 The
+remainder obtained from step 2 gives the fraction of the year
+(in months, days,
+etc.).
+Step 5 The
+total life span contributed by the lagna as well as the various
+planets is
+subjected to the Bharanas (additions) and Haranas (reductions)
+to obtain the
+actual age.
+The actual years of Amshayu contributed by the
+ different planets and the
+lagna are as follows:
+Sun:   2.355 (obtained
+ by removing multiples of 12 from contributed
+years, i.e., 98.355)
+
+<<<PAGE 364>>>
+Moon:  2.980
+Mars:  9.995
+Mercury: 11.950
+Jupiter: 10.310
+Venus: 11.800
+Saturn:  9.275
+Lagna:  0.190
+The Bharanas (or additions)
+(a) Exaltation,
+retrogression: treble the contributed age.
+(b) Vargottama, own
+house, own Navamsha, or own Drekkana: Double
+the contributed age.
+(c) Where several
+multiplications crop up, apply only one which is the
+highest.
+In the example chart, the Moon is Vargottama; Mercury
+ is in its own
+Drekkana; Jupiter is retrograde and Saturn is
+in its own Navamsha. Jupiter’s
+contribution is trebled while that of the others
+is doubled. The Amshayu, in
+years, after the Bharanas, would be:
+Sun: 2.355
+Moon: 5.960
+Mars: 9.995
+Mercury: 23.900
+Jupiter: 30.930
+Venus: 11.800
+Saturn: 18.550
+Lagna:  0.190
+The Haranas (or reductions)
+These are similar to those in Pindayu calculation except
+ that the
+Krurodaya reduction is not applied here. In addition, if several
+reductions are
+applicable to a planet, only the larger reduction must be
+applied.
+
+<<<PAGE 365>>>
+We have already seen in the example chart that:
+1. Astangata reduction (one-half) applies to Mercury;
+2. Shatru-Kshetra reduction (one-third) applies to the
+ Sun and Saturn
+(Jupiter being retrograde is an exception); and
+3. Chakrapaata reduction applies to Saturn (one-half)
+ and Jupiter (one-
+eighth).
+Note: Since Saturn is subject to two reductions,
+ Shatru-Kshetra and
+Chakrapaata, only the larger one, i.e., the Chakrapaata, is
+applicable.
+The contributed Amshayu will thus be:
+Sun: 1.177
+Moon:  5.960
+Mars:  9.995
+Mercury: 11.950
+Jupiter: 27.064
+Venus: 11.800
+Saturn:  9.275
+Lagna:  0.190
+Total: 77.411 years
+III. NISARGAYU
+From birth onwards, the various planets contribute a
+fixed number of years
+in a fixed order, as follows:
+Moon: 1 year
+Mars: 2 years
+Mercury: 9 years
+Venus: 20 years
+Jupiter: 18 years
+Sun: 20 years
+Saturn: 50 years
+
+<<<PAGE 366>>>
+Note:
+(i) It has been said that of the Sun, the Moon and the
+lagna:
+(a) If the lagna is
+the strongest, apply Amshayu.
+(b) If the Sun is
+the strongest, apply Pindayu.
+(c) If the Moon is
+the strongest, apply Nisargayu
+(ii) It may be pointed out that methods of calculation
+ of longevity by
+mathematical means are generally unsatisfactory. Dependance on
+ the
+determination of the life-span (e.g., Alpayu, Madhyayu and Poornayu) as
+mentioned earlier, co-ordinated with appropriate maraka or adverse dasha
+periods, gives more reliable results.
+Death-inflicting Dashas
+Mention has been made of the role of marakas elsewhere.
+A few additional
+points are made here:
+1. If in the order of the Vimshottari main dasha, the
+fourth dasha belongs to
+Saturn, or the fifth to Mars, or the sixth to Jupiter,
+or the seventh to Rahu,
+these dashas can prove fatal (or adverse for health).
+2. If the Vimshottari dasha of a combust or debilitated
+or otherwise weak
+planet happens to be the third or the fifth or the seventh in
+order, it is again
+to be watched.
+3. The dashas of Chhidra grahas or vulnerable planets
+can also cause death
+or disease. The Chhidra grahas are:
+(a) The eighth
+house lord.
+(b) Occupant of the
+eighth house.
+(c) Planet
+aspecting the eighth house.
+(d) Owner of the
+22nd Drekkana (from the lagna).
+(e) Associate of
+the eighth house lord.
+(f) Owner of the
+64th Navamsha (from the Moon).
+(g) The bitter
+enemy (Adhi-shatru) of the eighth lord.
+
+<<<PAGE 367>>>
+Note: Since determination of longevity is a
+ difficult subject, and the
+mathematical formulae unreliable in this regard, a
+ great caution must be
+exercised in making predictions about longevity and time
+of death.

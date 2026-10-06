@@ -1,0 +1,691 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 263-277
+# compiled into: planets.json (in_house)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 263>>>
+
+...XVIII...
+Planets in Different Houses
+Behold, O Partha, My forms divine, hundreds
+and thousands
+of them, various in kind, various in shapes and hues.
+Gita XI/5
+We have already discussed the
+ results of placement of house lords in
+different houses. Here we give a brief
+account of the placement of various
+planets, irrespective of their lordship, in
+ different houses. A proper
+understanding of this aspect is essential for
+correct predictions.
+Placement of planets in different houses involves an interaction
+between
+the inherent nature of the planet and the significations of the house
+concerned. The results of such planetary placements, as mentioned
+hereunder,
+have been taken from classical works on Vedic astrology. These
+results must be
+ applied to individual horoscopes with the openness of a
+scientist along with
+ suitable adjustments to make them coherent in the
+modern context.
+The Sun
+The Sun is favourable in the houses 3, 6, 10 and 11.
+First House: Scanty body hair; indolent; cruel hearted;
+easily angered; of tall
+stature; arrogant; valiant; unforgiving; dry eyes or
+defective vision.
+Note:
+(i) In Mesha lagna
+(exaltation) = poor vision.
+(ii) In Karka lagna
+= cataract.
+
+<<<PAGE 264>>>
+(iii) In Simha
+lagna (own house) = strong; night-blindness.
+(iv) In Tula lagna
+(debilitation) = Blind; poor; bad for progeny.
+(v) In Meena lagna
+= waited upon and served by women.
+Second House: Loses wealth through the king; disease in
+the face or teeth;
+defective speech; immensely rich.
+Third House: Valorous; wealthy; liberal and strong;
+ bereft of brothers;
+learned; overcomes his opponents.
+Fourth House: Bereft of home comforts; devoid of
+ friends, relatives, land
+and house; heart disease.
+Fifth House: Childless; short-lived; poor; worrisome;
+wise; a wanderer.
+Note:  Sun in he fifth house is adverse for the
+first-born, particularly for a
+son.
+Sixth House: Opulent; powerful; very rich; famous;
+victorious; a king or a
+judge; good appetite and digestion.
+Seventh House: Poor; wicked; suffers humiliation;
+ ill-looking; sickly;
+inimical to womenfolk; treads the forbidden path.
+Eighth House: Devoid of wealth and comforts; few
+ children; short-lived;
+deprived of near and dear ones; disease in the eye.
+Ninth House: Blessed with wealth, friends, sons and
+happiness; devoted to
+gods and Brahmins; adverse for father.
+Note: The Sun is the significator for father. Ninth
+house indicates father. A
+significator in its relevant house generally damages
+ the concerned
+signification.
+Tenth House: Renowned, wise and powerful; very wealthy;
+ blessed with
+sons and relatives; pursues his undertakings to completion;
+unconquerable;
+equal to a king.
+Eleventh House: Wealthy; powerful and efficient; enjoys
+varied comforts.
+Twelfth House: Physical ailment; eye disease; fallen
+ from his prescribed
+pursuits; a wanderer; inimical to father.
+The Moon
+
+<<<PAGE 265>>>
+The Moon is adverse in houses 6, 8 and 12 where it
+causes Balarishta (or
+death in early childhood), unless under benefic
+influences.
+First House: Insane; deaf; wicked; mute; mentally
+ disturbed; dark
+complexioned; ill-looking. If such a Moon is under malefic
+influence, the
+native doesn’t survive long. These results do not apply to the
+signs Mesha,
+Vrisha or Karka identical with the lagna.
+Note:
+(i) In Mesha lagna:
+many children.
+(ii) In Vrisha
+lagna (exaltation): wealthy; famous; good in looks.
+(iii) In Karka
+lagna (own house): wealthy; famous; good in looks.
+(iv) Full Moon in
+lagna: Fearless; wealthy; long-lived.
+Second House: Sweet tongued; wealthy; physical
+comforts; fond of women;
+large family; a man of few words.
+Third House:  Virtuous; brave; blessed with brothers;
+educated.
+Fourth House:  Happy; detached; learned; sensuous; fond
+of water sports.
+Fifth House:  Blessed with children, wealth and
+learning; a coward.
+Sixth House:  Short-lived; soft skin; easily angered;
+troubled by opponents;
+abdominal disorders.
+Seventh House: Good-looking; given to sexual excess;
+possesses a beautiful
+wife; a wanderer.
+Eighth House: Wise and learned; fickle; diseased;
+short-lived.
+Ninth House: Devoted to his duties; blessed with
+comforts, wealth, learning
+and children; adored by women.
+Tenth House: Wealthy; pious; efficient; powerful and
+liberal; completes his
+undertakings to perfection.
+Eleventh House: Wealthy and famous; brave; thoughtful;
+blessed with sons;
+long-lived.
+Twelfth House: Indolent; humiliated; miserable; fallen;
+diseased in the eye;
+resides in a foreign country.
+
+<<<PAGE 266>>>
+Mars
+Mars is beneficial in houses 3, 6, 10 and 11. In houses
+1, 4, 7, 8 and 12, it
+produces what is called as Kuja-dosha which is adverse
+for conjugal life.
+First House: Cruel; dare-devilish; fickle and sickly;
+short-lived; injured in
+the body.
+Second House: Bereft of learning, wealth, good food and
+ good company;
+disease in the oral cavity; a wanderer.
+Third House: Valorous; powerful; unconquerable,
+ virtuous and upright;
+adverse for younger brother.
+Fourth House: Bereft of house, lands, money, mother and
+friends; valiant.
+Fifth House: Fickle; unrighteous and wicked; bereft of
+children, wealth and
+friends; lacks peace of mind.
+Sixth House: Lustful; powerful appetite and digestive
+ capability;
+annihilation of his foes; a leader.
+Seventh House: Wicked; sickly; loses his wife;
+ slim-bodied; poor and
+quarrelsome.
+Eighth House: Miserable; sickly; short-lived; indulges
+in prohibited deeds;
+injured body.
+Ninth House: A traitor or a killer; irreligious;
+sinner; favoured by the ruler;
+adverse for parents.
+Tenth House: Cruel; liberal; valorous; equal to a king;
+famous; held in high
+esteem.
+Eleventh House: Wealthy; lustful; brave; attains to
+desired pleasures.
+Twelfth House: Cruel, repulsive and wicked; bereft of
+ wife; suffers
+incarceration, misery and eye disease.
+Mercury
+First House: Healthful; sweet-tongued; learned; a
+ mathematician or a
+scholar; versed in scriptures; long-lived.
+Second House: Good speech; learned; wealthy; enjoys
+good food.
+
+<<<PAGE 267>>>
+Third House: Of wavering disposition; given to hard
+ physical labour;
+deceitful; a sorcerer; good brothers and sisters.
+Fourth House: Very learned and scholarly; blessed with
+ wealth, vehicles,
+home, physical comforts and friends.
+Fifth House: Gains eminence through learning;
+proficient in mantras (potent
+incantations); many sons; brave and happy.
+Sixth House: Easily angered and quarrelsome;
+argumentative; conqueror of
+his opponents; indolent; sickly; unhelpful to his
+near ones.
+Seventh House: Knowledgeable; wise and renowned;
+wealthy wife.
+Eighth House: Famous; long-lived; equal to a king; a
+judge.
+Ninth House: Opulent and learned; good speaker; very
+clever; virtuous and
+righteous.
+Tenth House: Learned; powerful; given to righteous
+ pursuits; famous and
+efficient.
+Eleventh House: Long-lived; truthful; an intellectual;
+wealthy, famous and
+indulgent in physical pleasures.
+Twelfth House: Indolent, repulsive and miserable; also
+ learned and sweet
+tongued.
+Jupiter
+First House: Learned, fearless and long-lived; good in
+ looks; balanced in
+outlook; wealthy.
+Second House: Wealthy; eloquent speaker; good in looks;
+ fond of good
+food; helpful to others; liberal in gifts.
+Third House: Subdued by brother and wife; covetous;
+wicked and miserable;
+overcomes his foes; poor digestion; good for brothers and
+sisters.
+Fourth House: Possessed of comforts, wealth, vehicle,
+wisdom, and near and
+dear ones; tormentor of foes; good in looks; happy.
+Fifth House: Learned and famous; wealthy and virtuous;
+a minister; suffers
+because of sons.
+
+<<<PAGE 268>>>
+Sixth House: Indolent; destroys his enemies; poor
+ digestion; hen-pecked;
+very famous; physically weak and lustful.
+Seventh House: Learned and famous; excels his father;
+blessed with good
+wife and sons.
+Eighth House: Miserable; servile; earns from service;
+unclean; adulterous;
+long-lived.
+Ninth House: Devout and learned; wealthy and famous;
+blessed with sons; a
+leader or minister.
+Tenth House: Completes his undertakings to perfection;
+possesed of wisdom,
+wealth and virtue.
+Eleventh House: Wealthy, steadfast and long-lived; few
+sons.
+Twelfth House: Indolent, irresolute and wicked;
+servile; without progeny.
+Venus
+First House: Good-looking; amorous; learned; happy and
+long-lived.
+Second House: Wealthy; graceful; good speaker; a poet.
+Third House: Covetous, rich, controlled by his wife;
+ disinclined toward
+physical venture.
+Fourth House: Good house, ornaments, clothes and
+vehicles; good in looks;
+boastful; subdued by his wife.
+Fifth House: Wealthy; sensuous; high status; blessed
+with comforts, sons and
+friends; good in looks.
+Sixth House: Bereft of enemies; poor and miserable;
+associates with many
+women; little pleasure from wife; infamous.
+Seventh House: Quarrelsome; lustful; lovely in looks;
+ associates with
+beautiful and low women.
+Eighth House: Long-lived; opulent; numerous physical
+comforts; equal to a
+king; ever contented.
+Ninth House: Learned and wealthy; possesses wife,
+ children, friends and
+other physical comforts; religiously inclined.
+
+<<<PAGE 269>>>
+Tenth House: High status; powerful; wealthy and famous;
+helped by women.
+Eleventh House: Wealthy; associates with women not his
+own; bereft of all
+pains and miseries.
+Twelfth House: Indolent; fallen; skilled lover;
+debauched.
+Saturn
+First House:Miserable; indolent, lustful, ugly and
+sickly; defective limbs and
+mal-odorous body.
+Note:
+Very good results occur if Saturn is in the lagna
+identical with:
+(i) its exaltation sign
+(Tula),
+(ii)own signs (Makara and
+Kumbha), and
+(iii) signs of Jupiter (Dhanu
+and Meena)
+In all these, Saturn in lagna makes one equal to a
+ king, a headman of a
+village or town, long-lived, virtuous and scholarly.
+Second House: Destitute; untruthful and indigent;
+ suffers disease of oral
+cavity. In later years, he quits his place of residence
+ and earns wealth,
+possessions and comforts.
+Third House: Wickedly inclined; indolent; strong,
+liberal and full of wisdom;
+wealthy.
+Fourth House: Adverse for mother; bereft of near and
+dear ones; wise and
+rich; sickly in early age.
+Fifth House: Insane, fickle, unhappy; devoid of sons,
+comforts and wisdom;
+overcomes his opponents.
+Sixth House: Wealthy; big appetite; very lustful; good
+in looks; tormented
+by his enemies.
+Seventh House: Ever ailing; indigent; sickly wife;
+unclean and repulsive.
+Eighth House: Heroic and aggressive in the beginning,
+he loses his strength
+and money later; perianal disease.
+
+<<<PAGE 270>>>
+Note: Saturn in the 8th house is generally favourable
+for good health and
+longevity.
+Ninth House: Irreligious, unfortunate and penurious;
+ adverse for father;
+hurtful to others.
+Note:
+Astrological prediction is an art of synthesis and should
+not be done on
+the basis of a single factor. For instance, Saturn in the 9th
+ house has
+produced two of the greatest spiritual giants in recent times, Swami
+Ramakrishna Paramahamsa and Ma Anandamoyee.
+See the horoscope of Swami Ramakrishna Paramahamsa.
+Tenth House: Learned, wealthy and powerful; a judge or
+a leader; proud and
+heroic.
+Eleventh House: Stable renown; good health; much
+wealth; voluptuous and
+long-lived.
+Twelfth House: Defective vision; spendthrift; shameless
+ and miserable; a
+leader.
+Rahu
+Rahu is beneficial in houses 3, 6, 10 and 11.
+First House: Cruel, wealthy and short-lived; courageous
+but wicked; without
+compassion; ugly hair, nails and looks; disease in upper
+part of the body.
+
+<<<PAGE 271>>>
+Note:
+(i)Rahu in lagna, identical
+with Mesha, Karka and Simha: Pleasures and
+affluence.
+(ii)Rahu in lagna, aspected by
+benefics: Productive of all comforts and
+enjoyments.
+Second House: Quarrelsome; poor; thievish; earns money
+through favours
+from the king; unclear speech; disease in the oral cavity;
+speaks with hidden
+meanings; deals in animal skins or sale of fishes, etc.
+Third House: Wealthy, valiant and proud; long-lived;
+ opposed to his
+brothers; blessed with sons, wife, friends and physical
+enjoyments; if exalted
+it ensures vehicles and servants.
+Note: Rahu gets exalted in Vrisha.
+Fourth House: Destitute; foolish; short-lived; bereft
+of wealth and physical
+comforts; opposed to his wife.
+Fifth House: Easily angered; harmful to children;
+ compassionate; suffers
+from phobias; abdominal ailments.
+Sixth House: Tormented by foes; annihilator of foes;
+blessed with wealth,
+children and varied physical comforts; resorts to
+adultery; perianal disease;
+long-life.
+Seventh House: Loses wealth through women; adulteror;
+ bereft of wife;
+wicked; brave; ailing.
+Eighth House: Short-lived; suffers from Vaata-related
+sickness; few children;
+wicked and miserable; fearless; perianal disease;
+indolent.
+Ninth House: Leader of a group, village or town;
+ opposed to his father;
+cruel; ugly dress; tormented by his opponents.
+Tenth House: Fearless; helpful to others; famous;
+ sensuous; engaged in
+unlawful pursuits; learned, wealthy and a minister;
+detached; a wanderer.
+Eleventh House: Wealthy; long-lived; few children;
+eager for combat; keeps
+his senses under control; good looking; a man of few
+ words; versed in
+scriptures; lives in a foreign land; suffers ear disease.
+
+<<<PAGE 272>>>
+Twelfth House: Bereft of comfort, wealth and virtue;
+ immoral; secretly
+sinful; fickle; sickly; suffers from water-related disease;
+lives in a foreign
+land.
+Ketu
+Like other malefics, Ketu too is good in houses 3, 6,
+10 and 11.
+First House: Sickly; avaricious; worrisome; displaced
+ from residence and
+status; fear from wicked people; injured body; suffers from
+ Vaata-related
+disorders.
+Note:
+(i) Ketu in lagna, aspected by
+benefics: princely pleasures.
+(ii) In the lagna, in a sign
+of Saturn: wealthy and blessed with children.
+Second House: Bereft of learning and wealth; disease of
+ the eye or oral
+cavity; unclear speech; opposed to his near and dear ones; eats
+ at others’
+houses.
+Note: Located in the sign of a natural benefic: physical
+comforts.
+Third House: Virtuous; wealthy; eager for combat;
+ destroys his enemies;
+sensuous; long-lived; lacks friends and brothers; pain in
+the upper limb.
+Fourth House: Loses mother, wealth, ancestral lands,
+and house; lives in a
+distant land or in others’ houses; fond of propagating
+malicious gossip.
+Fifth House: Abdominal disease; phobias; scared of
+ water; lacking in
+learning and progeny.
+Sixth House: Annihilator of foes; good health; generous
+ and erudite;
+humiliated by maternal uncle; gains through quadrupeds.
+Seventh House: No comfort from wife; stupid; a
+wanderer; associates with
+wicked women; disease of the intestines and seminal
+fluid; loss of wealth;
+fear from water; suffers humiliation.
+Note: Ketu in the seventh house in Vrischika
+(exaltation): Multiple benefits.
+Eighth House: Perianal ailments; separation from near
+ and dear ones;
+accident or injury from weapons; avaricious; desirous of wealth
+and wives of
+others; sickly and immoral.
+
+<<<PAGE 273>>>
+Note: Ketu in the eighth house in Mesha, Vrisha,
+ Mithuna, Kanya and
+Vrischika: gain of wealth.
+Ninth House: Short temper; eloquent; desirous of
+ progeny; hostile to his
+father; bereft of brothers and sisters; arrogant;
+ disease in the upper limb;
+becomes fortunate through the help of mlechchhas
+(outsider non-believers).
+Tenth House: Powerful; renowned; cruel; destroys his
+opponents; knower of
+the Self; no comfort from father; not good in looks; ever
+a wanderer.
+Note: Ketu in the tenth house identical with Mesha,
+ Vrisha, Kanya or
+Vrischika: annihilates his foes.
+Eleventh House: Valiant; powerful; renowned; virtuous;
+ learned; good in
+looks; scared; wicked sons.
+Twelfth House: Immoral; commits sins secretively;
+disease of legs, feet, anal
+region and eye; conqueror in war; spends on good
+deeds; fickle.
+Planets in Different houses from The Moon
+Manasagari, the classic on Vedic astrology, mentions
+specific results for
+placement of planets in relation to the Moon. This
+ underscores the
+importance of the Moon in predictive astrology. The Moon has
+ been
+considered as almost equal to the lagna or the ascendant in matters of
+prediction. The following is a brief account of the results of planets when
+located in different houses, as considered from the Moon.
+Sun
+1st House: Distant traveller;
+immersed in pleasures; inclined toward strife.
+2nd House: Blessed with servants;
+ commanding dignity; honoured by the
+ruler.
+3rd House: Desirous of riches
+ (gold!); chaste; controlling many human
+beings (like kings).
+4th House: Mother’s killer (causes
+harm to mother!).
+5th House: Troubles through daughters;
+many sons.
+6th House: Conqueror of foes; works
+for Kshatriyas.
+
+<<<PAGE 274>>>
+7th House: Association with
+ beautiful wife; good character; honoured by
+kings; Tapasvi.
+8th House: Creates strife; numerous
+ailments.
+9th House: Inclined toward religion;
+ truthful; suffers at the hands of
+relatives.
+10th House: Excessively rich;
+praised by the wealthy.
+11th House: Royal dignity; versed in
+ several branches of knowledge,
+famous, heads his family.
+12th House: One-eyed.
+Mars
+1st House: Red-eyed, reddish
+complexion; bleeding wounds.
+2nd House: Owns land; son takes to
+agriculture.
+3rd House: Has 4 brothers; good
+natured; ever comfortable.
+4th House: Bereft of comfort and
+wealth; loss of wife.
+5th House: Bereft of sons. If wife
+has Mars in lagna, he becomes childless
+certainly.
+6th House: Prone to Adharma, illness
+and enmity toward others.
+7th House: Ill-natured and
+ill-tempered wife.
+8th House: Sinner; killer; bereft of
+good nature and truthfulness.
+9th House: Wealthy; begets a son in
+old age.
+10th House: Comforts, conveyances,
+money.
+11th House: Famous in king’s court;
+dignified; handsome.
+12th House: Hurts all, including his
+mother.
+Mercury
+1st House: Bereft of comforts and
+ good appearance; harsh tongued; low
+thinking; ever on the move.
+2nd House: Wealthy, having house,
+ relatives and money. dies of ailments
+arising from cold.
+
+<<<PAGE 275>>>
+3rd House: Having wealth and
+property; benefits from association of great
+men and rulers.
+4th House: Ever comfortable; gains
+from maternal relations.
+5th House: Intelligent, learned, of
+ good appearance, immersed in sensual
+pleasures; harsh of tongue.
+6th House: Miserly; coward; scared
+of conflicts; hairy body and big eyes.
+7th House: Dominated by women;
+miserly, wealthy; long lived.
+8th House: Coldness of constitution,
+famous among rulers, feared by foes.
+9th House: Opponent of his own
+ religion; immersed in others’ religion;
+opposes all, callous in nature.
+10th House: Blessed with
+‘Raja-Yoga’. If the Moon is in the tenth house, he
+is the leader in his family.
+11th House: Gains at each step;
+marries at 11 years.
+12th House: Ever miserly; his son
+never wins (always loses!).
+Jupiter
+1st House: Long lived; free from
+ailments; powerful; ever wealthy.
+2nd House: Respected by rulers;
+lives a hundred years; quick in movements;
+valourous; endowed with virtue.
+3rd House: Loved by women; father
+ gains wealth during the seventeenth
+year of the native.
+4th House: Bereft of comforts;
+trouble from maternal side; serves in other’s
+house.
+5th House: Good eyesight; valorous;
+ blessed with sons; wealthy and
+dominating.
+6th House: Indifferent; bereft of
+ home; long life, but living on alms or
+through low deeds.
+7th House: Long lived; sweet
+tongued; healthy; impotent; jaundiced; leader
+in his family.
+8th House: Physical ailments and
+discomforts in plenty.
+9th House: Wealthy; virtuous; service
+to guru and gods.
+
+<<<PAGE 276>>>
+10th House: Leaves wife and sons to
+become a Tapasvi.
+11th House: Blessed sons; vehicles;
+dignified as a king.
+12th House: Opposes his near and
+ dear ones. If Jupiter aspects the sixth
+house from lagna, the native is
+comfortable.
+Venus
+1st House: Death in water;
+paralysis; violent death.
+2nd House: Wealthy; scholar;
+valorous like a king.
+3rd House: Religiously inclined;
+wise; earns from mlechchhas.
+4th House: Phlegmatic temperament;
+weak-bodied; bereft of money in old
+age.
+5th House: Many daughters; rich; no
+fame.
+6th House: Prodigal; loser in
+battle.
+7th Hous: Without ‘Purushartha’;
+foolish, suspicious.
+8th House: Famed; fighter; generous;
+wealthy; gets various comforts.
+9th House: Many brothers; many
+sisters; many friends.
+10th House: Gives comfort to mother
+and father; long life.
+11th House: Long life; bereft of
+illness and opponents.
+12th House: Associatess with others’
+wives; lewd; foolish.
+Saturn
+1st House: Adverse for health,
+friends and relatives.
+2nd House: Bad for mother; lives on
+goat milk.
+3rd House: Several daughters who die
+soon after birth.
+4th House: Shows ‘Purushartha’;
+annihilates foes.
+5th House: Wife dark-complexioned
+and sweet-tongued.
+6th House: Alpayu (short-lived);
+many troubles.
+7th House: Religious; generous;
+marries many women.
+8th House: Bad for father; ill
+effects vanish by giving alms.
+9th House: Loss of wealth in Saturn
+dasha.
+
+<<<PAGE 277>>>
+10th House: Equivalent to a king;
+miserly; wealthy.
+11th House: Bad for health;
+irreligious.
+12th House: Poor; beggar;
+irreligious
+Rahu
+1st, 10th or 9th House: King; by old
+age he only remains a wealthy man.
+6th or 12th House: King or minister;
+wealthy.
+4th or 7th House: Bad for parents;
+ever unhappy.
+2nd or 11th House: No comfort
+despite wealth and fame.
+5th House: Death by drowning; no
+comforts.

@@ -1,0 +1,2579 @@
+# source: _OceanofPDF.com_The_Art_of_Predictive_Astrology_Forecasting_Your_Life_Events_-_Carol_Rushman.pdf
+# pages: 1-80
+# compiled into: transits.json (western stack)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 1>>>
+
+<<<PAGE 2>>>
+BOSTON  PUBLIC  LIBRARY 
+Copley  Square 
+Boston,  MA  02116 
+
+<<<PAGE 3>>>
+THE  C??/  OF 
+PREDICTIVE 
+
+<<<PAGE 4>>>
+About  the  Author 
+Carol  Rushman  has  been  a  professional  astrologer— teaching,  lec- 
+turing, and  doing  private  consultations— for  over  thirty  years.  Her 
+clients  include  television  personalities,  movie  stars,  politicians, 
+musicians,  and  business  people  from  all  over  the  world,  as  well  as 
+many  of  her  professional  peers.  Carol  has  taught  and  lectured  ex- 
+tensively serving  on  the  faculty  of  several  national  conferences, 
+and  representing  the  United  States  at  an  international  conference 
+in  Sydney,  Australia. 
+She  was  a  board  member  of  the  American  Federation  of  As- 
+trologers, the  American  Federation  of  Astrology  Network,  and  the 
+Wisconsin  Astrological  Society  and  was  also  a  member  of  the  In- 
+ternational Society  of  Astrologers  and  the  National  Council  for 
+Geocosmic  Research.  Carol  has  appeared  on  television  and  radio  in 
+New  York,  Hong  Kong,  Los  Angeles,  Boston,  Atlanta,  and  Chicago, 
+as  well  as  locally  in  Milwaukee,  Wisconsin,  where  she  was  featured 
+in  a  documentary  called  "The  Making  of  an  Astrologer."  In  addi- 
+tion, she  has  had  several  of  her  own  radio  and  telvision  shows. 
+Carol  currently  resides  in  Bayside,  Wisconsin,  with  her  hus- 
+band. Dr.  Jay  Meili.  She  is  at  work  on  a  new  book  on  the  astrology 
+of  relationships. 
+To  Write  to  the  Author 
+If  you  wish  to  contact  the  author  or  would  like  more  information 
+about  this  book,  please  write  to  the  author  in  care  of  Llewellyn 
+Worldwide  and  we  will  forward  your  request.  Both  the  author 
+and  publisher  appreciate  hearing  from  you.  Llewellyn  Worldwide 
+cannot  guarantee  that  every  letter  written  to  the  author  can  be  an- 
+swered, but  all  will  be  forwarded.  Please  write  to: 
+Carol  Rushman  %  Llewellyn  Worldwide 
+P.O.  Box  64383,  Dept.  0-7387-0164-5 
+St.  Paul,  MN  55164-0383,  U.S.A. 
+Please  enclose  a  self-addressed  stamped  envelope  for  reply,  or  $1.00  to  cover 
+costs.  If  outside  U.S.A.,  enclose  international  postal  reply  coupon. 
+Please  visit  our  website  at  http:  /  /  www.llewellyn.com. 
+
+<<<PAGE 5>>>
+(]AROL 
+pORECASTING  yOUR 
+ypE  gVENTS 
+2002 
+Llewellyn  Publications 
+St.  Paul,  Minnesota  55164-0383,  U.S.A. 
+
+<<<PAGE 6>>>
+The  Art  of  Predictive  Astrology:  Forecasting  Your  Life  Events  ©  2002  by  Carol  Rushman.  All 
+rights  reserved.  No  part  of  this  book  may  be  used  or  reproduced  in  any  manner  whatso- 
+ever, including  Internet  usage,  without  written  permission  from  Llewellyn  Publications 
+except  in  the  case  of  brief  quotations  embodied  in  critical  articles  and  reviews. 
+First  Edition 
+First  Printing,  2002 
+Book  design  by  Donna  Burch 
+Cover  design  by  Kevin  R.  Brown 
+Editing  by  Andrea  Neff 
+Library  of  Congress  Cataloging-in-Publication  Data 
+Rushman,  Carol. 
+The  art  of  predictive  astrology  :  forecasting  your  life  events  /  Carol  Rushman. — 1st  ed. 
+p.  cm. 
+Includes  bibliographical  references  and  index. 
+ISBN  0-7387-0164-5 
+1 .  Predictive  astrology.  I.  Title. 
+BF1720.5  .R87  2002 
+133.5— dc21  2001050413 
+Llewellyn  Worldwide  does  not  participate  in,  endorse,  or  have  any  authority  or  respon- 
+sibility concerning  private  business  transactions  between  our  authors  and  the  public. 
+All  mail  addressed  to  the  author  is  forwarded  but  the  publisher  cannot,  unless  specifi- 
+cally instructed  by  the  author,  give  out  an  address  or  phone  number. 
+Any  Internet  references  contained  in  this  work  are  current  at  publication  time,  but  the 
+publisher  cannot  guarantee  that  a  specific  location  will  continue  to  be  maintained.  Please 
+refer  to  the  publisher's  website  for  links  to  authors'  websites  and  other  sources. 
+Llewellyn  Publications 
+A  Division  of  Llewellyn  Worldwide,  Ltd. 
+PO.  Box  64383,  Dept.  0-7387-0164-5 
+St.  Paul,  MN  55164-0383,  U.S.A. 
+www.llewellyn.com 
+Printed  in  the  United  States  of  America 
+
+<<<PAGE 7>>>
+I  dedicate  this  hook  to  my  husband,  Jay  Meili, 
+who  supports  me  in  all  my  endeavors 
+and  makes  anything  possible. 
+
+<<<PAGE 8>>>
+Acknowledgments 
+special  thanks  to  Dennis  Ghetto  and  Hildegard  Van  Deusen  for 
+their  writing  and  editing  expertise,  to  Alex  Bunshank  and  Toni  Paris 
+for  their  many  hours  spent  transcribing  my  many  lectures  and 
+teaching  tapes  and  transcripts,  and  to  my  daughter  Renee  Tazalla 
+who  spent  so  many  hours  on  the  computer  helping  me  organize 
+my  work.  Td  also  like  to  thank  my  dear  friend  Janis  Robedeaux  who 
+started  me  on  my  spiritual  path,  and  also  my  teacher  and  mentor 
+Norman  Arens. 
+Special  thanks  and  gratitude  to  my  mother,  Cecilia  Serio,  to  my 
+children  Denise,  Roger,  Lisa,  Renee,  and  Leslie,  to  my  stepchildren 
+Paige,  Robin,  and  Brett,  and  to  all  my  many  friends  and  clients 
+who  have  had  such  interesting  lives  and  who  shared  their  stories 
+with  me.  Also,  many  thanks  to  Andrea  NefF,  my  editor,  who  did  an 
+outstanding  job.  I  thank  you  all. 
+
+<<<PAGE 9>>>
+Contents 
+Introduction 
+xi 
+Chapter  1 
+Psychological  Profiles 
+1 
+Chapter  2 
+The  Natal  Promise 
+29 
+Chapter  3 
+Progressions 
+71 
+Chapter  4 
+The  Importance  of  the  Progressed  Moon 
+91 
+Chapter  5 
+Progressed  House  Cusps 
+135 
+Chapter  6 
+Transits 
+151 
+
+<<<PAGE 10>>>
+X    /  Contents 
+Chapter  7 
+Stationing  and  Retrograde  Planets 
+183 
+Chapter  8 
+Lunations  and  Eclipses 
+201 
+Chapter  9 
+Putting  It  All  Together 
+253 
+Glossary 
+263 
+Reading  List 
+269 
+Index 
+271 
+Horoscopes 
+1.  Carol  Rushman  ...  37 
+2.  Jacqueline  Kennedy  Onassis  .  . .  39 
+3.  Ron  Howard  .  .  .  63 
+4.  Young  Man — Natal  Chart ...  255 
+5.  Young  Man — Founding  of  Company ...  257 
+6.  Young  Man — Sale  of  Company . . .  261 
+
+<<<PAGE 11>>>
+Introduction 
+In  thirty  years  of  working  as  a  professional  astrologer,  I  find 
+that  the  predictive  part  of  astrology  is  by  far  the  most  exciting. 
+There  was  a  time  when  predictive  astrology  was  not  the  thing 
+to  do.  It  was  the  1970s  and  astrologers  were  using  their  exper- 
+tise strictly  as  a  psychological  tool.  Psychology  is  certainly  im- 
+portant and  interesting,  and  it  definitely  plays  a  very  important 
+part  in  what  we  do,  but  prediction  is  what  clients  want.  I  have 
+many  psychologists  who  come  to  me  because  they,  too,  want 
+to  know  what's  going  to  happen.  Astrology's  insight  into  the 
+future  is  part  of  the  intrigue  and  mystery  that  draws  people  to 
+it.  The  most  popular  astrologers  with  great  followings  know 
+how  to  make  timely  and  accurate  predictions. 
+When  you  are  a  new  astrologer,  there  is  nothing  like  making 
+your  first  prediction.  I  can  remember  mine  very  clearly.  I  told  a 
+friend  who  was  waiting  to  hear  from  a  lover  (she  had  not  heard 
+from  him  for  five  weeks)  that  word  would  come  Thursday. 
+When  she  called  me  that  Thursday  evening,  I  don't  know  which 
+of  us  was  more  amazed.  He  had  called.  There  was  no  thrill 
+quite  like  it.  That  was  over  thirty  years  ago. 
+xi 
+
+<<<PAGE 12>>>
+xii    /  Introduction 
+In  my  intermediate  and  advanced  classes,  I  ask  students  to 
+make  predictions  for  themselves  for  the  coming  week.  I  have 
+them  work  with  their  own  chart.  Some  weeks  the  students  have 
+only  minor  events  to  look  at.  Nonetheless,  I  encourage  them  to 
+figure  out  something  that's  going  to  happen.  It  may  be  an  im- 
+portant phone  call,  or  something  as  simple  as  someone  paying 
+them  a  compliment.  It  may  just  be  a  good  hair  day  But  I  want 
+them  to  predict  something,  say  it  out  loud,  and  then  watch  it 
+happen.  When  it  transpires,  they  are  just  as  thrilled  as  I  am. 
+Eventually,  my  students  move  on.  In  doing  so  they  must  de- 
+cide what  astrological  system  they  will  use.  A  personal  method 
+is  essential  in  counseling  clients.  It  gives  astrologers  a  structure, 
+congruency  and  a  consistency  in  their  work.  Clients  appreciate 
+all  three.  What  is  most  important  is  that  each  astrologer  be 
+comfortable  with  his  or  her  own  system. 
+Perhaps  because  my  Sun  is  in  Virgo  and  I  have  Capricorn  ris- 
+ing, I  believe  in  structures  and  systems  more  than  the  average 
+person.  I  believe  astrologers  must  lay  a  firm  foundation  before 
+they  can  teach  or  counsel,  so  Tm  presenting  this  material  in  a 
+very  pragmatic  manner.  It  doesn't  matter  what  particular  sys- 
+tem astrologers  use,  but  they  should  have  an  outline  that  they 
+faithfully  follow  if  they  are  going  to  help  their  clients.  It  will 
+make  both  the  astrologer  and  the  client  feel  secure. 
+It  is  also  important  that  there  be  a  beginning,  a  middle,  and  a 
+conclusion  to  each  counseling  session.  This  is  so  both  the  client 
+and  the  astrologer  feel  complete  when  the  client  leaves.  I  prefer 
+my  clients  to  consult  with  me  just  once  a  year  because  then 
+every  session  is  full  and  worthwhile.  Only  if  there  is  an  impor- 
+tant issue  during  the  year  do  I  encourage  them  to  come  more 
+often.  I  don't  want  astrology  to  be  a  crutch  for  anyone.  I  think  it 
+is  dangerous  for  astrologers  to  establish  themselves  as  gurus  or 
+present  themselves  as  people  who  have  all  the  answers. 
+My  system  begins  with  the  natal  chart  and  with  what  I  call 
+the  natal  promise.  The  natal  promise  is  the  total  of  all  the  chart 
+
+<<<PAGE 13>>>
+Introduction    /  xiii 
+components  that,  when  combined,  show  each  life's  potential. 
+All  may  not  be  realized.  For  example,  a  client's  natal  promise 
+might  show  the  potential  for  several  marriages,  but  he  or  she 
+may  choose  to  marry  only  once.  But,  it  is  in  that  potential — that 
+natal  promise — that  all  astrological  predicting  begins.  Without 
+an  understanding  of  the  natal  chart  and  what  it  promises,  pre- 
+dictions won  t  manifest. 
+Next,  in  order  to  time  predictions  accurately,  astrologers  must 
+understand  the  psychological  makeup  of  their  clients,  because 
+people  respond  to  energy  differently  and  their  profiles  will  show 
+you  the  differences.  The  difference  in  consulting  a  predominantly 
+fixed  client  compared  to  a  cardinal  one  is  enormous. 
+For  timing,  I  use  secondary  progressions,  which  I  outline 
+below,  with  an  added  emphasis  on  the  progressed  Moon  and 
+the  progressed  house  cusps.  I  look  at  progressed  planets  aspect- 
+ing  progressed  and  natal  planets.  I  also  do  a  lot  of  work  with 
+transits  and  stationing  planets,  with  a  special  emphasis  on  the 
+lunations  (New  Moons  and  Full  Moons)  and  eclipses.  This  is 
+my  system,  and  it  has  served  me  well  for  three  decades.  I  follow 
+a  logical  order,  which  helps  me  feel  organized  and  comfortable.  I 
+encourage  each  astrologer  who  reads  this  book  to  do  the  same. 
+Again,  here  is  my  method: 
+1.  Natal  Chart 
+I  look  at  the  natal  chart  to  determine  what  drives  each 
+client.  I  look  at  his  or  her  psychological  makeup,  which  is 
+indicated  by  the  chart.  I  evaluate  what  is  promised. 
+2.  Secondary  Progressions 
+a.  The  progressed  Moon 
+b.  Progressed  planets  aspecting  natal  planets 
+c.  Progressed  planets  aspecting  progressed  planets 
+d.  Progressed  house  cusps  aspecting  both  natal  and  pro- 
+gressed planets 
+
+<<<PAGE 14>>>
+xiv    /  Introduction 
+3.  Transiting  Planets 
+I  look  next  at  the  movement  of  the  planets  through  the 
+signs  and  houses,  and  the  aspects,  or  relationships,  they 
+make  to  the  natal  and  progressed  planets,  with  a  special 
+emphasis  on  the  stationing  planets. 
+4.  Lunations  and  Eclipses 
+The  New  Moons,  Full  Moons,  and  eclipses  are  extremely 
+important  in  timing  events  and  also  in  evaluating  what  a 
+client  is  working  on  at  the  time  of  consultation. 
+While  this  system  is  not  complicated,  it  is  thorough,  and  a 
+competent  astrologer  can  get  what  is  needed  for  a  good  and 
+accurate  reading. 
+I  think  interpreting  a  chart  is  like  playing  the  card  game 
+bridge.  There  are  some  very  good  bridge  players  who  under- 
+stand all  the  many  tools  and  techniques,  but  they  use  only  the 
+very  best  ones.  There  are  other  bridge  players  who  try  to  incor- 
+porate all  of  the  conventions  and  techniques  of  the  game,  and 
+end  up  confusing  themselves  and  their  partners.  This  can  also  be 
+true  of  astrologers.  I  have  seen  astrology  charts  that  had  so 
+much  information  written  on  them  that  I  couldn't  read  them.  In 
+my  mind,  a  good  basic  understanding  of  astrology  and  the  afore- 
+mentioned techniques  is  all  that  is  needed.  Good  astrologers 
+learn  it  all  and  then  select  the  best  system  for  themselves  after 
+much  experimentation  and  research. 
+
+<<<PAGE 15>>>
+Chapter  One 
+Psychological  Profiles 
+hen  I  started  in  astrology  years  ago,  I  noticed  that  it  was 
+very  hard  for  me  to  pinpoint  timing  in  my  predictions.  People  re- 
+sponded very  differently  to  the  exact  same  energy  Astrology  is  the 
+study  of  how  we  deal  with,  experience,  and  respond  to  energy 
+Sometimes  we  experience  the  energy  as  an  inner  need  or  desire  to 
+make  a  change,  take  a  chance,  or  do  something  new  or  different — 
+this  is  stimulated  by  a  conjunction.  Sometimes  the  energy  emerges 
+as  an  obstacle,  a  blockage,  a  challenge,  or  an  opportunity — this  is 
+demonstrated  with  a  square  aspect.  With  an  opposition,  it  may  be 
+a  crisis  in  a  relationship  or  a  learning  experience  through  another 
+person.  The  aspects,  transits,  progressions,  lunations,  and  eclipses 
+in  a  client's  chart  create  energy,  but  we  all  respond  to  that  energy 
+very  differently. 
+To  better  pinpoint  when  things  were  most  likely  to  happen,  I 
+went  back  to  the  basics.  By  examining  the  elemental  placements 
+1 
+
+<<<PAGE 16>>>
+2    /    Psychological  Profiles 
+(fire,  earth,  air,  and  water)  and  the  modality  placements  (cardinal, 
+fixed,  and  mutable),  and  some  of  each  client's  predominant  psy- 
+chological patterns,  I  found  I  could  refine  my  timing  of  predic- 
+tions. From  that  point  on,  I  started  all  my  chart  work  by  looking 
+at  these  components.  These  two  factors — modalities  and  ele- 
+ments— ^began  to  reveal  a  pattern  of  how  each  individual  responds 
+to  a  given  situation. 
+The  Four  Elements 
+The  four  elements  are  fire,  earth,  air,  and  water.  They  tell  an  as- 
+trologer much  about  a  client's  temperament.  An  abundance  or 
+lack  of  an  element  will  show  how  a  personality  manifests  itself 
+Certainly  the  signs  the  Sun,  Moon,  and  Ascendant  are  in  lend 
+prominence  to  each  persons  temperament  or  psychological 
+makeup,  but  a  stellium  (group)  of  four  planets  in  an  element  also 
+has  a  very  noticeable  impact  on  a  person  s  response  to  energy.  The 
+combination  of  elements  in  any  chart  defines  the  personality  and 
+nature  of  the  individual. 
+Fire  Signs 
+Fire  signs  respond  to  energy  very  quickly  and  directly,  with  no 
+holds  barred.  They  can  be  impulsive,  ardent,  and  spontaneous. 
+They  favor  action  and  activity.  They  are  also  ready  to  go  some- 
+place, do  something,  create  something,  or  be  somebody  This  is 
+particularly  true  of  Aries  and  Sagittarius,  but  even  Leos,  with  their 
+fixity,  have  a  strong,  adventurous  spirit  and,  of  course,  the  most 
+confidence  in  the  world.  All  fire  signs  are  willing  to  take  a  risk, 
+start  something  new,  begin  a  new  project,  start  their  own  busi- 
+ness, or  embark  on  a  trip.  Fire-sign  people  are  also  confident  and 
+have  high  self-esteem.  They  get  involved,  and  they  approach  life 
+with  tremendous  zest  and  enthusiasm. 
+Earth  Signs 
+Earth  signs  are  more  cautious  in  their  approach  to  energy.  Earth- 
+sign  people  are  more  practical  than  the  other  elements,  more  real- 
+
+<<<PAGE 17>>>
+Psychological  Profiles    /  3 
+istic,  and  more  inclined  to  need  solid  footing  before  they  can  go 
+forward.  They  take  a  more  cautious,  conservative,  deliberate  ap- 
+proach. Taureans  dig  in  their  heels  and  really  ponder  things.  Vir- 
+gos  want  to  analyze.  Capricorns,  while  they  want  to  climb  the  lad- 
+der, do  it  with  care.  They  need  a  vision,  a  plan,  and  an  organized 
+structure  before  starting  their  ascent.  Earth  signs  need  to  be  pre- 
+pared. They  are  dependable,  thorough,  and  solid. 
+Air  Signs 
+Air  signs  approach  energy  mentally.  They  are  people-oriented,  so- 
+cial, and  seek  knowledge.  They  are  always  ready  to  start  a  new  re- 
+lationship or  friendship,  and  they  love  learning  situations.  They 
+bore  easily  and  sometimes  talk  and  think  about  things  more  than 
+they  actually  do  them.  Geminis  have  great  intellectual  curiosity. 
+They  will  enter  into  a  learning  situation  at  the  drop  of  a  hat,  but 
+their  native  duality  is  tricky.  Anyone  who  lives  with  a  Gemini  will 
+tell  you  that  it's  hard  to  know  which  one  of  the  Gemini's  many 
+personalities  is  getting  out  of  bed  in  the  morning.  Librans  are 
+partnership-driven.  They  need  a  relationship,  love  to  be  in  love, 
+and  fall  in  love  frequently  Nothing,  will  stop  an  Aquarian  when  he 
+or  she  has  a  cause  or  passion.  Aquarians  need  to  express  their 
+uniqueness.  They  need  freedom,  are  very  independent,  and  some 
+feel  they  need  to  leave  their  mark  on  the  world.  Air  signs  are  com- 
+municative, social,  and  into  ideas  and  other  people. 
+Water  Signs 
+Water  signs  respond  to  energy  almost  unconsciously.  They  emo- 
+tionally float  into  and  out  of  situations.  They  respond  to  energy 
+without  even  knowing  they  are  doing  it.  I  have  a  water-sign 
+daughter  who  has  seven  planets  in  this  element.  When  she  was 
+younger,  I  saw  her  emotionally  drift  into  situations,  relationships, 
+and  careers  in  a  way  that  seemed  to  be  without  a  lot  of  thought. 
+As  she  matured,  this  became  less  apparent.  Water  signs  move  with 
+whatever  is  going  on.  Cancers  are  motivated  to  nurture  and  be 
+nurtured.  They  only  really  find  out  who  they  are  when  they  have 
+a  home  and  someone  to  take  care  of  Cancers  often  have  issues 
+
+<<<PAGE 18>>>
+4    /    Psychological  Profiles 
+with  getting  pregnant  and  having  children.  They  either  get  preg- 
+nant too  easily  or  they  can't  get  pregnant  at  all,  or  they  get  preg- 
+nant when  they're  not  married,  or  when  they  are  married  they 
+can't  conceive.  The  Cancer  astrologers  I  know  are  real  caretakers. 
+Katherine  de  Jersey,  a  Cancer,  is  one  of  the  most  concerned  as- 
+trologers I  have  ever  met. 
+Scorpios  have  intense  vision.  They  don't  look  to  the  right  or 
+the  left,  but  flow  straight  ahead  with  laserlike  focus.  Nothing  stops 
+a  Scorpio  when  he  or  she  wants  something.  When  this  happens,  I 
+warn  my  clients  to  get  out  of  the  way. 
+Pisces  are  the  trickiest  to  describe.  Their  energy  is  chameleon- 
+like and  absorbing.  I  advise  my  clients  whose  children  have  a  lot  of 
+Pisces  (or  even  sometimes  a  lot  of  mutable  influences)  to  make  sure 
+their  children  have  the  most  positive,  constructive  environment  and 
+friends  possible  because  they  will  adapt  or  adjust  to  whatever 
+they're  exposed  to.  They  need  to  be  in  an  uplifting  environment, 
+because  if  they  get  in  with  the  wrong  companions,  they  could  fol- 
+low the  crowd.  Pisces  people,  or  those  with  strong  Neptune  influ- 
+ences, are  often  affected  by  the  moods  of  others  around  them.  My 
+Sun  is  conjunct  Neptune  in  Virgo.  If  my  husband  is  negative  or  de- 
+pressed about  something,  I  slide  from  being  happy  to  being  in  the 
+pits.  If  I'm  around  someone  who  is  in  a  bad  mood,  a  sunny  day 
+can  turn  to  gloom,  and  my  parade  is  sure  to  be  rained  on.  I  have  a 
+girlfriend  with  the  Sun  in  Pisces  who  has  found  that  she  cannot  be 
+around  negative  people.  She  confessed  to  me  that  she  had  to  stop 
+seeing  a  mutual  friend  of  ours  because  every  time  she  was  with 
+that  person  she  was  depressed  afterwards.  Pisceans  have  porous 
+psyches.  They  pick  up  and  take  on  the  moods  of  other  people  and 
+must  be  careful  about  who  they  spend  time  with.  In  general,  all 
+water  signs  are  fluid  and  will  go  wherever  their  emotions  take  them. 
+Lack  of  an  Element 
+A  lack  of  any  element  in  a  chart  creates  challenges  for  the  person 
+and  the  way  he  or  she  reacts  to  energy.  These  people  either  strug- 
+gle to  compensate  in  order  to  have  a  balanced  response  to  life,  or 
+
+<<<PAGE 19>>>
+Psychological  Profiles    /  5 
+they  have  no  idea  that  something  is  missing  from  their  personality. 
+If  fire  is  lacking,  these  people  may  have  low  self-esteem  and  little 
+confidence.  They  may  be  pessimistic,  easily  depressed,  and  lack 
+buoyancy  of  spirit.  Those  without  earth  in  their  chart  may  lack 
+practicality  and  grounding.  One  of  my  friends  who  has  no  earth 
+in  his  chart  constantly  struggles  to  keep  his  feet  on  the  ground. 
+He  always  says  that  he  has  money  for  all  of  the  luxuries  of  life,  but 
+none  of  the  necessities.  He  has  been  known  to  buy  luxury  items 
+instead  of  paying  his  rent. 
+People  with  a  lack  of  air  have  trouble  being  objective  and  tend 
+to  internalize  everything.  They  hunger  for  social  interaction,  but 
+aren  t  very  good  at  it.  I  have  a  friend  who  has  no  air  and  an  annoy- 
+ing tendency  to  lecture.  He  wants  his  companion  to  sit  and  listen, 
+isn  t  good  at  verbal  chitchat,  and  has  trouble  with  social  repartee. 
+He's  most  interested  in  his  own  point  of  view.  People  who  lack 
+water  try  to  fill  the  emotional  vacuum.  It's  hard  for  these  people 
+to  stay  in  touch  with  and  to  express  feelings.  As  a  consequence, 
+they  tend  to  get  involved  with  overly  emotional  people.  I  have  a 
+client  who  has  no  water  in  her  chart.  When  I  have  a  problem  and 
+try  to  talk  to  her  about  it,  she  says  all  of  the  wrong  things.  She 
+cannot  commiserate  with  me  and  only  approaches  problems  ob- 
+jectively, yet  she  is  a  fabulous  cook.  She  may  lack  compassion  and 
+empathy,  but  she  can  make  me  feel  better  with  delights  from  her 
+kitchen. 
+If  a  person  lacks  an  element,  he  or  she  needs  to  develop  the 
+missing  traits.  Those  who  lack  fire  must  develop  self-confidence 
+and  an  "up"  approach  to  life,  and  find  their  own  personal  spiritual- 
+ity. People  who  lack  earth  need  to  develop  practicality  and  do  things 
+to  keep  their  feet  on  the  ground.  The  remedy  for  a  lack  of  air  is  to 
+cultivate  the  ability  to  really  listen  to  others  and  to  learn  objectivity 
+by  consciously  putting  themselves  in  the  other  person  s  shoes.  A 
+lack  of  water  in  the  chart  can  be  brought  into  balance  by  learning 
+to  touch,  by  consciously  nuturing  others  rather  than  listening  and 
+solving  problems  only  on  a  rational,  analytical  level,  and  by  making 
+a  strong  effort  to  really  feel  other  people's  pain. 
+
+<<<PAGE 20>>>
+6    /    Psychological  Profiles 
+The  Three  Modalities 
+After  examining  the  elements,  I  look  at  the  modalities — cardinal, 
+fixed,  and  mutable.  The  modalities  most  clearly  express  how 
+people  respond  to  stimuli  and  especially  how  they  act  under  ten- 
+sion. Will  the  individual  initiate  action?  Or  try  to  block,  stop,  re- 
+sist, hold  back,  and  not  react?  Or  will  he  or  she  stew  over  things 
+before  doing  something?  The  modalities  give  a  clear  picture  of 
+how  each  person  will  handle  the  energy,  especially  when  there  is 
+an  overflow  of  it. 
+Cardinal  Signs 
+It  is  easiest  to  make  predictions  for  cardinal  people.  If  you  see  a  car- 
+dinal T-Square  or  a  stellium  in  a  cardinal  sign,  you'll  find  a  person 
+for  whom  things  are  happening.  Tell  this  client  what  to  expect,  and 
+he  or  she  will  agree  and  probably  say,  "Yes,  that's  already  going  on" 
+or,  "I  was  thinking  of  doing  that."  Life  is  full  of  adventure  and 
+change  for  such  people.  They  are  the  easiest  to  predict  for  because 
+of  the  way  they  respond  to  tension.  They  welcome  change  and 
+aren't  afraid  to  initiate  it.  They  also  respond  well  to  new  ideas  and 
+are  action-oriented.  They  thrive  on  crisis  and  need  it  to  motivate 
+them.  If  there  isn't  a  crisis  going  on,  they'll  create  one.  One  of  my 
+cardinal-sign  friends  says,  "When  I  have  a  crisis  a  day,  I'm  happiest." 
+Fixed  Signs 
+Those  with  a  lot  of  fixity  in  their  chart  will  go  into  denial  during 
+times  of  change.  They  will  say,  "Nothing  is  going  on.  Nothing  is 
+happening."  Pluto,  Uranus,  Saturn  (all  major  forces)  can  be 
+squaring  everything  in  their  chart,  and  they  will  still  insist  that 
+nothing  is  happening. 
+This  is  an  astrologer's  nightmare.  The  astrologer  tries  to  help 
+clients  see  reality.  But  these  clients  believe  that  if  they  say  some- 
+thing isn't  happening,  then  it  isn't.  The  astrologer  sees  the  tension 
+in  their  chart  and  the  events  that  should  be  transpiring,  but  these 
+clients  feel  that  if  they  deny  it  long  enough  or  strong  enough, 
+then  their  life  will  not  have  to  change. 
+
+<<<PAGE 21>>>
+Psychological  Profiles    /  7 
+I  sometimes  notice  this  with  myself  because  I  have  fixed  signs 
+on  the  cusps  of  the  fourth  and  tenth  houses.  So  I  stay  in  the  same 
+career  or  the  same  job  for  years  and  resist  moving  even  though  I 
+could  be  going  to  a  far  better  place.  I  always  find  reasons  not  to  be 
+happy  about  it  and  drag  my  feet.  Once  I  make  the  move,  I  adjust 
+and  adapt  quickly,  but  the  initial  changes  in  those  areas  of  my  life 
+are  never  easy. 
+People  with  fixed  energy  are  very  resistant  to  change,  so  they 
+need  to  take  time  to  prepare  themselves  for  the  inevitable  change. 
+There  will  always  be  some  who  dig  in  their  heels  and  refuse  to 
+make  the  change  or  even  acknowledge  it  for  as  long  as  possible. 
+Of  course,  this  ability  to  stay  on  track  and  focus  is  also  a  great 
+strength.  A  cardinal  sign  will  respond  to  the  energy  immediately, 
+often  with  the  first  swing  of  a  transit  or  the  first  trigger  of  a  pro- 
+gression. However,  a  fixed  sign  may  have  many  triggers,  such  as  a 
+transit,  occurring  three  times,  or  the  aspect  can  be  way  past  nor- 
+mally accepted  orbs  before  he  or  she  will  acknowledge  it.  Many 
+things  happen  to  these  people,  but  it  takes  a  lot  of  tension  and 
+pressure  for  them  to  react  or  admit  it. 
+I  have  a  client  who  is  a  Taurus  with  Scorpio  rising.  He  has  fixed 
+angles  and  a  fixed  T-Square  in  his  chart.  I  have  been  reading  for  him 
+for  twenty  years,  and  all  of  that  time  he  has  wanted  to  get  a  divorce. 
+Ten  years  ago  I  told  him,  "If  you're  going  to  get  a  divorce,  get  it 
+now  or  don't  do  it.  You're  going  to  make  a  lot  of  money  in  about 
+three  or  four  years  and  then  a  divorce  is  going  to  cost  you  twice  as 
+much."  He  did  not  divorce  and  now  he  says,  "You  were  so  right.  I'm 
+so  sorry"  He  still  comes  in  and  talks  about  a  divorce,  but  he's  in  his 
+seventies  and  I  told  him  I  think  it's  best  to  talk  of  other  things. 
+A  fixed  man  who  is  very  much  in  love  may  need  to  be  given  an 
+ultimatum  to  get  him  to  walk  down  the  aisle.  Not  only  does  the 
+woman  have  to  take  a  firm  stand,  but  she  also  may  have  to  leave 
+him.  Fixity  can't  stand  change,  so  such  a  drastic  measure  may  pro- 
+duce the  desired  result.  While  this  strategy  works  for  some,  it 
+doesn't  work  for  everybody  Nonetheless,  the  thought  of  a  change 
+is  difficult  at  best  for  any  fixed  sign.  If  these  clients  are  forced  to 
+
+<<<PAGE 22>>>
+8    /    Psychological  Profiles 
+decide  between  two  changes — should  they  go  it  alone  and  start  all 
+over  (which  they  really  hate)  or  make  the  commitment,  they  will 
+often  opt  for  making  the  commitment. 
+Not  only  are  the  fixed  signs  slow  to  move  or  change,  but  they 
+also  tend  to  be  late.  Taureans  are  just  slow,  Scorpios  use  tardiness 
+as  a  subtle  power  struggle,  Leos  enjoy  making  an  entrance,  and 
+Aquarians  want  things  on  their  own  terms.  Even  though  fixed 
+signs  are  often  late  for  dates,  once  they  get  there,  they  stay  forever. 
+A  good  ftiend  of  mine  is  an  example  of  this.  He'll  say,  "Fll  be  over 
+in  the  morning."  At  two  in  the  afternoon  he  shows  up,  and  then 
+he'll  stay  all  night.  If  you're  on  the  phone  with  him,  you  can't  get 
+off^.  He  is  slow  to  get  going  and  slow  to  move  or  change,  because 
+fixity  is  so  prominent  in  his  chart. 
+It's  important  to  note  how  energy  works  when  progressions 
+are  in  fixed  signs.  I  am  not  a  fixed  person,  but  I  have  some  fixity  in 
+my  chart.  When  I  had  a  progression  in  fixed  signs,  I  noticed  that 
+for  the  first  two  years,  when  it  was  applying  and  exact,  very  little 
+was  happening.  At  first  I  said,  "It  isn't  working."  Then  when  it 
+was  2°  after  the  progression,  the  events  of  that  progression  took 
+place.  1  had  a  fixed  progression  that  worked  2°  late,  and  did  it  ever 
+work!  With  the  progressed  Sun  in  the  ninth  house  of  legal  matters 
+squaring  Saturn,  my  chart  ruler  in  the  first  house,  in  fixed  signs,  I 
+became  embroiled  in  a  two-year  legal  battle  through  the  federal 
+courts  to  get  the  laws  about  astrology  changed.  At  the  same  time, 
+my  husband's  partner  died,  which  caused  him  a  great  deal  of  an- 
+guish and  financial  pressure.  There  was  also  a  bitter  one-year  legal 
+fight  with  his  partner's  widow.  It  was  a  very  difficult  time,  and  the 
+progression  was  2""  past  when  all  of  this  began.  On  the  positive 
+side,  this  was  also  the  time  when  I  took  stock  of  my  body,  lost 
+twenty  pounds,  and  started  a  disciplined  exercise  program.  I  also 
+got  into  a  new  business  with  vitamins  and  became  very  health- 
+conscious.  In  my  case,  as  in  those  of  my  clients,  I  have  found  that 
+events  happen  later  when  there's  a  progression  in  fixed  signs. 
+
+<<<PAGE 23>>>
+Psychological  Profiles    /  9 
+Mutable  Signs 
+I  think  the  most  interesting  modality  is  the  mutable.  Much  of 
+what  happens  to  mutable  people  is  in  the  head.  So  many  times 
+things  are  going  on  mentally  rather  than  in  tangible  form.  Clients 
+with  many  mutable  aspects  are  often  influenced  by  what's  going 
+on  in  the  rest  of  the  chart.  They  adjust  and  adapt  to  other  influ- 
+ences. Because  they  work  on  a  mental  level,  those  with  a  lot  of 
+mutability  may  react  to  an  aspect  by  making  a  list.  When  the  list  is 
+done,  they  think  the  project  is  done.  With  negative  tension,  much 
+of  what  happens  involves  fear,  paranoia,  agitation,  and  panic  at- 
+tacks. A  client  of  mine  with  a  mutable  T-Square  says  that  when 
+he's  exposed  to  a  lot  of  tension,  he  becomes  almost  paralyzed  and 
+afraid  to  go  forward  or  backward,  afraid  to  make  a  decision.  Mu- 
+table signs  stew  and  firet  endlessly  and  really  suffer  in  the  process. 
+While  they  experience  actual  events,  the  hardest  part  of  the  process 
+is  the  psychological  anguish  they  experience. 
+Tm  extremely  careful  when  telling  something  negative  or  diffi- 
+cult to  clients  with  a  lot  of  mutability,  because  when  they  leave, 
+they  only  remember  the  bad  things  I  say,  never  the  good.  I  can  say 
+twenty  good  things  and  one  negative  thing,  and  guess  what  they 
+take  with  them? 
+Drivers 
+In  addition  to  the  elements  and  modalities,  there  is  always  an  addi- 
+tional component  that  really  motivates  people.  For  lack  of  a  better 
+term,  I  call  this  the  client's  driver.  It  is  what  fires  up  their  engine 
+and  gets  them  going.  It  is  a  strong  part  of  what  propels  these 
+people  and  gives  them  their  life  focus.  Some  powerful  drivers  are 
+T-Squares,  strong  applying  squares,  stelliums,  conjunctions,  and 
+oppositions.  Sometimes  I  do  a  lecture  that  I  call  "The  Ten  Dead- 
+liest Aspects."  As  I  was  writing  it,  I  found  that  our  hardest  aspects 
+are  also  our  strongest,  most  positive  driving  forces.  When  I  counsel 
+a  client,  I  usually  say,  "This  is  the  best  thing  in  your  chart  and  the 
+most  difficult  thing  at  the  same  time." 
+
+<<<PAGE 24>>>
+10    /    Psychological  Profiles 
+T-Squares  as  Drivers 
+T-Squares  certainly  are  drivers.  I  once  did  a  research  project  and 
+found  that  a  large  percentage  of  successful  people  have  T-Squares. 
+Here's  how  they  work  in  the  different  modalities: 
+The  cardinal  T-Square  creates  a  feeling  that  comes  up  from 
+deep  inside  and  says,  "I  have  to  take  action.  I  have  to  lead.  I  have  to 
+be  somebody.  I  have  to  do  something."  It  is  a  deep  motivation, 
+and  I  consider  clients  with  this  aspect  to  be  the  born  entrepre- 
+neurs of  the  zodiac.  They  are  the  trendsetters,  the  action  takers, 
+and  this  is  what  drives  them.  If  I  see  a  cardinal  T-Square  in  some- 
+one's chart,  I  always  talk  to  them  about  having  their  own  business. 
+Often  they  already  do,  are  thinking  about  it,  did  it,  or  want  to. 
+There's  always  something  entrepreneurial  in  their  spirit.  Many  of 
+them  say  to  me,  "Oh,  I  started  my  own  business  when  I  was  ten 
+years  old  with  my  first  lemonade  stand,  and  I  never  quit."  That's 
+how  people  with  cardinal  T-Squares  work.  If  they  don't  have  their 
+own  business,  they  will  take  on  a  leadership  role  somewhere  else 
+in  their  life.  Many  times  they  will  stay  in  a  corporate  structure 
+only  if  they  are  authority  figures  and  are  moving  up  the  ladder. 
+Because  they  are  natural  self-starters,  cardinal  people  do  well  in 
+sales.  Again,  even  though  they  work  for  someone  else,  they  feel 
+like  they  are  in  a  leadership  role,  because  they  call  the  shots  and 
+have  the  freedom  to  make  most  major  decisions. 
+People  with  fixed  T-Squares  are  the  focusers  of  the  zodiac. 
+They  are  people  who  finish  what  they  start.  For  instance,  if  they 
+start  college,  they  often  won  t  quit  until  they  have  an  advanced  de- 
+gree. They  focus  on  accomplishing  their  goals,  and  if  the  goals  are 
+good  ones,  they  will  be  successful.  Whenever  I  counsel  a  person 
+with  a  fixed  T-Square,  I  always  say,  "You  can  do  or  be  anything  if 
+you  focus  on  it.  Set  a  goal,  because  you  will  have  the  grit  and  the 
+fortitude  to  accomplish  it.  And  you  will  work  your  way  through 
+difficulties  because  you  learned  early  in  life  that  there  are  obstacles, 
+stumbling  blocks,  and  challenges.  But  you  also  learned  how  to 
+keep  going."  I  saw  this  with  my  stepson,  who  has  a  massive  fixed 
+
+<<<PAGE 25>>>
+Psychological  Profiles    /  11 
+T-Square.  Pluto  was  setting  it  off  and  I  was  quite  concerned.  I 
+thought,  "What's  going  to  happen  to  him?"  He  already  had  his  un- 
+dergraduate degree  and  was  working  in  the  banking  field,  but  he 
+decided  to  go  back  to  school.  He  got  an  MBA  and  then  went  on  to 
+law  school.  He  worked  extremely  hard  and  ended  up  in  the  top  2 
+percent  of  his  class. 
+People  with  mutable  T-Squares  also  have  the  energy  to  achieve, 
+but  many  times  it  is  through  conscientiousness.  These  are  the 
+people  who  dot  their  i's  and  cross  their  t's.  They're  highly  creative 
+and  flexible.  I  have  noted  that  many  times  they  are  adult  children 
+of  alcoholics,  or  there  is  some  issue  around  drugs,  addiction,  or 
+weight  management  in  their  environment  (often  connected  to  a 
+parent  or  sibling).  The  mutable-T-Square  child  many  times  is  the 
+hero-child  of  a  dysfunctional  family.  Often  these  children  come 
+from  single -parent  homes  where  they  had  to  take  on  a  lot  of  re- 
+sponsibility as  a  young  child. 
+Parents  with  a  mutable  child  should  express  extra  concern  for 
+their  child's  friends  and  be  aware  of  any  negative  influences.  Mu- 
+table children  often  become  what  they  are  exposed  to.  They  are 
+chameleons  who  absorb  energy  and  reflect  it  back.  On  the  plus 
+side,  mutable  T-Squares  can  often  create  a  drive  for  perfection, 
+enormous  creativity,  and  great  versatility.  It  is  important  to  re- 
+member that  all  T-Squares  are  distinct  drivers  either  for  the  good 
+or  for  the  bad. 
+Squares  as  Drivers 
+The  Sun  square  Saturn,  the  Moon  square  Saturn,  Mars  square  Sat- 
+urn, and  Venus  square  Saturn  are  a  few  aspects  among  many  oth- 
+ers that  drive  a  person  or  are  a  focus  of  the  chart.  They  are  also  dri- 
+vers that  motivate  a  person  to  achieve,  to  accomplish,  and  to  go 
+wherever  he  or  she  wants  to  go.  People  with  many  Saturn  squares 
+are  often  highly  disciplined.  They  have  learned  that  if  they  don't  do 
+it  all  right,  they'll  get  into  deep  trouble,  so  they  usually  try  to  do 
+things  the  right  way.  They  are  achievers,  accomplishers,  and  are 
+
+<<<PAGE 26>>>
+12    /    Psychological  Profiles 
+very  structured.  They  do  what  they  say  they  are  going  to  do  and  are 
+dependable,  ambitious,  and  driven.  They  set  high  standards  for 
+themselves  and  for  others.  The  problem  is  that  they  cannot  or 
+should  not  expect  people  to  work  or  function  at  the  same  level  of 
+perfection  at  which  they  function.  They  can  be  their  own  worst 
+enemy  and  harshest  critic  by  being  unrealistic  about  what  they  and 
+others  can  accomplish. 
+We Ve  seen  a  lot  of  this  with  the  superwoman  generation. 
+Many  women  drive  themselves  with  overly  high  expectations, 
+which  can  lead  to  sadness  and  depression.  They  must  learn  to  ap- 
+preciate their  achievements,  and  they  need  to  stop  and  pat  them- 
+selves on  the  back  and  luxuriate  in  a  job  well  done.  Also,  they 
+must  not  be  so  controlling.  The  need  to  control  comes  from  a 
+place  where  they  feel  that  everything  must  be  done  perfectly.  Even 
+when  I  predict  for  them,  their  first  response  is,  "No,  that's  not 
+right."  They  want  to  be  in  control.  Being  a  superwoman  can  be  dif- 
+ficult in  relationships.  I  have  a  client  who  is  an  incredibly  accom- 
+plished and  successful  businesswoman,  but  cannot  find  a  man  to 
+measure  up  (this  also  applies  to  her  employees  and  friends).  She  has 
+her  Sun,  Mars,  and  Saturn  conjunct  in  Aquarius.  She  is  very 
+pretty — five  foot  seven  and  a  size  four.  She  earns  a  lot  of  money,  but 
+cannot  find  a  man  nor  keep  an  employee,  and  has  very  few  friends 
+who  measure  up  to  her  rigid  standards.  Her  quest  for  perfection  in- 
+terferes with  her  happiness.  She,  like  many  other  superwomen,  for- 
+got that  once  you  become  a  goddess,  it's  very  hard  to  find  a  god. 
+Not  every  person  is  willing  to  work  and  perform  at  as  high  a  level  as 
+these  women  do. 
+A  person  with  the  Sun  square  Saturn  and  Mars  square  Saturn 
+has  a  driving  force  that  comes  up  from  deep  inside  and  says,  'Tve 
+got  to  go  out  there  and  do  it.  IVe  got  to  be  more  and  have  more.  I 
+must  accomplish.  I  have  to  achieve."  If  this  aspect  manifests  itself 
+in  the  second  house,  the  emphasis  will  be  financial.  Such  clients 
+never  have  enough  money  to  really  feel  secure.  If  the  aspect 
+shows  itself  in  the  tenth  house,  they  never  have  enough  status  to 
+
+<<<PAGE 27>>>
+Psychological  Profiles    /  13 
+feel  worthy.  If  it's  in  the  seventh  house,  their  partners  never  quite 
+measure  up.  Because  the  Sun  is  involved,  often  they  want  to  prove 
+something  to  themselves  or  to  their  fathers. 
+A  client  of  mine,  whose  Sun  and  Venus  square  his  Saturn,  got 
+the  message  from  his  father  that  whatever  he  did  was  never  good 
+enough.  This  man  worked  his  way  through  college  and  graduated 
+from  engineering  school.  It  took  him  five  years  to  do  it,  because 
+he  had  to  work  full-time  and  go  to  school  full-time.  He  and  his 
+wife  had  three  children  before  he  graduated.  After  his  graduation, 
+his  father  said,  "Engineers  are  a  dime  a  dozen.  You  should  have 
+been  a  teacher."  Whatever  this  client  did  was  never  good  enough 
+to  satisfy  his  father.  Unfortunately,  this  man  modeled  himself  after 
+his  father,  so  he  does  and  says  the  same  things  to  his  children. 
+A  person  with  the  Moon  square  Saturn  often  has  issues  with  his 
+or  her  mother  or  nurturing  parent.  Clients  with  this  aspect  may  not 
+have  had  the  unconditional  love  they  needed  from  their  mother,  so 
+they  feel  they  must  earn  love.  They  must  measure  up,  and  love  will 
+come  to  them  only  when  they  live  up  to  mother's  standards  and  ex- 
+pectations. As  children,  these  people  heard  phrases  like  "I'll  love 
+you  if  you  get  all  As  on  your  report  card"  or  "I  will  be  very  un- 
+happy with  if  you  don't  keep  your  room  clean."  They  are  often 
+compared  in  a  negative  way  to  other  people's  children.  Enough  is 
+never  good  enough.  Because  of  this  basic  insecurity,  they  think  they 
+must  work  hard  to  prove  themselves. 
+Both  the  Sun  square  Saturn  and  the  Moon  square  Saturn  also 
+create  control  issues.  The  person  with  the  Sun  square  Saturn  had 
+control  issues  with  his  or  her  father,  and  someone  with  the  Moon 
+square  Saturn  many  times  had  control  issues  with  his  or  her 
+mother.  Often  the  client's  parents  were  cold,  judgmental,  and 
+controlling.  Clients  with  these  aspects  often  incorporate  this  en- 
+ergy into  themselves.  They  tend  to  model  or  to  parrot  their  par- 
+ents' behavior.  The  challenge  for  these  people  (as  it  is  for  anyone 
+with  hard  aspects)  is  to  work  the  energy  constructively,  and  not  to 
+repeat  the  negative  expression  of  it,  but  instead  to  use  it  at  a 
+
+<<<PAGE 28>>>
+14    /    Psychological  Profiles 
+higher  level.  A  person  who's  evolving  will  recognize  it  and  work 
+hard  to  avoid  it.  It  can  be  helpful  to  say  to  clients,  "You're  going  to 
+slip  into  this  behavior  unconsciously.  The  key  to  growth  is  to  know 
+when  you're  doing  it  and  then  stop  yourself." 
+When  Venus  squares  Saturn  in  a  client's  chart,  issues  around 
+love,  money,  and  self- worth  usually  arise.  The  individual  often  felt 
+rejected  as  a  child,  so  he  or  she  feels  inadequate,  unacceptable, 
+unlovable,  and  not  perfect  enough.  Many  times  the  source  of 
+these  feelings  was  a  real  lack  of  love  ft-om  one  or  both  parents.  As 
+a  result,  these  clients  are  always  looking  for  proof  of  their  worth 
+and  have  a  hard  time  accepting  love.  Sometimes  they  have  a  diffi- 
+cult time  charging  enough  for  what  they  do  or  they  cannot  attract 
+enough  love  or  money  to  satisfy  themselves.  At  this  point,  the  as- 
+trologer should  go  back  to  the  basics.  Venus  is  the  love  nature  and 
+Saturn  can  be  cold,  so  the  love  nature  can  be  cool  and  there  is  dif- 
+ficulty in  expressing  love  or  affection.  Walls  go  up  and  the  cool- 
+ness these  people  project  can  make  it  hard  for  others  to  approach 
+them.  Once  they  feel  others  can  be  trusted  or  have  passed  the  test, 
+then  they  often  relax  and  allow  people  to  come  closer. 
+The  Venus-square-Saturn  person  is  almost  always  bitterly  dis- 
+appointed in  love.  Even  someone  with  soft  aspects  of  Venus /Sat- 
+urn can  experience  delay  or  restriction  in  love.  I  have  Venus  trine 
+Saturn  and  I  married  my  true  love  at  age  fifty.  Any  Venus/ Saturn 
+aspect  will  bring  into  the  life  at  least  one  deep  disillusionment  in 
+love.  I  usually  tell  clients,  "There  will  be  disappointment  in  your 
+love  life,  and  it  can  manifest  with  love  coming  late  in  your  lifetime. 
+Saturn  does  not  deny  love,  it  delays  it.  If  you  work  through  your 
+Venus /Saturn  issues,  you  will  find  love."  Unfortunately,  I  have 
+heard  other  astrologers  say  to  clients,  "You  will  never  find  love  in 
+this  lifetime."  That  is  not  true.  Love  could  be  delayed  or  there 
+may  be  disappointments  to  work  through.  The  client  must  learn 
+to  modify  his  or  her  behavior.  Once  that  is  done,  the  walls  will 
+come  down  and  love  can  happen.  Free  will  enters  the  picture  here. 
+These  clients  are  not  bound  by  destiny,  they  are  challenged  by  it. 
+
+<<<PAGE 29>>>
+Psychological  Profiles    /  15 
+In  counseling,  my  underlying  theme  is  always  this:  You  can  be 
+challenged  by  destiny,  but  you  are  not  controlled  by  it. 
+Clients  with  a  Mars /Saturn  aspect  are  usually  very  focused,  dis- 
+ciplined, and  prepared.  They  work  hard  to  achieve  their  goals  and 
+overcome  obstacles.  Those  with  a  fixed  square  have  a  particularly 
+strong  focus.  Early  on  they  learned  that  whatever  they  did  had  to 
+be  done  right.  But  there  is  also  a  stop-go  energy  at  work  here. 
+They  will  work  hard  for  two  or  three  days  on  a  project,  and  then 
+the  fourth  day  they  will  have  to  stay  in  bed  because  they  are  so 
+worn  out.  Many  times  there  is  an  inconsistency  present  with  their 
+energy.  They  are  very  competitive  and  work  well  under  pressure, 
+so  they  do  their  best  work  in  competition.  In  most  cases  they  will 
+triumph. 
+Clients  with  a  link  between  Pluto  and  a  personal  planet  are  at- 
+tracted to  power  (as  is  the  case  with  any  Pluto  aspect).  They  can 
+be  ruthless,  obsessed,  or  have  a  single-focus  ambition  that  rules 
+their  lives.  They  have  a  great  fear  of  being  controlled  and  so  have 
+to  guard  against  being  controlling. 
+If  a  client  does  not  have  the  particular  aspects  mentioned  here, 
+his  or  her  driver  may  be  another  square.  Often  it  is  the  tightest 
+square  that  becomes  the  driver.  The  Moon  square  Sun  is  one  dri- 
+ver that  creates  conflict  between  the  ego  and  the  emotions.  Over 
+the  years  I  have  noticed  that  Sun-square-Moon  children  feel  the 
+need  to  bond  with  only  one  parent  at  a  time.  Sometimes  they 
+don  t  know  which  parent  to  please.  Famed  astrologer  Isabel 
+Hickey  once  told  me  that  the  Sun-square-Moon  person  was  many 
+times  the  child  who  was  born  of  an  inharmonious  conception,  so 
+the  person  is  out  of  sync.  I  have  not  seen  that  to  be  true  all  the 
+time.  I  know  a  very  happy  couple  who  have  two  children  with  the 
+Sun  square  Moon  in  their  natal  charts.  In  this  case,  however,  the 
+parents  have  reversed  roles.  The  mother  is  the  authority  figure 
+and  big  breadwinner  and  the  father  is  the  nurturer. 
+While  Saturn  squares  are  about  ambition  and  self-worth, 
+Venus /Mars  squares  often  work  more  in  personal  relationships. 
+
+<<<PAGE 30>>>
+16    /    Psychological  Profiles 
+Unfortunately,  what  fulfills  these  people  emotionally  does  not 
+necessarily  fulfill  them  sexually,  or  vice  versa.  They  always  yearn 
+for  more  and  think  the  grass  is  greener  somewhere  else.  They  can 
+be  quite  promiscuous  if  other  such  indications  are  present  in  the 
+chart.  I  have  a  client  who  has  Venus  square  Mars,  and  while  her  hus- 
+band tremendously  fulfills  her  emotionally,  there  is  not  a  good 
+physical  side  to  their  marriage.  They  live  like  brother  and  sister,  and 
+he  is  her  best  friend.  I  have  other  clients  who  have  a  great  sex  life 
+with  their  partner,  but  with  no  emotional  fulfillment.  They  feel 
+they  just  can  t  have  it  all. 
+Conjunctions  and  Stelliums  as  Drivers 
+The  reason  conjunctions,  particularly  stelliums  (three  or  more  plan- 
+ets in  one  sign  or  house),  are  so  powerful  is  because  more  than  one 
+planet  in  conjunction  (even  a  wide  one)  will  emphasize  and  exag- 
+gerate the  qualities  of  that  sign.  Many  clients  have  their  Sun  in  one 
+sign  and  a  stellium  in  another,  and  because  of  this  they  present 
+themselves  much  more  as  the  sign  of  the  stellium. 
+Conjunctions  and  stelliums  have  an  enormous  impact  on 
+defining  the  person.  A  person  with  a  stellium  of  planets  in  the 
+first  house  or  in  Aries  will  express  energy  differently  than  a  person 
+with  a  stellium  in  Taurus  or  in  the  second  house.  Stelliums  or  con- 
+junctions indicate  focused,  directed  energy  that  manifests  through 
+the  sign  and  house  in  which  they  fall. 
+Strong  cardinal  aspects  (Aries,  Cancer,  Libra,  and  Capricorn) 
+or  first,  fourth,  seventh,  and  tenth-house  stelliums  will  respond 
+quickly  to  the  energy  with  initiative,  excitement,  and  a  desire  for 
+action.  As  an  astrologer,  you  must  integrate  not  only  the  sign  the 
+stellium  is  in,  but  also  the  house.  The  following  are  some  exam- 
+ples of  how  you  must  blend  the  influences.  Note  that  in  this  sec- 
+tion I  am  not  implying  that  every  Sagittarius  has  a  wide  breadth  of 
+knowledge  or  that  every  Gemini  is  sharp,  witty,  outgoing,  and  so- 
+cial. I  am  simply  describing  the  most  obvious  characteristics  of 
+each  concentration  of  energy. 
+
+<<<PAGE 31>>>
+Psychological  Profiles    /  17 
+A  stellium  in  Aries  or  in  the  first  house  will  express  itself  by 
+being  a  pioneer,  a  trendsetter  with  incredible  energy.  These 
+people  will  come  into  a  room  and  say,  "Let's  do  this.  Let's  do  that. 
+Let's  get  going."  Their  energy  is  contagious  and  stimulates  others 
+to  do  and  act.  They  are  most  comfortable  working  on  their  own 
+and  being  independent.  They  often  make  great  salespeople,  as 
+they  are  very  self-actualizing  and  just  don't  take  no  for  an  answer. 
+A  stellium  in  Cancer  or  the  fourth  house  normally  exagger- 
+ates the  emotional  nurturing  qualities  and  is  overly  sensitive. 
+Clients  with  either  of  these  aspects  have  great  perception  and  un- 
+derstanding of  other  people  and  the  ability  to  lead  by  having  intu- 
+itive insight  of  others.  The  Cancer  boss  comes  into  the  room  and 
+says,  "How  do  you  feel  today?  How's  your  family?  Did  you  get 
+over  that  cold  you  had  yesterday?  I  thought  it  would  be  a  good 
+idea  if  we  did  this  and  that.  This  might  be  a  good  project  for 
+today."  When  the  boss  leaves,  the  worker  feels  that  he  or  she 
+thought  up  the  project,  but  actually  the  Cancer  boss  led  him  or 
+her  to  it. 
+A  stellium  in  Libra  or  the  seventh  house  usually  bestows 
+tremendous  tact  and  diplomacy.  The  truth  is  that  most  Libras  lead 
+by  manipulation,  but  astrologers  don't  say  that.  Libras  actually 
+lead  by  seeing  both  sides  of  a  question,  considering  all  the  angles, 
+and  looking  at  the  ups  and  downs  of  every  situation.  Libras  have 
+the  ability  to  get  along  with  people,  and  most  people  think  that 
+they  are  a  Libra's  best  friend.  Often  I  will  be  at  a  party  and  the 
+conversation  will  drift  to  politics.  A  Libra  will  say,  "Oh  yeah,  yeah. 
+You  are  right.  The  Democrats  this  and  the  Democrats  that. 
+They're  humanitarian.  They  give  to  causes."  Ten  minutes  later  I 
+v/ill  hear  that  person  talking  to  someone  else  and  saying,  "Those 
+Republicans  have  their  heads  on  straight.  They  are  good  for  this 
+and  that."  They  will  take  the  absolute  opposite  position  and  agree 
+with  both  sides.  They  are  not  two-faced,  they  just  see  both  sides  of 
+any  issue. 
+
+<<<PAGE 32>>>
+18    /    Psychological  Profiles 
+A  stellium  in  Capricorn  or  the  tenth  house  inclines  a  person 
+to  be  the  boss,  the  one  naturally  in  charge.  A  Capricorn  leads  just 
+by  being  called  a  leader.  Give  a  Capricorn  a  title  or  a  presidency  of 
+anything,  and  he  or  she  will  be  happy.  Capricorns  lead  by  climbing 
+the  ladder,  getting  to  the  top.  They  need  status,  position,  and  re- 
+spect. They  eventually  become  the  president  of  most  organiza- 
+tions to  which  they  belong. 
+Strong  fixed  (Taurus,  Leo,  Scorpio,  and  Aquarius)  or  second, 
+fifth,  eighth,  and  eleventh-house  stelliums  will  be  resistant  to 
+change,  more  cautious  and  hesitant,  and  will  respond  to  energy 
+more  slowly  and  with  trepidation. 
+A  stellium  in  Taurus  or  the  second  house  usually  gives  a  client 
+a  strong  material  drive.  More  than  any  other  sign,  these  people 
+need  to  accumulate  beautiful  things  and  associate  with  beautiful 
+people.  They  are  committed  to  beauty,  expensive  possessions,  and 
+sensuous  things  such  as  good  food,  massages,  and  nice  clothes. 
+When  a  Taurus  client  of  mine  got  his  first  luxury  car,  a  Cadillac,  he 
+got  behind  the  wheel  and  told  me  later,  "It  was  almost  as  good  as 
+having  sex,"  which  is  also  a  priority  for  Taurus. 
+A  stellium  in  Leo  or  the  fifth  house  gives  the  client  a  theatri- 
+cal, dramatic  flair  with  a  strong  inclination  towards  enjoyment. 
+Leos  love  to  be  on  stage.  They  like  attention,  need  to  shine,  and 
+want  to  be  the  dramatic  figure.  If  it  means  dancing  on  a  tabletop 
+or  buying  everybody  drinks,  they  will  do  it.  I  have  a  Leo  client 
+who  says  he  gets  upset  when  he  goes  to  a  funeral  because  the 
+corpse  gets  all  the  attention.  When  I  go  out  to  lunch  with  a  Leo,  I 
+let  them  pick  up  the  check  because  it  makes  them  feel  good.  They 
+are  generous,  warm,  and  romantic. 
+A  stellium  in  Scorpio  or  the  eighth  house  gives  the  client  in- 
+tensity and  magnetism.  Strong  Scorpio  influences  create  some  of 
+the  most  focused  people  you  will  ever  meet.  They  have  tunnel  vi- 
+sion about  their  goals.  I  always  say,  "If  a  Scorpio  is  going  some- 
+where or  doing  something,  get  out  of  the  way  They  will  do  it. 
+They  will  get  there."  They  have  incredible  drive.  I  have  tactfully 
+
+<<<PAGE 33>>>
+Psychological  Profiles    /  19 
+told  Scorpios,  "You  can  be  kind  of  ruthless."  They  have  answered, 
+"Kind  of  ?  I  am  ruthless." 
+A  stellium  in  Aquarius  or  the  eleventh  house  is  often  ex- 
+pressed as  having  a  tremendous  need  for  freedom  and  indepen- 
+dence. Typically,  Aquarians  are  unique,  individualistic,  cause-ori- 
+ented, and  friendly,  but  they  tend  to  be  loners.  Many  times  clients 
+with  stelliums  in  this  sign  are  geniuses  in  a  given  field  or  may  just 
+have  what  other  people  consider  to  be  weird  ideas.  They  can  be 
+ahead  of  or  behind  the  times.  Many  Aquarians  collect  antiques. 
+Whatever  they  do,  they  do  not  want  to  be  like  anyone  else.  Two 
+of  the  most  insulting  things  you  can  say  to  an  Aquarian  are  "You 
+remind  me  of  so  and  so"  or  "You  look  just  like  a  friend  of  mine." 
+The  mutable  signs  (Gemini,  Virgo,  Sagittarius,  and  Pisces)  or 
+third,  sixth,  ninth,  and  twelfth  house  stelliums  will  react  to  energy 
+on  a  mental  level.  Under  tension,  they  may  become  paralyzed  or 
+caught  up  in  mental  stewing. 
+A  stellium  in  Gemini  or  the  third  house  can  give  a  client  great 
+mental  agility  and  vast  intellectual  curiosity.  I  have  seen  many 
+clients  with  this  placement  who  have  a  great  facility  for  foreign  lan- 
+guages. These  people  are  alert,  quick,  witty,  and  have  many  differ- 
+ent ideas.  They  are  fun  to  be  around  and  are  so  clever  with  words 
+that  laughter  seems  to  follow  them.  The  downside  is  that  their  per- 
+sonalities can  change  on  a  dime. 
+A  stellium  in  Virgo  or  the  sixth  house  can  make  the  person  a 
+workaholic,  someone  who  must  do  and  serve.  These  people  feel 
+fulfilled  only  when  they  are  productive.  They  are  fastidious,  good 
+with  details,  analytical,  and  precise.  Virgos  can  be  feisty,  witty,  and 
+clever  wordsmiths.  They  can  also  be  very  earthy  and  lusty,  espe- 
+cially if  something  in  the  stellium  falls  at  7°  Virgo,  the  promiscu- 
+ous degree. 
+A  stellium  in  Sagittarius  or  the  ninth  house  can  make  a  per- 
+son idealistic  and  a  seeker  of  knowledge  and  the  truth.  These 
+people  are  lucky,  optimistic,  confident,  buoyant,  joyful,  expansive, 
+and  have  lots  of  energy.  Gemini,  the  opposite  sign,  is  an  informa- 
+tion gatherer  and  likes  little  bits  and  pieces  of  information  and 
+
+<<<PAGE 34>>>
+20    /    Psychological  Profiles 
+gossip  about  many  things.  Sagittarians  want  the  entire  picture. 
+They  want  an  advanced  degree  in  everything  they  study,  along 
+with  great  depth  and  wisdom. 
+A  stellium  in  Pisces  or  the  twelfth  house  makes  a  client  cre- 
+ative, sensitive,  and  intuitive.  These  people  can,  however,  also  be- 
+come martyrs  and  sacrificial  victims.  They  often  feel  sorry  for 
+themselves  and  can  pull  others  around  them  down.  They  have  to 
+guard  against  being  taken  advantage  of  and  giving  and  doing  too 
+much  for  others  when  it  is  no  longer  warranted.  Pisceans  are 
+tuned  in  and  psychic. 
+In  addition  to  noting  the  placement  of  the  stellium,  it  is  ex- 
+tremely important  to  note  which  planets  are  in  the  stellium  and 
+what  their  effect  may  be.  If  Saturn  is  one  of  the  planets  in  the  stel- 
+lium, it  will  seem  to  hold  jurisdiction  over  the  others  and  to  tem- 
+per or  restrain  the  expression  of  the  stellium.  I  was  very  surprised 
+to  have  a  client  with  a  stellium  in  Aquarius  who  had  no  friends. 
+When  I  looked  at  her  chart,  I  saw  that  Saturn  was  part  of  that  stel- 
+lium. Usually,  Aquarians  love  people  and  people  love  Aquarians, 
+but  if  Saturn  is  involved  it  tones  down  the  effect  of  the  sign.  It 
+modifies,  cools,  restricts,  and  restrains  the  expression  of  the  sign. 
+An  exception  to  this  rule  is  the  sign  of  Capricorn,  where  a  stellium 
+that  includes  Saturn  only  makes  the  person  more  of  a  Capricorn. 
+An  Aquarian  stellium  with  Saturn  will  limit  the  free  spirit  that  is 
+characteristic  of  Aquarius,  so  the  client  may  be  less  unconven- 
+tional. Aquarians  usually  dress  with  a  lot  of  flair,  but  if  Saturn  is 
+present  they  often  dress  like  a  yuppie  and  wear  Ralph  Lauren  or 
+Brooks  Brothers.  A  Sun /Venus /Saturn  stellium  in  Leo  will  not  be 
+overly  generous.  Sun/ Venus/ Saturn  in  Taurus  could  make  a  client 
+extremely  practical  and  thrifty  and  not  very  affectionate.  Most 
+people  experience  Geminis  as  outgoing  and  talkative,  but  with  Sat- 
+urn involved  they  can  be  uncharacteristically  reserved. 
+Other  planets  can  also  modify  a  stellium.  For  instance,  Uranus 
+can  alter  a  Capricorn  stellium  by  making  it  a  bit  unconventional 
+or  at  least  less  traditional.  Neptune  usually  diffuses  Virgo,  making 
+
+<<<PAGE 35>>>
+Psychological  Profiles   /  21 
+it  less  precise.  Pluto  intensifies  the  energy  of  any  stellium  it  is  in, 
+making  it  more  powerful. 
+Stelliums  contribute  more  energy  than  conjunctions  because 
+they  are  simply  expanded  conjunctions.  As  such,  they  can  be 
+strong  drivers.  A  client  with  four  planets  in  Virgo  will  be  driven  to- 
+ward order,  and  concentrate  on  work  and  productivity.  A  stellium 
+anywhere  is  a  strong  driving  force.  An  example  is  Mozart,  who 
+had  four  planets  in  Aquarius,  three  of  them  in  his  fifth  house.  He 
+was  inspired  to  express  himself  musically  in  a  unique  way.  I  have  a 
+client  who  was  a  famous  baseball  pitcher  with  five  planets  in 
+Aquarius  in  the  fifth  house,  the  house  of  sports  and  entertain- 
+ment. Baseball  Hall  of  Famer  Robin  Yount,  who  has  four  or  five 
+planets  in  Virgo,  was  always  described  as  someone  who  worked 
+very  hard  to  achieve  his  goals — he  was  a  perfectionist. 
+People  with  four  planets  in  Taurus  in  the  second  house  are  al- 
+most obsessive-compulsive  about  money.  A  person  with  four  plan- 
+ets in  the  eighth  house  could  have  a  preoccupation  with  the  psy- 
+chological meaning  of  life.  This  stellium  is  often  seen  in  astrologers' 
+and  psychologists'  charts. 
+More  on  Conjunctions 
+The  Sun  conjunct  Saturn,  the  Moon  conjunct  Saturn,  and  Mars 
+conjunct  Saturn  are  all  strong  drivers  that  push  a  person  to 
+achieve.  Conjunctions  work  very  personally.  Squares  often  indi- 
+cate outer  forces  or  influences,  whereas  conjunctions  show  inner 
+ones.  Squares  can  often  just  be  dealt  with  from  the  outside  and 
+concern  things  we  draw  to  ourselves  from  the  outer  world.  Con- 
+junctions force  us  to  look  at  ourselves.  For  example,  my  Sun  con- 
+juncts  Neptune  exactly.  As  a  result,  I  have  to  look  at  my  suscepti- 
+bility towards  self-delusion.  For  many  years  I  was  not  very  clear 
+on  who  I  was.  I  was  vague  about  my  self-worth.  Now,  I  have  re- 
+solved this  because  the  aspects  to  my  Sun  are  good  and  have 
+helped  me  throughout  my  life.  As  I  became  more  constructive 
+and  productive  and  used  my  Virgo  energy  to  become  more  suc- 
+cessful, my  self-image  improved. 
+
+<<<PAGE 36>>>
+22    /    Psychological  Profiles 
+/  Sun/Neptune  conjunctions  are  also  powerful  and  magnetic,  as 
+\/ ire  Sun /Uranus  and  Sun /Pluto  conjunctions.  People  with  strong 
+Neptune  energy,  just  as  with  strong  Pisces  energy,  often  want  to 
+save  others.  A  woman  with  this  energy  may  want  to  help  an  alco- 
+holic lover  or  ft-iend  give  up  drinking.  I  had  a  client  with  her  Sun 
+square  Neptune  who  drew  in  every  loser  in  the  world.  She  would 
+always  say,  "I  can  go  to  a  party  with  twenty-nine  wonderful  men 
+and  one  loser,  and  guess  what?  I  pick  the  loser."  I  call  it  "Loser 
+Radar." 
+Aspects  involving  the  Sun  and  Neptune  also  give  a  person 
+charisma,  psychic  intuition,  and  the  ability  to  weave  people  into 
+their  spell.  These  aspects  create  an  elusive,  hard-to-define  energy. 
+I  always  say  to  my  students,  "Whenever  you  are  dealing  with  Nep- 
+tune, don't  be  too  definitive.  Because  of  the  nature  of  the  planet, 
+you  don't  know  all  the  ways  in  which  it  works." 
+Those  who  have  the  Sun  conjunct  Saturn  are  self- disciplined 
+and  self-motivated.  At  an  early  age,  they  learn  that  if  they  make  a 
+mistake  they  will  pay  for  it.  With  the  Sun  square  Saturn,  the  effect 
+usually  involves  the  client's  father.  It  can  indicate  a  father  who 
+never  acted  like  one,  a  father  who  traveled  all  the  time,  a  father 
+who  just  was  not  there,  or  one  who  had  no  place  in  the  home.  It 
+could  indicate  a  father  who  told  the  child  that  whatever  the  child 
+did  was  never  enough  or  never  good  enough.  No  matter  how  it  is 
+experienced,  as  the  conjunction,  square,  or  opposition,  the  end  re- 
+sult with  the  Sun /Saturn  connection  is  the  same.  People  with 
+these  aspects  push  themselves  to  perform,  to  achieve,  and  to  do 
+things  the  right  way. 
+The  Moon  conjunct  Saturn  can  indicate  that  a  client's  mother 
+was  controlling  and  had  very  high  expectations  for  the  child.  A 
+client  of  mine  has  this  aspect.  She  was  brought  up  in  a  harsh  reli- 
+gious atmosphere  and  still  deals  with  those  issues  many  years 
+later.  She  had  a  profound  fear  of  death  and  had  anxiety  attacks 
+when  she  encountered  those  feelings.  These  were  all  instilled  by 
+strict  religious  teachings.  In  addition  to  a  fear  of  death,  Saturn  can 
+create  personal  fear,  guilt,  and  anxiety. 
+
+<<<PAGE 37>>>
+Psychological  Profiles    /  23 
+In  every  conjunction  it  is  important  to  go  back  to  the  basics 
+and  think  through  the  implications  of  the  planetary  combina- 
+tions. The  planets  in  a  conjunction  work  as  a  blended  unit. 
+Oppositions  as  Drivers 
+Oppositions  most  often  pit  an  individual  against  another  person. 
+With  the  Sun  opposite  Saturn,  many  times  it  involves  the  father. 
+Either  he  is  absent  in  some  way  or  is  harsh  and  not  emotionally 
+expressive.  The  father  often  fails  as  a  role  model  for  the  child,  and 
+other  authority  figures  often  teach  the  child  that  if  he  or  she  does 
+not  do  things  right,  then  the  child  is  inadequate  or  unworthy.  An 
+example  of  this  is  a  child  whose  father  was  absent.  The  role  of  the 
+authority  figure  was  filled  by  the  collective  teachers  at  her  very 
+strict  church  school.  It  was  a  severe  education  experience  in  which 
+the  child  learned  to  be  ultraprepared  in  order  to  avoid  humiliation 
+in  the  classroom. 
+Oppositions  tend  to  manifest  in  relationships  because  they  in- 
+dicate friction  between  a  person  and  someone  else.  There  is  al- 
+ways that  polarity.  I  find  that  with  the  Sun  opposite  Pluto,  many 
+times  these  people  become  successful  because  they  are  competi- 
+tive with  other  people  and  they  need  to  prove  something.  The 
+Sun /Pluto  square  forces  people  to  struggle  and  push,  while  the 
+Sun /Pluto  conjunction  simply  puts  an  enormous,  intense,  driving 
+force  into  their  lives. 
+Squares  generate  a  great  deal  of  activity.  Usually  it  is  an  outside 
+influence  that  forces  a  person  to  respond  to  the  energy  The  push 
+actually  comes  from  within,  but  it  is  triggered  by  someone  or 
+something  from  the  outside.  As  an  example,  let's  say  that  one  of 
+your  client's  tenants  moves  out  without  paying  the  rent.  In  a 
+square  aspect,  your  client  will  probably  have  to  renovate  the  place 
+because  the  tenant  has  also  damaged  it.  With  an  opposition,  there 
+could  have  been  some  negotiating. 
+Clients  whose  charts  are  without  squares  usually  lead  con- 
+tented lives  up  to  a  point,  but  when  a  square  is  formed  by  a  transit 
+
+<<<PAGE 38>>>
+24    /    Psychological  Profiles 
+or  progression,  they  have  a  more  difficult  time  of  it  because  they 
+haven  t  had  the  experience  of  dealing  with  that  type  of  influence. 
+Obstacles  and  blockages  are  new  to  them.  Their  squares  are  much 
+more  intense,  much  heavier,  and  the  results  more  potent.  People 
+without  squares  often  feel  that  the  world  owes  them  something 
+and  are  not  as  inclined  to  go  after  what  they  want  in  the  proper 
+way.  They  look  for  someone  to  take  care  of  them,  someone  to  do 
+it  for  them,  or  someone  on  whose  coattails  they  can  ride. 
+Clients  whose  charts  are  without  oppositions,  however,  have  a 
+difficult  time  learning  from  their  mistakes.  This  is  also  the  case 
+with  a  void-of-course  Moon  (a  Moon  that  makes  no  aspects  before 
+it  leaves  its  sign.)  Without  oppositions,  the  individual  also  is  likely 
+to  have  relationship  problems  (certainly  while  they're  young). 
+They  make  the  same  mistakes  over  and  over.  Because  an  opposi- 
+tion mirrors  everything  back,  the  client  can  learn  from  his  or  her 
+mistakes.  On  the  negative  side,  the  client  may  also  project  his  or 
+her  own  shortcomings  onto  others.  If  a  client  lacks  oppositions, 
+he  or  she  must  learn  to  walk  in  someone  else's  moccasins.  A  tran- 
+siting planet  opposite  the  Sun  or  a  progression  forming  an  opposi- 
+tion will  integrate  these  lessons  and  principles  within  this  client, 
+and  he  or  she  can  resolve  this  issue  at  this  time. 
+To  predict  for  a  client,  you  must  first  look  for  the  chart  driver. 
+Find  out  what  makes  this  person  tick.  What  is  their  motivating 
+force?  It  could  be  a  tight  square  or  a  T-Square,  or  perhaps  a  con- 
+junction or  a  stellium.  It  will  be  something  differen^^  every  chart. 
+It  is  extremely  important  and  you  should  rememl5b^  it  because 
+when  that  driver  is  triggered,  your  client's  life  is  going  to  change 
+and  things  are  going  to  happen.  You  have  to  be  prepared  for  it  in 
+order  to  make  an  accurate  prediction.  Over  the/ years,  I  have 
+learned  that  all  psychological  patterns  can  influence  a  chart,  but 
+the  drivers  are  the  most  important. 
+Yods  as  Drivers 
+A  student  once  asked  me  if  a  yod  wasn't  a  driver.  I  told  him  that  I 
+do  not  feel  it  is  so  much  a  driver  as  it  is  the  universe  pointing  its 
+
+<<<PAGE 39>>>
+Psychological  Profiles   /  25 
+finger  at  you  and  saying,  "You  are  at  a  turning  point  and  your  life 
+is  going  to  change."  I  look  at  yods  positively  I  equate  them  to 
+someone  who  is  an  understudy  for  a  famous  actress  or  actor  and 
+who  fills  in  for  the  star  one  night  and  becomes  an  overnight  sen- 
+sation. That  is  how  a  yod  operates.  I  have  one  and  that  is  how  it 
+has  worked  in  my  life.  When  I  was  a  new  astrologer,  my  yod  was 
+being  set  off  and  my  life  changed.  I  spoke  on  my  view  of  eclipses 
+at  an  American  Federation  of  Astrologers  (AFA)  convention.  Up 
+to  that  point,  few  astrologers  had  lectured  on  them.  I  worked  hard 
+on  my  lecture,  and  fifty  people  attended  the  first  one.  At  the  next 
+lecture  I  drew  a  hundred  and  fifty  people.  By  the  third  lecture  I 
+had  five  hundred  people  in  attendance.  I  was  described  as  an  up- 
+and-coming  astrologer  in  some  publications  and  was  appointed  to 
+the  AFA  board  of  directors.  My  career  has  flourished  ever  since. 
+A  yod  can  also  be  negative.  People  with  yods  seem  to  have 
+more  than  their  share  of  health  problems,  but  they  also  seem  to 
+have  the  ability  to  regenerate  themselves.  I  always  have  little 
+things  wrong  with  me,  but  by  the  time  I  get  to  the  doctor,  they 
+are  usually  gone.  Something  life-altering  always  happens  when 
+my  yod  is  activated.  When  I  was  diagnosed  with  cancer,  my  yod 
+was  set  off.  When  I  went  through  a  divorce,  my  yod  was  set  off".  It 
+happened  again  when  I  met  a  certain  someone  who  changed  my 
+life  in  a  profound  way,  and  again  when  I  got  married.  Yods  are 
+configurations  that  change  your  life,  but  they  do  not  drive  you. 
+My  life  often  goes  to  extremes,  but  as  a  person  who  has  two  yods, 
+I  see  it  more  as  being  in  the  right  place  at  the  right  time  and  hav- 
+ing something  very  exciting  happen.  It's  that  weird  sense  of  fate 
+or  kismet.  So,  while  I  do  not  consider  a  yod  to  be  a  driver  per  se,  it 
+certainly  is  important. 
+Ease  in  the  Chart 
+when  assessing  someone's  natal  promise,  astrologers  should  also 
+look  for  things  that  make  a  client's  life  pleasant  and  easy  I  once 
+had  an  astrologer  tell  me,  "Wherever  Jupiter  is  placed,  you  will  have 
+
+<<<PAGE 40>>>
+26    /    Psychological  Profiles 
+abundance.  Wherever  you  have  Venus,  you  will  have  ease."  But  the 
+flip  side  to  this  can  be  overindulgence  and  laziness.  My  antenna 
+goes  up  when  I  see  a  chart  that  has  Venus  trine  Jupiter.  These 
+people  are  often  lucky,  but  they  can  make  mistakes.  Fortunately  for 
+them,  when  they  do  make  mistakes  they  often  come  out  smelling 
+like  a  rose.  Even  Venus  square  Jupiter  can  be  lucky.  People  with  this 
+aspect  will  land  on  their  feet  and  not  face  the  same  lessons  that  a 
+Sun-square-Saturn  person  will  face.  The  same  thing  is  true  with  a 
+Grand  Trine.  The  Grand  Trine  (three  planets  in  elemental  har- 
+mony) is  certainly  a  karmic  gift.  It  involves  a  lot  of  ease,  but  with- 
+out a  lot  of  reinforcing  tension  it  will  often  result  in  people  who 
+won't  "go  for  the  gold."  They  sit  back,  relax,  and  let  life  come  to 
+them. 
+I  have  the  Moon  trine  Venus  in  my  natal  chart,  and  this  aspect 
+has  always  has  been  very  good  to  me.  When  I  walk  into  a  hall  to 
+lecture,  people  are  more  inclined  to  like  me  than  to  dislike  me. 
+There  is  a  certain  public  appeal  that  the  Moon  trine  Venus  gives 
+me.  With  this  aspect,  the  negative  side  is  to  make  sure  that  you 
+prepare  well  for  the  task  at  hand  since  acceptance  can  be  unusu- 
+ally easy. 
+Easy  aspects  are  not  as  important  as  squares,  but  when  they  are 
+triggered,  something  nice  will  usually  happen  to  your  client.  I  re- 
+cently did  a  research  project  on  lottery  winners.  It  was  not  a  big  un- 
+dertaking, but  I  did  find  that  winners  had  a  Venus /Jupiter  aspect 
+natally.  This  is  something  I  address  in  chapter  2  on  the  natal 
+promise.  If  the  promise  is  not  there  natally,  it's  probably  not  going 
+to  happen.  I  don't  have  that  kind  of  luck  promised  in  my  chart,  so  I 
+quit  buying  lottery  tickets  a  long  time  ago.  However,  Jupiter  was 
+stationing  trine  my  angles  when  I  was  on  a  cruise  and  I  won  eight 
+jackpots  playing  video  poker.  I  also  won  at  bingo,  and  I  am  some- 
+one who  rarely  wins.  So  even  unlucky  people  can  have  good  things 
+happen  when  the  heavens  produce  the  right  aspects.  But  I  will  not 
+count  on  ever  being  a  big  winner. 
+Clients  who  have  charts  with  many  easy  aspects  often  lack 
+drive.  They  will  settle  for  whatever  comes  along,  such  as  staying 
+
+<<<PAGE 41>>>
+Psychological  Profiles    /  27 
+in  the  same  old  job  forever.  These  clients  also  stay  in  the  same 
+marriage  even  if  it  is  bad,  and  will  tend  to  stay  stuck  forever  if 
+there  is  not  a  stimulus  such  as  a  square  to  motivate  them  to  break 
+out  and  change  their  life.  They'll  need  a  lot  of  tension  from  pro- 
+gressions and  transits  to  bring  about  positive  change,  otherwise 
+they  won't  make  a  shift. 
+When  I  began  practicing  astrology,  I  learned  that  a  Grand 
+Trine  is  a  wonderful  gift.  It  can  indicate  real  talent  and  very  special 
+abilities.  When  I  started  out  in  private  practice,  I  found  that 
+people  with  Grand  Water  Trines  had  artistic  ability,  but  some- 
+times did  nothing  with  it.  I  was  shocked  when  I  encountered 
+people  with  Grand  Earth  Trines  who  were  on  welfare.  They  did 
+not  feel  that  they  had  to  work.  I  also  see  it  with  women  who 
+marry  successful  men  who  take  care  of  them.  I  had  a  client  with  a 
+Grand  Air  Trine  who  got  into  terrible  trouble.  All  his  life  he  could 
+talk  his  way  in  and  out  of  anything.  He  thought  he  could  do  it  one 
+more  time,  but  he  ended  up  in  jail. 
+Of  all  the  Grand  Trines,  I  do  find  the  Grand  Fire  Trine  to  be 
+the  most  beneficial  because  it  seems  to  endow  the  person  with 
+courage.  These  people  are  risk  takers  and  have  a  lot  of  fun.  But 
+even  with  the  Grand  Trine,  they  won  t  reach  their  greatest  poten- 
+tial without  reinforcing  squares.  They  have  an  abundance  of  en- 
+ergy and  keep  themselves  very  busy.  They're  warm  and  charming, 
+and  people  respond  to  them  positively,  but  they  are  also  used  to 
+having  everything  fall  into  their  laps.  They  take  for  granted  what 
+other  people  have  to  work  very  hard  for.  They  just  assume  that 
+life  is  easy  for  everybody.  They  don't  understand  why  someone 
+may  hesitate  or  analyze  before  stepping  forward,  because  they're 
+used  to  taking  risks  and  coming  out  on  top.  They  simply  won't 
+achieve  their  greatest  potential  without  reinforcing  squares.  Often 
+they  don't  recognize  their  limits,  so  they  burn  out. 
+I  have  seen  people  with  Grand  Earth  Trines  go  bankrupt. 
+Money  comes  to  them  so  easily  that  they  become  careless  or  don't 
+take  the  proper  precautions  to  protect  their  finances.  I  had  clients 
+
+<<<PAGE 42>>>
+28    /    Psychological  Profiles 
+who  were  investment  brokers  who  thought  they  were  going  to 
+profit  forever  and  didn't. 
+People  with  Grand  Water  Trines  have  an  emotional  self-con- 
+tentment, and  many  times  their  creativity  tends  to  be  more  internal 
+rather  than  something  they  put  into  tangible  form  and  share  with 
+the  world.  They  have  enormous  creativity,  but  use  it  only  for 
+their  own  enjoyment.  They  can  be  emotionally  fulfilled  within 
+themselves  and  may  end  up  being  loners.  They  often  are  content 
+living  alone  because  they  are  self-contained  and  emotionally  self- 
+sufficient. 
+The  Grand  Air  Trine  denotes  an  able  communicator  who  can 
+process  information  easily  and  comfortably,  but  IVe  also  seen 
+many  people  with  this  aspect  who  attend  school  forever  and  never 
+do  anything  in  the  real  world.  They  get  hooked  on  the  learning 
+process.  They  can  reach  age  fifty  without  ever  really  working  a 
+job.  I  have  a  client  with  a  Ph.D.  who  did  postdoctoral  work,  but 
+has  never  worked.  He  enjoys  learning  more  than  utilizing  the  in- 
+formation. He  lives  frugally  on  a  small  inheritance.  People  with 
+Grand  Air  Trines  have  great  intellectual  ability,  sometimes  lack 
+common  sense,  and  often  neglect  their  physical  well-being.  They 
+know  a  lot  about  many  different  things.  They  study  and  read  vo- 
+raciously, but  they  are  not  doers.  They  don  t  know  how  to  get  out 
+of  their  minds  and  manifest  their  work  in  the  material  world. 
+Those  with  a  Grand  Fire  Trine  can  be  too  rash  and  take  too 
+many  chances,  like  a  fireman  who  rushes  back  into  a  burning 
+building  at  great  personal  risk.  They  feel  they  have  nine  lives. 
+They  can  be  impulsive,  but  sometimes  can  survive  things  that 
+other  people  cannot.  I  had  a  client  who  lived  through  a  German 
+concentration  camp  and  then  went  back  to  Hungary.  His  Grand 
+Fire  Trine  and  the  help  of  a  good  astrologer  later  got  him  to  safety 
+when  he  needed  to  escape  from  the  Communists.  He  also  had 
+good  reinforcing  squares.  He  then  came  to  the  United  States  and 
+started  a  business  that  became  very  successful.  People  with  Grand 
+Trines  are  very  lucky,  but  they  also  need  a  driver,  such  as  a  T- 
+Square,  to  push  them  along  to  greatness. 
+
+<<<PAGE 43>>>
+Chapter  Two 
+The  Natal  Promise 
+^he  previous  chapter  examined  the  psychological  patterns  and 
+profiles  an  astrologer  must  consider  before  predicting.  What  is 
+promised  in  the  natal  chart  is  also  important.  Most  of  what  hap- 
+pens in  our  lives  is  shown  quite  clearly  in  the  natal  promise. 
+Consider  why  clients  consult  astrologers.  Most  clients  want  to 
+know  about  love  and  marriage,  career,  business,  money,  health, 
+and  children.  It  is  an  astrologer  s  job  to  determine  the  potential 
+for  each.  Then  the  astrologer  must  determine  if  and  when  a  stim- 
+ulus will  come  along  to  actualize  that  potential.  However,  that  po- 
+tential must  be  found  in  the  natal  chart  first. 
+Is  marriage  promised  in  the  natal  chart?  Is  divorce?  Many 
+people  ask  these  questions.  They  may  want  to  get  married.  They 
+may  want  to  get  divorced.  But  if  it's  not  promised,  it's  not  going 
+to  happen.  Other  clients  may  want  to  know  about  success,  fame, 
+or  money.  These  things  don't  happen  without  luck  in  the  natal 
+29 
+
+<<<PAGE 44>>>
+30    /    The  Natal  Promise 
+chart.  A  prominent  Jupiter,  a  strong  Sagittarius  influence,  or  a 
+strong  fifth  house  indicate  the  natal  promise  of  luck.  Clients  will 
+often  want  to  know  good  days  to  buy  lottery  tickets  or  good  days 
+to  gamble.  If  they  don't  have  that  potential  in  their  natal  chart, 
+nothing  is  going  to  happen.  However,  if  they  do  have  a  lucky  chart, 
+a  good  astrologer  can  certainly  tell  when  things  will  happen. 
+Sometimes  fear  is  a  burning  issue.  Is  violence  or  rape  a  possi- 
+bility? The  potential  for  this  is  indicated  in  a  chart,  too.  Mars  and 
+Pluto  can  show  if  and  when  a  rape,  assault,  violence,  or  even 
+emotional  abuse  could  happen.  The  astrologer's  role  is  to  help  the 
+client  sidestep  these  aspects. 
+Are  serious  health  issues  indicated  in  the  natal  chart?  A  person 
+is  not  going  to  get  a  serious  illness  no  matter  what  is  happening 
+with  the  transits  and  progressions  if  it's  not  promised  in  the  natal 
+chart. 
+Clients  often  want  to  know  about  relationships.  Will  they  have 
+one,  and  when?  Relationships  are  particularly  tricky  because  the 
+potential  has  to  be  promised  in  two  charts,  the  client's  chart  and 
+that  of  the  other  person  involved.  The  astrologer  must  synthesize 
+the  two. 
+Where  career  is  concerned,  I  think  it's  important  to  realize  that 
+some  people  are  destined  to  have  a  powerful,  important  career 
+and  others  are  not.  Some  people  don't  have  the  impetus,  drive,  or 
+desire  to  climb  mountains.  They  may  instead  be  meant  to  focus 
+on  other  things  in  their  lives  like  raising  children.  Early  in  my  life  I 
+was  driven  by  my  career,  and  I  was  inclined  to  encourage  my 
+clients  to  do  bigger  and  better  things  professionally.  It  took  me  a 
+while  to  realize  that  each  person's  destiny  or  mission  is  unique.  I 
+learned  I  should  not  project  my  drives  onto  others,  because  it  was 
+more  important  for  them  to  concentrate  on  and  develop  other 
+areas  of  their  lives. 
+
+<<<PAGE 45>>>
+The  Natal  Promise   /  31 
+Marriage 
+It  has  always  been  my  belief  that  if  clients  want  to  marry,  they  can. 
+Some  charts  are  more  resistant  to  marriage  than  others.  Strong 
+Aries,  Gemini,  Sagittarius,  and  Aquarius  seem  to  have  less  need  for 
+partnerships  than  other  signs.  They're  self-sufficient  and  want  to 
+be  free.  In  contrast,  someone  with  prominent  Libra  is  rarely  with- 
+out a  relationship.  Natal  promise  will  indicate  people  who  want  to 
+be  free  and  don  t  want  to  be  married,  and  people  who  cannot  be 
+without  a  partner.  Clients  will  claim  they  want  to  be  married,  but 
+the  astrologer  may  find  they  are  not  doing  anything  to  make  it 
+happen.  This  is  also  shown  in  the  chart.  I  have  never  known  Prince 
+Charming  to  come  and  knock  on  anyone's  door,  so  it's  important 
+to  advise  clients  who  want  someone  significant  in  their  lives  to  get 
+out  and  do  things  to  meet  people. 
+The  Sun  will  describe  the  men  in  a  woman's  life  and  the  Moon 
+will  describe  the  women  in  a  man's  life.  One  thing  that  will  bring  a 
+lot  of  marriages  is  Sagittarius  on  the  seventh-house  cusp  or  Jupiter 
+in  the  seventh  house.  Part  of  the  reason  these  people  marry  often  is 
+because  they're  optimistic,  buoyant,  and  enthusiastic  about  jump- 
+ing into  an  alliance,  and  they  often  lack  discrimination.  The  oppo- 
+site is  true  when  Capricorn  is  on  the  seventh-house  cusp  or  Saturn 
+is  placed  there.  Because  these  people  are  naturally  cautious  in  rela- 
+tionships, they  may  limit  their  own  marriage  opportunities. 
+I  have  two  clients  who  are  astral  twins,  meaning  they  were  born 
+on  the  same  day,  just  a  few  minutes  apart.  However,  when  it  comes 
+to  just  a  few  minutes,  the  chart  can  be  different  enough  to  change  a 
+life  significantly.  One  twin  has  Jupiter  in  the  seventh,  the  other  has 
+Jupiter  in  the  eighth.  Both  have  a  cardinal  T-Square  with  Jupiter 
+square  a  Sun /Uranus  conjunction  square  Neptune.  Neither  client  is 
+comfortable  with  peaceful,  realistic  relationships.  At  the  start  of  any 
+liaison,  both  are  overly  optimistic,  but  after  a  while  their  relation- 
+ships or  marriages  begin  to  sour.  The  client  with  Jupiter  in  the  sev- 
+enth married  five  times  by  the  time  she  was  thirty-five  years  old. 
+
+<<<PAGE 46>>>
+32    /    The  Natal  Promise 
+The  woman  with  Jupiter  in  the  eighth  has  only  been  married  once, 
+but  she  and  her  husband  lead  totally  separate  lives.  Because  Jupiter 
+is  in  the  eighth  house  of  joint  finances,  their  relationship  is  based 
+primarily  on  financial  security. 
+As  astral  twins,  much  of  what  happens  in  their  lives  is  parallel. 
+But  their  lives  demonstrate  the  difference  between  Jupiter  in  the 
+seventh  versus  the  eighth.  If  a  client  asks  if  he  or  she  will  marry- 
+again,  an  astrologer  can  almost  always  say  yes  if  Jupiter  is  in  the 
+seventh  house  or  is  the  ruler  of  the  seventh.  The  astrologer  should 
+also  remember  that  a  client  with  Jupiter  placed  there  is  less  discrim- 
+inating, more  hopeful,  more  impulsive,  and  more  willing  to  take 
+chances  in  relationships.  It  is  also  important  to  note  that  if  Jupiter  is 
+retrograde,  marriage  prospects  are  much  less  likely,  because  with 
+Jupiter  retrograde  what  is  promised  is  often  times  not  delivered. 
+When  the  Capricorn  principle  is  connected  to  the  seventh 
+house,  the  person  may  be  inclined  to  find  fault  with  potential 
+partners.  I  have  a  client  whose  seventh-house  cusp  is  in  Capricorn. 
+He  is  a  very  handsome  and  successful  doctor.  He  would  spend 
+every  session  complaining  about  his  Capricorn  wife.  He  cheated 
+on  her  the  whole  time  I  knew  him.  After  about  fifteen  years  his 
+wife  finally  just  left.  He  then  proceeded  to  fall  apart  and  now 
+laments  that  he'll  never  find  anyone  like  her  and  that  no  woman 
+ever  measures  up  to  her.  He,  like  others  with  their  seventh-house 
+cusps  in  Capricorn,  fears  being  disappointed  or  hurt,  so  he  finds 
+reasons  why  a  relationship  won't  work.  It  is  also  Capricorn's  in- 
+nate ability  to  plan  ahead  and  see  the  pluses  and  minuses  of  any 
+situation  that  prompts  these  people  to  rationalize  themselves  out 
+of  anything. 
+Another  client  with  Capricorn  on  the  seventh-house  cusp  al- 
+ways falls  for  women  who  are  not  available.  They  are  either  mar- 
+ried, much  older,  or  in  a  different  financial  bracket.  These  are 
+women  he  can  fantasize  about,  but  relationships  with  them  are 
+not  likely  to  materialize.  A  key  element  in  his  selection  is  that  the 
+woman  is  often  older,  more  mature,  and  definitely  further  along 
+career- wise. 
+
+<<<PAGE 47>>>
+The  Natal  Promise   /  33 
+One  of  the  women  he  has  been  fantasizing  about  is  getting  di- 
+vorced and  he  is  suddenly  finding  all  sorts  of  problems  with  her 
+because  she  is  free.  It's  clear  that  he  creates  the  obstacles  to  a  com- 
+mitted relationship.  Interestingly,  if  a  man  with  Capricorn  on  the 
+seventh-house  cusp  marries,  many  times  it  is  to  a  woman  who  has 
+her  Sun  or  Moon  in  Capricorn  or  who  is  quite  a  bit  older  and 
+more  mature  and  can  nurture  him.  Or  he  may  marry  a  woman 
+much,  much  younger,  but  rarely  a  peer.  I  do  not  see  the  same 
+problems  with  women  with  Cancer  rising.  They  seem  to  express 
+the  same  energy  in  a  more  comfortable  manner.  Some  signs,  As- 
+cendants, and  aspects  may  be  difficult  for  one  sex,  but  not  for  the 
+other.  For  example.  Cancer  placements  are  easier  for  women,  and 
+Aries  placements  are  more  comfortable  for  men. 
+Let's  take  a  look  at  what  creates  the  potential  for  marriage  in  a 
+natal  chart.  There  are  a  number  of  factors  that  indicate  many 
+marriages  or  many  opportunities  for  marriage.  The  following  are 
+the  ones  that  I  use  the  most: 
+Classic  Natal  Indicators  of  Marriage  Potential 
+•  Aspects  to  and  from  the  Sun  in  a  woman's  chart,  or  to  and 
+from  the  Moon  in  a  man  s  chart 
+•  Applying  aspects  from  the  ruler  of  the  seventh  house 
+•  Planets  in  the  seventh  house  and  their  aspects 
+•  An  interception  in  the  seventh  house  indicates  multiple 
+marriages 
+The  relationship  between  the  rulers  of  the  first  and  seventh 
+houses,  either  natally  or  by  progression,  show  how  clients  behave 
+or  what  they  need  in  a  relationship.  I  had  a  client  come  to  me 
+whose  rulers  of  the  first  and  the  seventh  houses  were  square  by 
+progression.  (Her  Ascendant  was  in  Sagittarius,  so  her  seventh- 
+house  cusp  fell  in  Gemini.  When  she  consulted  me,  her  pro- 
+gressed Mercury  was  in  Gemini  squaring  Jupiter  in  Pisces.  Mer- 
+cury is  the  natural  ruler  of  Gemini,  and  Jupiter  is  the  natural  ruler 
+
+<<<PAGE 48>>>
+34    /    The  Natal  Promise 
+of  Sagittarius.)  I  found  out  that  she  was  pushing  to  get  married.  I 
+advised  her  to  wait  because  her  progressions  were  not  supporting 
+a  union  at  that  time.  She  went  ahead  anyway.  She  got  the  ring  and 
+set  the  date,  but  because  the  rulers  were  squaring  each  other,  the 
+marriage  never  came  off.  This  was  a  very  interesting  test  for  me. 
+This  woman  was  very  close  to  me,  and  as  the  invitations  were  sent 
+out.  the  band  was  hired,  and  everything  seemed  to  be  a  go,  I  kept 
+saying  to  my  husband,  "I  just  don  t  understand.  I  am  not  going  to 
+buy  a  new  dress  until  after  the  second  weekend  in  September." 
+Well,  that  lunation  triggered  the  progression  and  they  ended  the 
+engagement.  I  felt  badly  for  them,  but  I  didn't  have  to  burn  my  as- 
+trolog}-  books. 
+The  relationship  between  the  Sun  and  Moon  illustrate  how  the 
+masculine  and  feminine  principles  work  together  in  each  client.  It 
+shows  how  the  client  behaves  in  relationships,  but  it  does  not  nec- 
+essarily show  the  number  of  marriages.  The  relationship  between 
+Venus  and  Mars  is  just  as  important  because  they  are  the  natural 
+rulers  of  the  first  and  the  seventh  houses.  They  show  a  client's 
+need  for  affection  and  whether  love  works  with  or  against  the 
+client's  desires. 
+Mars  in  a  woman's  chart  further  describes  the  kind  of  man  she 
+will  attract,  while  Venus  in  a  man's  chart  further  defines  the  typt 
+of  woman  he's  in  tune  w^ith. 
+Many  clients  will  want  to  know  if  a  relationship  will  lead  to 
+marriage.  There  are  several  ways  to  determine  this.  In  90  percent 
+of  the  charts  I  have  done,  I  have  seen  the  potential  for  marriage 
+shown  in  the  following  way:  For  a  woman,  the  number  of  apply- 
+ing aspects  the  Sun  makes  before  it  leaves  a  sign  will  give  the  num- 
+ber of  potential  marriages.  For  a  man,  it's  the  applying  aspects  the 
+Moon  makes  before  it  leaves  a  sign. 
+This  is  a  technique  I  learned  as  a  young  astrologer  from  older, 
+practicing  astrologers.  Over  the  years  I  have  found  it  doesn't  work 
+100  percent  of  the  time,  but  it  is  a  useful  guideline.  Here's  how  it 
+works: 
+
+<<<PAGE 49>>>
+The  Natal  Promise    /  35 
+Determining  the  Number  of  Potential  Marriages 
+•  I  use  only  the  major  applying  natal  aspects;  that  is,  the  con- 
+junction, square,  opposition,  trine,  and  sextile. 
+•  When  calculating  the  number  of  potential  marriages  for  a 
+woman,  I  look  at  the  applying  aspects  her  natal  Sun  makes 
+before  it  leaves  a  sign.  The  Sun  can  only  apply  to  the  slower- 
+moving  planets — Mars,  Jupiter,  Saturn,  Uranus,  Neptune, 
+and  Pluto. 
+•  The  Moon  can  apply  to  the  Sun,  and  I  have  seen  this  aspect 
+work  to  indicate  a  potential  marriage. 
+•  Mercury  and  Venus  can  also  apply  to  the  Sun.  However, 
+what  happens  is  that  these  aspects  are  expressed  most  often 
+as  close  alliances  that  don  t  end  up  at  the  altar.  They  seem  to 
+work  by  bringing  opportunities  for  marriage,  but  not  neces- 
+sarily an  actual  marriage. 
+•  When  calculating  the  number  of  potential  marriages  for  a 
+man,  I  look  at  the  applying  aspects  his  natal  Moon  makes  be- 
+fore it  leaves  a  sign.  It  is  possible  for  the  Moon  to  apply  to  all 
+the  other  planets  if  it  is  in  an  early  degree. 
+•  I  usually  consider  only  the  applying  aspects  between  the  lu- 
+minaries (the  Sun  and  Moon)  and  planets,  but  I  have  seen  the 
+Sun  and  Moon  in  applying  aspect  to  the  nodes  indicate  a 
+strong  karmic  relationship.  This  is  not  a  marriage  aspect,  but 
+is  definitely  a  strong  karmic  tie. 
+•  I  have  found  that  the  stronger  aspects  will  be  expressed  first. 
+For  instance,  when  the  luminary  is  in  a  wide  applying  con- 
+junction to  a  planet,  this  is  a  very  strong  aspect  and  will  be  ex- 
+pressed before  a  sextile,  even  though  the  planet  in  sextile  as- 
+pect may  be  closer  in  aspect — the  strength  of  a  conjunction 
+outweighs  that  of  a  sextile.  So  this  means  that  a  conjunction 
+(the  strongest  aspect)  would  describe  the  first  marriage  and 
+partner  before  a  sextile  would.  However,  all  of  the  aspects  to 
+
+<<<PAGE 50>>>
+36    /    The  Natal  Promise 
+the  Sun  or  Moon,  both  applying  and  separating,  will  some- 
+what describe  all  of  the  partners  a  client  normally  attracts. 
+Case  Study:  Carol  Rushman 
+My  Sun  applies  to  Neptune,  Pluto,  and  Jupiter,  so  three  marriages 
+are  promised.  My  Sun  and  Neptune  are  conjunct  at  9°  Vkgo.  I  have 
+Pluto  at  24°  Cancer,  in  an  applying  sextile  from  my  Sun.  I  have 
+Jupiter  at  28°  Virgo,  an  applying  conjunction.  I  have  Mercury  at  1° 
+Virgo  (an  applying  conjunction), ^but  as  I  said  above  I  do  not  find 
+that  Mercur}^  applying  to  the  Sun  promises  a  marriage.  It  could  in- 
+dicate a  possible  alliance,  but  not  a  marriage.  I  also  have  Mars  at  5° 
+Scorpio  (a  separating  sextile).  Those  are  my  main  aspects.  I  have 
+some  minor  aspects  that  are  not  as  important.  The  Sun  conjunct 
+Neptune  is  my  first  applying  aspect,  and  my  first  husband  was 
+Pisces  rising  (Neptune  rules  Pisces).  I  had  a  significant  relationship 
+with  a  Pluto  person,  which  would  be  my  second  applying  aspect. 
+Then  I  married  a  man  who  is  Sagittarius  rising  with  Jupiter  at  28° 
+Pisces,  and  that  describes  the  third  aspect.  I  have  found  that  the 
+parmer's  rising  sign  seems  to  describe  the  aspect  more  often  than 
+his  or  her  Sun  sign. 
+It's  important  to  remember  that  the  number  of  applying  aspects 
+does  not  include  marriage  opportunities.  I  have  three  applying  as- 
+pects from  my  Sun,  but  overall  I  have  had  seven  or  eight  marriage 
+proposals.  The  number  of  applying  aspects  involving  the  Sun  or 
+Moon  shows  the  number  of  times  you  could  actually  marry.  I  had 
+several  opportunities  before  I  married  my  first  husband  and  a  few 
+more  before  I  married  my  second  husband.  But  I  will  probably 
+marry  only  twice,  possibly  three  times,  because  that  is  the  num- 
+ber of  applying  aspects  from  my  Sun. 
+Let's  look  at  a  few  more  examples  of  some  famous  women  so 
+that  it  is  very  clear  how  to  do  this. 
+
+<<<PAGE 51>>>
+The  Natal  Promise    /  37 
+Carol  Rushman 
+September  2,  1933  /  3:55  p.m.  CST 
+Milwaukee,  WI 
+
+<<<PAGE 52>>>
+38    /    The  Natal  Promise 
+Case  Study:  Jacqueline  Kennedy  Onassis 
+Jacqueline  Kennedy  Onassis'  chart  promises  three  marriages.  Her 
+chart  is  fascinating  in  that  the  marriages  described  are  very  literal. 
+First,  her  Sun  at  5°  Leo  is  in  an  applying  sextile  to  Jupiter  at  9° 
+Gemini,  and  John  F.  Kennedy  was  a  Gemini.  Then  her  Sun  is  in  an 
+applying  trine  to  Uranus  at  1 1°  Aries,  and  Aristotle  Onassis  was  an 
+Aries.  Next,  there  is  a  wide  applying  trine  to  Saturn  at  24°  Sagit- 
+tarius. This,  I  think,  describes  Maurice  Templesman.  Their  rela- 
+tionship was  very  much  like  a  marriage  even  though  they  never  le- 
+galized it.  Her  Saturn  is  in  her  second  house  and  she  met  him 
+because  he  was  her  financial  counselor.  Mercury  at  2°  Leo  is  in  an 
+applying  conjunction  to  her  Sun.  This  indicates  the  many  oppor- 
+tunities she  had  to  marry,  but  chose  not  to  act  on. 
+
+<<<PAGE 53>>>
+The  Natal  Promise    /  39 
+Jacqueline  Kennedy  Onassis 
+July  28,  1929  /  2:30  p.m.  EST 
+South  Hempstead,  NY 
+
+<<<PAGE 54>>>
+40    /    The  Natal  Promise 
+Another  example  is  Grace  Kelly,  whose  Sun  at  19°  Scorpio 
+makes  only  one  applying  aspect — it  conjuncts  Mars  at  25°  Scorpio. 
+This  was  her  marriage  to  Prince  Rainier  of  Monaco.  Rainier  is  a 
+Gemini,  but  he  certainly  looks  like  he  is  Scorpio  or  Aries  rising,  de- 
+scribed by  that  Mars.  Her  Mercury  at  10°  Scorpio  is  in  an  applying 
+conjunction  to  her  Sun,  and  her  Sun  is  in  a  Grand  Water  Trine 
+with  the  Moon  and  Pluto  (both  separating  aspects).  While  these  as- 
+pects talk  about  her  opportunities  to  marry,  the  Sun  conjunct  Mars 
+was  her  one  marriage. 
+It's  important  to  realize  that  all  of  the  aspects  to  the  Sun,  both 
+applying  and  separating,  will  somewhat  describe  all  of  the  part- 
+ners, even  most  of  the  men  a  woman  attracts.  Again,  let's  look  at 
+the  applying  aspects  to  my  luminary.  The  Sun  conjunct  Neptune 
+has  been  consistently  expressed  by  the  men  with  whom  IVe  been 
+involved.  My  first  husband  has  Pisces  rising,  and  my  second  hus- 
+band's Ascendant  ruler  is  Jupiter  in  Pisces.  He  has  a  Ph.D.  in 
+chemistry.  Many  of  the  men  I  have  dated  have  fallen  into  one  of 
+two  Neptune  categories:  They've  been  either  spiritual  or  creative. 
+Many  have  been  musicians. 
+The  second  aspect  is  Sun  sextile  Pluto.  Both  of  my  husbands  are 
+powerful  men  and  have  a  certain  need  to  be  in  control.  I  did  date 
+several  Scorpio  men  (Pluto  rules  Scorpio).  All  of  the  men  I  have 
+dated  have  been  very  powerful.  Then  my  third  aspect  from  the  Sun 
+is  to  Jupiter.  The  man  I'm  married  to  now  and  with  whom  I  am  ex- 
+tremely happy  has  Sagittarius  rising.  He's  very  well  educated,  a 
+world  traveler,  and  quite  philosophical.  Both  of  my  husbands  be- 
+came very  wealthy  All  of  the  men  I  have  been  with  are  described  to 
+a  certain  extent  by  the  Sun /Jupiter  aspect.  They  are  all  travelers. 
+They  are  all  very  intelligent  and  very  spiritual  in  their  own  way. 
+With  Mercury  applying  to  the  Sun,  I  dated  several  Gemini  and 
+Virgo  men,  and  men  who  were  younger.  My  Sun  sextiles  Mars  in 
+Scorpio.  Since  the  separating  aspects  also  describe  the  men  you 
+draw  in,  that  has  worked  too.  I  have  Mars  at  5°  Scorpio.  The  men  in 
+my  life  have  been  very  sexual,  intense,  driven,  and  powerful. 
+
+<<<PAGE 55>>>
+The  Natal  Promise    /  41 
+In  a  man  s  chart,  all  of  the  aspects  to  the  Moon,  both  applying 
+and/ or  separating,  will  describe  all  of  his  women.  Again,  the  ap- 
+plying ones  will  describe  the  woman  or  women  he  marries.  All  of 
+the  women  in  a  man  s  life  will  have  qualities  and  characteristics 
+that  are  the  same.  I  have  a  client  whose  Moon  is  in  Cancer  exactly 
+conjunct  his  Pluto.  The  Moon  trines  his  Mercury  and  Sun  in  Scor- 
+pio (both  applying)  and  trines  Venus  in  Scorpio  (separating).  So, 
+three  marriages  are  promised.  With  the  Moon /Pluto  conjunction, 
+he  selects  very  powerful,  successful  women,  one  a  famous  balle- 
+rina, another  a  famous  opera  singer,  and  the  third  a  beautiful 
+model.  Because  his  Moon  is  in  Cancer,  he  wants  these  same  power- 
+ful women  to  nurture  him,  a  tricky  request  that  has  never  been  sat- 
+isfied by  any  of  his  wives.  With  the  trine  to  Mercury  and  the  Sun  in 
+Scorpio,  he  needs  them  to  be  magnetic,  intense,  verbal,  and  power- 
+ful in  their  own  right.  The  trine  to  Venus  in  Scorpio  brings  him 
+charismatic,  intuitive,  creative  women.  Uranus  squaring  his  Moon 
+has  given  him  a  restlessness  in  relationships  and  the  potential  for  a 
+sudden  split.  In  fact,  all  three  of  his  marriages  ended  in  divorce. 
+The  aspects  in  a  client's  chart  will  tell  you  about  his  or  her  po- 
+tential partners,  and  if  a  person  does  not  fit  the  profile,  the  rela- 
+tionship will  probably  not  amount  to  much.  For  instance,  if  a  man 
+has  his  Moon  square  Pluto,  every  woman  he  attracts  will  be  some- 
+what castrating,  controlling,  or  manipulative,  or  he  will  elicit  that 
+response  in  her.  The  woman  may  not  be  that  way,  but  his  behav- 
+ior will  bring  that  out  in  her,  because  that's  how  he  perceived  or 
+experienced  his  mother.  That's  all  he  knows,  and  he  will  uncon- 
+sciously act  in  ways  that  will  cause  the  familiar  response.  So  even 
+a  woman  who  is  not  at  all  inclined  to  be  controlling  may  find  her- 
+self acting  that  way.  Or  he  will  be  attracted  to  women  who  are  in- 
+deed manipulative. 
+By  the  same  token,  a  man  who  has  never  been  abusive  to  a 
+woman  in  his  life  may  find  himself  inclined  toward  more  destruc- 
+tive behavior  when  he  connects  with  a  woman  who  has  her  Mars 
+square  Pluto.  I  had  a  man  come  to  me  who  was  involved  with  a 
+woman  who  had  this  aspect,  and  he  said  that  she  brought  out  the 
+
+<<<PAGE 56>>>
+42    /    The  Natal  Promise 
+worst  in  him.  He  was  shocked  by  this  response,  because  he  had 
+never  acted  that  way  toward  a  woman  before. 
+It  is  important  for  a  woman  with  her  Mars  square  Pluto  to  find 
+a  constructive  way  to  express  this  aspect.  Otherwise  she  could  un- 
+consciously act  in  a  way  that  "pushes  her  partner's  buttons,"  or 
+she  may  unwittingly  be  attracted  to  someone  who  is  a  more  con- 
+trolling person.  This  is  only  one  of  the  ways  this  aspect  can  ex- 
+press itself,  and  I  use  it  to  illustrate  a  point.  This  does  not  happen 
+to  every  woman  with  her  Mars  square  Pluto.  It's  important  for  all 
+clients  with  this  natal  aspect  to  be  aware  that  this  tendency  is  in 
+their  chart  and  that  it's  important  to  figure  out  how  to  express  it 
+in  a  positive,  healthy  way. 
+It's  important  to  remember  that  anyone  can  have  a  successful 
+marriage  if  they  are  willing  to  do  the  work.  Negative  patterns 
+must  be  broken,  and  in  order  to  be  successful  partners,  we  must 
+work  on  ourselves.  We  are  not  stuck  with  the  natal  promise  of  our 
+chart.  There  is  always  the  potential  to  outgrow  the  more  difficult 
+aspects.  When  I  see  destructive  tendencies  in  clients,  I  encourage 
+them  to  seek  counseling  and  to  work  through  their  negativity. 
+Another  factor  to  be  aware  of  is  that  Mars  in  every  woman's 
+chart  tends  to  describe  her  lovers,  just  as  Venus  in  every  man's  chart 
+describes  the  women  to  whom  he  is  naturally  drawn.  Mars  always 
+describes  the  men  that  a  woman  will  be  physically  in  tune  with.  A 
+woman  who  has  Mars  in  Capricorn  will  be  drawn  to  men  who  have 
+position  and  status  and  who  are  also  earthy  and  sexual.  With  Mars 
+in  Leo  she  will  want  romantic,  gallant,  self-confident,  dramatic  men 
+who  are  generous  and  outgoing.  A  woman  with  Mars  in  Libra  will 
+like  men  who  are  romantic,  good-looking,  cultured,  refined,  and 
+who  have  good  taste  and  manners.  With  Mars  in  Sagittarius,  she 
+will  like  men  who  are  freewheeling,  adventurous,  philosophical, 
+smart,  and  exuberant. 
+What  kind  of  woman  will  a  man  be  attracted  to?  His  Venus  is 
+the  key.  For  example,  a  man  who  has  Venus  in  Aries  will  naturally 
+be  drawn  to  high-energy  vital,  Martian  women.  With  Venus  in 
+Gemini,  he  will  want  women  who  are  verbal,  talkative,  peppy,  coy, 
+intellectual,  and  social.  So  many  men  with  Venus  in  Gemini  have 
+
+<<<PAGE 57>>>
+The  Natal  Promise    /  43 
+said  to  me,  "Vm  involved  with  two  women.  If  I  could  just  wrap 
+them  up  into  one,  Td  be  happy."  But,  of  course,  they  could  never 
+be  happy  with  one  woman.  A  man  with  Venus  in  Taurus  will  want 
+women  who  are  earthy,  stable,  dependable,  sexual,  and  attractive, 
+and  have  the  ability  to  earn  a  good  salary.  A  man  with  Venus  in 
+Cancer  will  be  attracted  to  women  who  are  nurturing,  sensitive, 
+domestic,  and  who  will  mother  him.  A  man  with  Venus  in  Capri- 
+corn will  be  much  more  comfortable  with  women  who  have 
+achieved  and  who  have  attained  position  and  status  in  the  commu- 
+nity, or  with  women  who  come  from  a  prestigious  family  or  who 
+have  money. 
+Another  way  to  determine  what  clients  want  in  a  marriage 
+partner  is  to  look  at  the  sign  on  the  seventh  house  and  the  planet 
+ruling  the  seventh  house  and  what  kind  of  aspects  it  makes.  Those 
+aspects  add  to  the  description  of  the  type  of  person  who  will  most 
+fulfill  that  client's  expectations. 
+I  have  the  Moon  ruling  my  seventh  house.  It  conjuncts  the 
+North  Node  and  sextiles  Uranus.  It  doesn  t  make  any  bad  aspects, 
+but  I  did  get  divorced.  However,  my  ex-husband  did  not  divorce 
+me,  I  did  the  divorcing.  It's  in  a  wide  opposition  to  Mercury, 
+which  represents  all  the  younger  men  I  didn't  marry.  The  Moon  is 
+also  in  a  wide  conjunction  to  Saturn  and  it  trines  Venus.  With  the 
+Moon  conjunct  Saturn,  both  of  my  marriages  were  of  a  long  du- 
+ration. With  the  trine  to  Venus,  both  men  were  nice-looking,  well 
+dressed,  and  cultured. 
+The  sign  in  which  the  seventh-house  cusp  falls  also  indicates 
+what's  required  in  a  client's  partner.  Those  with  Gemini  on  the  De- 
+scendant want  a  partner  who  is  fun,  witty,  smart,  who  has  a  good 
+sense  of  humor,  and  who  will  entertain  them.  Those  whose  sev- 
+enth-house cusps  are  in  Virgo  want  a  partner  who  is  hard  working 
+and  practical,  and  they  also  can  be  very  picky  about  their  partners. 
+Clients  with  Aquarius  on  the  Descendant  want  someone  who  is  un- 
+usual, unique,  interesting,  and  different. 
+Planets  in  the  seventh  house  are  also  important.  They  say  much 
+about  the  client's  marriages  and  relationships.  Jupiter  in  the  seventh 
+
+<<<PAGE 58>>>
+44    /    The  Natal  Promise 
+house  can  indicate  many  marriages,  as  I  mentioned  earlier,  because 
+these  people  are  willing  to  plunge  in,  take  a  chance,  and  go  for  it. 
+Those  with  Saturn  in  the  seventh  will  be  much  more  hesitant,  fear- 
+ful, distrustful,  and  circumspect  about  a  commitment.  Saturn  in  the 
+seventh  doesn  t  necessarily  indicate  fewer  marital  opportunities,  but 
+rather  it  describes  the  person  s  reserve  and  caution.  These  people 
+think  through  all  of  the  consequences  of  marriage  and  are  not  as 
+willing  to  take  a  chance. 
+Those  with  Pluto  in  the  seventh  house  either  take  the  power  or 
+give  it  away  in  a  relationship.  Mars  in  the  seventh  indicates  action, 
+activity,  or  combat.  The  Moon  in  the  seventh  creates  fluctuations 
+in  relationships  and  strong  emotions. 
+Another  thing  I  look  at  to  see  if  the  person  can  have  a  success- 
+ful marriage  or  not  is  the  relationship  between  the  rulers  of  the 
+first  and  seventh  houses.  Are  they  conjunct?  Are  they  trine  or  sex- 
+tile?  Are  they  square  or  opposed  to  one  another?  The  rulers  of  my 
+first  and  seventh  houses  are  in  the  same  sign  (Aquarius),  so  I  have 
+long-lasting  alliances.  With  the  Moon,  ruler  of  my  seventh,  con- 
+junct Saturn,  the  ruler  of  my  first,  I  feel  like  my  husband  will  never 
+leave  me.  I  feel  very  secure  when  Tm  married  to  someone.  With 
+the  ruler  of  the  first  and  the  seventh  trining,  it's  a  very  comfort- 
+able, easy  union.  With  a  square  or  opposition,  it  can  work,  but 
+problems  will  always  come  up. 
+Clients  who  have  been  married  once  don  t  need  as  much 
+"push"  from  the  heavens  to  marry  a  second  time.  If  they  have 
+been  married  twice,  they  need  even  less  incentive.  If  they Ve  been 
+married  three  times,  they  need  very  little  to  trigger  another  union 
+(a  progression  and  a  transit  will  do  it).  And  as  we  Ve  discussed,  if  a 
+client  has  Sagittarius  on  the  seventh-house  cusp  or  Jupiter  con- 
+nected to  the  seventh  house,  his  or  her  optimism  will  expand  mar- 
+riage possibilities.  Of  course,  an  afflicted  Jupiter  or  Jupiter  retro- 
+grade can  alter  this.  Those  are  important  factors  to  look  at  when 
+predicting  a  marriage.  The  astrologer  must  zero  in  on  the  natal 
+potential  first  and  then  look  to  see  what's  going  on  with  the  pro- 
+
+<<<PAGE 59>>>
+The  Natal  Promise    /  45 
+gressions  and  transits.  If  it  isn't  promised  natally,  it  won  t  happen 
+no  matter  what  is  going  on  by  progression  or  transit. 
+Clients  in  their  40s  or  50s  who  have  never  been  married  need  a 
+lot  to  pull  it  off.  If  their  chart  does  not  easily  promise  marriage,  I 
+usually  find  they  really  don't  want  one.  (It  is  just  like  a  person  who 
+has  a  progressed  Venus  square  Mars  or  progressed  Venus  square 
+Saturn.  Love  and  relationships  are  often  the  last  thing  they  want  at 
+that  point  in  time.)  Occasionally  IVe  still  seen  marriage  happen; 
+however,  they  will  need  several  progressions,  reinforcing  transits, 
+and  an  eclipse  activating  the  appropriate  parts  of  the  chart.  They 
+will  need  a  lot  to  bring  it  about,  and  they  will  have  to  want  it. 
+There  are  other  ways  to  see  the  potential  for  more  than  one 
+marriage.  Having  mutable  signs  (Gemini,  Virgo,  Sagittarius,  and 
+Pisces)  on  the  first  and  seventh-house  axis  usually  indicates  more 
+than  one  marriage.  An  interception  in  the  seventh  house  can  be  an- 
+other marriage,  and  that  intercepted  sign  might  really  describe  the 
+partner.  For  instance,  if  Leo  is  intercepted  in  the  seventh  in  a 
+client's  chart,  he  or  she  may  attract  someone  whose  Sun  or  Moon 
+is  in  Leo.  I  remember  the  late  astrologer  Katherine  De  Jersey  telling 
+me,  "Oh,  I  know  you'll  marry  a  second  time."  I  said,  "Well,  my  Sun 
+makes  three  applying  aspects."  She  said,  "Yes,  but  you  also  have  an 
+intercepted  seventh  house.  People  with  intercepted  seventh  houses 
+almost  always  marry  twice." 
+Another  point  that  seems  to  be  up  for  discussion  among  as- 
+trologers is  which  houses  describe  the  second,  third,  and  fourth 
+marriages.  Everyone  agrees  that  the  seventh  house  is  the  first 
+union,  but  when  it  comes  to  more  than  one  marriage,  I  have  my 
+own  system  to  determine  which  houses  to  look  at.  This  system  is 
+based  on  what  the  late  Louise  Ivy  taught  me.  (She  was  one  of  my 
+mentors  and  was  a  very  wise  astrologer.)  The  second  marriage, 
+she  said,  is  the  eleventh  house.  Her  reasoning  was  (and  this  is  very 
+moralistic  logic),  when  you  marry  someone,  it's  a  union  forever. 
+Any  marriage  after  the  first  is  really  a  love  affair.  So  Ivy  would 
+count  five  houses  away  from  the  seventh  house  to  the  second 
+marriage.  By  the  same  logic,  the  third  marriage  is  five  houses 
+
+<<<PAGE 60>>>
+46    /    The  Natal  Promise 
+away  from  the  eleventh  and  is  represented  by  the  third  house.  I 
+have  found  that  her  premise  does  work.  But  for  any  marriage  an 
+astrologer  must  always  look  first  to  the  seventh  house,  because 
+that  house  will  always  set  the  tone  for  any  marriage  and  express 
+basic  needs  for  partnerships. 
+Many  astrologers  look  at  the  ninth  house  to  indicate  the  second 
+marriage.  I  think  the  reason  they  go  to  the  ninth  is  because  mar- 
+riage is  a  legal  matter.  Because  marriage  means  legalizing  a  union, 
+this  house  will  be  active.  But  I  am  inclined  to  describe  the  second 
+marriage  by  the  eleventh  house.  It  describes  the  second  marriage 
+and  the  second  husband.  This  has  been  true  in  my  own  life.  I  have 
+Jupiter  ruling  the  eleventh,  and  my  second  husband  is  so  Jovian — 
+well  educated,  spiritual,  and  optimistic.  In  fact,  the  cusp  of  my 
+eleventh  house  is  in  the  same  sign  and  degree  as  his  first  house.  I 
+have  seen  clients  with  Capricorn  on  the  eleventh  marry  much 
+older  business  types  or  Capricorns.  I  have  a  client  whose  eleventh- 
+house  cusp  is  at  29°  Cancer,  which  is  the  millionaire's  degree,  and 
+her  second  husband  is  a  millionaire  with  his  Sun  in  Cancer.  Some- 
+times astrology  is  so  very  literal  that  I'm  stunned  by  it. 
+If  there  are  no  applying  aspects  to  the  Sun  or  Moon  in  a  chart, 
+or  if  the  luminary  is  in  a  late  degree  (27°,  28°,  or  29°),  I  have  found 
+that  anything  can  happen  when  it  comes  to  marriage.  It's  truly  up 
+to  the  person  to  realize  the  potential.  I  do  consider  27°,  28°,  and 
+29°  to  be  very  special  degrees.  I  call  them  "wild-card"  degrees.  I 
+feel  that  clients  can  get  anything  out  of  this  placement  that  they 
+want  if  they  are  willing  to  go  for  it. 
+Divorce 
+Another  issue  clients  frequently  ask  about  is  divorce.  Many  times, 
+getting  divorced  is  a  lot  harder  than  getting  married.  Clients  need 
+divorce  potential  in  their  chart,  especially  if  they  have  a  lot  of  fixed 
+signs  natally.  Divorce  has  to  be  promised  natally.  I  have  had  a  num- 
+ber of  people  come  to  me  who  were  unhappily  married  but  who 
+had  no  promise  for  divorce  in  their  natal  chart.  These  individuals 
+
+<<<PAGE 61>>>
+The  Natal  Promise    /  47 
+were  miserable  in  their  marriages  but  couldn't  seem  to  get  out.  I 
+have  seen  them  separate  for  a  while  but  they  end  up  getting  back 
+together  and  stay  locked  in  an  unhappy  state. 
+Let's  examine  what  indicates  the  potential  for  divorce  in  a  chart. 
+Classic  Natal  Indicators  of  Divorce 
+•  Uranus  connected  to  the  seventh  house  in  some  way:  either 
+ruling  the  seventh,  in  the  seventh,  or  aspecting  the  ruler  of 
+the  seventh. 
+•  Strong  natal  Uranus  aspects  in  the  chart.  Uranus  is  a  selfish 
+planet.  It  wants  things  on  its  own  terms,  so  a  person  with 
+strong  Uranus  energy  can  have  a  difficult  time  understanding 
+what  he  or  she  needs  to  do  to  make  an  intimate  relationship 
+work. 
+•  Venus,  Mars,  or  the  Sun  in  hard  natal  aspect  (square  or  oppo- 
+sition) to  Uranus. 
+•  The  Sun  square  the  Moon  natally. 
+•  Venus  square  Mars  natally. 
+•  The  rulers  of  the  first  and  the  seventh  houses  square  to  each 
+other  natally 
+•  A  strong  natal  Pluto  influence  can  certainly  create  power 
+struggles.  Strong  natal  Neptune  influences  indicate  deception 
+and  self-delusion.  A  prominent  Uranus  pushes  the  person  to 
+be  free  and  live  life  on  his  or  her  own  terms. 
+Here  are  some  other  factors  to  take  into  consideration  when  de- 
+termining the  potential  for  divorce: 
+Uranus  in  some  way,  shape,  or  form  is  usually  involved  with  di- 
+vorce. Pluto  breaks  down  and  rebuilds,  and  Neptune  dissolves,  but 
+it's  Uranus  or  Aquarius  that  breaks  out,  breaks  free,  and  wants  to 
+do  it's  own  thing.  It  doesn't  want  to  be  encumbered.  Rarely  will 
+anyone  ever  get  divorced  without  heavy-duty  Uranus  activation, 
+and  that  will  show  in  the  natal  chart  as  well  as  in  progressions  and 
+transits  for  that  time.  Also,  divorce  has  got  to  show  somehow  in 
+
+<<<PAGE 62>>>
+48    /    The  Natal  Promise 
+the  seventh  house,  or  be  tied  to  the  seventh  house  or  to  the  sev- 
+enth-house ruler. 
+Uranus  involved  in  a  transit  or  progression  can  trigger  a  split. 
+When  Venus  or  the  Sun  comes  up  and  squares  Uranus,  that's 
+often  when  the  natal  promise  of  divorce  will  manifest. 
+When  any  personal  planet  (Sun,  Mercury,  Venus,  or  Mars) 
+comes  up  by  progression  into  hard  aspect  to  Uranus,  it  can  trigger 
+a  divorce.  Again,  it  has  to  be  promised  natally.  If  divorce  is  not 
+promised,  it  could  be  a  time  of  separation  for  the  couple.  It  could 
+be  a  time  when  careers  force  them  to  have  a  bicoastal  relationship. 
+What  happens  for  the  person  is  a  very  big  change  in  the  area  that 
+the  planet  represents.  With  the  Sun  it's  an  ego  shift,  with  Mercury 
+it's  a  change  in  mental  attitude,  with  Venus  it's  a  modification  of 
+emotions  and  love,  and  with  Mars  it's  a  need  to  feel  and  be  free  in 
+how  the  person  does  things.  Often  the  person  changes  so  dramat- 
+ically that  a  rift  forms  that  cannot  be  repaired. 
+A  transit  of  Saturn,  Uranus,  Neptune,  or  Pluto  through  the  first 
+or  seventh  house  will  cause  people  to  reevaluate  themselves  or 
+their  relationships.  If  one  of  these  planets  transits  the  first  house, 
+the  person  will  undergo  tremendous  personal  changes  that  will  im- 
+pact their  close  partnerships  or  friendships.  If  it  goes  through  the 
+seventh,  the  person  will  reevaluate  his  or  her  relationships.  If  there 
+is  a  natal  promise  for  divorce,  again  this  is  the  time  it  could  happen. 
+An  intercepted  seventh  house  means  the  person  could  be  mar- 
+ried more  than  once.  It  doesn't  necessarily  mean  divorce.  The  per- 
+son could  become  a  widow  or  widower. 
+When  clients  want  to  know  about  divorce,  something  is  usu- 
+ally happening  in  their  chart  or  their  spouse's  chart  causing  them 
+to  question  their  marriage  or  putting  their  marriage  on  the  line. 
+They  may  be  experiencing  a  Saturn,  Uranus,  Neptune,  or  Pluto 
+transit  through  their  first  or  seventh  house,  shaking  up  the 
+Me /You  axis.  Or  they  may  have  Venus  square  Mars  by  progres- 
+sion, a  classic  divorce  aspect.  They  may  have  a  square  betv,^een  the 
+rulers  of  the  first  and  seventh  houses,  either  natally  or  by  progres- 
+sion, being  triggered,  another  classic  divorce  aspect.  Or  they  may 
+have  a  personal  planet  that  progresses  into  hard  aspect  to  Uranus. 
+
+<<<PAGE 63>>>
+The  Natal  Promise   /  49 
+Any  of  these  can  cause  clients  to  seriously  question  their  marriage 
+and  commitment  to  it. 
+If  a  personal  planet  progresses  into  hard  aspect  to  Neptune,  dis- 
+illusionment with  the  marriage  often  takes  place,  and  the  person 
+feels  he  or  she  cannot  stay.  If  a  personal  planet  makes  a  harsh  as- 
+pect to  Pluto,  the  power  struggles  become  too  intense  to  endure. 
+If  divorce  is  not  promised  natally,  your  client  will  most  likely 
+work  through  these  difficult  aspects.  People  with  fixed  angles,  es- 
+pecially Taurus/ Scorpio  on  the  first  and  seventh  houses,  find  it  al- 
+most impossible  to  leave  a  marriage.  It  is  a  'til-death-do-us-part  ex- 
+perience for  them. 
+I  had  a  client  who  had  fixed  angles.  Along  with  this,  her  natal 
+chart  had  Venus  sextile  Mars  (the  natural  rulers  of  the  first  and 
+seventh  houses),  the  Sun  trine  Moon,  and  the  rulers  of  the  first 
+and  seventh  houses  in  harmony.  Even  though  she  was  having 
+some  very  difficult  transits  and  progressions  that  were  causing  her 
+to  think  seriously  about  divorce,  I  thought  it  was  very  unlikely 
+that  she  would  get  divorced,  because  divorce  is  not  promised  in 
+her  chart.  Her  chart  is  all  about  being  positive,  constructive,  and 
+making  her  marriage  work,  and  that  is  what  she  did. 
+On  the  other  hand,  if  a  client  has  an  afflicted  Uranus  or  disrup- 
+tive relationship  aspects,  and  he  or  she  experiences  the  exact  same 
+transits  and  progressions,  divorce  will  follow.  Again,  it  goes  back 
+to  the  natal  promise. 
+Elizabeth  Taylor's  chart  is  a  good  example  of  someone  with 
+the  natal  promise  for  divorce.  She  has  Venus  conjunct  Uranus  in 
+the  seventh  house.  She  has  been  divorced  seven  times  and  wid- 
+owed once.  Every  time  this  conjunction  is  heavily  triggered,  she 
+gets  a  divorce.  She  doesn't  need  much  activation  to  break  out, 
+break  free,  and  do  her  own  thing.  Elizabeth's  chart  is  a  classic  di- 
+vorce chart.  She  has  cardinal  signs  (Libra  and  Aries)  on  the  cusps 
+of  her  first  and  seventh  houses,  so  she  rushes  into  marriage  and 
+gets  bored  easily.  She  also  has  a  lot  of  applying  aspects  to  her  Sun, 
+so  she  intuitively  knows  there  will  always  be  another  man.  With 
+her  Sun  opposed  Neptune,  she  doesn  t  have  the  best  judgment 
+
+<<<PAGE 64>>>
+50    /    The  Natal  Promise 
+when  it  comes  to  men,  but  this  aspect  does  indicate  tremendous 
+charisma  and  magnetism.  She  can  attract  men  and  she  knows  it. 
+In  general,  it  has  been  my  observation  that  cardinal  (Aries,  Can- 
+cer, Libra,  and  Capricorn)  people  divorce  very  quickly  and  don't 
+look  back. 
+We Ve  talked  a  lot  about  Uranus  being  disruptive  in  marriage, 
+but  I  do  have  a  client  who  has  Uranus  in  the  seventh  house  who 
+has  a  very  successful  marriage.  It  is  a  relationship  that  is  very  in- 
+dependent, unique,  and  different.  She  and  her  husband  lead  very 
+separate  lives.  So  it  is  very  possible  to  have  Uranus  in  the  seventh 
+house  and  have  a  successful  marriage.  She  found  a  man  who  was 
+happy  to  let  her  do  her  own  thing.  They  both  travel  in  different  di- 
+rections for  their  jobs,  and  even  though  they  lead  very  indepen- 
+dent lives,  when  they  do  come  together  they  complement  each 
+other  well. 
+Venus  square  Pluto  can  promise  divorce.  It's  not  always  a  di- 
+vorce aspect,  but  it  does  create  very  intense  responses  to  relation- 
+ships. If  it  is  a  Pluto-influenced  divorce,  when  the  marriage  is  over 
+it  is  really  over.  It's  so  dead  there's  no  way  to  ever  breathe  any  life 
+into  it  again,  even  as  friends. 
+The  Sun  square  Moon  is  another  aspect  that  can  indicate  di- 
+vorce. The  masculine  and  feminine  principles  within  the  person 
+are  in  disharmony.  Many  times  the  client  did  not  see  a  positive 
+role  model  for  marriage  in  his  or  her  parents'  relationship.  Again, 
+this  is  not  an  aspect  that's  about  divorce  per  se.  It's  more  about  an 
+inner  struggle  that  can  spill  over  into  personal  relationships.  I  have 
+seen  people  with  the  Sun  square  Moon  who  never  divorce,  but 
+they  must  come  to  terms  with  themselves  and  the  way  they  ex- 
+press themselves  with  others. 
+Venus  square  Mars  is  yet  another  potential  divorce  aspect. 
+Venus  and  Mars  are  the  natural  rulers  of  the  first  and  seventh 
+houses,  which  are  all  about  getting  along.  When  they  are  square, 
+there  is  a  challenge.  Many  times  it  indicates  an  unhappy  marriage, 
+or  needs  not  being  met,  or  strife.  People  with  this  placement  tend 
+to  choose  partners  who  meet  either  their  emotional  needs  or  their 
+sexual  needs,  but  not  both.  Their  need  for  love  may  be  out  of  sync 
+
+<<<PAGE 65>>>
+The  Natal  Promise   /  51 
+with  their  sexual  desires  or  their  outward  actions  may  be  just  the 
+opposite  of  their  inner  needs,  so  a  person  with  this  placement 
+might  act  distant  or  aloof,  yet  really  want  intimacy 
+Most  often  the  key  planet  for  divorce  is  Uranus.  Uranus  has  to 
+make  a  strong  statement  both  natally  and  by  progression  in  the 
+client  s  chart.  If  it  does  not,  the  prospect  for  divorce  is  not  as  likely. 
+Other  Factors  in  Divorce 
+Many  times  people  think  about  getting  a  divorce  when  they  are 
+ready  to  begin  a  new  cycle.  That  can  be  when  the  progressed  Sun 
+or  Venus  is  at  28°  or  29°  and  is  getting  ready  to  enter  a  new  sign. 
+The  person  is  ready  to  make  a  big  change  in  life,  which  can  affect 
+all  close  personal  relationships. 
+When  there  is  a  heavy  planet  (Jupiter,  Saturn,  Uranus,  Nep- 
+tune, or  Pluto)  transiting  the  first  or  seventh  house,  the  person 
+and  the  marriage  do  not  remain  the  same.  The  person  and  the 
+partnership  will  go  through  monumental  changes. 
+When  people  have  the  nodes  in  the  first  and  seventh  houses, 
+they're  supposed  to  work  on  marriage  and  relationship  issues,  par- 
+ticularly if  it  is  the  North  Node  in  the  seventh.  The  South  Node  is 
+what  a  person  is  comfortable  with  and  the  North  Node  is  what  a 
+person  is  in  the  process  of  defining.  Those  with  the  South  Node  in 
+the  seventh  know  how  to  "do''  relationships.  Those  with  the  North 
+Node  in  the  seventh  know  how  to  be  alone,  but  don't  have  the  abil- 
+ity to  be  a  partner.  They  can  have  a  very  difficult  time  in  relation- 
+ships early  in  life  because  they  don't  know  how  to  do  it.  They  have 
+always  been  loners  in  past  lives.  Those  with  the  South  Node  in  the 
+seventh  will  live  vicariously  through  their  partner  instead  of  work- 
+ing on  their  own  identity.  It  is  important  for  clients  to  learn  to  bal- 
+ance their  nodes. 
+I've  seen  people  have  long-standing  relationships  with  partners 
+whose  signs  on  the  first  and  seventh  axis  are  the  reverse  of  theirs. 
+For  example,  a  person  with  Cancer  rising  and  Capricorn  on  the 
+seventh  would  be  very  tied  to  a  person  with  Capricorn  rising  and 
+Cancer  on  the  seventh-house  cusp.  These  two  signs  are  an  astro- 
+logical pair.  Together,  they  form  a  complete  unit,  a  whole.  Their 
+
+<<<PAGE 66>>>
+52    /    The  Natal  Promise 
+charts  are  in  sync,  as  is  their  approach  to  life.  It's  very  hard  to  break 
+this  type  of  tie.  It  is  a  very  strong  link  between  the  two  people.  If 
+fixed  signs  are  involved,  the  couple  rarely  break  the  bond. 
+Many  times  the  degrees  will  indicate  exact  time  frames.  It  can 
+be  very  literal  and  accurate.  For  example,  natally  I  have  Pluto  in 
+the  seventh  house  at  24°  Cancer  square  Uranus.  Guess  how  long  I 
+was  married  the  first  time?  Twenty-four  years.  Degrees  can  indi- 
+cate age,  too,  but  more  commonly,  they  indicate  time.  I  have  a 
+client  for  whom  the  degrees  indicated  age.  Twenty- two  degrees  of 
+Aries  is  on  her  seventh-house  cusp,  and  that  was  her  age  when  she 
+got  married  the  first  time.  When  she  turned  fifty-two,  she  mar- 
+ried for  the  second  time.  This  is  something  I  make  note  of  I  have 
+also  seen  this  type  of  thing  present  with  divorce. 
+Uranus  squaring  Pluto  in  my  seventh  house  is  clearly  my  di- 
+vorce aspect.  It's  interesting,  though,  because  I  went  to  several  as- 
+trologers, and  I  can  remember  them  saying,  "You'll  never  get  di- 
+vorced." Part  of  me  wanted  to  get  divorced.  That's  what  I  wanted 
+to  hear.  But  my  chart  indicated  that  it  just  wasn't  something  that 
+would  happen  easily,  lightly,  or  without  a  lot  of  aggravation,  be- 
+cause it  involved  Pluto. 
+I  had  one  client  who  consulted  me  for  years.  He  had  Uranus 
+conjunct  his  Ascendant,  and  every  time  a  progressed  planet  as- 
+pected  his  natal  Uranus,  he  responded  to  that  energy  by  getting 
+divorced.  He  came  to  me  with  his  first  divorce  when  progressed 
+Venus  squared  natal  Uranus.  He  got  married  again.  Then  pro- 
+gressed Mars  moved  up  and  squared  Uranus,  and  he  divorced 
+again.  Then  his  progressed  Sun  moved  up  and  squared  Uranus.  Re- 
+cently I  heard  from  him  and  he's  getting  divorced  for  a  third  time. 
+In  his  chart,  Venus,  Mars,  or  the  Sun  to  Uranus  triggered  divorce. 
+Any  one  of  these  is  a  classic  divorce  aspect. 
+Children 
+The  number  of  children  promised  in  the  chart  is  not  necessarily 
+the  number  you  will  elect  to  have.  With  the  invention  of  birth 
+control,  couples  are  not  having  all  the  children  promised  in  either 
+
+<<<PAGE 67>>>
+The  Natal  Promise    /  53 
+the  woman's  or  the  man's  chart.  I  have  five  applying  aspects  to  the 
+ruler  of  my  fifth  house,  and  I  had  five  children.  I  see  people  with 
+the  same  setup  who  won  t  have  a  lot  of  children.  The  couple  will 
+decide  not  to  have  a  large  family.  However,  they  can  usually  get 
+pregnant  whenever  they  want  to.  They  are  fertile,  but  they  are 
+using  birth  control.  I  didn't  use  birth  control,  so  I  manifested  all 
+that  energy.  The  number  of  applying  aspects  to  the  fifth-house 
+ruler  is  the  potential  number  of  children  you  can  have.  It  works 
+the  same  way  as  the  applying  aspects  to  the  Sun  or  Moon.  Re- 
+member that  the  number  of  applying  aspects  to  the  luminary  in- 
+dicates the  number  of  potential  marriages,  but  is  not  necessarily 
+the  number  of  marriages  the  person  will  elect  to  have. 
+Here's  how  the  ruler  of  my  fifth  house  promises  five  children: 
+I  have  Gemini  on  the  fifth  house,  and  Mercury,  my  fifth-house 
+ruler,  is  at  1°  Virgo.  Before  it  leaves  the  sign,  it  applies  in  sextile  as- 
+pect to  my  Mars  in  Scorpio.  It  makes  a  conjunction  to  my  Virgo 
+Sun  and  a  conjunction  to  Neptune  in  Virgo.  It  then  applies  in  sex- 
+tile  aspect  to  Pluto  in  Cancer,  and  the  last  applying  aspect  it  makes 
+is  a  conjunction  to  Jupiter  in  Virgo.  The  aspects  Mercury  makes 
+actually  describe  all  of  my  children — the  planets  involved  in  these 
+aspects,  the  signs  they  are  in,  and  the  signs  they  naturally  rule. 
+Let's  look  at  how  this  works: 
+•  My  oldest  child  has  her  Cancer  Sun  conjunct  Jupiter,  with 
+her  Moon  in  Pisces,  and  Gemini  rising.  Her  Ascendant  is  at 
+the  same  degree  of  Gemini  as  my  fifth-house  cusp.  The  fifth 
+house  always  represents  your  first  child. 
+•  My  second  child  is  a  Virgo  with  his  Moon  in  Sagittarius  and 
+Sagittarius  rising.  His  father  has  Pisces  rising  with  Virgo  on 
+the  seventh-house  cusp,  and  my  son's  Sun  falls  in  his  father's 
+seventh  house.  They  are  business  partners.  Often  a  woman's 
+second  child  is  more  like  her  husband  (the  seventh  house  rep- 
+resents both  the  first  husband  and  the  second  child). 
+•  My  third  child  is  an  Aries  with  the  Moon  in  Sagittarius  and 
+Virgo  rising.  I  have  Mars  in  my  ninth  house,  and  that  house 
+represents  the  third  child. 
+
+<<<PAGE 68>>>
+54    /    The  Natal  Promise 
+•  My  fourth  child  is  a  Virgo  with  her  Moon  in  Cancer  and  Libra 
+rising.  The  ruler  of  her  Sun,  Mercury,  is  at  27°  Virgo.  This  is 
+so  interesting  because  the  ruler  of  my  eleventh  house  is 
+Jupiter  at  27°  Virgo.  The  eleventh  house  designates  the  fourth 
+child.  I  find  this  to  be  an  amazing  connection. 
+•  My  fifth  child  is  a  Sagittarius  with  the  Moon  in  Gemini  and 
+Capricorn  rising.  Often  the  fifth  child  can  be  more  like  you 
+because  this  child  is  represented  by  your  first  house,  or  As- 
+cendant. We  both  have  Capricorn  rising  and  are  very  much 
+alike. 
+If  you  have  planets  in  the  fifth  house,  they  will  describe  your  chil- 
+dren in  the  same  w^ay  the  aspects  to  my  Mercury  describe  mine.  A 
+lot  of  times  people  will  have  two  planets  in  the  fifth  house  and 
+will  have  rvv^o  children.  Each  planet  will  describe  one  of  the  chil- 
+dren. I  have  seen  people  with  their  Sun  in  the  fifth  have  a  Leo 
+child.  Many  times  that  child  will  be  the  central  focus  of  their  lives. 
+That  child  could  be  also  be  famous,  remarkable,  or  stand  out  in 
+some  way.  For  instance,  I  have  a  friend  whose  Sun  is  in  the  fifth 
+and  her  child  went  to  West  Point  and  will  probably  have  an  excep- 
+tional military  career.  I  have  seen  people  with  Gemini  on  the  fifth- 
+house  cusp  or  Gemini  prominent  who  have  had  twins.  Again, 
+sometimes  astrology  is  so  literal  and  so  easy  that  it  stuns  me. 
+Other  times,  it's  hard  and  frustrating. 
+I  have  several  friends  who  have  ten  and  twelve  children.  That's 
+when  the  rules  for  determining  the  number  of  children  are  bro- 
+ken. There's  no  way  you  can  have  ten  or  twelve  applying  aspects 
+to  the  ruler  of  the  fifth  house,  but  what  I  have  observed  with 
+many  of  these  women  is  that  Jupiter  is  in  their  fifth  house  or 
+strongly  connected  to  the  ruler  of  the  fifth.  In  my  generation 
+there  were  a  lot  of  people  who  had  large  families,  and  they  ex- 
+pressed every  applying  aspect  to  the  ruler  of  their  fifth,  or  they  let 
+their  fifth-house  Jupiter  fully  manifest  itself  Today  people  are 
+making  different  choices  and  decisions.  While  they  might  have 
+those  aspects,  they're  exercising  free  will  and  choosing  to  limit 
+their  families. 
+
+<<<PAGE 69>>>
+The  Natal  Promise    /  55 
+If  it's  a  client's  first  marriage,  I  look  to  the  eleventh  house  for 
+adopted  children  or  stepchildren.  The  eleventh  house  will  de- 
+scribe the  client's  relationship  with  those  children,  and  it  will  also 
+describe  the  first  of  these  children.  Count  around  the  wheel  to 
+every  other  house  for  each  successive  child.  The  second  adopted 
+child  or  stepchild  will  be  defined  by  the  first  house,  the  third  by 
+the  third  house,  and  so  forth. 
+For  grandchildren,  I  look  to  the  ninth  house.  Because  it  is  five 
+houses  from  my  fifth  house  of  children,  it  will  describe  my  chil- 
+dren's children.  I  have  Libra  on  my  ninth-house  cusp  and  Mars  in 
+Scorpio  in  the  ninth.  I  have  nine  grandchildren  and  aU  are  attractive, 
+athletic,  and  energetic.  Each  one  of  them  has  Libra,  Scorpio,  or 
+Aries  prominent.  The  sign  on  my  ninth-house  cusp  and  the  planet 
+in  it  (Mars)  describe  all  of  them.  Further,  the  ninth  house  specifi- 
+cally describes  my  first  grandchild.  I  then  go  around  the  wheel  to 
+every  other  house  to  describe  each  grandchild  in  turn.  So  the  sec- 
+ond grandchild  will  be  described  by  my  eleventh  house,  and  so 
+forth. 
+Wealth /Money 
+Many  clients  ask  about  money.  They  want  to  know  if  they  will  in- 
+herit money  or  if  they  will  make  money.  Income  and  inheritances 
+are  shown  by  the  second  and  eighth  houses,  respectively.  Uranus, 
+Neptune,  or  Pluto  in  positive  aspect  to  Venus  and/  or  Jupiter  can 
+bring  wealth.  Uranus  to  Jupiter  or  Venus  can  be  some  sudden,  un- 
+expected windfall.  I  have  seen  lottery  winners  with  a  combination 
+of  these  aspects.  Neptune  is  more  cumulative.  If  a  client  has  good 
+Neptune /Jupiter  connections,  he  or  she  seems  to  be  able  to  mani- 
+fest money.  The  client  knows  he  or  she  is  going  to  be  rich,  so  it 
+happens.  Faith  and  beliefs  seem  to  materialize  wealth.  As  the  nat- 
+ural ruler  of  the  eighth  house,  Pluto  can  bring  inherited  wealth.  It 
+can  indicate  great  wealth.  You'll  see  many  multimillionaire  charts 
+with  Pluto /Jupiter  or  Pluto /Venus  connections,  and  many  times 
+their  money  is  inherited.  I  have  a  client  who  has  a  strong  Pluto  / 
+Jupiter  connection,  and  her  fortune  came  to  her  in  a  fascinating 
+
+<<<PAGE 70>>>
+56    /    The  Natal  Promise 
+way.  She  worked  for  a  start-up  company  and  her  employer  couldn't 
+pay  her,  so  he  kept  giving  her  stock  in  the  firm.  The  business  grew 
+very  quickly  and  the  stock  ended  up  being  worth  hundreds  of  mil- 
+lions of  dollars.  It  wasn't  exactly  an  inheritance,  and  it  wasn't  a  typ- 
+ical way  of  creating  wealth,  but  it  was  certainly  a  bonanza.  At  one 
+point,  she  was  the  highest-paid  woman  executive  in  the  United 
+States. 
+I  believe  Jupiter  trine  Saturn  and  even  Jupiter  square  Saturn 
+can  bring  wealth.  Many  times  if  these  planets  are  in  Cancer  or 
+Capricorn,  wealth  can  come  through  property  or  real  estate.  A 
+client  of  mine  has  his  Sun  and  Venus  in  the  second  house  squaring 
+Saturn.  He  has  an  enormous  capacity  for  hard  work  and  is  very 
+disciplined.  His  Sun  and  Venus  are  also  trine  Jupiter,  and  he  is 
+often  in  the  right  place  at  the  right  time.  He  has  both  a  positive 
+and  a  negative  aspect,  a  trine  and  a  square.  The  square  is  hard 
+work,  tension,  and  drive.  The  trine  is  luck  and  the  ability  to  seize 
+the  right  opportunity  at  the  right  moment.  He  made  his  money  in 
+real  estate,  through  a  lucky  partnership,  because  Jupiter  is  trining 
+the  Sun  and  Venus  from  the  seventh  house.  The  hard  work  in- 
+volved was  described  by  the  Saturn  square. 
+If  an  astrologer  sees  the  Sun  in  the  second  house  and  making 
+several  aspects  in  a  client's  chart,  that  person  must  make  money. 
+These  clients  will  not  find  satisfaction  or  individuality  until  they 
+create  wealth.  With  the  Sun  in  the  second  house,  they  are  more 
+likely  to  do  it  themselves.  Planets  in  the  second  house  indicate  ac- 
+tivity around  earning  money  and  spending  it.  The  Sun  in  the  sec- 
+ond house  appears  in  many  millionaires'  charts.  These  are  people 
+who  work  hard  to  make  it,  and  I've  seen  success  with  both  good 
+and  difficult  aspects  to  the  Sun. 
+An  unaspected  Sun  in  the  second  house  means  the  client  is 
+more  limited  in  ability  to  make  money  than  if  he  or  she  has  many 
+aspects.  A  transit  or  progression  to  the  Sun  would  be  needed  to 
+bring  out  some  of  the  planet's  ability  to  make  money.  A  chart  is  a 
+stagnant  thing.  It  shows  promise,  but  it  needs  something  to  excite 
+it,  stimulate  it,  bring  it  alive,  and  set  the  stage.  The  transits  excite 
+it  and  stimulate  it.  The  progressions  set  the  stage.  The  chart  itself 
+
+<<<PAGE 71>>>
+The  Natal  Promise    /  57 
+is  quiet  without  them.  As  the  planets  move  through  the  heavens, 
+an  unaspected  Sun  is  going  to  be  lit  up  some  of  the  time,  even 
+though  it  has  no  natal  aspects  to  it.  A  person  v^ith  any  unaspected 
+planet  doesn  t  have  access  to  the  energy  of  that  planet  as  often  as 
+if  it  were  an  aspected  planet.  Think  of  it  this  way:  Every  time  a 
+planet  is  triggered,  all  the  other  planets  in  aspect  to  it  are  trig- 
+gered, too.  A  series  of  events  occurs.  It's  the  aspects  that  trigger 
+the  energies  of  the  planets. 
+Another  good  stimulus  for  making  money  is  having  the  Sun  in 
+one  of  the  angular  houses.  An  angular  Sun  must  express  itself 
+publicly  and  there  will  be  the  push  to  "make  it."  The  Sun  in  the 
+first  house  can  enable  the  individual  to  personally  create  wealth. 
+This  is  someone  who  has  a  strong  personality.  If  this  person  con- 
+centrates on  making  money,  he  or  she  will  be  successful.  If  the  Sun 
+is  in  the  fourth  house,  destiny  and  family  will  help  propel  the  per- 
+son to  succeed.  He  or  she  may  inherit  a  family  business,  property, 
+or  wealth.  When  the  Sun  is  in  the  seventh,  success  comes  through 
+partnerships,  relationships,  and  patronage.  Someone  with  the  Sun 
+in  the  tenth  house  will  attract  a  lot  of  career  opportunities.  This  is 
+an  individual  who  has  a  lot  of  ambition  and  a  need  for  power  and 
+status.  Career  is  everything  to  this  person. 
+The  eighth  house  is  also  important  for  wealth.  This  house  rep- 
+resents joint  finances,  shared  resources,  taxes,  insurance,  business 
+mergers,  a  partner  s  money,  other  people's  money,  invested  money, 
+and  inherited  money.  People  with  this  placement  can  accumulate 
+wealth  through  investments.  They  can  also  marry  wealth  or  in- 
+herit it.  If  a  woman  has  her  Sun  in  the  eighth  house,  money  could 
+come  through  her  husband  or  business  partner.  Her  chart  can 
+help  her  husband  make  money,  but  it  can  come  through  other 
+things,  too.  A  person  with  a  weak  fifth  house  (house  of  specula- 
+tion) but  a  strong  eighth  house  should  not  make  investments 
+without  advice.  I  have  a  client  who  has  an  afflicted  fifth-house 
+ruler,  but  a  very  good  eighth  house.  She  cannot  speculate  with 
+money  herself  If  she  picks  a  stock,  it  usually  doesn't  do  well  even 
+if  all  the  forecasts  are  promising.  However,  if  she  uses  her  eighth 
+
+<<<PAGE 72>>>
+58    /    The  Natal  Promise 
+house  by  getting  an  investment  counselor  to  handle  her  money, 
+she  does  very  well  in  the  marketplace. 
+When  I'm  doing  a  chart  and  I  see  planets  at  27°,  28°,  and  29°,  I 
+make  note  because  this  person  has  the  potential  to  achieve  some- 
+thing special.  I  have  had  many  clients  who  have  planets  at  these 
+degrees  who  are  very  rich.  I  have  a  lot  of  millionaire  clients  who 
+have  enormous  real-estate  holdings  with  their  Sun  at  29°  Cancer. 
+One  year  I  had  two  students  in  one  of  my  classes  who  both  had 
+their  Sun  at  29°  Cancer  (family)  who  were  blessed  with  inherited 
+wealth.  One  had  a  family  farm,  and  the  land  was  developed  into  a 
+commercial  project  that  catapulted  her  into  the  millionaire  cate- 
+gory. The  other  student  inherited  family  real  estate  and  the  family 
+business.  I  have  another  client  who  is  a  multimillionaire  with  Sat- 
+urn at  29°  Capricorn  (Capricorn  needs  to  build  and  rules  con- 
+struction). He  started  with  a  small  construction  company  that 
+grew  to  be  a  large  international  business. 
+I  have  seen  millionaires  with  planets  at  27°,  28°,  and  29°  in  all  of 
+the  signs,  but  most  often  they  are  in  earth  or  water  signs.  I  have 
+seen  29°  Taurus  or  Scorpio  also  indicate  bankruptcy.  These  two 
+signs  can  go  to  either  extreme,  great  wealth  or  financial  disaster. 
+Bette  Davis  is  an  interesting  example  of  this.  She  has  Venus  and 
+Mars  at  28°  and  29°  Taurus.  After  many  successful  years  in  the 
+movie  business,  she  experienced  great  financial  losses  and  could  not 
+get  an  acting  job.  She  had  to  put  an  ad  in  the  trades  seeking  work. 
+Planets  at  28°  or  29°  Leo  are  conjunct  the  royal  fixed  star  Reg- 
+ulus.  This  placement  can  bestow  prominence  and  a  love  of  power 
+and  success,  among  other  things.  I  have  noticed  that  with  clients 
+who  have  planets  here  are  not  necessarily  wealthy,  but  they  do 
+travel  in  very  influential  circles.  However,  America's  "queen," 
+Jackie  Onassis,  had  Regulus  conjunct  her  Midheaven  at  29°  Leo, 
+and  not  only  did  she  travel  in  the  most  important  circles,  but  she 
+was  very  rich. 
+Bill  Gates,  who  has  made  his  fortune  with  computers,  has 
+Pluto  at  28°  Leo,  which  is  the  ruler  of  his  Sun  in  Scorpio.  Writer 
+Scott  Turow  has  three  planets  at  late  degrees,  Saturn  at  29°  Leo, 
+Jupiter  at  29°  Capricorn,  and  Uranus  at  27°  Gemini. 
+
+<<<PAGE 73>>>
+The  Natal  Promise   /  59 
+I  have  a  client  who  has  Neptune  conjunct  Regulus  at  28°  Leo  in 
+his  ninth  house  of  higher  learning.  He  attended  Princeton  and 
+Massachusetts  Institute  of  Technology,  two  of  the  best  universi- 
+ties in  the  United  States. 
+There  are  some  people  who  are  very,  very  lucky.  Those  with  a 
+Venus /Jupiter  aspect,  any  Venus /Jupiter  aspect,  fall  into  this  cat- 
+egory They  usually  marry  money,  inherit  it,  create  it,  or  win  it. 
+This  is  the  potential  in  their  chart,  but  there  can  be  overindulgence, 
+overoptimism,  and  extravagance.  When  these  two  benefics  are  in 
+aspect  to  one  another,  there  is  enormous  ease,  but  without  rein- 
+forcing aspects,  the  person  can  lack  drive  and  push.  ^ 
+Many  people  who  come  to  me  want  to  know  if  they  are  going 
+to  win  the  lottery.  Tm  always  amazed  when  people  ask  this  ques- 
+tion because  I  don  t  think  winning  the  lottery  is  such  a  gift  from 
+God.  I  have  had  a  few  clients  who  have  won,  and  in  some  cases  it 
+meant  trouble. 
+Once  you  win  the  lottery,  all  sorts  of  problems  crop  up.  After 
+winning,  you  can't  please  the  people  close  to  you.  Relatives  get 
+upset  if  you  don't  share  your  good  fortune.  (Why  they  think  they 
+are  entitled  to  it  is  a  mystery  to  me.)  If  you  give  them  money,  it's 
+not  enough.  It  never  ends.  I  thing  it  can  be  a  real  curse.  But  if  it's 
+not  promised  in  the  natal  chart,  it's  never  going  to  happen.  You  are 
+not  going  to  win  at  all.  I  looked  at  my  chart.  There  is  no  way  I'm 
+ever  going  to  win  because  I  don't  have  an  aspect  that  promises  that 
+kind  of  luck.  I  can  win  at  games  of  skill,  because  my  Mercury 
+makes  some  good  aspects  (such  as  Mercury  conjunct  the  South 
+Node),  but  I  will  never  win  at  games  of  luck.  For  me,  putting  quar- 
+ters in  slot  machines  is  like  throwing  them  into  the  street.  It's  just 
+never  going  to  bring  me  anything.  I'm  very  happy  to  play  at  games 
+of  chance  for  entertainment  and  fun,  but  I  know  I  will  never  be  a 
+big  winner. 
+Success 
+Jupiter  and  Sagittarius  create  luck.  Success  is  different  from  luck. 
+We  think  of  luck  as  an  unexpected,  unearned  gift  from  the  powers 
+
+<<<PAGE 74>>>
+60    /    The  Natal  Promise 
+that  be.  We  think  of  success  as  the  result  of  hard  work  or  as  some- 
+thing we  plan  and  work  toward.  There  are  several  factors  in  a 
+chart  that  can  promise  success.  Having  the  nodes  in  angular 
+houses  (1,  4,  7,  and  10)  seems  to  bode  well  for  success.  I  have 
+found  that  having  either  the  North  or  the  South  Node  in  the  tenth 
+house  is  equally  favorable  for  success.  Having  the  nodes  in  the 
+first  and  seventh  houses  seems  to  be  good,  too.  The  seventh  house 
+talks  about  patronage,  and  when  a  node  is  there,  it  can  promise 
+lots  of  clients  or  business  for  that  person.  For  example,  a  therapist 
+who  is  self-employed  is  dependent  on  having  many  patients  and 
+referrals.  Having  either  node  in  the  seventh  house  can  promise 
+good  patronage. 
+When  the  nodes,  which  are  destiny  points,  are  in  angular 
+houses,  success  is  meant  to  be.  If  a  client  has  the  North  Node  in 
+the  tenth,  it  is  his  or  her  destiny  to  have  a  great  career.  Many  times 
+my  clients  have  had  great  careers  in  spite  of  themselves.  It's  the 
+most  fascinating  thing  to  watch.  They  always  seem  to  be  in  the 
+right  place  at  the  right  time  and  career  success  seems  to  unfold 
+without  much  effort. 
+The  North  Node  does  read  somewhat  like  Jupiter,  and  the 
+South  Node  reads  somewhat  like  Saturn.  Both  are  equally  good 
+for  success,  achievement,  and  making  it.  While  the  North  Node's 
+influence,  like  Jupiter's,  is  more  apparent,  and  the  South  Node, 
+like  Saturn,  can  delay,  I  don  t  see  either  one  limiting  success.  What 
+I  have  found  with  clients  who  have  the  North  Node  in  the  tenth 
+and  the  South  Node  in  the  fourth  is  that  they  may  not  necessarily 
+have  the  drive  or  want  to  have  their  own  career  that  much.  In  past 
+lives  they  have  been  the  person  behind  the  scenes,  the  person  at 
+home.  They  know  how  to  build  a  home  and  family,  but  building  a 
+career  isn't  that  comfortable  for  them.  However,  if  they  get  out 
+there  at  all,  things  will  click  into  place  for  them  very  easily  be- 
+cause it's  their  destiny  to  have  a  prosperous  career.  Of  course,  I 
+am  talking  about  unafflicted,  well-aspected  nodes. 
+I  have  a  great  story  about  a  client  who  has  the  North  Node  in 
+the  tenth  and  the  South  Node  in  the  fourth.  He  married  a  woman 
+who  already  had  a  big  career.  His  wife  traveled  a  great  deal,  and 
+
+<<<PAGE 75>>>
+The  Natal  Promise    /  61 
+he  was  content  to  stay  at  home  and  do  a  lot  of  the  domestic 
+things  like  watching  the  kids  and  taking  care  of  the  house.  He  was 
+an  attorney,  but  didn  t  really  enjoy  the  law.  He  started  a  real-estate 
+company  and  his  wife  backed  him.  With  Uranus  in  the  first  house 
+and  his  Moon  in  Libra,  this  gentleman  has  enormous  charisma 
+and  charm.  Before  long,  he  became  a  superstar,  a  multimillion- 
+aire. He  became  very  successful. 
+The  South  Node  indicates  what  a  person  knows  how  to  do, 
+and  the  North  Node  indicates  what  he  or  she  must  learn.  The  key 
+is  to  balance  them  both.  So  when  people  have  the  South  Node  in 
+the  tenth  house,  they  instinctively  know  how  to  build  a  career.  In 
+other  lifetimes  these  people  probably  made  career  a  priority  What 
+they're  supposed  to  do  this  time  is  have  a  good  home  and  family 
+life,  too.  That's  what  they  came  here  to  do,  but  they  don't  want  to 
+be  home  all  the  time.  They  really  want  to  be  out  there  having  a 
+career,  because  that's  what  they  are  comfortable  with.  During  this 
+lifetime,  however,  it  is  their  destiny  to  build  a  home  and  family  life 
+in  addition  to  having  a  flourishing  career. 
+When  threatened,  people  retreat  into  their  South  Node.  When 
+they  feel  they  can't  cope  with  a  stressful  situation,  they  retreat  into 
+behavior  that  is  familiar  and  natural.  A  priest  was  my  client  for 
+years.  He  had  the  North  Node  in  the  tenth  and  the  South  Node  in 
+the  fourth.  Doors  opened  easily  for  him,  he  did  very  positive 
+things,  and  was  really  moving  up  through  the  ranks  of  the  church 
+hierarchy 
+Then  there  was  a  scandal  at  his  church  that  didn't  touch  him, 
+but  he  was  really  disgusted  and  upset  by  it.  When  he  came  for  a 
+consultation,  I  said,  "I  know  what  you  did,  you  ran  home  to  hide, 
+didn't  you?"  And  he  said,  "Yes,  I  did."  He  just  left  everything  and 
+went  back  to  his  hometown  and  stayed  there  for  a  couple  of 
+months.  When  his  career  (North  Node  in  the  tenth)  was  threat- 
+ened, he  ran  to  his  home  (South  Node  in  the  fourth),  where  he 
+was  safe  and  comfortable.  I  said,  "You  know,  you  can  only  stay 
+there  for  a  little  while.  You  will  have  to  go  back  to  your  career  be- 
+cause you're  going  to  end  up  being  a  bishop  or  something  like  that 
+in  spite  of  yourself"  He  went  back.  I  don't  know  if  he's  a  bishop. 
+
+<<<PAGE 76>>>
+62    /    The  Natal  Promise 
+but  the  last  I  heard,  he  was  very  succe'ssful  in  the  church.  Clearly  it 
+was  his  fortune  to  have  a  distinguished  career  in  the  priesthood. 
+Jupiter  in  the  tenth  house  is  certainly  fortunate  for  success,  as 
+is  Sagittarius  on  the  tenth-house  cusp.  I  also  see  a  lot  of  people 
+with  squares  out  of  the  tenth  house  doing  really  good  things,  be- 
+cause that's  where  they  have  the  tension  and  the  energy.  (What  I 
+mean  by  squares  out  of  the  tenth  is  that  the  planets  placed  in  the 
+tenth  are  making  squares.)  There  can  be  blockage  and  delays,  but 
+hard  work  pays  off.  A  well-aspected  Sun,  Jupiter,  North  Node,  or 
+South  Node  in  the  tenth  can  make  career  success  flow  much  more 
+easily. 
+Case  Study:  Ron  Howard 
+Ron  Howard  has  both  his  North  Node  and  Moon  in  the  tenth 
+house  in  Capricorn.  His  Moon  is  in  a  T-Square  out  of  the  tenth 
+house,  opposing  Uranus  and  squaring  Neptune.  This  cardinal  T- 
+Square  gives  him  drive  and  ambition.  Uranus  is  also  in  a  Grand 
+Water  Trine,  which  gives  him  great  creative  genius.  The  orbs  be- 
+tween the  planets  of  this  Grand  Water  Trine  are  very  wide,  but  I 
+find  this  works  to  the  person  s  advantage.  Many  times  I  have 
+found  that  when  planets  in  a  Grand  Water  Trine  are  in  very  tight 
+orb,  the  person  has  enormous  creativity  yet  seems  too  emotion- 
+ally self-sufficient. 
+Pluto  in  the  tenth  house  or  ruling  the  tenth  bodes  well  for  ca- 
+reer success.  That  is  because  there  is  such  a  deep  psychological 
+need  for  recognition  that  the  person  will  do  whatever  is  needed.  A 
+stellium  in  the  tenth  gives  you  a  lot  of  energy  to  work  on  your  ca- 
+reer. When  clients  have  many  planets  up  in  the  tenth,  there's  a  lot 
+of  activity  in  that  area  of  their  lives.  It  is  what  is  important  to 
+them.  But  having  a  chart  with  nothing  in  the  tenth  doesn  t  mean 
+the  person  won  t  have  a  big  career.  The  ruler  of  the  tenth  house 
+may  be  very  active  and  give  them  many  outlets  for  expressing  ca- 
+reer goals. 
+
+<<<PAGE 77>>>
+The  Natal  Promise   /  63 
+Ron  Howard 
+March  1,  1954  /  9:30  a.m.  CST 
+Del  City,  OK 
+
+<<<PAGE 78>>>
+64    /    The  Natal  Promise 
+One  of  the  aspects  I  constantly  see  for  success  is  the  Moon  in 
+harmonious  aspect  to  Venus,  which  indicates  public  love  and  ac- 
+ceptance. I  have  noticed  this  to  be  a  consistent  aspect  for  famous 
+people  because  it  bodes  well  for  public  approval.  I  have  also  found 
+the  Moon  trine  Jupiter  to  work  in  a  similar  way. 
+Violence/Rape 
+Some  clients  worry  about  violence  or  rape  in  their  lives.  There's 
+not  going  to  be  that  kind  of  trauma  in  life  unless  it's  promised.  It's 
+the  same  with  cancer  or  a  serious  illness.  Then,  the  natal  setup  has 
+to  be  stimulated  for  the  violence  to  occur.  The  stage  is  first  set  by 
+progressions,  then  triggered  by  a  transit,  lunation,  the  progressed 
+Moon,  or  some  combination  of  these. 
+One  of  my  students  was  raped.  She  had  her  Moon /Mars/ 
+Pluto  in  a  fixed  T-Square.  When  the  progressed  Moon  came 
+around  and  conjuncted  her  natal  Moon,  the  T-Square  was  trig- 
+gered and  that's  when  it  happened.  Obviously  there  were  other 
+things  going  on  in  her  chart  to  back  up  this  experience.  After  years 
+of  doing  charts,  I  have  found  that  if  someone  is  raped  or  in  any 
+way  sexually  abused,  nine  times  out  of  ten  he  or  she  gains  weight 
+and  become  very  hea\y  as  a  protection.  When  I  have  a  client 
+come  to  me  who  is  very  heavy  I  try^  to  get  to  the  bottom  of  it. 
+I  have  one  client  who  is  overv,^eight  and  I  know  she  wasn't 
+abused  or  raped.  After  talking  with  her  it  turned  out  that  she  had 
+had  a  very  bad  experience.  She  had  never  dated  much,  and  then 
+she  went  out  with  some  friends  from  another  city.  She  ended  up 
+in  bed  with  one  of  the  guys.  This  was  her  first  sexual  experience. 
+Her  period  was  late  and  she  was  worried  that  she  was  pregnant. 
+She  wasn't,  but  it  was  a  big  mess.  When  she  spoke  with  her  part- 
+ner, he  was  neither  gallant  nor  nice.  I  think  that  encounter  set  her 
+up  to  protect  herself  with  extra  weight. 
+Natally  she  has  her  Moon  conjunct  Jupiter  in  Sagittarius. 
+Jupiter /Sagittarius  can  expand,  and  the  Moon  is  food,  nurturing, 
+and  the  stomach.  So  the  natal  promise  is  there  for  weight  gain, 
+
+<<<PAGE 79>>>
+The  Natal  Promise    /  65 
+and  I  feel  what  was  happening  in  her  chart  at  the  time  to  cause  the 
+trauma  also  triggered  the  setup  for  gaining  weight.  This  is  one  iso- 
+lated incident — not  everyone  with  a  similar  setup  will  have  the 
+same  results. 
+Mars /Pluto  is  definitely  a  violent  aspect.  It  is  one  of  the  rape 
+aspects,  either  Mars  conjunct,  square,  or  opposite  Pluto.  I  always 
+worry  about  these  aspects  because  it  is  important  to  use  this  en- 
+ergy properly,  otherwise  it  could  manifest  in  a  negative  way.  If  I 
+see  it  in  a  child's  chart,  I  will  talk  to  the  parents.  I  don  t  want  to 
+scare  them,  but  I  want  them  to  get  the  child  into  activities  where 
+he  or  she  will  channel  the  energy  constructively.  I  have  seen 
+young  people  with  this  energy  become  very  good  ballerinas,  gym- 
+nasts, athletes,  and  debaters  (especially  if  Mercury  is  connected  in 
+some  way). 
+One  of  my  young  male  clients  with  a  Mars /Pluto  aspect  is 
+such  a  fierce  athlete  that  I  know  he's  using  up  all  the  energy  in 
+sports.  He's  only  sixteen  years  old  and  has  varsity  letters  in  three 
+sports,  so  that's  where  the  energy  is  going  for  him.  I  also  have  a 
+young  female  client  with  this  aspect  who  is  turning  out  to  be  quite 
+the  dancer.  Another  young  client  had  this  aspect  and  when  the  as- 
+pect closed,  she  got  into  sports.  (What  I  mean  by  "the  aspect 
+closed"  is  that  by  progression  her  Mars  moved  forward  and 
+squared  her  natal  Pluto  exactly.)  The  time  when  any  aspect  be- 
+comes partile,  or  exact,  by  progression  is  when  I  expect  the  aspect 
+to  manifest.  So  I  was  relieved  to  see  her  get  into  sports  and  be- 
+come a  fierce  competitor,  and  not  have  an  unpleasant  incident. 
+I  have  a  client  who  is  very  brilliant  and  has  several  doctoral  de- 
+grees. She  has  her  Mars  square  Pluto  and  I  asked  her  about  it.  She 
+said  that  she  was  terribly  emotionally  abused.  For  her,  the  aspect 
+comes  out  of  the  third  house,  as  her  Pluto  is  in  the  third,  so  it  was 
+expressed  as  mental  and  verbal  abuse  instead  of  physical  abuse. 
+But  she  turned  things  around  and  used  that  aspect  scholastically  to 
+get  several  advanced  degrees.  Natal  Pluto  in  the  third  house  can  in- 
+dicate someone  who  cannot  get  enough  knowledge. 
+
+<<<PAGE 80>>>
+66    /    The  Natal  Promise 
+The  other  thing  that  can  happen  with  a  Mars /Pluto  aspect  is 
+abuse,  battery,  or  violence.  I  saw  a  client  who  had  her  Mars  oppo- 
+site Pluto  from  the  first  to  the  seventh  house.  I  said  to  her,  "You 
+know  you  have  to  be  very  discriminating  about  who  you  go  out 
+with.  You  have  to  be  very  careful  when  you  date."  I  was  saying  all 
+the  things  you  would  say  if  somebody  had  that  aspect.  And  she 
+said,  "Well  it's  already  happened  to  me.  There  was  a  lot  of  violence 
+in  my  home  growing  up  and  then  in  my  marriage."  She  continued, 
+'As  a  result  of  that,  I  now  run  a  shelter  for  battered  women." 
+I  was  impressed.  She's  using  the  Mars /Pluto  energy  in  a  very 
+constructive  way.  It  reflects  the  opposition,  because  it  is  relation- 
+ships and  choice.  She  chose  how  to  use  the  energy.  Up  until  that 
+point,  she  was  placed  in  (as  a  child)  or  put  herself  in  (as  an  adult) 
+difficult  situations.  She  had  a  troubled  childhood,  boyfriends  who 
+beat  her  up,  and  then  chose  a  violent  husband. 
+With  squares,  the  difficult  situations  just  come  and  they  do  not 
+offer  choices,  like  oppositions.  So  a  client  with  a  strong  square  has 
+to  be  very  careful  in  certain  situations  that  are  safe  for  other 
+people,  like  going  to  a  bar.  Bad  energy  often  comes  without  being 
+invited.  With  the  opposition,  it's  more  a  matter  of  making  bad 
+choices. 
+I  can't  tell  you  how  many  times  I've  said  to  a  client,  "You  have  an 
+aspect  here  where  you  might  attract  danger.  I  think  it's  really  im- 
+portant that  you  always  know  who  you  date.  Don't  pick  up  people 
+in  bars.  Be  very  careful  who  you  associate  with  because  you  have 
+this  potential  for  danger."  Too  many  times  they've  said  to  me, 
+"You're  too  late.  It's  already  worked.  Somebody  crawled  in  my 
+dorm  room  and  raped  me.  .  .  .  My  stepfather  raped  me.  ...  A  man 
+followed  me  out  of  a  bar  and  beat  me  up  in  the  parking  lot,"  and  so 
+on.  Astrologers  must  help  clients  sidestep  these  aspects. 
+Vocation 
+If  clients  aren't  coming  to  you  about  relationships  and  money,  they 
+will  come  to  you  about  their  careers.  For  people  who  have  a  power- 

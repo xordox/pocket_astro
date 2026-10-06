@@ -1,0 +1,2272 @@
+{
+  "engine": "PocketAstro",
+  "version": 2,
+  "disclaimer": "Interpretive astrology compiled from the ebook library (Charak, Braha, Sutton, Levacy, DiCara, Houlding, Rushman, Tompkins, Sakoian, Stellas). Not medical, legal, or financial advice. Two techniques must agree before an event is called likely. Confidence caps at 75.",
+  "accuracy": {
+    "positions": "Meeus/Kepler natal-grade, Lahiri ayanamsa",
+    "events": "rule coverage from the library, never scientific certainty",
+    "two_technique_rule": "dasha promise AND gochara/transit timing"
+  },
+  "sade_sati_houses_from_moon": [
+    12,
+    1,
+    2
+  ],
+  "ashtama_shani_house_from_moon": 8,
+  "sources": [
+    {
+      "file": "Astrologer_Questions_Answered_14_April_1992.pdf",
+      "pages": 11,
+      "role": "method_template",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Astrologer_Questions_Simple_Answers_14_April_1992.pdf",
+      "pages": 8,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Complete_Life_Answers_14_April_1992.pdf",
+      "pages": 7,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Home_and_Money_Plan_14_April_1992.pdf",
+      "pages": 3,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Life_Questions_Simple_Answers_14_April_1992.pdf",
+      "pages": 7,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Natal_Reading_14_April_1992_Kathmandu.pdf",
+      "pages": 9,
+      "role": "method_template",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Psychology_In_Depth_14_April_1992.pdf",
+      "pages": 5,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Start_Now_Guide_14_April_1992.pdf",
+      "pages": 6,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "The_Secret_Language_of_Relationships_repaired.pdf",
+      "pages": 320,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "Vedic_Prediction_14_April_1992_Kathmandu.pdf",
+      "pages": 6,
+      "role": "method_template",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_27_Stars_27_Gods_The_Astrological_Mythology_of_Ancient_India_-_Vic_DiCara.pdf",
+      "pages": 161,
+      "role": "nakshatra",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_360_degrees_of_wisdom_-_Lynda_Hill.pdf",
+      "pages": 386,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_All_Around_The_Zodiac_-_Bil_Tierney.pdf",
+      "pages": 84,
+      "role": "support",
+      "image_like": true,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Ancient_Hindu_Astrology_for_the_Modern_Western_Astrologer_-_James_Braha.pdf",
+      "pages": 364,
+      "role": "vedic_core",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Astrologically_Incorrect_For_Lovers_-_Terry_Marlowe.pdf",
+      "pages": 173,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Astrology_-_Carole_Taylor.pdf",
+      "pages": 236,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Astrology_SOS_-_The_Woke_Mystix.pdf",
+      "pages": 187,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Astrology_for_Adults_-_Joan_Quigley.pdf",
+      "pages": 328,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Astrology_for_Happiness_Success_-_Mecca_Woods.pdf",
+      "pages": 247,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Astrology_for_Yourself_-_Douglas_Bloch.pdf",
+      "pages": 389,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Beneath_a_Vedic_Sky_-_William_R_Levacy.pdf",
+      "pages": 438,
+      "role": "vedic_core",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Body_Astrology_-_Claire_Gallagher.pdf",
+      "pages": 482,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Cosmic_Coupling_-_Stella_Starsky.pdf",
+      "pages": 820,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf",
+      "pages": 468,
+      "role": "vedic_core",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Erotic_Astrology_-_Phyllis_Vega.pdf",
+      "pages": 283,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Everyday_Radiance_-_Heidi_Rose_Robbins.pdf",
+      "pages": 389,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Exploring_the_financial_universe_the_role_of_the_sun_and_planets_in_the_world_of_finance_-_Christeen_H_Skinner.pdf",
+      "pages": 227,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Houses_-_Deborah_Houlding.pdf",
+      "pages": 208,
+      "role": "houses",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_How_to_Be_an_Astrologer_-_Constance_Stellas.pdf",
+      "pages": 306,
+      "role": "western_predict",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Love_on_a_Rotten_Day_-_Hazel_Dixon-Cooper.pdf",
+      "pages": 260,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Love_sex_and_astrology_-_Teri_king.pdf",
+      "pages": 258,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Luna_-_Tamara_Driessen.pdf",
+      "pages": 218,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Sextrology_The_Astrology_of_Sex_and_the_Sexes_-_Quinn_Cox_and_Stella_Starsky.pdf",
+      "pages": 906,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Sexual_Astrology_-_Joanna_Woolfolk.pdf",
+      "pages": 260,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_Star_Crossed_Seduction_-_Jenny_Brown.pdf",
+      "pages": 239,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Art_of_Predictive_Astrology_Forecasting_Your_Life_Events_-_Carol_Rushman.pdf",
+      "pages": 290,
+      "role": "western_predict",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_The_Astrological_Guide_to_Self-Care_-_Constance_Stellas.pdf",
+      "pages": 497,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Astrology_Advantage_-_Ophira_Edut_Tali_Edut.pdf",
+      "pages": 279,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Astrology_of_Love_and_Sex_-_Annabel_Gat.pdf",
+      "pages": 295,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Astrology_of_Self-Discovery_-_Tracy_Marks.pdf",
+      "pages": 347,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Astrology_of_Success_-_Jan_Spiller.pdf",
+      "pages": 150,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Astrology_of_You_and_Me_-_Gary_Goldschneider.pdf",
+      "pages": 550,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Contemporary_Astrologers_Handbook_-_Sue_Tompkins.pdf",
+      "pages": 514,
+      "role": "western_natal",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Development_of_Personality_-_Liz_Greene.pdf",
+      "pages": 317,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Essentials_Of_Vedic_Astrology_-_Komilla_Sutton.pdf",
+      "pages": 239,
+      "role": "vedic_core",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_The_Everything_Birthday_Personology_Book_-_Marian_Singer.pdf",
+      "pages": 342,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Little_Book_of_Self-Care_for_Aries_-_Constance_Stellas.pdf",
+      "pages": 154,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Moon_Book_-_Sarah_Faith_Gottesdiener.pdf",
+      "pages": 335,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Only_Astrology_Book_Youll_Ever_Need_-_Joanna_Martine_Woolfold.pdf",
+      "pages": 782,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Only_Way_to_Learn_Astrology_-_Marion_D_March.pdf",
+      "pages": 313,
+      "role": "support",
+      "image_like": true,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_The_Secrets_of_Astrology_-_DK.pdf",
+      "pages": 192,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_The_Witchs_Complete_Guide_to_Astrology_Harness_the_Heavens_and_Unlock_Your_Potential_for_a_Magical_Year_-_Elsie_Wild.pdf",
+      "pages": 176,
+      "role": "support",
+      "image_like": false,
+      "has_toc": false
+    },
+    {
+      "file": "_OceanofPDF.com_The_astrology_of_human_relationships_-_Frances_Sakoian.pdf",
+      "pages": 404,
+      "role": "synastry",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_This_Is_Your_Destiny_-_Aliza_Kelly.pdf",
+      "pages": 216,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_Trust_Your_Timing_-_Alice_Bell.pdf",
+      "pages": 238,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    },
+    {
+      "file": "_OceanofPDF.com_You_Were_Born_for_This_Astrology_for_Radical_Self-Acceptance_and_Living_Your_Purpose_-_Chani_Nicholas.pdf",
+      "pages": 226,
+      "role": "support",
+      "image_like": false,
+      "has_toc": true
+    }
+  ],
+  "houses": {
+    "1": "self, body, fame",
+    "2": "speech, family, savings",
+    "3": "courage, siblings, craft",
+    "4": "home, mother, vehicles, land",
+    "5": "children, intellect, romance",
+    "6": "work, illness, enemies, debt",
+    "7": "spouse, partner, the other",
+    "8": "transformation, tax, in-laws, occult",
+    "9": "dharma, father, luck, long travel",
+    "10": "career, status, public name",
+    "11": "gains, friends, networks",
+    "12": "loss, sleep, foreign, retreat"
+  },
+  "dasha": {
+    "Sun": {
+      "flavour": "Authority, father, title, vitality, government, pride.",
+      "push": "Claim a name. Formalise. Do not pick a fight with the boss for sport.",
+      "wait": "Ego wars, head/heat, father conflict.",
+      "sources": [
+        "Charak XV",
+        "Braha"
+      ],
+      "favourable": "Gain in standing and in resources; recognition from those above you; favours from authority. With the 5th lord, a child. With the 2nd or 4th lord, property and vehicles.",
+      "adverse": "Loss of position, disfavour from authority, forced relocation, friction with father or employer, strain on the heart and eyes.",
+      "body": "heart, eyes, bones, blood pressure",
+      "themes": [
+        "status",
+        "father",
+        "government",
+        "health of the heart"
+      ],
+      "years": 6
+    },
+    "Moon": {
+      "flavour": "Mind, mother, public, fluids, home mood, popularity.",
+      "push": "Public goodwill, care, home, the closing of a chapter.",
+      "wait": "Mood-as-verdict, leaving a quarrel half-fought.",
+      "sources": [
+        "Charak XV"
+      ],
+      "favourable": "Renown, prosperity, auspicious events at home, favour from those in charge, childbirth, a settled mind. Especially good with the Moon in the 2nd.",
+      "adverse": "Loss of resources, mental and physical strain, worry about the mother, trouble with dependents, opposition from authority.",
+      "body": "sleep, digestion, fluid balance, mental health",
+      "themes": [
+        "mother",
+        "home",
+        "public life",
+        "emotional cycle"
+      ],
+      "years": 10
+    },
+    "Mars": {
+      "flavour": "Courage, land, siblings, surgery of life, self-made career if 10th lord.",
+      "push": "Act, build, name the work. Peak if Mars is kendra/lagna lord.",
+      "wait": "Angry messages, high-risk bets in Ketu AD inside Mars MD.",
+      "sources": [
+        "Charak XV",
+        "Braha yogakaraka notes"
+      ],
+      "favourable": "Rise in standing, benefit from land, gain of resources, vehicles, gains abroad, and generally good for siblings. In a kendra or the 3rd: gains through personal effort early in the dasha, with friction at the end.",
+      "adverse": "Loss of face, opponents on top, accident-proneness, inflammation, surgery, quarrels that cost more than they win.",
+      "body": "blood, inflammation, accidents, surgery",
+      "themes": [
+        "property",
+        "siblings",
+        "conflict",
+        "physical drive"
+      ],
+      "years": 7
+    },
+    "Mercury": {
+      "flavour": "Documents, speech, trade, exams, visas, nervous system.",
+      "push": "Write, file, revise once. Neecha bhanga: first no, then yes.",
+      "wait": "Endless revision (12th pretending to be Mercury), rush-sign in Rahu PD.",
+      "sources": [
+        "Charak XV"
+      ],
+      "favourable": "Learning, trade, writing and negotiation all favoured; income through skill and communication; good for education and for contracts.",
+      "adverse": "Nervous strain, disputes over documents, unreliable partners, speech that costs money, skin and nerve complaints.",
+      "body": "nerves, skin, speech, lungs",
+      "themes": [
+        "education",
+        "commerce",
+        "writing",
+        "documents"
+      ],
+      "years": 17
+    },
+    "Jupiter": {
+      "flavour": "Spouse-grace, teacher, children, law, expansion, harvest.",
+      "push": "Teaching, legal, marriage talks, dharma work.",
+      "wait": "Over-promising, preaching instead of contracting.",
+      "sources": [
+        "Charak XV",
+        "Sutton"
+      ],
+      "favourable": "Learning, teaching, children, marriage, wealth, travel and recognition. Jupiter's dasha is the classic window for the socially sanctioned event — marriage, a child, a degree, a house.",
+      "adverse": "Over-extension, weight and liver strain, misplaced faith in a teacher or a scheme, generosity that becomes debt.",
+      "body": "liver, weight, circulation, ears",
+      "themes": [
+        "marriage",
+        "children",
+        "education",
+        "wealth",
+        "dharma"
+      ],
+      "years": 16
+    },
+    "Venus": {
+      "flavour": "Marriage, vehicles, arts, money-comfort. Yogakaraka when 4+9 or 5+10.",
+      "push": "Marry, rate card, property, public face — especially as AD inside kendra-lord MD.",
+      "wait": "Pleasure without a contract; delaying the harvest into a hungrier Rahu MD.",
+      "sources": [
+        "Charak XV",
+        "Braha yogakaraka",
+        "Levacy"
+      ],
+      "favourable": "Marriage, partnership, vehicles, property, art, luxury and social ease. The longest dasha and usually the most comfortable.",
+      "adverse": "Indulgence, relationship entanglement, reproductive and urinary complaints, money spent on appearance, diabetes risk.",
+      "body": "reproductive system, kidneys, sugar, throat",
+      "themes": [
+        "marriage",
+        "art",
+        "comfort",
+        "vehicles",
+        "partnership"
+      ],
+      "years": 20
+    },
+    "Saturn": {
+      "flavour": "Delay, duty, longevity, structure, foreign/12th work.",
+      "push": "Finish, systematise, take the long apprenticeship.",
+      "wait": "Launching on exhaustion; treating delay as proof of unsuitability.",
+      "sources": [
+        "Charak XV",
+        "Houlding 12th"
+      ],
+      "favourable": "Durable achievement through labour; authority earned by endurance; land, mass work, service and long-cycle building. Whatever is completed in a Saturn dasha tends to stay completed.",
+      "adverse": "Delay, chronic illness, depression, isolation, loss of seniors, obstacles that cannot be argued with.",
+      "body": "joints, nerves, teeth, chronic fatigue, depression",
+      "themes": [
+        "career structure",
+        "duty",
+        "endurance",
+        "loss"
+      ],
+      "years": 19
+    },
+    "Rahu": {
+      "flavour": "Hunger, foreign, unconventional, scale, smoke, obsession.",
+      "push": "Multiply what a prior dasha already started. Networks, abroad.",
+      "wait": "Inventing a life from a mood; signing in fog; Rahu-on-lagna theatre.",
+      "sources": [
+        "Levacy nodes",
+        "Sutton nodes",
+        "DiCara Mula"
+      ],
+      "favourable": "Varied comforts, prosperity, honour abroad, recognition from foreign or unconventional quarters, ceremonies and celebration, sudden expansion.",
+      "adverse": "Displacement, mental anguish, separation from family, unclean food and illness, loss of resources, scandal, compulsive decisions.",
+      "body": "poisoning, addiction, undiagnosable complaints, skin, phobias",
+      "themes": [
+        "foreign life",
+        "technology",
+        "ambition",
+        "scandal",
+        "sudden change"
+      ],
+      "years": 18
+    },
+    "Ketu": {
+      "flavour": "Cutting, moksha, loss of story, spiritual reset, endings.",
+      "push": "End false roles, retreat, surgery of the schedule.",
+      "wait": "Wedding, company incorporation, pregnancy-as-plan, leveraged bets.",
+      "sources": [
+        "Charak XV",
+        "Levacy",
+        "DiCara"
+      ],
+      "favourable": "Spiritual progress, research breakthroughs, healing capacity, freedom from something that had become a cage, and competence that appears without training.",
+      "adverse": "Sudden loss, separation, confusion about direction, undiagnosed complaints, the collapse of arrangements that were not real to begin with.",
+      "body": "undiagnosed pain, low fevers, surgery, hearing",
+      "themes": [
+        "detachment",
+        "research",
+        "loss",
+        "spiritual turn"
+      ],
+      "years": 7
+    }
+  },
+  "gochara_saturn_from_moon": {
+    "1": "Sade Sati peak: identity, body, and duty press the mind. Structure the day; do not self-erase.",
+    "2": "Sade Sati money/family chapter: delayed income, family duty, speech under weight. Save more than you display.",
+    "3": "Effort, siblings, short travel, and craft take labour. Courage is available if paced.",
+    "4": "Home, mother, vehicles, and chest/sleep need care. Moves happen slowly and last.",
+    "5": "Children, romance, and speculation: caution, not freeze. Romance needs maturity.",
+    "6": "Work, debt, illness, enemies. Can defeat opposition through routine. Health: chronic grind, not drama.",
+    "7": "Partnership tests. Contracts get real. Do not marry only to end a lonely Saturn.",
+    "8": "Ashtama Shani: hidden tests, tax, elder health, chronic worry. Toll on the dasha — not deletion of yoga. Pay in sleep, accounts, honesty.",
+    "9": "Father, dharma, long travel delayed then made durable. Study and law take time.",
+    "10": "Career pressure and status through labour. Public name if you stay visible.",
+    "11": "Gains slowly; elder or serious friends. Networks that last.",
+    "12": "Sade Sati begins (12th from Moon): expenses, isolation, foreign, sleep. Start the hygiene now."
+  },
+  "gochara_jupiter_from_moon": {
+    "1": "Growth of self and body-confidence. Teaching or blessing finds you.",
+    "2": "Speech and savings expand. Good for study and family money talks.",
+    "3": "Skill, writing, siblings. Short decisive journeys.",
+    "4": "Home and mother ease. Property talks possible if dasha agrees.",
+    "5": "Children, intellect, romance, poorvapunya. Opportunity — event if dasha of 5th/Jupiter agrees.",
+    "6": "Help with work/health through counsel. Not a vacation; a better strategy.",
+    "7": "Classic marriage/partnership transit (Sutton). Event if dasha of 7th/Venus/Jupiter also runs; otherwise hope and talks.",
+    "8": "Shared money, research, in-laws. Grace inside intensity.",
+    "9": "Luck, guru, long travel, dharma. Strong fortune if dasha supports.",
+    "10": "Career expansion, titles, teaching role.",
+    "11": "Gains, friends, fulfilment of hopes.",
+    "12": "Charity, foreign, spiritual retreat. Expenses with meaning."
+  },
+  "gochara_mars_from_lagna": {
+    "1": "Heat in body and will. Accident caution, surgery of schedule.",
+    "4": "Home heat; vehicles; mother stress. Do not pick family fights for sport.",
+    "7": "Open conflict or passion in partnership. Needs an equal.",
+    "8": "Sudden bills, surgery themes, occult heat. Ordinary precautions > gems.",
+    "12": "Sleep leak, hidden anger, foreign haste."
+  },
+  "nakshatra_tone": {
+    "Ashwini": "Begin, heal, move fast. Initiate; do not wait to be chosen.",
+    "Bharani": "Carry, birth, restrain. Do not drop the weight or it drops you.",
+    "Krittika": "Cut, purify, ambition. Sharp speech; use it as a blade for work not kin.",
+    "Rohini": "Grow, beauty, fertility. Make something last.",
+    "Mrigashira": "Search, quest. Curiosity is the path; restlessness is the leak.",
+    "Ardra": "Storm, intellect. Transformation through mind; do not romanticise chaos.",
+    "Punarvasu": "Return, renew. Second chances that are ethical.",
+    "Pushya": "Nourish, dharma. Care as career.",
+    "Ashlesha": "Research, coil, strategy. Do not manipulate kin.",
+    "Magha": "Throne, ancestors. Dignity; a partner or role with lineage weight.",
+    "Purva Phalguni": "Pleasure, romance, creativity. Civilized Venus — contract it.",
+    "Uttara Phalguni": "Vows, patronage, friendship. Lasting alliances.",
+    "Hasta": "Hands, craft, skill. Make the thing.",
+    "Chitra": "Design, brilliance, form. Build the beautiful structure.",
+    "Swati": "Independence, air, selfhood. Do not exile yourself as freedom.",
+    "Vishakha": "Forked drive, ambition. Pick one summit.",
+    "Anuradha": "Devotion, ally. Loyalty that is not self-erasure.",
+    "Jyeshtha": "Seniority, protection, heat. Lead without dominating.",
+    "Mula": "Uproot, investigate. Success after the false root is pulled.",
+    "Purva Ashadha": "Early victory, pride. Do not celebrate before the stamp.",
+    "Uttara Ashadha": "Lasting victory, duty. The long win.",
+    "Shravana": "Listen, path, learning. Ears before mouth.",
+    "Dhanishta": "Rhythm, wealth, drums. Time the beat.",
+    "Shatabhisha": "Veil, heal, solitude. Medicine and mystery; not disappearance as identity.",
+    "Purva Bhadrapada": "Intensity, fire, transformation. Two faces; choose the adult one.",
+    "Uttara Bhadrapada": "Depth, rain, completion. Finish.",
+    "Revati": "Nourish, crossing, ending-as-beginning. Safe passage."
+  },
+  "event_keys": {
+    "marriage": {
+      "dasha_planets": [
+        "Venus",
+        "Jupiter"
+      ],
+      "houses": [
+        7,
+        2,
+        11,
+        8
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        1,
+        5,
+        7,
+        9
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        2,
+        5,
+        7,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "Ketu antardasha or pratyantara",
+        "Ketu transiting the 5th, 7th or 10th from the Moon",
+        "7th lord in a dusthana with no benefic aspect",
+        "Venus combust and also weak in D9",
+        "Saturn transiting the 7th from the Moon (contracts get real, but the romance does not)",
+        "Ashtama Shani running"
+      ],
+      "varga": [
+        "D9 (navamsa) is decisive — read the D9 lagna, the D9 7th, and Venus in D9",
+        "Vargottama Venus or a vargottama 7th lord upgrades the whole reading"
+      ],
+      "karakas": [
+        "Venus",
+        "Jupiter",
+        "Moon"
+      ],
+      "evidence": [
+        "natal promise: 7th house, 7th lord, Venus, and the D9",
+        "dasha: a period lord connected to the 7th, 2nd, 11th, Venus or Jupiter",
+        "gochara: Jupiter on the 1/5/7/9 from lagna or the 2/5/7/11 from the Moon",
+        "ashtakavarga: 5+ bindus for Jupiter in the sign it is transiting"
+      ],
+      "language": "Say whether marriage is promised and what kind of partner the 7th describes. Give a window, not a date. Never name a person, never predict divorce, never use kuja dosha as a veto.",
+      "western": "Transiting Jupiter or Saturn to the natal Descendant or Venus; progressed Moon to natal Venus or the 7th cusp (Rushman).",
+      "title": "Marriage / partnership"
+    },
+    "career": {
+      "dasha_planets": [
+        "Sun",
+        "Saturn",
+        "Mercury",
+        "Mars"
+      ],
+      "houses": [
+        10,
+        6,
+        1,
+        11
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        10,
+        11,
+        1,
+        2
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        2,
+        9,
+        10,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        10,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "10th lord in the 12th with no benefic aspect",
+        "Saturn transiting the 10th from the Moon (obstacles, though the work still counts)",
+        "Ketu antardasha for a job change requiring a permanent commitment",
+        "Ashtakavarga: fewer than 4 bindus in the 10th"
+      ],
+      "varga": [
+        "D10 (dashamsa) is decisive — read the D10 lagna and the D10 10th lord",
+        "Amatyakaraka in D10 names the field"
+      ],
+      "karakas": [
+        "Sun",
+        "Saturn",
+        "Mercury",
+        "Jupiter"
+      ],
+      "evidence": [
+        "natal promise: 10th house and lord, the D10, and the strongest graha in a kendra",
+        "dasha: a period lord tied to the 10th, 6th, 11th or the Sun/Saturn/Mercury stack",
+        "gochara: Jupiter on the 10th/11th from lagna, Saturn in an upachaya from the Moon",
+        "ashtakavarga: 11th bindus higher than 10th means gain for less labour"
+      ],
+      "language": "Say whether the chart runs better as employment or as named work, and which window favours a move. Never name an employer. Never guarantee a salary.",
+      "western": "Transiting Saturn or Jupiter to the natal Midheaven; Saturn return for a structural career reset (Rushman).",
+      "title": "Career / profession"
+    },
+    "money": {
+      "dasha_planets": [
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "houses": [
+        2,
+        11,
+        5,
+        9
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        2,
+        5,
+        9,
+        11
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        2,
+        5,
+        9,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "12th bindus exceeding 11th in sarvashtakavarga — spending outruns earning",
+        "2nd and 11th lords both in dusthanas",
+        "Rahu dasha with leverage involved",
+        "Saturn transiting the 2nd from the Moon during Sade Sati's setting phase"
+      ],
+      "varga": [
+        "D2 (hora) for sustenance",
+        "D9 for whether the dhana yoga actually delivers"
+      ],
+      "karakas": [
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "evidence": [
+        "natal promise: a dhana yoga linking 1/2/5/9/11 lords, with a strong lagna lord",
+        "dasha: a period lord inside that dhana yoga",
+        "gochara: Jupiter on the 2nd or 11th from lagna or Moon",
+        "ashtakavarga: 2nd bindus above 12th means accumulation beats expenditure"
+      ],
+      "language": "Describe the route money takes in this chart — salary, trade, property, inheritance, network. Give a window for improvement. Never give a figure, never endorse a speculation, never call a lottery.",
+      "western": "Transiting Jupiter to natal Venus or the 2nd cusp; Pluto to the 8th for other people's money (Rushman).",
+      "title": "Money / wealth"
+    },
+    "home": {
+      "dasha_planets": [
+        "Moon",
+        "Venus",
+        "Mars",
+        "Saturn"
+      ],
+      "houses": [
+        4,
+        12,
+        2,
+        11
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        4,
+        2,
+        11
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        4,
+        2,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "4th lord in the 12th or 8th",
+        "Saturn or Rahu transiting the 4th from the Moon — a move is possible but slow and expensive",
+        "Mars afflicting the 4th for a disputed title"
+      ],
+      "varga": [
+        "D4 (chaturthamsha) for fixed property",
+        "D16 for vehicles and comforts"
+      ],
+      "karakas": [
+        "Moon",
+        "Venus",
+        "Mars",
+        "Saturn"
+      ],
+      "evidence": [
+        "natal promise: 4th house and lord, Mars for land, Venus for vehicles, the D4",
+        "dasha: a period lord tied to the 4th, 2nd, 11th or Mars/Venus/Moon",
+        "gochara: Jupiter on the 4th from lagna or Moon",
+        "ashtakavarga: 4+ bindus for the transiting graha in the 4th sign"
+      ],
+      "language": "Give the window and the likely route (inherited, financed, built, foreign). Never value a property.",
+      "western": "Transiting Jupiter or Saturn to the natal IC (Rushman).",
+      "title": "Home / property / vehicles"
+    },
+    "children": {
+      "dasha_planets": [
+        "Jupiter"
+      ],
+      "houses": [
+        5,
+        9,
+        2,
+        11
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        5,
+        1,
+        9
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        5,
+        2,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "Ketu in the 5th or in the 5th from the Moon",
+        "Saturn in the 5th with no benefic aspect (delay, not denial)",
+        "5th lord combust or in a dusthana",
+        "Ketu antardasha for a planned pregnancy"
+      ],
+      "varga": [
+        "D7 (saptamsha) is decisive",
+        "D9 for the partner's side of it"
+      ],
+      "karakas": [
+        "Jupiter"
+      ],
+      "evidence": [
+        "natal promise: 5th house and lord, Jupiter, the D7",
+        "dasha: a period lord tied to the 5th, 9th, 2nd or 11th, or Jupiter",
+        "gochara: Jupiter on the 5th from lagna or Moon"
+      ],
+      "language": "Read the 5th as children, creativity and inherited merit together. Delay is the common classical reading, not denial. PocketAstro never predicts infertility and never advises against medical consultation.",
+      "western": "Transiting Jupiter to the natal 5th cusp or the Moon (Rushman).",
+      "title": "Children / creativity"
+    },
+    "education": {
+      "dasha_planets": [
+        "Mercury",
+        "Jupiter"
+      ],
+      "houses": [
+        4,
+        5,
+        9,
+        2
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        4,
+        5,
+        9
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        2,
+        5,
+        9,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [],
+      "negations": [
+        "Mercury combust and afflicted in D24",
+        "4th and 5th lords both weak",
+        "Rahu on the 5th for a lost year rather than a lost capacity"
+      ],
+      "varga": [
+        "D24 (chaturvimshamsha) is decisive",
+        "D9 for whether a degree is completed"
+      ],
+      "karakas": [
+        "Mercury",
+        "Jupiter"
+      ],
+      "evidence": [
+        "natal promise: 4th, 5th and 9th houses with Mercury and Jupiter; the D24",
+        "dasha: a period lord tied to those houses",
+        "gochara: Jupiter on the 4th, 5th or 9th"
+      ],
+      "language": "Name the subject areas the chart supports and the window for a course or exam. Never predict an exam result.",
+      "western": "Transiting Jupiter to natal Mercury or the 9th cusp (Rushman).",
+      "title": "Education / learning"
+    },
+    "foreign": {
+      "dasha_planets": [
+        "Rahu",
+        "Saturn"
+      ],
+      "houses": [
+        12,
+        9,
+        3,
+        7
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        9,
+        12,
+        3
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        9,
+        12,
+        3
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11,
+        12
+      ],
+      "avoid_ad": [],
+      "negations": [
+        "4th lord very strong and the 12th empty with a weak 12th lord — the chart prefers home",
+        "Ketu on the 12th can mean retreat rather than relocation"
+      ],
+      "varga": [
+        "D9 for whether the move holds",
+        "D10 if the move is for work"
+      ],
+      "karakas": [
+        "Rahu",
+        "Saturn",
+        "Moon"
+      ],
+      "evidence": [
+        "natal promise: 12th and 9th houses, Rahu's placement, the nodal axis",
+        "dasha: Rahu, Saturn, or a period lord tied to the 12th, 9th or 3rd",
+        "gochara: Rahu or Saturn crossing the 12th or 9th; Jupiter on the 9th"
+      ],
+      "language": "Distinguish foreign income from foreign residence — they are different readings. Never promise a visa outcome.",
+      "western": "Transiting Uranus or Jupiter to the natal IC/MC axis; Saturn to the 4th for a forced move (Rushman).",
+      "title": "Foreign travel / living abroad"
+    },
+    "health": {
+      "dasha_planets": [],
+      "houses": [
+        1,
+        6,
+        8,
+        12
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        1,
+        5,
+        9,
+        11
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        1,
+        5,
+        9,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [],
+      "negations": [
+        "Sade Sati or Ashtama Shani running",
+        "Malefic transit over the natal lagna degree",
+        "Lagna and 8th both below 28 bindus in sarvashtakavarga"
+      ],
+      "varga": [
+        "D30 (trimshamsha) for the nature of difficulty",
+        "D1 lagna and lagna lord for constitution"
+      ],
+      "karakas": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Saturn"
+      ],
+      "evidence": [
+        "constitution: lagna, lagna lord, the Moon, and the sarvashtakavarga of the 1st and 8th",
+        "stress windows: Saturn's transit from the Moon, the 6th lord's dasha",
+        "body areas: the signs and nakshatras holding afflicted grahas"
+      ],
+      "language": "Lifestyle flags only. Name the body systems classically associated with the afflicted graha, and say plainly that this is not a diagnosis. Never predict an illness, a surgery outcome, or a lifespan. Always point to a clinician.",
+      "western": "",
+      "title": "Health / vitality"
+    },
+    "business": {
+      "dasha_planets": [
+        "Mercury",
+        "Jupiter",
+        "Rahu"
+      ],
+      "houses": [
+        7,
+        10,
+        11,
+        3
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        7,
+        10,
+        11,
+        2
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        2,
+        7,
+        10,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        10,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "Ketu antardasha for incorporation",
+        "7th lord afflicted for a partnership specifically",
+        "Rahu dasha with borrowed capital",
+        "Fewer than 4 bindus in the 10th or 11th"
+      ],
+      "varga": [
+        "D10 for the field",
+        "D9 for whether a partnership holds"
+      ],
+      "karakas": [
+        "Mercury",
+        "Jupiter",
+        "Rahu"
+      ],
+      "evidence": [
+        "natal promise: 7th (partnership), 10th (action), 11th (gain), 3rd (initiative)",
+        "dasha: a period lord tied to those houses or to Mercury/Jupiter",
+        "gochara: Jupiter on the 7th, 10th or 11th; Saturn in an upachaya"
+      ],
+      "language": "Say whether the chart supports going alone or with a partner. Never advise on capital.",
+      "western": "Transiting Jupiter to the natal MC or 11th cusp (Rushman).",
+      "title": "Business / self-employment"
+    },
+    "litigation": {
+      "dasha_planets": [
+        "Mars",
+        "Saturn"
+      ],
+      "houses": [
+        6,
+        7,
+        1,
+        11
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        6,
+        11,
+        1
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [],
+      "negations": [
+        "6th lord stronger than the lagna lord — the opponent has the better position",
+        "Saturn transiting the 1st or 8th from the Moon",
+        "Mars retrograde over the natal 6th or 7th"
+      ],
+      "varga": [
+        "D1 alone is usually enough; D9 for whether a settlement holds"
+      ],
+      "karakas": [
+        "Mars",
+        "Saturn",
+        "Mercury"
+      ],
+      "evidence": [
+        "strength of lagna lord against the 6th lord",
+        "Mars and Saturn transits over the 6th and 7th",
+        "ashtakavarga bindus in the 6th against the 1st"
+      ],
+      "language": "Frame as position strength and timing, never as a verdict. Always recommend a lawyer.",
+      "western": "",
+      "title": "Litigation / disputes"
+    },
+    "spiritual": {
+      "dasha_planets": [
+        "Ketu",
+        "Jupiter",
+        "Saturn"
+      ],
+      "houses": [
+        12,
+        9,
+        5,
+        8,
+        4
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        5,
+        9,
+        12
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        5,
+        9,
+        12
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11,
+        12
+      ],
+      "avoid_ad": [],
+      "negations": [],
+      "varga": [
+        "D20 (vimshamsha) is decisive"
+      ],
+      "karakas": [
+        "Ketu",
+        "Jupiter",
+        "Saturn"
+      ],
+      "evidence": [
+        "natal: Ketu's house, the 12th, the 9th, the Atmakaraka, and the D20",
+        "dasha: Ketu, Jupiter or Saturn periods open practice",
+        "the moksha houses (4, 8, 12) and their lords"
+      ],
+      "language": "Name the practice the chart leans toward — devotional, analytical, meditative, ritual, service. Never claim spiritual attainment for someone.",
+      "western": "",
+      "title": "Spiritual practice / inner life"
+    },
+    "fame": {
+      "dasha_planets": [
+        "Sun",
+        "Jupiter",
+        "Rahu"
+      ],
+      "houses": [
+        10,
+        1,
+        11,
+        5
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        1,
+        10,
+        11
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        10,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        10,
+        11
+      ],
+      "avoid_ad": [],
+      "negations": [
+        "Amala yoga absent and the 10th holding only malefics",
+        "Rahu on the 10th brings scale with exposure — read the ethics line"
+      ],
+      "varga": [
+        "D10 for the arena",
+        "D1 kendras for whether it lands"
+      ],
+      "karakas": [
+        "Sun",
+        "Jupiter",
+        "Moon",
+        "Rahu"
+      ],
+      "evidence": [
+        "Amala yoga, a strong 10th lord, a strong Sun, and grahas in kendras",
+        "dasha of the 10th or 1st lord",
+        "Jupiter or Saturn crossing the 10th"
+      ],
+      "language": "Distinguish visibility from standing. Never promise fame.",
+      "western": "Transiting Pluto or Uranus to the natal MC (Rushman).",
+      "title": "Public name / recognition"
+    },
+    "vehicle": {
+      "dasha_planets": [
+        "Venus",
+        "Moon"
+      ],
+      "houses": [
+        4,
+        11,
+        2
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        4,
+        11,
+        2
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        4,
+        11,
+        2
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        11
+      ],
+      "avoid_ad": [],
+      "negations": [
+        "Mars afflicting the 4th — accident caution, not a purchase veto"
+      ],
+      "varga": [
+        "D16 (shodashamsha)"
+      ],
+      "karakas": [
+        "Venus",
+        "Moon",
+        "Mars"
+      ],
+      "evidence": [
+        "4th house, Venus, the D16",
+        "dasha of Venus or the 4th lord",
+        "Jupiter on the 4th"
+      ],
+      "language": "A window and a caution, nothing more.",
+      "western": "",
+      "title": "Vehicle"
+    },
+    "job_change": {
+      "dasha_planets": [
+        "Saturn",
+        "Rahu"
+      ],
+      "houses": [
+        10,
+        6,
+        3,
+        12,
+        9
+      ],
+      "jupiter_gochara_houses_from_lagna": [
+        3,
+        10,
+        11
+      ],
+      "jupiter_gochara_houses_from_moon": [
+        3,
+        10,
+        11
+      ],
+      "saturn_supportive_houses_from_moon": [
+        3,
+        6,
+        10,
+        11
+      ],
+      "avoid_ad": [
+        "Ketu"
+      ],
+      "negations": [
+        "Ketu antardasha for signing a new contract",
+        "Saturn transiting the 8th from the Moon — a move now is a lateral one",
+        "Mercury retrograde over the natal 10th for the signing date specifically"
+      ],
+      "varga": [
+        "D10"
+      ],
+      "karakas": [
+        "Saturn",
+        "Sun",
+        "Mercury",
+        "Rahu"
+      ],
+      "evidence": [
+        "10th and 6th lords' dasha",
+        "Saturn crossing a kendra from the Moon",
+        "Jupiter on the 3rd, 10th or 11th",
+        "10th house bindus in the transiting sign"
+      ],
+      "language": "Give a window for the move and a separate, narrower window for the signing.",
+      "western": "Transiting Uranus to the natal MC for a rupture; Saturn for a structural move (Rushman).",
+      "title": "Job change / relocation of work"
+    }
+  },
+  "ketu_ad_forbidden": [
+    "marriage stamp",
+    "company incorporation",
+    "pregnancy-as-plan",
+    "leveraged speculation"
+  ],
+  "rahu_lagna_caution": "Identity restlessness and foreign pull. Do not emigrate, operate, or tattoo a new self on a mood.",
+  "western_outers": {
+    "Saturn": "Duty, delay, mastery — event when on angles or luminaries (Rushman).",
+    "Uranus": "Rupture, invention — possible, not required.",
+    "Neptune": "Fog, leak, mysticism — do not sign.",
+    "Pluto": "Purge, power — long chapter.",
+    "Jupiter": "Opportunity; confirm with natal 7th/10th promise."
+  },
+  "saturn_upachaya_from_moon": [
+    3,
+    6,
+    11
+  ],
+  "dasa_chidra": "Last tenth of a mahadasha is dasa chidra (Levacy): do not launch a new life on the leftover of an old chapter.",
+  "gochara_rahu_from_moon": {
+    "1": "Illness and disorientation; identity feels borrowed.",
+    "2": "Resources drain; speech and family under odd pressure.",
+    "3": "Benefic house (upachaya). Varied pleasures and productive boldness.",
+    "4": "Domestic unease; the home does not feel like one.",
+    "5": "Loss through speculation; strain around children.",
+    "6": "Benefic house (upachaya). Comfort through defeating opposition; good for competitive and foreign work.",
+    "7": "Humiliation in partnership; poor judgment about the other person.",
+    "8": "Serious health and crisis flag. Handle paperwork, tax and insurance.",
+    "9": "Losses; belief and father both feel unreliable.",
+    "10": "Comfort and visible ambition in the career.",
+    "11": "Benefic house (upachaya). Good fortune and large gains. The best Rahu transit.",
+    "12": "Excessive expenditure; foreign ground calls."
+  },
+  "gochara_ketu_from_moon": {
+    "1": "Self-doubt and detachment from the body.",
+    "2": "Resources and speech both cut back.",
+    "3": "Benefic house (upachaya). Quiet competence; effort without fuss.",
+    "4": "Home feels distant; withdraw rather than force.",
+    "5": "Detachment from children, romance and speculation. Strong for mantra practice.",
+    "6": "Benefic house (upachaya). Illness, debt and opposition are cut through. Good for diagnosis.",
+    "7": "Detachment inside partnership; do not read it as the end.",
+    "8": "Sudden endings and deep research capacity.",
+    "9": "Doubt about doctrine and teachers; direct experience replaces belief.",
+    "10": "Career held loosely; a good time to leave what is finished.",
+    "11": "Benefic house (upachaya). Gains arrive, then dissolve. Take them.",
+    "12": "Strong moksha pull. Retreat, research, foreign ground."
+  },
+  "saturn_best_from_moon": "Levacy: Saturn gives better results transiting 3, 6, 11 from Moon (effort, work, gains).",
+  "jupiter_aspect_on_saturn": "A favourable Jupiter aspect on transiting Saturn reduces the toll (Levacy).",
+  "vedha": {
+    "Sun": {
+      "benefic": [
+        3,
+        6,
+        10,
+        11
+      ],
+      "vedha": [
+        9,
+        12,
+        4,
+        5
+      ]
+    },
+    "Moon": {
+      "benefic": [
+        1,
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "vedha": [
+        5,
+        9,
+        12,
+        2,
+        4,
+        8
+      ]
+    },
+    "Mars": {
+      "benefic": [
+        3,
+        6,
+        11
+      ],
+      "vedha": [
+        12,
+        9,
+        5
+      ]
+    },
+    "Mercury": {
+      "benefic": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        11
+      ],
+      "vedha": [
+        5,
+        3,
+        9,
+        1,
+        8,
+        12
+      ]
+    },
+    "Jupiter": {
+      "benefic": [
+        2,
+        5,
+        7,
+        9,
+        11
+      ],
+      "vedha": [
+        12,
+        4,
+        3,
+        10,
+        8
+      ]
+    },
+    "Venus": {
+      "benefic": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12
+      ],
+      "vedha": [
+        8,
+        7,
+        1,
+        10,
+        9,
+        5,
+        11,
+        3,
+        6
+      ]
+    },
+    "Saturn": {
+      "benefic": [
+        3,
+        6,
+        11
+      ],
+      "vedha": [
+        12,
+        9,
+        5
+      ]
+    },
+    "Rahu": {
+      "benefic": [
+        3,
+        6,
+        11
+      ],
+      "vedha": [
+        12,
+        9,
+        5
+      ]
+    },
+    "Ketu": {
+      "benefic": [
+        3,
+        6,
+        11
+      ],
+      "vedha": [
+        12,
+        9,
+        5
+      ]
+    },
+    "note": "Charak XXIX: a graha in the matching vedha house from the Moon cancels that benefic gochara, and equally blocks the adverse result of a transit over a vedha house. Sun/Saturn and Moon/Mercury do not cause vedha to each other."
+  },
+  "kantaka_shani_house_from_moon": 4,
+  "vargas": {
+    "D9": "Navamsa colours dasha quality and marriage (Braha / Levacy ch.10). Fallen in D9 mixed even if exalted in D1.",
+    "D10": "Dashamsa colours career/purpose (Levacy).",
+    "D7": "Saptamsa for children — not yet a runtime clock."
+  },
+  "ashtakoota_asset": "assets/kb/ashtakoota.json",
+  "yogas_runtime": [
+    "Ruchaka Yoga",
+    "Bhadra Yoga",
+    "Hamsa Yoga",
+    "Malavya Yoga",
+    "Shasha Yoga",
+    "Sunapha Yoga",
+    "Anapha Yoga",
+    "Durudhara Yoga",
+    "Kemadruma Yoga",
+    "Adhi Yoga",
+    "Chandra Dhana Yoga",
+    "Gaja Kesari Yoga",
+    "Shakata Yoga",
+    "Veshi Yoga",
+    "Voshi Yoga",
+    "Ubhayachari Yoga",
+    "Budhaditya Yoga",
+    "Raja Yoga (kendra–trikona)",
+    "Dharma–Karmadhipati / 5th–9th Raja Yoga",
+    "Dharma–Karmadhipati Yoga (9th–10th)",
+    "4th–10th Exchange Raja Yoga",
+    "Harsha Yoga (vipreeta raja)",
+    "Sarala Yoga (vipreeta raja)",
+    "Vimala Yoga (vipreeta raja)",
+    "Neecha Bhanga Raja Yoga",
+    "Dhana Yoga",
+    "2nd–11th Dhana Yoga",
+    "Chandra–Mangala Yoga",
+    "Lakshmi Yoga",
+    "Amala (Amala-Kirti) Yoga",
+    "Shubha Kartari Yoga",
+    "Papa Kartari Yoga",
+    "Parvata Yoga",
+    "Chaamara Yoga",
+    "Chatussagara Yoga",
+    "Maha Bhagya Yoga",
+    "Vargottama",
+    "Maha Parivartana Yoga",
+    "Dainya Parivartana Yoga",
+    "Pravrajya (Sanyasa) Yoga",
+    "Moksha Karaka placement",
+    "Arishta Yoga",
+    "Daridra Yoga (1st–12th exchange)",
+    "Kala Sarpa Yoga",
+    "Hatha-Hantaa Yoga",
+    "Rajju Yoga",
+    "Musala Yoga",
+    "Nala Yoga",
+    "Maala (Srak) Yoga",
+    "Sarpa Yoga",
+    "Gada Yoga",
+    "Shakata Yoga (Aakriti)",
+    "Pakshi (Vihaga) Yoga",
+    "Vajra Yoga",
+    "Yava Yoga",
+    "Kamala Yoga",
+    "Vaapi Yoga",
+    "Shringataka Yoga",
+    "Hala Yoga",
+    "Yoopa Yoga",
+    "Shara Yoga",
+    "Shakti Yoga",
+    "Danda Yoga",
+    "Nauka Yoga",
+    "Koota Yoga",
+    "Chhatra Yoga",
+    "Dhanusha (Chaapa) Yoga",
+    "Ardha-Chandra Yoga",
+    "Chakra Yoga",
+    "Samudra Yoga",
+    "Veena Yoga",
+    "Daama Yoga",
+    "Paasha Yoga",
+    "Kedaara Yoga",
+    "Shoola Yoga",
+    "Yuga Yoga",
+    "Gola Yoga"
+  ],
+  "not_yet_runtime": [
+    "Varshaphala / solar-return year chart (tables present in panchanga.json, no runtime clock)",
+    "Secondary progressed Moon as a computed timer",
+    "Shadbala as a computed number (components documented in strength.json)",
+    "Jaimini chara dasha as a second clock",
+    "Prashna / horary"
+  ],
+  "modules": {
+    "planets": "assets/kb/planets.json",
+    "houses": "assets/kb/houses.json",
+    "nakshatras": "assets/kb/nakshatras.json",
+    "yogas": "assets/kb/yogas.json",
+    "doshas": "assets/kb/doshas.json",
+    "dashas": "assets/kb/dashas.json",
+    "transits": "assets/kb/transits.json",
+    "ashtakavarga": "assets/kb/ashtakavarga.json",
+    "strength": "assets/kb/strength.json",
+    "divisionals": "assets/kb/divisionals.json",
+    "panchanga": "assets/kb/panchanga.json",
+    "remedies": "assets/kb/remedies.json",
+    "interpretation": "assets/kb/interpretation.json",
+    "degrees": "assets/kb/degrees.json",
+    "matching": "assets/kb/ashtakoota.json"
+  },
+  "gochara_from_moon": {
+    "Sun": {
+      "1": "Vitality dips and travel begins. Do not schedule the confrontation here.",
+      "2": "Money goes out; speech costs more than it earns. Guard the budget and the tongue.",
+      "3": "Benefic house. Health and resources both improve; courage is available. Strong for launching self-directed work.",
+      "4": "Domestic strain and low energy. Home matters need attention rather than action.",
+      "5": "Mental pressure; strain around children or a creative venture. Poor for speculation.",
+      "6": "Benefic house. Opposition, debt and illness are all beatable now. Excellent for litigation and competitive work.",
+      "7": "Travel, and strain on the partner or partnership. Weak for signing.",
+      "8": "Reputation exposed; low vitality. Keep the profile low and the paperwork clean.",
+      "9": "Friction with father, teachers or institutions; morale low. Study rather than argue.",
+      "10": "Benefic house. Undertakings succeed; authority notices. The strongest Sun transit for career moves.",
+      "11": "Benefic house. Standing rises and gains arrive. Ask for the title now.",
+      "12": "Expenditure and low health. Rest; do not launch."
+    },
+    "Moon": {
+      "1": "Benefic house. Good fortune, visibility, emotional clarity on the day.",
+      "2": "Money leaks; family and food take focus.",
+      "3": "Benefic house. Victory in small contests; courage for the short move.",
+      "4": "Apprehension and domestic sensitivity. Stay home; do not decide.",
+      "5": "Low mood, romantic or creative strain. Poor for irreversible emotional moves.",
+      "6": "Benefic house. Freedom from illness; work goes well.",
+      "7": "Benefic house. Comfort through others; excellent for meetings and public dealings.",
+      "8": "Unexpected turns; emotional exposure. A poor day to be visible.",
+      "9": "Low health, restlessness; travel is unsatisfying.",
+      "10": "Benefic house. Undertakings succeed; the day's work lands.",
+      "11": "Benefic house. Gains and easy happiness. The best Moon transit of the cycle.",
+      "12": "Expenditure, tiredness, need for sleep. Withdraw deliberately."
+    },
+    "Mars": {
+      "1": "Mental torment and a short fuse. Do not send it.",
+      "2": "Resources drain; harsh speech costs money.",
+      "3": "Benefic house. Victory through effort; the best Mars transit for initiative and siblings.",
+      "4": "Displacement from home or workplace; friction over property.",
+      "5": "Mental anguish; strain around children or speculation. No leverage.",
+      "6": "Benefic house. Enemies, debt and illness all defeated. Surgery, litigation and competition favoured.",
+      "7": "Discord with the partner. Do not escalate at home.",
+      "8": "Sudden turns and accident-proneness. Slow everything physical down.",
+      "9": "Health and resources both under strain; friction with father or teachers.",
+      "10": "Obstacles and heavy physical exertion in the career.",
+      "11": "Benefic house. Gain of health and resources. Push the competitive move.",
+      "12": "Energy leaks; hidden opposition. Train, do not fight."
+    },
+    "Mercury": {
+      "1": "Resources drain through poor decisions; the mind is scattered.",
+      "2": "Benefic house. Gain through speech, trade and documents.",
+      "3": "Fear from opponents; communication misfires.",
+      "4": "Benefic house. Multiple gains through home, property and study.",
+      "5": "Discord with partner and children; poor for negotiation.",
+      "6": "Benefic house. Dominance over opponents; excellent for audits and legal work.",
+      "7": "Quarrels in partnership; contracts misread.",
+      "8": "Benefic house. Gain of resources, but watch health and nerves.",
+      "9": "Obstacles to undertakings; travel and study frustrated.",
+      "10": "Benefic house. All comforts; career communication lands.",
+      "11": "Benefic house. Multiple gains through networks and trade.",
+      "12": "Opponents on top; documents work against you. Reread everything."
+    },
+    "Jupiter": {
+      "1": "Displacement and expenditure. Jupiter over the Moon is famously mixed — growth that costs.",
+      "2": "Benefic house. Gain of resources; excellent for family money and study.",
+      "3": "Health dips; effort is unrewarded.",
+      "4": "Discord at home; opponents multiply.",
+      "5": "Benefic house. Happiness, and the classical window for the birth of a child.",
+      "6": "Trouble from opponents; debt expands rather than resolves.",
+      "7": "Benefic house. Comfort from partner and children; auspicious journeys. The classic marriage transit.",
+      "8": "Unwanted travel and loss of resources.",
+      "9": "Benefic house. Virtuous pursuits and many gains; the fortune transit.",
+      "10": "Apprehension about career; the profession feels stuck even when it is not.",
+      "11": "Benefic house. Acquisition of wealth and status. The strongest Jupiter transit of the cycle.",
+      "12": "Loss of resources; expenditure on good causes."
+    },
+    "Venus": {
+      "1": "Benefic house. Physical ease and pleasure.",
+      "2": "Benefic house. Inflow of resources.",
+      "3": "Benefic house. Varied gains through effort and communication.",
+      "4": "Benefic house. More friends; domestic comfort improves.",
+      "5": "Benefic house. Romance and creativity; classically the birth of a child.",
+      "6": "Misfortunes through indulgence; health of the reproductive and urinary system.",
+      "7": "Trouble to or from the partner. Poor for starting a relationship.",
+      "8": "Benefic house. Gain of health and resources through others' money.",
+      "9": "Benefic house. Varied comforts; good travel.",
+      "10": "Quarrels in the career; charm does not work here.",
+      "11": "Benefic house. Gain of wealth, with some apprehension attached.",
+      "12": "Benefic house. Acquisition of wealth; comfort found privately or abroad."
+    },
+    "Saturn": {
+      "1": "Sade Sati peak. Identity, body and duty all press. Structure the day; do not self-erase.",
+      "2": "Sade Sati closing phase. Delayed income, family duty, speech under weight. Save more than you display.",
+      "3": "Benefic house (upachaya). Rise in standing through effort; siblings and craft supported.",
+      "4": "Discord at home; property and mother need patient attention. Moves are slow and permanent.",
+      "5": "Strain around children and creativity; mental weight. No speculation.",
+      "6": "Benefic house (upachaya). Dominance over opponents, debt and illness through routine. The professional's transit.",
+      "7": "Difficult journeys and strain on the partner. Contracts get real; do not marry only to end loneliness.",
+      "8": "Ashtama Shani. Hidden tests, tax, elders' health, chronic worry. A toll on the dasha, not a deletion of yoga.",
+      "9": "Father, dharma and long travel delayed then made durable. Study and law take time.",
+      "10": "Obstacles in the career, and status through labour. Visibility must be maintained deliberately.",
+      "11": "Benefic house (upachaya). Steady inflow and serious allies. The best Saturn transit of the cycle.",
+      "12": "Sade Sati begins. Expenditure, isolation, foreign ground, sleep loss. Start the hygiene now."
+    },
+    "Rahu": {
+      "1": "Illness and disorientation; identity feels borrowed.",
+      "2": "Resources drain; speech and family under odd pressure.",
+      "3": "Benefic house (upachaya). Varied pleasures and productive boldness.",
+      "4": "Domestic unease; the home does not feel like one.",
+      "5": "Loss through speculation; strain around children.",
+      "6": "Benefic house (upachaya). Comfort through defeating opposition; good for competitive and foreign work.",
+      "7": "Humiliation in partnership; poor judgment about the other person.",
+      "8": "Serious health and crisis flag. Handle paperwork, tax and insurance.",
+      "9": "Losses; belief and father both feel unreliable.",
+      "10": "Comfort and visible ambition in the career.",
+      "11": "Benefic house (upachaya). Good fortune and large gains. The best Rahu transit.",
+      "12": "Excessive expenditure; foreign ground calls."
+    },
+    "Ketu": {
+      "1": "Self-doubt and detachment from the body.",
+      "2": "Resources and speech both cut back.",
+      "3": "Benefic house (upachaya). Quiet competence; effort without fuss.",
+      "4": "Home feels distant; withdraw rather than force.",
+      "5": "Detachment from children, romance and speculation. Strong for mantra practice.",
+      "6": "Benefic house (upachaya). Illness, debt and opposition are cut through. Good for diagnosis.",
+      "7": "Detachment inside partnership; do not read it as the end.",
+      "8": "Sudden endings and deep research capacity.",
+      "9": "Doubt about doctrine and teachers; direct experience replaces belief.",
+      "10": "Career held loosely; a good time to leave what is finished.",
+      "11": "Benefic house (upachaya). Gains arrive, then dissolve. Take them.",
+      "12": "Strong moksha pull. Retreat, research, foreign ground."
+    }
+  },
+  "gochara_sun_from_moon": {
+    "1": "Vitality dips and travel begins. Do not schedule the confrontation here.",
+    "2": "Money goes out; speech costs more than it earns. Guard the budget and the tongue.",
+    "3": "Benefic house. Health and resources both improve; courage is available. Strong for launching self-directed work.",
+    "4": "Domestic strain and low energy. Home matters need attention rather than action.",
+    "5": "Mental pressure; strain around children or a creative venture. Poor for speculation.",
+    "6": "Benefic house. Opposition, debt and illness are all beatable now. Excellent for litigation and competitive work.",
+    "7": "Travel, and strain on the partner or partnership. Weak for signing.",
+    "8": "Reputation exposed; low vitality. Keep the profile low and the paperwork clean.",
+    "9": "Friction with father, teachers or institutions; morale low. Study rather than argue.",
+    "10": "Benefic house. Undertakings succeed; authority notices. The strongest Sun transit for career moves.",
+    "11": "Benefic house. Standing rises and gains arrive. Ask for the title now.",
+    "12": "Expenditure and low health. Rest; do not launch."
+  },
+  "gochara_moon_from_moon": {
+    "1": "Benefic house. Good fortune, visibility, emotional clarity on the day.",
+    "2": "Money leaks; family and food take focus.",
+    "3": "Benefic house. Victory in small contests; courage for the short move.",
+    "4": "Apprehension and domestic sensitivity. Stay home; do not decide.",
+    "5": "Low mood, romantic or creative strain. Poor for irreversible emotional moves.",
+    "6": "Benefic house. Freedom from illness; work goes well.",
+    "7": "Benefic house. Comfort through others; excellent for meetings and public dealings.",
+    "8": "Unexpected turns; emotional exposure. A poor day to be visible.",
+    "9": "Low health, restlessness; travel is unsatisfying.",
+    "10": "Benefic house. Undertakings succeed; the day's work lands.",
+    "11": "Benefic house. Gains and easy happiness. The best Moon transit of the cycle.",
+    "12": "Expenditure, tiredness, need for sleep. Withdraw deliberately."
+  },
+  "gochara_mars_from_moon": {
+    "1": "Mental torment and a short fuse. Do not send it.",
+    "2": "Resources drain; harsh speech costs money.",
+    "3": "Benefic house. Victory through effort; the best Mars transit for initiative and siblings.",
+    "4": "Displacement from home or workplace; friction over property.",
+    "5": "Mental anguish; strain around children or speculation. No leverage.",
+    "6": "Benefic house. Enemies, debt and illness all defeated. Surgery, litigation and competition favoured.",
+    "7": "Discord with the partner. Do not escalate at home.",
+    "8": "Sudden turns and accident-proneness. Slow everything physical down.",
+    "9": "Health and resources both under strain; friction with father or teachers.",
+    "10": "Obstacles and heavy physical exertion in the career.",
+    "11": "Benefic house. Gain of health and resources. Push the competitive move.",
+    "12": "Energy leaks; hidden opposition. Train, do not fight."
+  },
+  "gochara_mercury_from_moon": {
+    "1": "Resources drain through poor decisions; the mind is scattered.",
+    "2": "Benefic house. Gain through speech, trade and documents.",
+    "3": "Fear from opponents; communication misfires.",
+    "4": "Benefic house. Multiple gains through home, property and study.",
+    "5": "Discord with partner and children; poor for negotiation.",
+    "6": "Benefic house. Dominance over opponents; excellent for audits and legal work.",
+    "7": "Quarrels in partnership; contracts misread.",
+    "8": "Benefic house. Gain of resources, but watch health and nerves.",
+    "9": "Obstacles to undertakings; travel and study frustrated.",
+    "10": "Benefic house. All comforts; career communication lands.",
+    "11": "Benefic house. Multiple gains through networks and trade.",
+    "12": "Opponents on top; documents work against you. Reread everything."
+  },
+  "gochara_venus_from_moon": {
+    "1": "Benefic house. Physical ease and pleasure.",
+    "2": "Benefic house. Inflow of resources.",
+    "3": "Benefic house. Varied gains through effort and communication.",
+    "4": "Benefic house. More friends; domestic comfort improves.",
+    "5": "Benefic house. Romance and creativity; classically the birth of a child.",
+    "6": "Misfortunes through indulgence; health of the reproductive and urinary system.",
+    "7": "Trouble to or from the partner. Poor for starting a relationship.",
+    "8": "Benefic house. Gain of health and resources through others' money.",
+    "9": "Benefic house. Varied comforts; good travel.",
+    "10": "Quarrels in the career; charm does not work here.",
+    "11": "Benefic house. Gain of wealth, with some apprehension attached.",
+    "12": "Benefic house. Acquisition of wealth; comfort found privately or abroad."
+  },
+  "benefic_transit_houses_from_moon": {
+    "Sun": [
+      3,
+      6,
+      10,
+      11
+    ],
+    "Moon": [
+      1,
+      3,
+      6,
+      7,
+      10,
+      11
+    ],
+    "Mars": [
+      3,
+      6,
+      11
+    ],
+    "Mercury": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      11
+    ],
+    "Jupiter": [
+      2,
+      5,
+      7,
+      9,
+      11
+    ],
+    "Venus": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      11,
+      12
+    ],
+    "Saturn": [
+      3,
+      6,
+      11
+    ],
+    "Rahu": [
+      3,
+      6,
+      11
+    ],
+    "Ketu": [
+      3,
+      6,
+      11
+    ]
+  },
+  "transit_timing_within_sign": {
+    "Sun": "gives results immediately on entering the sign",
+    "Mars": "gives results immediately on entering the sign",
+    "Jupiter": "gives results in the middle of the sign",
+    "Venus": "gives results in the middle of the sign",
+    "Moon": "gives results in the final third of the sign",
+    "Saturn": "gives results in the final third of the sign",
+    "Mercury": "follows its dispositor and its speed; fastest when direct and swift"
+  },
+  "transit_modifiers": [
+    "A benefic transit house that is also the graha's debilitation or enemy sign gives foreshortened benefit.",
+    "Debilitation coinciding with an adverse transit house gives the full adverse result.",
+    "Transit through the graha's own or exaltation sign is favourable regardless of house.",
+    "Malefic transits over natal malefics are particularly harmful; note the degree, not just the sign.",
+    "Read the transit sign's ashtakavarga bindu count for that graha: 5+ bindus delivers, 0-3 withholds.",
+    "The transiting Moon clinches the day an event occurs; the slow grahas set the season."
+  ],
+  "returns": {
+    "saturn_return": {
+      "age_years": [
+        29.5,
+        59,
+        88
+      ],
+      "meaning": "Saturn returns to its natal sign: the structure of the life is audited. What is real is kept; what was borrowed is repossessed."
+    },
+    "jupiter_return": {
+      "age_years": [
+        12,
+        24,
+        36,
+        48,
+        60,
+        72,
+        84
+      ],
+      "meaning": "Jupiter returns to its natal sign every ~12 years: a new chapter of growth, faith and opportunity opens."
+    },
+    "rahu_ketu_return": {
+      "age_years": [
+        18.6,
+        37.2,
+        55.8,
+        74.4
+      ],
+      "meaning": "The nodal axis returns every ~18.6 years: the same karmic theme reappears with more resources to meet it."
+    },
+    "nodal_reversal": {
+      "age_years": [
+        9.3,
+        27.9,
+        46.5,
+        65.1
+      ],
+      "meaning": "The nodes reach the opposite of their natal position: the axis flips and the compensating side of the life demands attention."
+    }
+  },
+  "planetary_maturity_ages": {
+    "Sun": 22,
+    "Moon": 24,
+    "Mars": 28,
+    "Mercury": 32,
+    "Jupiter": 16,
+    "Venus": 25,
+    "Saturn": 36,
+    "Rahu": 42,
+    "Ketu": 48,
+    "note": "A graha's promised results consolidate from its maturity age onward. Before that age it works in draft."
+  },
+  "order_of_judgment": [
+    "1. Verify the birth time. Without a reliable clock time, withhold the lagna, the houses and every varga; read the Moon chart only.",
+    "2. Lagna, lagna lord, and the Moon. These set the ceiling on everything below.",
+    "3. The 9th lord — fortune decides how much effort the rest will cost.",
+    "4. The house of the question, its lord, and the natural karaka. All three must be checked.",
+    "5. Yogas that touch those significators, with their cancellations evaluated.",
+    "6. The relevant varga — D9, D10, D7, D4, D24 or D20 — to confirm or downgrade.",
+    "7. Shadbala or, failing that, dignity plus avastha, to judge whether the promise can be delivered.",
+    "8. The running Vimshottari mahadasha, antardasha and pratyantara.",
+    "9. Gochara from the Moon and from the lagna, with vedha applied.",
+    "10. Ashtakavarga bindus in the transited sign, as the final filter.",
+    "11. The Western stack (Rushman transits) as a second opinion only."
+  ],
+  "two_technique_rule_detail": {
+    "statement": "An event is called likely only when at least two independent techniques agree.",
+    "techniques": [
+      "natal promise (house + lord + karaka)",
+      "Vimshottari dasha",
+      "gochara with vedha",
+      "ashtakavarga bindus",
+      "varga confirmation",
+      "Western transit (supporting only)"
+    ],
+    "verdicts": {
+      "likely": "Natal promise present AND dasha agrees AND transit agrees. No active negation.",
+      "possible": "Exactly one of dasha or transit agrees, with the natal promise present.",
+      "caution": "Techniques agree but a negation (Ketu period, Ashtama Shani, dusthana lord, vedha) is active.",
+      "do_not_claim": "No natal promise, or the techniques contradict each other."
+    }
+  },
+  "confidence_model": {
+    "base_with_birth_time": 48,
+    "base_without_birth_time": 38,
+    "bonuses": {
+      "natal_promise": 10,
+      "dasha_agrees": 10,
+      "transit_agrees": 10,
+      "both_dasha_and_transit": 8,
+      "varga_confirms": 6,
+      "ashtakavarga_5_plus": 5,
+      "western_confirms": 3,
+      "vargottama_significator": 4
+    },
+    "penalties": {
+      "no_birth_time": -15,
+      "negation_active": "clamp to 20-40",
+      "vedha_cancels_transit": -10,
+      "significator_combust": -6,
+      "significator_in_dusthana": -6,
+      "ashtakavarga_below_4": -5,
+      "dasa_chidra": -6,
+      "ad_in_6_8_12_from_md_lord": -6
+    },
+    "ceiling": 75,
+    "floor": 20,
+    "rationale": "The ceiling is deliberate. An offline ephemeris, whole-sign houses and a mean node do not support a claim above 75. Anything presented at higher confidence than the method supports is a lie about the method, not a stronger prediction."
+  },
+  "window_rules": [
+    "Report windows as month ranges, never as dates, unless the pratyantara and a fast transit both narrow it.",
+    "A mahadasha alone gives a chapter of years. An antardasha gives months. A pratyantara gives weeks.",
+    "The transiting Moon clinches the day; PocketAstro does not offer day-level event predictions.",
+    "Scan 24 months forward by default and report at most the eight strongest windows.",
+    "A window that depends on a single technique is labelled 'possible', never 'likely'."
+  ],
+  "refusals": {
+    "never_predict": [
+      "death, a date of dying, or the death of a named relative",
+      "a medical diagnosis, a test result, or a surgery outcome",
+      "the sex of an unborn child",
+      "infertility or an inability to have children",
+      "that a marriage will fail, or that a named person is wrong for someone",
+      "a legal verdict",
+      "a specific financial return, a lottery result, or a stock movement",
+      "anything about a third party who did not consent to the reading"
+    ],
+    "crisis_response": "If a question signals crisis, stop the reading and point to human help. In the US, call or text 988. PocketAstro is not a substitute for care.",
+    "longevity_language": "Classical longevity combinations are read as caution about health, conflict or authority — never as a lifespan. Ayurdaya is not computed."
+  },
+  "delivery_rules": [
+    "Lead with what the chart actually promises, not with what it warns about.",
+    "Name the technique behind every claim, so the user can check the reasoning.",
+    "Give a confidence number with every verdict, and state the method's ceiling.",
+    "Where a difficulty is real, give the remedy in the same breath — and lead with the practical one.",
+    "Never use fear to produce engagement.",
+    "State the birth-time source and what is withheld without a reliable one.",
+    "Distinguish Jyotisha claims from the Western layer explicitly; never blend them into one verdict."
+  ],
+  "birth_time_policy": {
+    "unknown": "Withhold lagna, all houses, all vargas and every house-based yoga. Vimshottari from the Moon still runs. Report chart-wide confidence at the no-time base.",
+    "approximate": "Report lagna with a boundary warning if within 4 minutes of a sign change; withhold D60 always and flag D10 and D24 as provisional.",
+    "recorded": "Full reading available, including D60 if the record gives seconds.",
+    "rectification_note": "PocketAstro does not rectify birth times automatically; it reports how close the lagna is to a boundary and what that costs."
+  },
+  "ashtakavarga": {
+    "asset": "assets/kb/ashtakavarga.json",
+    "implementation": "lib/engine/ashtakavarga.dart",
+    "sarva_average": 28,
+    "sarva_total": 337,
+    "bhinna_transit_threshold": 5,
+    "bhinna_mixed_at": 4,
+    "transit_rule": "A planet transiting a sign where it holds 5+ bindus in its own bhinnashtakavarga gives its promised result; 4 is mixed; 0-3 withholds it. Read the transit house both from lagna and from the Moon.",
+    "computed": [
+      "seven bhinnashtakavargas with their prastara (which contributor gave each bindu)",
+      "sarvashtakavarga by sign and by house",
+      "kakshya of a transiting graha, and the 0-7 day grade",
+      "transit verdict: delivers / mixed / withholds",
+      "the sarvashtakavarga house comparisons",
+      "the dignity override, where bindus and dignity disagree"
+    ],
+    "not_computed": {
+      "trikona_and_ekadhipatya_shodhana": "Deliberately absent. The reductions are not in the extracted corpus (Charak XXX calls the elaborate parts out of scope), and their main classical use is Ayurdaya, which PocketAstro refuses."
+    },
+    "gating_rule": "A transit that lands on the right house but holds fewer than four bindus does not count as a confirming technique. That is a veto, not a confidence tweak, and it is applied before the two-technique rule is evaluated.",
+    "requires_birth_time": "The lagna is one of the eight contributors, so ashtakavarga is withheld entirely without a birth time rather than computed from seven."
+  },
+  "dasha_judgment_rules": [
+    "A graha gives favourable results in its dasha when it is strong, exalted, in its own sign or moolatrikona, in a friend's sign, under benefic aspect, and placed in a kendra, trikona, the 2nd or the 11th, or joined to the 9th or 10th lord.",
+    "It gives adverse results when weak, debilitated, in an enemy's sign, combust, placed in the 6th, 8th or 12th, or under malefic aspect.",
+    "House ownership dominates natural nature. During its dasha a graha suddenly activates the house it owns.",
+    "Timing within the dasha follows the drekkana: a graha in the first drekkana of its sign delivers early in the dasha, the second drekkana in the middle, the third at the end. For a retrograde graha the order reverses.",
+    "A graha delivers the results of the house it occupies as much as the house it owns; read both.",
+    "The mahadasha sets the chapter, the antardasha the paragraph, the pratyantara the sentence. Never predict a dated event from the mahadasha alone.",
+    "Confirm every dasha reading against the running gochara. Two techniques must agree before an event is called likely.",
+    "Read the dasha lord's position in the relevant varga — D9 for marriage and character, D10 for career, D7 for children."
+  ],
+  "dasha_sandhi": {
+    "definition": "The junction between two mahadashas, roughly the last and first few months.",
+    "reading": "The most disorienting stretch in the Vimshottari cycle. Results of the old dasha stop arriving before the new one starts paying."
+  },
+  "ketu_antardasha_caution": {
+    "forbidden": [
+      "marriage registration",
+      "company incorporation",
+      "pregnancy-as-plan",
+      "leveraged speculation"
+    ],
+    "reason": "Ketu severs rather than binds. Anything requiring a permanent binding is poorly timed under a Ketu sub-period.",
+    "still_good_for": [
+      "research",
+      "retreat",
+      "closing an old obligation",
+      "learning a deep skill",
+      "medical diagnosis"
+    ]
+  },
+  "yogas_runtime_count": 77,
+  "yoga_judgment_rules": [
+    "A yoga is a promise, not an event. It delivers in the dasha or antardasha of the grahas that form it.",
+    "Yoga-forming grahas must be strong and free of affliction for the yoga to manifest fully. Weak constituents give the yoga with struggle attached.",
+    "Confirm every headline yoga in the relevant varga — D9 for character and marriage, D10 for career, D7 for children.",
+    "A raja yoga formed by grahas sitting in dusthanas gives status through struggle and loses it more easily.",
+    "Kemadruma, Shakata and Kala Sarpa are the three most over-delivered yogas in popular astrology. Check every cancellation before mentioning any of them.",
+    "Aakriti yogas take precedence over Aashraya yogas; both take precedence over Sankhya yogas.",
+    "Nabhasa yogas operate all life long and do not wait for a dasha."
+  ],
+  "yoga_evaluator": {
+    "asset": "assets/kb/yogas.json",
+    "implementation": "lib/engine/yoga.dart",
+    "coverage": "all catalogued yogas evaluate; see test/yoga_test.dart",
+    "cancellations_in_code": [
+      "adhi",
+      "bhadra",
+      "daridra_1_12",
+      "gaja_kesari",
+      "hamsa",
+      "kala_sarpa",
+      "kemadruma",
+      "maala",
+      "malavya",
+      "ruchaka",
+      "sarpa",
+      "shakata",
+      "shasha"
+    ],
+    "precedence": "Charak XX: an Aakriti or Dala yoga supersedes an Aashraya yoga, and both supersede a Sankhya yoga. Gola is the exception and cancels the Aashraya yoga instead.",
+    "reporting": "A cancelled or superseded yoga is still reported, with the reason. Kemadruma, Shakata and Kala Sarpa are the three most over-sold combinations in popular astrology and must never be silently dropped or silently asserted."
+  },
+  "dosha_delivery_protocol": [
+    "Evaluate every listed cancellation before a dosha is shown to a user at all.",
+    "Report a surviving dosha as a parameter with a named remedy, never as a verdict.",
+    "Never chain doshas into a prediction of death, divorce, childlessness or ruin.",
+    "Where a dosha has a psychological reading, lead with that; the ritual remedy is secondary.",
+    "Matching doshas (nadi, bhakoot) are reported as scores inside the 36-guna result, never as standalone refusals."
+  ],
+  "doshas_indexed": [
+    "kuja",
+    "kala_sarpa",
+    "sade_sati",
+    "ashtama_shani",
+    "kemadruma",
+    "gandmool",
+    "gandanta",
+    "grahan",
+    "pitru",
+    "shrapit",
+    "angarak",
+    "chandal",
+    "daridra",
+    "nadi",
+    "bhakoot"
+  ],
+  "gandanta": {
+    "junctions": [
+      {
+        "water": "Revati",
+        "fire": "Ashwini",
+        "at_deg": 360.0
+      },
+      {
+        "water": "Ashlesha",
+        "fire": "Magha",
+        "at_deg": 120.0
+      },
+      {
+        "water": "Jyeshtha",
+        "fire": "Mula",
+        "at_deg": 240.0
+      }
+    ],
+    "orb_deg": 3.3333,
+    "meaning": "The last pada of a water-sign nakshatra joined to the first pada of a fire-sign nakshatra is a karmic knot. Read it as a seam requiring rites and care, never as doom."
+  },
+  "gandmool": {
+    "list": [
+      "Ashlesha",
+      "Ashwini",
+      "Jyeshtha",
+      "Magha",
+      "Mula",
+      "Revati"
+    ],
+    "meaning": "Moon in a Ketu- or Mercury-ruled junction nakshatra. Classically flagged for birth shanti. In practice: an intense, uprooting start that matures well once the person stops fighting their own depth."
+  },
+  "abhijit": {
+    "start_deg": 276.6667,
+    "end_deg": 280.8889,
+    "note": "Abhijit, the 28th nakshatra, spans the last quarter of Uttara Ashadha and the first fifteenth of Shravana. It is not used in Vimshottari dasha, only in muhurta, where it is among the most auspicious spans for victory."
+  }
+}

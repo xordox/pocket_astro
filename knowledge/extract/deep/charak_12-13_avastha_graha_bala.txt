@@ -1,0 +1,770 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 156-173
+# compiled into: strength.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 156>>>
+
+...XII...
+Planetary States of Being
+What is night for all beings is the time of
+ waking for the
+disciplined one; what is the time of waking for (all) beings is
+the night for the sage of vision.
+Gita II/69
+Results arising from various
+ planets are said to be dependent upon
+certain planetary states or Avasthas. A
+ consideration of these planetary
+avasthas sheds light on some subtle predictive
+principles. Not much research
+seems to have been done about the avasthas of
+ planets as applicable to
+predictive astrology although several classical
+ writers, from Parashara
+downwards, have mentioned of them.
+Avasthas of planets can be grouped under several heads. They
+are being
+briefly described here according to information derived mainly from
+Parashara.
+I. Baladi-Avasthas or Physical States
+Planets belong to one of the five avasthas dependent upon
+which one-
+fifth portion of a sign they occupy. These five avasthas are called
+as:
+1. Balavastha or state of childhood: 0° to 6° in an odd
+sign and 24° to 30° in
+an even sign.
+2. Kumaravastha or state of boyhood: 6° to 12° in an
+odd sign and 18° to 24°
+in an even sign.
+3. Yuvavastha or state of adulthood: 12° to 18° in odd
+as well as even signs.
+
+<<<PAGE 157>>>
+4. Vridhavastha or state of old age: 18° to 24° in odd
+signs and 6° to 12° in
+even signs.
+5. Mritavastha or state of death: 24° to 30° in an odd
+sign and 0° to 6° in an
+even sign.
+A planet in its Balavastha fulfils only one-quarter of its
+promise; one in
+Kumaravastha provides for one-half of its promised result; a
+ planet in
+Yuvavastha produces full results; one in Vridhavastha produces very
+ little
+result; and the one in Mritavastha is incapable of any useful function,
+or may
+produce only adverse results.
+Note:
+1. According to the Phaladeepika, a planet in
+ Balavastha indicates
+progressive benefits, in Kumaravastha comforts, in
+Yuvavastha royalty and
+in Vridhavastha death and the like. The one in
+ Mritavastha is dead and
+functionless.
+2. The above results must not be applied literally.
+3. No planet can be functionless and each must produce
+good and bad results
+according to various factors affecting it. The above
+mentioned results may
+not be taken as the final word.
+4. It is important to correlate the above indications
+ with the dashas of
+planets. Two possible applications that could be studied are:
+(a) Planets in
+Balavastha may produce their results immediately as the
+dasha starts, and those
+ in the subsequent avasthas do so progressively
+later, during their indicated
+dasha periods.
+(b) A planet may
+produce its results at that time of a native’s life span as
+is indicated by the
+avastha to which the said planet belongs.
+II. Jagradadi-Avasthas or States of Consciousness
+Depending upon the level of consciousness of a planet, it
+may fall into
+one of the three states.
+1. Jagrad Avastha or state of wakefulness: This happens
+when a planet is
+exalted or located in its own house. A planet in Jagradavastha
+is capable of
+yielding full results.
+
+<<<PAGE 158>>>
+2. Swapnavastha or dreamful state: This obtains when a
+planet is located in
+the house of a friend or a neutral. A planet in such a
+state produces medium
+results.
+3. Sushupti-avastha or state of sleep: When a planet is
+either debilitated or in
+the house of an enemy. Such a planet is incapable of
+any function.
+Note: According to the Jataka Parijata, the above three
+ conditions are
+based on the location of various planets in the Navamsha chart
+and not in the
+Rashi chart. This concept appears more appropriate.
+III. Deeptadi-Avasthas or Physical-Mental States
+Nine planetary conditions have been described under this
+head.
+1. Deepta or luminous:
+A planet in exaltation or its Moolatrikona. Such a
+planet in its dasha period
+ ensures high status, courage, valour, wealth,
+vehicles, royal favours and
+material comforts.
+2. Swastha or stable: In its own house. Such a planet
+during its dasha ensures
+good health, education, fame, lands, wife, favours
+ from the ruler and
+inclination toward religious pursuits.
+3. Mudita or delighted: Located in the house of an
+adhi-mitra or a bosom
+friend. Its promises include money, clothes, perfumes,
+ religious pursuits,
+vehicles, ornaments, etc.
+4. Shanta or quiescent: In a friend’s house. It gives
+favours from the king,
+excessive wealth, comforts, lands, study of scriptures,
+ pleasures from
+meditation.
+5. Deena or deficient: A planet in the house of a
+neutral. It ensures change of
+work place or residence, opposition to one’s near
+and dear ones, humiliation,
+sickness, etc.
+6. Dukhi or tormented: In the house of an enemy. Such a
+planet during its
+dasha gives displacement and foreign journey, separation from
+ near ones,
+fear from thief, fire and the king.
+7. Vikala or grief-stricken: Associated with a malefic.
+ This gives mental
+torment, death or separation from friends, troubles at the
+ hands of wife,
+children and thieves.
+
+<<<PAGE 159>>>
+8. Khala or wicked: In the sign of a malefic. It leads
+to quarrels, separation
+from father, loss of lands and wealth, humiliation at
+the hands of one’s own
+people.
+9. Kruddha (kopa) or angered: Associated with the Sun
+(and combust!). This
+leads to inclination to perform sinful deeds, loss of
+ money, wife and
+children, and eye disease.
+Note: Several writers have mentioned slightly varying
+ names for these
+avasthas, and also varying conditions that characterise them.
+Some of them,
+picked up from classical works, are as follows:
+(a) Shaanta or
+Quiescent: In the vargas of benefics.
+(b) Shakta or
+powerful: Not combust. This is the reverse of Kruddha.
+(c) Prapeedit or
+ extremely tormented: Combust, hence equivalent to
+Kruddha.
+(d) Khala or wicked:
+Defeated in planetary warfare. This has also been
+labelled as Peedit or
+tormented.
+(e) Deena or
+deficient: Debilitated.
+IV. Lajjitadi-Avasthas or Mental States
+There are six of them.
+1. Lajjita or Abashed: A planet is said to be in
+ Lajjita-avastha when it
+occupies the fifth house in association with either of
+the Sun, Mars, Saturn,
+Rahu or Ketu.
+A planet in Lajjita avastha leads to irreligious
+ inclinations, loss of
+discrimination, illness to child, aimless wandering,
+quarrelsome nature, etc.
+2. Garvita or Conceited: In its exaltation or
+Moolatrikona.
+In the dasha of a planet in Garvita-avastha, one gains royal
+status, new
+house, learning, wealth, rise in business and varied comforts.
+3. Kshudhita or Hungry: When it occupies the house of
+ an enemy and is
+aspected by or associated with an enemy, particularly if it is
+associated with
+Saturn.
+
+<<<PAGE 160>>>
+In its dasha, a planet in Kshudhita-avastha leads to sorrow,
+ mental
+torment, trouble from enemies, monetary loss, distorted reasoning and
+loss
+of all energy.
+4. Trishita or Thirsty: Placement in a Jalachara or
+watery sign, aspected by a
+malefic, unaspected by a benefic.
+In its dasha, one suffers illness from association with
+women, inclination
+towards wicked deeds, loss of wealth, weakness, and
+humiliation.
+5. Mudita or Delighted: In the house of a friend,
+associated with or aspected
+by friendly planets as well as Jupiter.
+The dasha of a planet in Mudita-avastha ensures beautiful
+ garments,
+ornaments, large and spacious house to live in, pleasures from women,
+lands, residence in royal mansions, annihilation of foes, and progress in
+studies and learning.
+6. Kshobhita or Agitated: This happens when the planet
+is associated with
+the Sun (combust!) and aspected by malefics and enemy
+planets.
+Its dasha causes penury, distorted logic, varied torments,
+loss of wealth,
+disease of the foot, and loss of wealth through royal
+disfavour.
+Note: Planets in Kshudhita and Kshobhita avasthas ruin the
+houses they
+occupy.
+V. Shayanadi-Avasthas or States of (Mental and Physical)
+Inclination
+There are twelve states which indicate the mental and
+ physical
+tendencies of planets. They are referred to in the following order.
+ 1.Shayana or ‘recumbent’.
+ 2.Upavesha or ‘sitting’.
+ 3.Netrapani or ‘hands on eyes’.
+ 4.Prakashana or ‘luminous’.
+ 5.Gamanechchha or ‘eager to go’.
+ 6.Gamana or ‘departing’.
+ 7.Sabhayam Vasti or ‘being in an assembly’.
+
+<<<PAGE 161>>>
+ 8.Agama or ‘arriving’.
+ 9.Bhojana or ‘eating’.
+10.Nrityalipsa or ‘desire to dance’.
+11.Kautuka or ‘delight’.
+12.Nidra or ‘sleep’.
+Method of determining the above avasthas
+Go through the following steps in respect of the
+concerned planet:
+(a)Find the product of the following three values:
+(i)The number of the nakshatra (counted in the
+ regular order from
+Ashwini) which the concerned planet is in;
+(ii)The number of
+the planet in its natural order (considering the Sun as
+1, the Moon as 2, etc.,
+until Ketu as 9); and
+(iii)The number of
+the Navamsha in the sign which the planet is in. Some
+authorities, instead of
+considering the number of the Navamsha, take into
+consideration the actual
+degree of planetary longitude in the sign of its
+location.
+(b)Add to the above value, the sum of the following three
+values.
+(i)The number
+ representing the native’s birth nakshatra (i.e., the
+nakshatra where the Moon
+of the native is located in the birth chart);
+(ii)The number
+ representing the sign rising in the lagna (Mesha as 1,
+Vrisha as 2, etc.); and
+(iii)The Ishta-danda
+ or the number of Ghatis (a ghati is equal to 24
+minutes) that have elapsed from
+ the time of sunrise upto the time of
+birth.
+(c)Divide the result obtained above by 12. Note the
+remainder, which gives
+the number representing one of the above mentioned
+twelve avasthas.
+Determining the Cheshta
+After determining a planet’s avasthas, as mentioned above,
+it is required
+to find out the extent to which an avastha is productive of
+results. To achieve
+this, the following steps must be gone through:
+
+<<<PAGE 162>>>
+(a)Multiply the number representing the above mentioned
+ avastha by the
+same number. (That is, find the square of the remainder obtained
+as a final
+result during the process of determining the avastha).
+(b)Add to it the constant which represents the first
+ letter of the native’s
+name. Take the help of the accompanying table in this
+regard.
+Note: The Sanskrit alphabet does not exactly correspond with
+the English
+alphabet. Those who do not know the first letter of their name,
+according to
+the Sanskrit alphabet, need to take appropriate help.
+(c)Divide the sum of (a) and (b) by 12 and note the
+remainder.
+(d)To the remainder obtained above, add the kshepaka
+ –constant of the
+planet. The kshepaka-constants for the planets from the Sun to
+Ketu, in their
+natural order, are: 5, 2, 2, 3, 5, 3, 3, 4 and 4 respectively.
+(e)Divide the value obtained after step (d) by three.
+ Depending upon the
+remainder being either 1, 2 or 3 (or zero), the relevant
+Cheshta is called as
+Drishti, Cheshta, and Vicheshta.
+In Drishti, the result of an avastha is ordinary. In
+Cheshta, the result is
+intense. In Vicheshta, the avastha produces minimal
+result.
+It is not proposed here to go into further details,
+regarding these avasthas
+and their Cheshtas. These form a subject for intense
+research.
+Note:
+
+<<<PAGE 163>>>
+The use of planetary avasthas in astrology needs a very
+ careful
+consideration. The results attributed to avasthas, particularly to what
+we call
+as the Mritavastha of the Baladi group, could have very different
+meanings
+when we take into account the concepts of the Jaimini astrology.
+Astrologers
+are known to have made very successful predictions, especially in
+ timing
+events, solely on the basis of planetary avasthas, without using any
+dasha.
+See for instance the horoscope of Queen Elizabeth of England
+who was
+coronated in 1952-53, and continues to be the queen still. See how many
+planets are above 20 degrees in her horoscope.
+Then again see the horoscope of Queen Victoria who became
+queen in
+1837 and died in 1903, ruling as the world’s most powerful queen for
+66
+
+<<<PAGE 164>>>
+long years.
+This is being pointed out because the avasthas have some
+ secret and
+hidden meanings which can be elucidated only after thorough
+research.
+
+<<<PAGE 165>>>
+
+...XIII...
+Graha Bala or the Strength of Planets
+He, unto whom all desires enter as do waters
+ into the ever
+filled and ever consistent sea, attains peace and not he who
+yields unto his desires.
+Gita II/70
+Planets produce their results
+depending upon their strength or weakness
+in a horoscope. Determination of the
+exact strength of planets demands an
+elaborate mathematical exercise. It is
+proposed here only to give an outline
+of the method involved in determining the
+strength of planets. For greater
+details the reader is referred to appropriate
+works on the subject.
+Units of planetary strength
+It is customary to express the strength of planets in Rupas
+ and
+Shashtyamshas (i.e., units and subunits). Sixty Shashtyamshas (subunits)
+make a Rupa (a unit).
+Shadbala or Six-fold Strength
+Six different sources of strength combine to give a
+planet its actual strength.
+These six sources of strength, also known as
+shadbala, are:
+I. Sthana Bala or Positional Strength.
+II. Dig-Bala or Directional Strength.
+III. Kaala Bala or Temporal Strength.
+IV. Cheshta Bala or Motional Strength.
+
+<<<PAGE 166>>>
+V. Naisargika Bala or Inherent Strength.
+VI. Drig-Bala or Aspectual Strength (i.e., strength
+derived from aspects of
+other planets).
+I. Sthana Bala
+This is the strength of a planet because of its
+position. This is comprised of:
+1. Uchcha Bala.
+2. Sapta-vargaja Bala.
+3. Oja-yugama Rashi Bala.
+4. Oja-yugama Navamsha Bala.
+5. Kendradi Bala.
+6. Drekkana Bala.
+1. Uchcha Bala: This is the strength due to
+exaltation of a planet. A planet
+gets one Rupa (or sixty Shashtyamshas) of
+strength when at its exact point of
+exaltation. It gets ‘0’ units when at its
+exact point of debilitation. Between its
+deep exaltation and deep debilitation
+(i.e., over a span of six signs or 180
+degrees), the strength varies from 60
+Shashtyamshas to zero Shashtyamsha.
+Each three degrees of a planet’s longitude
+thus correspond to a strength of
+one Shashtyamsha.
+2. Sapta-vargaja Bala: The Sapta-vargas comprise
+ of the Rashi, Hora,
+Drekkana, Sapthamsha, Navamsha, Dwadashamsha and
+Trimshamsha.
+(a)Rashi chart: The allottment of strength varies with
+ the location of the
+planet as indicated.
+(i)In its
+Moolatrikona: 45.000 Shashtyamshas
+(ii)In its own
+house: 30.000 Shashtyamshas
+(iii)In the house
+of Adhi-Mitra: 22.500 Shashtyamshas
+(iv)In the house of
+a Mitra: 15.000 Shashtyamshas
+(v)In the house of
+a Sama: 7.500 Shashtyamshas
+(vi)In the house of
+a Shatru: 3.750 Shashtyamshas
+(vii)In the house
+of Adhi-Shatru: 1.875 Shashtyamshas
+
+<<<PAGE 167>>>
+(b)The remaining six vargas: In the remaining vargas,
+the Moolatrikona is
+not considered. Planets in the remaining six categories
+ receive similar
+strength as mentioned above.
+Own house: 30.000
+Shashtyamshas
+Adhi-Mitra (bosom
+friend): 22.500 Shashtyamshas
+Mitra (friend):
+15.000 Shashtyamshas
+Sama (equal): 7.500
+Shashtyamshas
+Shatru (enemy):
+3.750 Shashtyamshas
+Adhi-Shatru (Bitter
+enemy): 1.875 Shashtyamshas
+3. Oja-yugama Rashi Bala: The Moon and Venus in
+ even signs, in the
+Rashi chart, and the Sun, Mars, Mercury, Jupiter and Saturn
+in odd signs,
+each get a strength of 15 Shashtyamshas. Elsewhere they get no
+strength.
+4. Oja-yugama Navamsha Bala: The Moon and Venus
+in even signs in the
+Navamsha, and the Sun, Mars, Mercury, Jupiter and Saturn
+in odd signs in
+the Navamsha, each get a strength of 15 Shashtyamshas.
+Elsewhere they get
+no strength.
+5. Kendradi Bala: Planets located in the kendras
+obtain 60 Shashtyamshas,
+those in Panpharas 30 Shashtyamshas, and those in
+Apoklimas obtain 15
+Shashtyamshas of strength.
+6. Drekkana Bala: Male planets (the Sun, Mars
+ and Jupiter) in the first
+Drekkana, eunuchs (Mercury and Saturn) in the middle
+ Drekkana and
+female planets (the Moon and Venus) in the last Drekkana obtain 15
+Shashtyamshas of strength each. If these planets fall outside the prescribed
+Drekkanas, they get no strength.
+II. Dig-Bala
+This is the strength that a planet acquires because of
+ the direction of its
+placement.
+1. The Sun and Mars are strong in the south (10th
+house). This means that
+when either of them is located at the cusp of the 10th
+house, it receives one
+Rupa or 60 Shashtyamshas of strength. In the fourth
+ house, 180 degrees
+away, each of them receives zero Shashtyamsha of strength.
+In between they
+
+<<<PAGE 168>>>
+receive proportionate strength at a rate of one Shashtyamsha
+for every three
+degrees of arc.
+2. The Moon and Venus are fully strong in the north
+ (cusp of the fourth
+house) and obtain no strength in the tenth house.
+3. Mercury and Jupiter obtain full strength in the east
+(cusp of the lagna) and
+no strength in the seventh house.
+4. Saturn obtains full strength in the west (cusp of
+the seventh house) and no
+directional strength in the lagna.
+III. Kaala Bala
+This is dependent upon the moment of birth. It has nine
+components.
+1. Nata-Unnata Bala:
+(a)The Sun, Jupiter and Venus obtain 60 Shashtyamshas
+of strength at exact
+local noon; they get zero strength at exact local
+midnight. In between, their
+strength is altered proportionately.
+(b)The Moon, Mars and Saturn obtain 60 Shashtyamshas of
+strength at exact
+local midnight; they get zero strength at exact local noon.
+In between, their
+strength is altered proportionately.
+(c)Mercury always gets 60 Shashtyamshas of strength
+under this head.
+2. Paksha Bala:
+(a)Natural benefics (The Moon, Mercury, Jupiter and
+ Venus) obtain 60
+Shashtyamshas of strength when the Sun and the Moon are 180
+ degrees
+apart (i.e., full Moon). When the two luminaries are in exact
+conjunction,
+they get zero strength. In between their strength is altered
+proportionately.
+(b)Natural malefics (The Sun, Mars and Saturn) obtain
+ full strength (60
+Shashtyamshas) when the Sun and the Moon are exactly conjunct
+ (new
+Moon); at full Moon they get zero strength. In between, their strength is
+altered proportionately.
+(c)Multiply the Paksha-Bala of the Moon, as obtained
+above, by two. This
+gives the actual Paksha-Bala of the Moon for purposes of
+ reckoning of
+strength.
+
+<<<PAGE 169>>>
+3. Tri-Bhaga Bala: Tri-bhaga
+is one-third of anything.
+(a)For a day-time birth: Determine the length of the
+day (sunrise to sunset)
+and divide it by three.
+(i)Birth in the
+ first one-third: Mercury gets full (60 Shashtyamshas)
+strength.
+(ii)Birth in the
+middle one-third: The Sun gets full strength.
+(iii)Birth in the last one-third: Saturn gets full
+strength.
+(b)For a night-time birth: Determine the length of the
+ night (sunset to
+sunrise) and divide it into three portions.
+(i)Birth in the
+first part: The Moon gets full strength.
+(ii)Birth in the
+middle part: Venus gets full strength
+(iii)Birth in the
+last part: Mars gets full strength.
+(c)Jupiter always gets full strength (60 Shashtyamsha)
+under this heading,
+whatever the time of birth.
+4. Abda Bala: The lord of the
+first weekday of the year of birth gets 15
+Shashtyamshas of strength. Here it
+is not the year of the Christian era that is
+meant. The year in question here
+is:
+(a)either the year of 360 days calculated from the
+beginning of the creation
+(for which there are special and tedious methods of
+calculation involved);
+(b)or the solar year which commences with the entry of
+the Sun into the sign
+Mesha of the Niryana zodiac.
+5. Maasa Bala: The lord of
+the first weekday of the month of birth gets 30
+Shashtyamshas of strength.
+Again, the month in question is not the calendar
+month of the Christian era. It
+could be:
+(a)either the month of 30 days calculated from the
+beginning of creation;
+(b)or the solar month which commences with the monthly
+solar ingress into
+Niryana signs of the zodiac.
+6. Vaara Bala: The lord of
+the weekday of birth gets 45 Shashtyamshas of
+strength.
+
+<<<PAGE 170>>>
+7. Hora Bala: Determine the
+Hora operating at the time of birth. Its lord gets
+full strength of 60
+Shashtyamshas.
+8. Ayana Bala: Planets obtain
+ strength by possessing north or south
+declinations.
+(a)All planets have a strength of 30 Shashtyamshas at
+zero declination.
+(b)The Sun, Mars, Jupiter and Venus obtain full
+strength (60 Shashtyamshas)
+at 24° (approx. 23°27') north declination and zero
+ strength at south
+declination.
+(c)The Moon and Saturn obtain full strength at 24°
+(approx. 23°27') south
+declination and zero strength at north declination.
+(d)Mercury increases in strength as it moves away from
+the zero declination
+(30 Shashtyamshas of strength) to either north or south
+ declination (full
+strength).
+(e)The longitudes of planets considered for
+determination of the Ayana Bala
+are the Sayana longitudes. A planet has north
+ declination at its Sayana
+longitude of 0-180 degrees and south declination at
+its Sayana longitude of
+180-360 degrees.
+(f)The Ayana Bala of the Sun must be doubled.
+9. Yuddha Bala: Planets other
+than the Sun and the Moon, are said to be in
+yuddha (or at war) when they are
+located within one degree of each other.
+The planet whose longitude is greater
+is considered subjugated.
+The strength of the conqueror as well as the conquered is
+determined by
+adding their Sthana Bala, Dig-Bala and Kaala Bala (upto the Hora
+ Bala
+above). According to some, the difference between the two is the Yuddha
+Bala. This must be added to the Bala of the victor and subtracted from that
+of
+ the loser. According to others, the difference between the two must be
+divided
+by the difference between their disc diameters (9.4 Vikala or seconds
+for Mars;
+6.6 for Mercury; 190.4 for Jupiter; 16.6 for Venus and 158.0 for
+Saturn) to
+obtain the Yuddha Bala. This is added to the Bala of the victor and
+subtracted
+from the Bala of the loser.
+IV. Cheshta Bala
+
+<<<PAGE 171>>>
+Determination of the Cheshta Bala of a planet needs
+ elaborate
+understanding of astronomical principles involved in the apparent
+motion of
+planets from direct to retrograde, and from the slowest to the
+ fastest. In
+classical texts the Cheshta Bala of planets has been described
+ thus,
+depending upon their apparent motion.
+Apparent motion         Strength
+(i) Vakra              60 Shashtyamshas
+(ii) Anuvakra (or Ativakra)     30 Shashtyamshas
+(iii) Vikala                   15 Shashtyamshas
+(iv) Madhya             30 Shashtyamshas
+(v) Manda                 15 Shashtyamshas
+(vi) Mandatara              7.5 Shashtyamshas
+(vii) Sheeghra                45 Shashtyamshas
+(viii) Ati-sheeghra        30 Shashtyamshas
+Note:
+(a)The Sun has the same Ayana Bala and Cheshta Bala.
+(b)The Moon has the same Paksha Bala and Cheshta Bala.
+V. Naisargika Bala
+Each planet has its inherent strength. Dividing 60
+ Shashtyamshas by
+seven, and multiplying the result successively by one, two,
+three, four, five,
+six and seven gives the Naisargika Bala respectively of
+ Saturn, Mars,
+Mercury, Jupiter, Venus, the Moon and the Sun. The Sun, thus, has
+ the
+maximum Naisargika Bala (60 Shashtyamshas) and Saturn has the minimum
+(8.57
+Shashtyamshas).
+VI. Drig-Bala
+Each planet receives positive strength when aspected by a
+benefic and
+negative strength when aspected by a malefic. The sum total of all
+aspects on
+a planet is a measure of its Drig-Bala.
+
+<<<PAGE 172>>>
+Subtracting the longitude of the aspecting planet from the
+longitude of
+the aspected planet gives us the angular distance between the two
+planets.
+Mars, Jupiter and Saturn have their special aspects. The aspects of
+various
+planets at different arcs are tabulated below.
+In between the degrees mentioned here, proportionate
+alterations need to be
+done.
+The sum total of aspects of all the planets on a given
+planet is a measure
+of its Drig-Bala. This is positive or negative depending
+upon whether the
+benefic aspects or the malefic aspects predominate. The total
+ aspectual
+strength obtained in respect of each planet, when divided by four,
+ yields
+positive or negative Drig-Bala in Shashtyamshas. This must be added to
+or
+subtracted from the total Bala obtained by adding all the various components
+of Graha Bala in order to obtain the final actual strength of a planet.
+The final strength obtained in Shashtyamshas, when
+divided by 60 yields the
+strength in Rupas.
+Bhava Bala or the Strength of Houses
+This has three components:
+
+<<<PAGE 173>>>
+1.Strength of the lord of the house, as already
+discussed.
+2.Drig-Bala or strength of aspect, which is positive or
+negative depending
+upon the sum total of benefic aspects exceeding the malefic
+ ones or vice
+versa. The method of determining the Drig-Bala is the same as that
+in case
+of planets. In case of houses, their cusps are considered in place of
+ the
+longitudes of aspected planets.
+3.Dig-Bala or directional strength.
+Dig-Bala
+Parashara says the following in this respect:
+“To determine the Bhava Bala of Mithuna, Kanya, Tula,
+Kumbha and first
+half of Dhanu (i.e., Dwipada rashis), reduce from them the
+ cusp of the
+seventh house. For Mesha, Vrisha, Simha, second half of Dhanu and
+first
+half of Makara (i.e., Chatushpada rashis), reduce from them the cusp of
+the
+fourth house. For Karka and Vrischika (i.e., Keeta rashis), reduce from these
+the cusp of the lagna. And for Meena and second half of Makara (Jalachara
+rashis), reduce the cusp of the tenth house from these. Convert the remainder
+into degrees and divide by three (to get the strength in Shashtyamshas). If
+the
+remainder (before converting into degrees) is more than six, reduce it
+from 12
+ signs, and then divide by three after converting into degrees (as
+above). To
+this add one-fourth of the aspect of different planets (as was done
+while
+ determining the aspectual strength of planets) in case of benefic
+aspects and
+subtract it in case of malefic aspects. Add to it the strength of the
+lord of
+the house” (This gives the total Bhava Bala or the strength of the
+house).

@@ -1,0 +1,419 @@
+{
+ "engine": "pocketastro-transits",
+ "version": 1,
+ "sources": [
+  "Charak, Elements of Vedic Astrology — ch. XXIX (Gochara): benefic houses, vedha table, twelve-house results.",
+  "Levacy, Beneath a Vedic Sky — ch. 14 (transits).",
+  "Carol Rushman, The Art of Predictive Astrology — the Western transit stack."
+ ],
+ "primacy_rule": "Transits are subservient to the natal chart and to the dasha. The chart carries the promise, the dasha unfolds it, the transit clinches the moment. A transit alone never creates an event the natal chart does not promise.",
+ "reference_point": "Classically reckoned from the natal Moon (Janma Rashi). Charak notes that transits from the lagna work equally well and are more individualised. PocketAstro reads both and reports agreement between them as a confidence gain.",
+ "benefic_houses_from_moon": {
+  "Sun": [
+   3,
+   6,
+   10,
+   11
+  ],
+  "Moon": [
+   1,
+   3,
+   6,
+   7,
+   10,
+   11
+  ],
+  "Mars": [
+   3,
+   6,
+   11
+  ],
+  "Mercury": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   11
+  ],
+  "Jupiter": [
+   2,
+   5,
+   7,
+   9,
+   11
+  ],
+  "Venus": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   8,
+   9,
+   11,
+   12
+  ],
+  "Saturn": [
+   3,
+   6,
+   11
+  ],
+  "Rahu": [
+   3,
+   6,
+   11
+  ],
+  "Ketu": [
+   3,
+   6,
+   11
+  ]
+ },
+ "vedha": {
+  "pairs": {
+   "Sun": {
+    "3": 9,
+    "6": 12,
+    "10": 4,
+    "11": 5
+   },
+   "Moon": {
+    "1": 5,
+    "3": 9,
+    "6": 12,
+    "7": 2,
+    "10": 4,
+    "11": 8
+   },
+   "Mars": {
+    "3": 12,
+    "6": 9,
+    "11": 5
+   },
+   "Mercury": {
+    "2": 5,
+    "4": 3,
+    "6": 9,
+    "8": 1,
+    "10": 8,
+    "11": 12
+   },
+   "Jupiter": {
+    "2": 12,
+    "5": 4,
+    "7": 3,
+    "9": 10,
+    "11": 8
+   },
+   "Venus": {
+    "1": 8,
+    "2": 7,
+    "3": 1,
+    "4": 10,
+    "5": 9,
+    "8": 5,
+    "9": 11,
+    "11": 3,
+    "12": 6
+   },
+   "Saturn": {
+    "3": 12,
+    "6": 9,
+    "11": 5
+   },
+   "Rahu": {
+    "3": 12,
+    "6": 9,
+    "11": 5
+   },
+   "Ketu": {
+    "3": 12,
+    "6": 9,
+    "11": 5
+   }
+  },
+  "rule": "A graha's benefic transit house is cancelled if another graha occupies the paired vedha house at the same time. Vedha obstructs adverse results just as it obstructs benefic ones — a malefic transit over a vedha house is itself blocked when the paired benefic house is occupied.",
+  "exceptions": [
+   "Sun and Saturn do not cause vedha to each other (the father-son pair).",
+   "Moon and Mercury do not cause vedha to each other (the father-son pair)."
+  ]
+ },
+ "results_from_moon": {
+  "Sun": {
+   "1": "Vitality dips and travel begins. Do not schedule the confrontation here.",
+   "2": "Money goes out; speech costs more than it earns. Guard the budget and the tongue.",
+   "3": "Benefic house. Health and resources both improve; courage is available. Strong for launching self-directed work.",
+   "4": "Domestic strain and low energy. Home matters need attention rather than action.",
+   "5": "Mental pressure; strain around children or a creative venture. Poor for speculation.",
+   "6": "Benefic house. Opposition, debt and illness are all beatable now. Excellent for litigation and competitive work.",
+   "7": "Travel, and strain on the partner or partnership. Weak for signing.",
+   "8": "Reputation exposed; low vitality. Keep the profile low and the paperwork clean.",
+   "9": "Friction with father, teachers or institutions; morale low. Study rather than argue.",
+   "10": "Benefic house. Undertakings succeed; authority notices. The strongest Sun transit for career moves.",
+   "11": "Benefic house. Standing rises and gains arrive. Ask for the title now.",
+   "12": "Expenditure and low health. Rest; do not launch."
+  },
+  "Moon": {
+   "1": "Benefic house. Good fortune, visibility, emotional clarity on the day.",
+   "2": "Money leaks; family and food take focus.",
+   "3": "Benefic house. Victory in small contests; courage for the short move.",
+   "4": "Apprehension and domestic sensitivity. Stay home; do not decide.",
+   "5": "Low mood, romantic or creative strain. Poor for irreversible emotional moves.",
+   "6": "Benefic house. Freedom from illness; work goes well.",
+   "7": "Benefic house. Comfort through others; excellent for meetings and public dealings.",
+   "8": "Unexpected turns; emotional exposure. A poor day to be visible.",
+   "9": "Low health, restlessness; travel is unsatisfying.",
+   "10": "Benefic house. Undertakings succeed; the day's work lands.",
+   "11": "Benefic house. Gains and easy happiness. The best Moon transit of the cycle.",
+   "12": "Expenditure, tiredness, need for sleep. Withdraw deliberately."
+  },
+  "Mars": {
+   "1": "Mental torment and a short fuse. Do not send it.",
+   "2": "Resources drain; harsh speech costs money.",
+   "3": "Benefic house. Victory through effort; the best Mars transit for initiative and siblings.",
+   "4": "Displacement from home or workplace; friction over property.",
+   "5": "Mental anguish; strain around children or speculation. No leverage.",
+   "6": "Benefic house. Enemies, debt and illness all defeated. Surgery, litigation and competition favoured.",
+   "7": "Discord with the partner. Do not escalate at home.",
+   "8": "Sudden turns and accident-proneness. Slow everything physical down.",
+   "9": "Health and resources both under strain; friction with father or teachers.",
+   "10": "Obstacles and heavy physical exertion in the career.",
+   "11": "Benefic house. Gain of health and resources. Push the competitive move.",
+   "12": "Energy leaks; hidden opposition. Train, do not fight."
+  },
+  "Mercury": {
+   "1": "Resources drain through poor decisions; the mind is scattered.",
+   "2": "Benefic house. Gain through speech, trade and documents.",
+   "3": "Fear from opponents; communication misfires.",
+   "4": "Benefic house. Multiple gains through home, property and study.",
+   "5": "Discord with partner and children; poor for negotiation.",
+   "6": "Benefic house. Dominance over opponents; excellent for audits and legal work.",
+   "7": "Quarrels in partnership; contracts misread.",
+   "8": "Benefic house. Gain of resources, but watch health and nerves.",
+   "9": "Obstacles to undertakings; travel and study frustrated.",
+   "10": "Benefic house. All comforts; career communication lands.",
+   "11": "Benefic house. Multiple gains through networks and trade.",
+   "12": "Opponents on top; documents work against you. Reread everything."
+  },
+  "Jupiter": {
+   "1": "Displacement and expenditure. Jupiter over the Moon is famously mixed — growth that costs.",
+   "2": "Benefic house. Gain of resources; excellent for family money and study.",
+   "3": "Health dips; effort is unrewarded.",
+   "4": "Discord at home; opponents multiply.",
+   "5": "Benefic house. Happiness, and the classical window for the birth of a child.",
+   "6": "Trouble from opponents; debt expands rather than resolves.",
+   "7": "Benefic house. Comfort from partner and children; auspicious journeys. The classic marriage transit.",
+   "8": "Unwanted travel and loss of resources.",
+   "9": "Benefic house. Virtuous pursuits and many gains; the fortune transit.",
+   "10": "Apprehension about career; the profession feels stuck even when it is not.",
+   "11": "Benefic house. Acquisition of wealth and status. The strongest Jupiter transit of the cycle.",
+   "12": "Loss of resources; expenditure on good causes."
+  },
+  "Venus": {
+   "1": "Benefic house. Physical ease and pleasure.",
+   "2": "Benefic house. Inflow of resources.",
+   "3": "Benefic house. Varied gains through effort and communication.",
+   "4": "Benefic house. More friends; domestic comfort improves.",
+   "5": "Benefic house. Romance and creativity; classically the birth of a child.",
+   "6": "Misfortunes through indulgence; health of the reproductive and urinary system.",
+   "7": "Trouble to or from the partner. Poor for starting a relationship.",
+   "8": "Benefic house. Gain of health and resources through others' money.",
+   "9": "Benefic house. Varied comforts; good travel.",
+   "10": "Quarrels in the career; charm does not work here.",
+   "11": "Benefic house. Gain of wealth, with some apprehension attached.",
+   "12": "Benefic house. Acquisition of wealth; comfort found privately or abroad."
+  },
+  "Saturn": {
+   "1": "Sade Sati peak. Identity, body and duty all press. Structure the day; do not self-erase.",
+   "2": "Sade Sati closing phase. Delayed income, family duty, speech under weight. Save more than you display.",
+   "3": "Benefic house (upachaya). Rise in standing through effort; siblings and craft supported.",
+   "4": "Discord at home; property and mother need patient attention. Moves are slow and permanent.",
+   "5": "Strain around children and creativity; mental weight. No speculation.",
+   "6": "Benefic house (upachaya). Dominance over opponents, debt and illness through routine. The professional's transit.",
+   "7": "Difficult journeys and strain on the partner. Contracts get real; do not marry only to end loneliness.",
+   "8": "Ashtama Shani. Hidden tests, tax, elders' health, chronic worry. A toll on the dasha, not a deletion of yoga.",
+   "9": "Father, dharma and long travel delayed then made durable. Study and law take time.",
+   "10": "Obstacles in the career, and status through labour. Visibility must be maintained deliberately.",
+   "11": "Benefic house (upachaya). Steady inflow and serious allies. The best Saturn transit of the cycle.",
+   "12": "Sade Sati begins. Expenditure, isolation, foreign ground, sleep loss. Start the hygiene now."
+  },
+  "Rahu": {
+   "1": "Illness and disorientation; identity feels borrowed.",
+   "2": "Resources drain; speech and family under odd pressure.",
+   "3": "Benefic house (upachaya). Varied pleasures and productive boldness.",
+   "4": "Domestic unease; the home does not feel like one.",
+   "5": "Loss through speculation; strain around children.",
+   "6": "Benefic house (upachaya). Comfort through defeating opposition; good for competitive and foreign work.",
+   "7": "Humiliation in partnership; poor judgment about the other person.",
+   "8": "Serious health and crisis flag. Handle paperwork, tax and insurance.",
+   "9": "Losses; belief and father both feel unreliable.",
+   "10": "Comfort and visible ambition in the career.",
+   "11": "Benefic house (upachaya). Good fortune and large gains. The best Rahu transit.",
+   "12": "Excessive expenditure; foreign ground calls."
+  },
+  "Ketu": {
+   "1": "Self-doubt and detachment from the body.",
+   "2": "Resources and speech both cut back.",
+   "3": "Benefic house (upachaya). Quiet competence; effort without fuss.",
+   "4": "Home feels distant; withdraw rather than force.",
+   "5": "Detachment from children, romance and speculation. Strong for mantra practice.",
+   "6": "Benefic house (upachaya). Illness, debt and opposition are cut through. Good for diagnosis.",
+   "7": "Detachment inside partnership; do not read it as the end.",
+   "8": "Sudden endings and deep research capacity.",
+   "9": "Doubt about doctrine and teachers; direct experience replaces belief.",
+   "10": "Career held loosely; a good time to leave what is finished.",
+   "11": "Benefic house (upachaya). Gains arrive, then dissolve. Take them.",
+   "12": "Strong moksha pull. Retreat, research, foreign ground."
+  }
+ },
+ "timing_within_sign": {
+  "Sun": "gives results immediately on entering the sign",
+  "Mars": "gives results immediately on entering the sign",
+  "Jupiter": "gives results in the middle of the sign",
+  "Venus": "gives results in the middle of the sign",
+  "Moon": "gives results in the final third of the sign",
+  "Saturn": "gives results in the final third of the sign",
+  "Mercury": "follows its dispositor and its speed; fastest when direct and swift"
+ },
+ "modifiers": [
+  "A benefic transit house that is also the graha's debilitation or enemy sign gives foreshortened benefit.",
+  "Debilitation coinciding with an adverse transit house gives the full adverse result.",
+  "Transit through the graha's own or exaltation sign is favourable regardless of house.",
+  "Malefic transits over natal malefics are particularly harmful; note the degree, not just the sign.",
+  "Read the transit sign's ashtakavarga bindu count for that graha: 5+ bindus delivers, 0-3 withholds.",
+  "The transiting Moon clinches the day an event occurs; the slow grahas set the season."
+ ],
+ "sade_sati": {
+  "houses_from_moon": [
+   12,
+   1,
+   2
+  ],
+  "duration_years": 7.5,
+  "phases": {
+   "12": "rising",
+   "1": "peak",
+   "2": "setting"
+  },
+  "note": "Also read the two 'small panotis': Saturn in the 4th and in the 8th from the Moon, of about 2.5 years each."
+ },
+ "ashtama_shani": {
+  "house_from_moon": 8,
+  "duration_years": 2.5
+ },
+ "kantaka_shani": {
+  "house_from_moon": 4,
+  "duration_years": 2.5,
+  "note": "Ardha-ashtama / kantaka shani: domestic and health pressure, a smaller version of the 8th."
+ },
+ "saturn_upachaya": [
+  3,
+  6,
+  11
+ ],
+ "returns": {
+  "saturn_return": {
+   "age_years": [
+    29.5,
+    59,
+    88
+   ],
+   "meaning": "Saturn returns to its natal sign: the structure of the life is audited. What is real is kept; what was borrowed is repossessed."
+  },
+  "jupiter_return": {
+   "age_years": [
+    12,
+    24,
+    36,
+    48,
+    60,
+    72,
+    84
+   ],
+   "meaning": "Jupiter returns to its natal sign every ~12 years: a new chapter of growth, faith and opportunity opens."
+  },
+  "rahu_ketu_return": {
+   "age_years": [
+    18.6,
+    37.2,
+    55.8,
+    74.4
+   ],
+   "meaning": "The nodal axis returns every ~18.6 years: the same karmic theme reappears with more resources to meet it."
+  },
+  "nodal_reversal": {
+   "age_years": [
+    9.3,
+    27.9,
+    46.5,
+    65.1
+   ],
+   "meaning": "The nodes reach the opposite of their natal position: the axis flips and the compensating side of the life demands attention."
+  }
+ },
+ "planetary_maturity_ages": {
+  "Sun": 22,
+  "Moon": 24,
+  "Mars": 28,
+  "Mercury": 32,
+  "Jupiter": 16,
+  "Venus": 25,
+  "Saturn": 36,
+  "Rahu": 42,
+  "Ketu": 48,
+  "note": "A graha's promised results consolidate from its maturity age onward. Before that age it works in draft."
+ },
+ "retrograde": {
+  "rule": "A retrograde graha in transit revisits the same degrees three times: first pass raises the matter, retrograde pass renegotiates it, direct pass settles it.",
+  "vedic_note": "Classically a retrograde graha gains cheshta bala (motional strength) and delivers its results more forcefully, not more weakly.",
+  "practice": "Do not sign or launch during the retrograde pass of the graha that owns the relevant house. Wait for the direct station plus a few days.",
+  "never_retrograde": [
+   "Sun",
+   "Moon"
+  ],
+  "always_retrograde_mean": [
+   "Rahu",
+   "Ketu"
+  ]
+ },
+ "combustion_transit": "A graha combust in transit withholds its transit result until it separates from the Sun. Check combustion before calling any transit window.",
+ "eclipses": {
+  "rule": "An eclipse within about 12° of a natal graha or angle activates that point for the following six months.",
+  "solar": "Solar eclipse: the matter of the affected house restarts, usually through an external decision.",
+  "lunar": "Lunar eclipse: the matter of the affected house culminates or ends.",
+  "caution": "PocketAstro never predicts harm from an eclipse. It is a timing marker, nothing more."
+ },
+ "western_stack": {
+  "source": "Rushman, The Art of Predictive Astrology",
+  "orb_deg": 6.0,
+  "points_watched": [
+   "Ascendant",
+   "Midheaven",
+   "Sun",
+   "Moon",
+   "Venus",
+   "chart ruler"
+  ],
+  "transiting_bodies": [
+   "Saturn",
+   "Uranus",
+   "Neptune",
+   "Pluto",
+   "Jupiter"
+  ],
+  "meanings": {
+   "Saturn": "Structural test and consolidation of the house and planet contacted.",
+   "Jupiter": "Opening, opportunity and over-extension in equal measure.",
+   "Uranus": "Rupture and awakening; the arrangement that was tolerated becomes intolerable.",
+   "Neptune": "Dissolution, idealisation and fog; a poor window for contracts.",
+   "Pluto": "Compulsion, purge and the transfer of power."
+  },
+  "rule": "A Western transit hit is a second opinion. It never overrides the Vimshottari x gochara verdict; it raises or lowers confidence."
+ },
+ "progressions": {
+  "secondary": "A day for a year. The progressed Moon changes sign about every 2.5 years and marks the emotional chapter.",
+  "progressed_moon_return": "Age ~27.3 and ~54.6: the emotional cycle restarts.",
+  "use": "PocketAstro treats progressions as supporting texture, not as an event clock."
+ }
+}

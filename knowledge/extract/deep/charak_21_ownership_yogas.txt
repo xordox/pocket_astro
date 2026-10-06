@@ -1,0 +1,672 @@
+# source: _OceanofPDF.com_Elements_of_Vedic_Astrology_-_Dr_K_S_charak.pdf
+# pages: 318-334
+# compiled into: yogas.json (raja, dhana, arishta, parivartana)
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 318>>>
+
+...XXI...
+Yogas Based on Ownership of Houses
+Behold today the whole universe, moving and
+unmoving and
+whateverelse you desire to see, O Gudakesha, all unified in
+My
+body.
+Gita XI/7
+It has already been explained that
+planets behave as benefics or malefics
+depending upon the houses they own in a
+horoscope. This naturally varies
+with the lagna. The lordship of houses by the
+ planets is an extremely
+important factor in deciding the results that accrue
+ from varied planetary
+dispositions. It is the interaction of different planets,
+as different house lords,
+that results in the formation of various yogas so
+ often referred to in
+astrology.
+A yoga is a specific disposition of a planet or planets
+which is productive
+of specific results. There are hundreds, nay thousands, of
+yogas described in
+astrological texts. Their presence or absence in a
+ horoscope, as also their
+strength and placement, determines the nature and
+stature of a native.
+It is not possible to discuss all the various yogas
+ mentioned in the
+classical texts. Some principles underlying the formation of
+ the yogas,
+depending upon the ownership of the houses by the planets, will be
+discussed here. It is proposed to discuss these yogas under four heads.
+I.    Raja yogas
+II.  Dhana yogas
+III. Arishta yogas
+
+<<<PAGE 319>>>
+IV. Parivartana yogas
+I. Raja Yogas
+These yogas are so called because they elevate the status of
+ an
+individual. When they are formed by planets which are strong and located in
+benefic houses, they manifest fully. When formed by weak planets or those
+located in adverse houses, they do not manifest fully and lead to numerous
+obstacles and struggles.
+Formation of Raja Yogas
+It has already been pointed out that planets get related to
+each other by:
+(i) conjunction; (ii) mutual aspect; (iii) exchange of houses;
+and (iv) by one
+planet being placed in the other’s house and aspected by that
+planet. Raja
+yogas form when the lords of the kendras are related to the lords
+ of the
+trikonas in any of the above manner.
+It has been said that the kendras (houses 1, 4, 7 and 10)
+belong to lord
+Vishnu, the Preserver, while the trikonas (houses 1, 5 and 9)
+belong to His
+consort Laxmi, the goddess of Prosperity. The union of the two
+(kendra and
+trikona) lords forms a Raja yoga. The lagna is to be treated as
+both a kendra
+and a trikona. Raja yogas will thus result from a mutual
+ relationship
+between:
+(a) The lagna lord
+on the one side and the lord of the 4th or the 5th or the
+7th or the 9th or the
+10th house on the other (5 combinations).
+(b) The lord of the
+fourth house on the one side and the lord of the 5th or
+the 9th on the other
+(two combinations).
+(c) The lord of the
+fifth house on the one side and lords of the 7th or the
+10th on the other (two
+combinations).
+(d) The lord of the
+seventh house on the one side and that of the ninth on
+the other (one
+combination).
+(e) The lord of the
+ninth house on the one side and the lord of the tenth
+on the other (one
+combination).
+Thus eleven different types of Raja yogas are formed by
+ relationship
+between appropriate house lords. It may be pointed out that yogas
+formed
+
+<<<PAGE 320>>>
+between the 9th and the 10th lords, and those between the lagna lord on
+one
+side and the lords of the 9th or the 10th or the 4th or the 5th on the
+other, are
+particularly productive of favourable results.
+Some other Raja Yogas
+Parashara mentions several other Raja yogas some of which
+ are as
+follows:
+1. A conjunction or mutual aspect between the lord of
+the fifth and the lord
+of the ninth leads to kingship or royal status.
+Note: The ninth lord is a minister; the fifth is a
+chief minister. By kingship is
+meant a high governmental status in the modern
+context.
+2. Exchange between lords of the fourth and the tenth
+houses, aspected by or
+associated with the fifth or the ninth lords, is another
+combination for high
+official status.
+Note: The tenth house indicates the government, the
+fourth house also stands
+for the Parliament in a democracy.
+3. Lords of the fourth and the tenth associating with
+the lords of the fifth or
+the ninth produce a Raja yoga.
+4. Lord of the fifth house associated with the lagna
+lord or the ninth lord, and
+located in houses one, four or ten, brings forth a
+king.
+5. Jupiter-Venus conjunction occurring in the ninth
+house or associated with
+the fifth lord produces a king.
+6. Venus in the lagna aspected by the Moon and Jupiter
+causes a Raja yoga.
+7. Debilitated lords of the third, the sixth, the
+eighth or the twelfth, in the
+presence of a strong lord of the lagna which
+aspects or associates with the
+lagna, produce a Raja yoga during their dasha.
+8. Tenth lord exalted or in its own house, aspecting
+the lagna at the same
+time, produces a Raja yoga.
+Examples
+Chart XXI-1 belongs to a late Prime Minister of India. The
+lords of the
+9th and the 10th houses are combined in the tenth house producing
+ a
+powerful Raja yoga. A close association of the eighth and the ninth lords in
+
+<<<PAGE 321>>>
+the tenth house leads to the Raja yoga materialising suddenly and
+unexpectedly
+because of the death of his predecessor. The same combination
+resulted in a
+sudden and unexpected fall. The Sun in the tenth house gains
+directional
+strength and ensures high status in government.
+In the Navamsha too, a Raja yoga is formed in the lagna by
+ the
+association of the lagna lord and the tenth lord. This combination too is
+
+<<<PAGE 322>>>
+joined by the lord of the eighth house, confirming the indications of the
+Rashi
+chart.
+In the Dashamamsha, a powerful Raja yoga again forms in the
+ tenth
+house by the conjunction of the fifth and the ninth lords, along with the
+Sun.
+Vipareeta Raja Yoga
+An odd Raja yoga results when:
+(a) The sixth lord
+is in the eighth or the twelfth house (Harsha yoga);
+(b) The eighth lord
+is in the sixth or the twelfth house (Sarala yoga); or
+(c) The twelfth
+lord is in the sixth or the eighth house (Vimala yoga).
+This leads to rise in status, fame and financial gain
+ during the concerned
+dasha.
+In Chart XXI-2, a powerful Raja yoga results from a mutual
+ aspect
+between the ninth lord Mercury and the tenth lord, the Moon. The Moon as
+the 10th lord also receives the aspects of the fourth and fifth lord, Saturn,
+as
+also the natural benefic Jupiter. This powerful combination involves the
+5/11
+axis which is an axis for earnings and wealth, a Dhana yoga which will be
+described soon.
+
+<<<PAGE 323>>>
+The native, a senior bureaucrat in the Government of India,
+ enjoyed
+status and enhanced income particularly in the dasha periods of Ketu as
+well
+as Venus. This is a combination of a Raja yoga and a Dhana yoga occurring
+simultaneously. Ketu is aspected by Jupiter in both the Rashi chart and the
+Navamsha chart. Venus is the debilitated lord of the eighth house which is
+capable of causing a Raja yoga, as has been mentioned above; it is exalted in
+the Navamsha. These indications can be confirmed in the Dashamamsha too
+where
+Ketu in the 10th house is assocoiated with Jupiter, and Venus happens
+to be a
+yogakaraka located in the seventh house.
+II. Dhana Yogas
+The Dhana yogas are astrological combinations for wealth and
+prosperity. These combinations prove fruitful in the presence of a strong
+lagna
+ and a strong lagna lord. Any benefic combinations, whether Raja
+yogas or Dhana
+yogas, manifest fully only when the lagna is strong.
+
+<<<PAGE 324>>>
+The second and the eleventh houses are the ones which are
+concerned
+with the earning and accumulation of wealth. Besides these, the
+trines are
+considered as the abodes of Laxmi, the goddess of Wealth. Thus, any
+relationship among these various lords ensures wealth and prosperity. The
+Dhana
+yogas, in their simplest form, may thus occur when there is a mutual
+relationship between:
+(a) The lagna lord
+on one side and the second, or the fifth, or the ninth, or
+the eleventh lord on
+the other (four combinations).
+(b) The second lord
+on one side and the fifth, or the ninth, or the eleventh
+lord on the other
+(three combinations).
+(c) The fifth lord
+on one side and the ninth, or the eleventh lord on the
+other (two
+combinations).
+(d) The ninth lord
+on the one side and the eleventh lord on the other (one
+combination).
+This leads to ten different combinations. There are numerous
+ other
+combinations mentioned in several texts. All such combinations must be
+examined in the light of strength of the constituent planets, their lordship,
+their placement in specific houses and the influence of benefic and malefic
+planets on them.
+Some other Dhana Yogas
+Parashara makes a mention of several
+other Dhana yogas. Some of these are
+enumerated here.
+A. Significance of the 5/11 axis
+1.Venus occupying
+ the fifth house identical with its own rashi
+(Vrisha/Tula), and Mars placed in
+the lagna.
+2.Mercury occupying
+ the fifth house identical with its own rashi
+(Mithuna/Kanya), with the Moon,
+ Mars and Jupiter in the eleventh
+house.
+3.The Sun occupying
+the fifth house identical with its own rashi (Simha),
+and the Moon, Jupiter and
+Saturn in the eleventh house.
+4.Saturn occupying
+ the fifth house identical with its own rashi
+(Makara/Kumbha), and the Sun and
+the Moon in the eleventh house.
+
+<<<PAGE 325>>>
+5.Jupiter occupying
+ the fifth house identical with its own rashi
+(Dhanu/Meena), and Mercury in the
+eleventh house.
+6.Mars occupying
+ the fifth house identical with its own rashi
+(Mesha/Vrischika), and Venus in
+the eleventh house.
+7.The Moon in Karka
+ in the fifth house, and Saturn in the eleventh
+house.
+B. Significance of the lagna and
+its lord
+1.The Sun in Simha
+lagna, under the influence (aspect or association) of
+Mars and Jupiter.
+2.The Moon in Karka
+lagna, under the influence of Mercury and Jupiter.
+3.Mars in its own
+ rashi (Mesha/Vrischika) in the lagna, under the
+influence of Mercury, Venus and
+Saturn.
+4.Mercury in its
+ own rashi (Mithuna/Kanya) in the lagna, under the
+influence of Jupiter and
+Saturn.
+5.Jupiter in its
+ own rashi (Dhanu/Meena) in the lagna, under the
+influence of Mars and Mercury.
+6.Venus in its own rashi
+(Vrisha/Tula) in the lagna, under the influence of
+Mercury and Saturn.
+7.Saturn in its own
+ rashi (Makara/Kumbha) in the lagna, under the
+influence of Mars and Jupiter.
+C. Houses five and nine
+Houses five and
+ nine are particularly wealth-giving houses. Planets
+associated with these
+houses or their lords ensure acquisition of wealth.
+Examples
+In chart XXI-3, six of the nine planets occupy the 5/11
+axis, the axis of
+wealth. The fifth house contains several Raja yogas and Dhana
+yogas. They
+are:
+ 1.      Lagna lord with the fourth lord.
+ 2.      Lagna lord with the fifth lord.
+ 3.      Lagna lord with the ninth lord.
+
+<<<PAGE 326>>>
+ 4.      Lagna lord with the tenth lord.
+ 5.      Fourth lord with the fifth lord.
+ 6.      Fourth lord with the ninth lord.
+ 7.      Fifth lord with the ninth lord.
+ 8.      Fifth lord with the tenth lord.
+ 9.      Lagna lord with the second lord.
+10.       Second lord with the ninth lord.
+11.             Mars and the Moon joining together in a house
+ is an additional
+combination for wealth.
+No wonder the native is very prosperous and enjoys a high
+status in the
+U.S.A. In the Navamsha also, the second and the ninth lord Venus,
+located in
+the eleventh house, is aspected by the fifth lord Saturn occupying
+its own
+house.
+
+<<<PAGE 327>>>
+Chart XXI-4 shows a conjunction of the lagna lord, the
+second lord and
+the tenth lord in the fourth house. This chart also shows a
+ special Dhana
+yoga of Parashara which is obtained when a single planet owning
+the second
+and the seventh houses simultaneously, occupies the fourth house.
+This can
+only happen in the case of Mesha and Tula lagnas. For Mesha lagna,
+Venus
+as the lord of the second and the seventh houses, causes a Dhana yoga
+when
+located in the fourth house. For Tula lagna, as in this case, Mars as the
+lord
+of the second and the seventh houses, occupies the fourth house. An
+additional factor for riches is the association of the Moon and Mars which
+goes
+under the name of Chandra-Mangala yoga. It is present in Chart XXI-3
+also.
+Chart XXI-5 shows a very close conjunction of the ninth and
+the tenth
+lords, a potent Raja yoga, obtaining in the second house of
+prosperity, while
+the lagna lord and the second lord Saturn occupies the
+eleventh house. The
+
+<<<PAGE 328>>>
+lagna lord and the eleventh lord mutually aspect each other
+along the 5/11
+axis. Powerful Raja yogas and Dhana yogas are thus formed. The
+combination in the second house is also associated with the Sun which is the
+eighth lord indicating obstacles as well as interruptions. The native changed
+many jobs, each successive break virtually causing further rise in his status
+and eminence, as also proving financially more benefic (the effect of the
+second house!).
+The Indu Lagna
+A method of working out the extent of prosperity of a person
+ is to
+determine the Indu lagna in his chart and see the disposition of planets
+from
+it.
+Method of casting the Indu Lagna
+The seven planets, from the Sun to
+the Saturn, contribute 30, 16, 6, 8, 10, 12
+and 1 Kalas or units respectively.
+
+<<<PAGE 329>>>
+(a) Note the ninth
+lord from the lagna and the ninth lord from the Moon.
+(b) Add the units
+contributed by the two lords.
+(c) Divide by 12 to
+remove multiples of 12.
+(d) See which house
+is indicated by the remainder, when counted from
+the position of the Moon.
+(e) That house
+becomes the Indu Lagna.
+An unblemished benefic or an exalted malefic in the Indu
+Lagna makes
+one a multi-millionaire according to the classical texts. Ordinary
+ malefic
+influence on this lagna leads to ordinary financial status.
+In Chart XXI-3, the ninth lord from the lagna is Saturn, and
+the ninth
+lord from the Moon is the Moon itself. The units contributed by the
+two (i.e.,
+1 and 16) when added yield 17. This divided by 12 yields a remainder
+of 5.
+The fifth house from the Moon in the natal chart falls in Meena, in the
+eleventh house. Six of the nine planets influence this lagna by aspect or
+occupation. When several planets associate with the Indu Lagna, or aspect it,
+or fall in the second or the eleventh from it, or occupy kendras from it,
+riches
+are ensured.
+In Chart XXI-6, the lagna lord is joined with the second
+lord Mars and
+the ninth lord Mercury, as well as Jupiter, the significator for
+wealth, in the
+second house. The native is a wealthy lady. Venus as the eighth
+lord in this
+combination has ensured inheritence while Jupiter as the sixth
+lord has led to
+legal disputes.
+The ninth lord from lagna is Mercury; from the Moon the
+ninth lord is
+the Sun. The Sun and Mercury, contributing 30 and 8 units yield
+38 which,
+when divided by 12, gives a remainder of 2. From the Moon the second
+house is Makara. This becomes the Indu lagna. Fom here, the eleventh house
+has
+four planets and powerful Dhana yogas. This chart suffers the blemish of
+having
+all planets concentrated in only two houses (the second and the third)
+of the
+horoscope forming the ‘Yuga’ variety of Sankhya yogas, under the
+main head of
+Nabhasa yogas. It will be seen that the presence of the ‘Yuga’
+yoga has not
+ caused poverty, as a literal application of this yoga might
+suggest.
+
+<<<PAGE 330>>>
+III. Arishta Yogas
+These yogas lead to ill health. The results of Raja yogas
+ and Dhana
+yogas get adversely modified in the presence of potent Arishta yogas.
+Detailed description of these yogas leads one into medical astrology which is
+a
+complete subject in itself. Here it is only pertinent to touch on the basic
+principles as relevant to the lordship of planets over various houses.
+The highly malefic houses are the Trik houses, viz., the
+sixth, the eighth
+and the twelfth. Their lords produce adverse results. Further
+association of
+these lords with maraka planets enhances their virulence. In
+their simplest
+form, the Arishta yogas may be formed when there is a
+relationship between:
+(a) The lagna lord on the one side and the sixth or the
+eighth or the twelfth
+lord on the other (three combinations).
+(b) The sixth lord on the one side and the eighth or
+the twelfth lord on the
+other (two combinations).
+(c) The eighth lord on the one side and the twelfth
+lord on the other (one
+combination).
+The above six combinations become worse when associated
+or aspected by
+the maraka planets.
+The Daridrya Yogas
+The Daridrya yogas of Parashara cause penury and sufferring.
+It will be
+seen that when the lagna lord is weak and afflicted, along with
+combinations
+for ‘daridrya’, there occurs ill health. Some of the Daridrya
+ yogas of
+Parashara are defined below:
+1. Lagna lord in the twelfth house and the twelfth lord
+ in the lagna, and
+influence of marakas (lords of houses 2 or 7) on either or
+both of them.
+2. Lagna lord in the sixth and the sixth lord in the
+ lagna, under maraka
+influence.
+3. Lagna or the Moon joined with Ketu, and the lagna
+ lord in the eighth
+house, under maraka influence.
+4. Afflicted lagna lord in a Trik house, and the lord
+ of the second house
+debilitated or in the sixth house. Under such a yoga, a
+person born to a royal
+
+<<<PAGE 331>>>
+family also attains to poverty.
+5. Fifth lord in the sixth house, and the ninth lord
+under maraka influence
+located in the twelfth house.
+6. Malefics in benefic houses and benefics located in
+adverse houses.
+7. The dasha of planets associated with the Trik lords
+leads to excessive loss
+of wealth if unaspected by the lords of the fifth or
+the ninth.
+8. Location of Mars and Saturn in the second house.
+Note: If Mercury aspects this combination, the native
+is very wealthy.
+9. Saturn in the second house aspected by the Sun.
+10. The Sun in the second house aspected by Saturn.
+Note: If Saturn does not aspect the Sun in the second
+house, the native is
+wealthy.
+Example
+Several Arishta yogas manifest in
+chart XXI-7.
+1. Three planets are debilitated in
+the Rashi chart and two in the Navamsha
+chart.
+2. Lagna lord associates with a
+ retrograde sixth lord and the Sun, and is
+aspected by Saturn.
+3. The Moon is involved in the
+Rahu-Ketu axis and gets debilitated in the
+Navamsha.
+4. A retrograde, functionally
+malefic, Mercury aspects the lagna. Retrograde
+planets lose their beneficence
+as far as health is concerned.
+The native suffers from a chronic
+incurable disease of the muscular system.
+He is, however, not poor monetarily.
+Some of the combinations promising
+financial stability here are:
+1. A
+mutual aspect between the lagna lord and the eleventh lord.
+2. The lagna lord and the fifth lord
+together, aspecting thee lagna.
+3. A debilitated lord of the
+twelfth. It has been mentioned already that the
+debilitated lords of the third,
+ the sixth, the eighth and the twelfth prove
+beneficial.
+
+<<<PAGE 332>>>
+4. A debilitated planet in the sixth
+house!
+5. Some Dhana yogas obtain in the
+Navamsha too.
+IV. Parivartana Yogas
+These yogas are characterised by exchange of house lords.
+When two
+planets exchange houses, they gain some strength and behave as if they
+are
+located each in his own house. By an exchange, they get linked to each
+other. Obviously, if the lord of a good house establishes an exchange with a
+benefic house, good results are produced. However, when adverse houses are
+involved, the results too are adverse.
+Mantreshwara gives three categories
+of Parivartana yogas.
+A. Maha Yogas (or great
+combinations): These result when:
+1.      The lagna
+lord exchanges houses with (i) the second lord, (ii) the
+fourth lord, (iii) the
+fifth lord, (iv) the seventh lord, (v) the ninth lord, (vi)
+the tenth lord, or
+(vii) the eleventh lord.
+2.      The second
+lord exchanges houses with (i)the fourth lord, (ii) the
+fifth lord, (iii) the
+seventh lord, (iv) the ninth lord, (v) the tenth lord, or
+(vi) the eleventh
+lord.
+3.      The fourth
+lord exchanges houses with (i) the fifth lord, (ii) the
+seventh lord, (iii) the
+ninth lord, (iv) the tenth lord, or (v) the eleventh
+lord.
+4.      The fifth
+lord exchanges houses with (i) the seventh lord, (ii) the
+ninth lord, (iii) the
+tenth lord, or (iv) the eleventh lord.
+5.      The seventh
+lord exchanges houses with (i) the ninth lord, (ii) the
+tenth lord, or (iii)
+the eleventh lord.
+6.      The ninth
+lord exchanges houses with (i) the tenth lord, or (ii) the
+eleventh lord.
+7.      The tenth
+lord exchanges houses with the eleventh lord.
+Note:
+Mutual exchanges between
+the lords of the second house, the eleventh
+house, the kendras and the trikonas
+ give rise to the above mentioned
+
+<<<PAGE 333>>>
+twenty-eight yogas which promise wealth,
+ status and physical
+enjoyments.
+B. Dainya Yogas (or
+combinations for misery): These result when:
+1.      The sixth
+lord exchanges houses with (i) the lagna lord, (ii) the
+second lord, (iii) the
+third lord, (iv) the fourth lord, (v) the fifth lord, (vi)
+the seventh lord,
+(vii) the eighth lord, (viii) the ninth lord, (ix) the tenth
+lord, (x) the
+eleventh lord, or (xi) the twelfth lord.
+2.      The eighth
+lord exchanges houses with (i) the lagna lord, (ii) the
+second lord, (iii) the
+third lord, (iv) the fourth lord, (v) the fifth lord, (vi)
+the seventh lord,
+(vii) the ninth lord, (viii) the tenth lord, (ix) the eleventh
+lord, or (x) the
+twelfth lord.
+3.      The twelfth
+lord exchanges houses with (i) the lagna lord, (ii) the
+second lord, (iii) the
+third lord, (iv) the fourth lord, (v) the fifth lord, (vi)
+the seventh lord,
+(vii) the eighth lord, (viii) the ninth lord, (ix) the tenth
+lord, or (x) the
+eleventh lord.
+Note:
+1.      The above
+thirty yogas result from exchanges of various house
+lords with the lords of the
+sixth, the eighth and the twelfth houses. These
+Trik lords spoil the houses
+ whose lords they associate with. These
+combinations lead to a wicked nature,
+persistent trouble from opponents,
+and ill health.
+2.      Exchanges
+between lords of the Trik houses are specially referred
+to as Vipreeta Raja
+Yogas. The results attributed to a Vipreeta Raja yoga
+are financial prosperity
+ and rise in status. This is an additional area
+where results given by yogas do
+not permit a literal application.
+C. Khala Yogas (or
+combinations for wickedness):
+These are obtained
+ when the lord of the third house exchanges places
+with the house lords other
+than the lords of the Trik houses. That is, the
+third lord establishes an
+exchange with (i) the lagna lord, (ii) the second
+lord, (iii) the fourth lord,
+(iv) the fifth lord, (v) the seventh lord, (vi) the
+ninth lord, (vii) the tenth
+lord, or (viii) the eleventh lord.
+Note:
+
+<<<PAGE 334>>>
+1.           These eight
+ yogas are characterised by a fickle and a wicked
+nature, fluctuating fortunes
+and fluctuating temperament.
+2.      A literal
+application of these yogas is again not warranted. Some of
+the very interesting
+ results are obtained when these combinations are
+applied judiciously.

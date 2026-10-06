@@ -1,0 +1,701 @@
+{
+  "file": "_OceanofPDF.com_The_Astrology_Advantage_-_Ophira_Edut_Tali_Edut.pdf",
+  "size_bytes": 6217571,
+  "error": null,
+  "pages": 279,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Title Page",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "Introduction: The Astrology Advantage",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "Introducing: The I*AM Archetypes (Innovator, Authority, Maven)",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "Why You Need the Astrology Advantage",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "How This Book Is Structured for You",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "The I*AM System",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "What Exactly Is the I*AM System?",
+      "page": 17
+    },
+    {
+      "level": 2,
+      "title": "Which I*AM Archetype Am I?",
+      "page": 18
+    },
+    {
+      "level": 2,
+      "title": "How to Calculate Your I*AM Profile",
+      "page": 19
+    },
+    {
+      "level": 2,
+      "title": "The 6 I*AM Archetypes and Hybrid Archetypes",
+      "page": 22
+    },
+    {
+      "level": 3,
+      "title": "Innovator (I)",
+      "page": 22
+    },
+    {
+      "level": 3,
+      "title": "Authority (A)",
+      "page": 23
+    },
+    {
+      "level": 3,
+      "title": "Maven (M)",
+      "page": 24
+    },
+    {
+      "level": 3,
+      "title": "Innovator-Authority (IA)",
+      "page": 26
+    },
+    {
+      "level": 3,
+      "title": "Innovator-Maven (IM)",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "Authority-Maven (AM)",
+      "page": 28
+    },
+    {
+      "level": 2,
+      "title": "Cheat Sheet: Your Quick Guide to the I*AM Archetypes",
+      "page": 28
+    },
+    {
+      "level": 3,
+      "title": "How the I*AM Archetypes Work Together",
+      "page": 35
+    },
+    {
+      "level": 3,
+      "title": "Scoring the I*AM Chart",
+      "page": 36
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Behind I*AM",
+      "page": 41
+    },
+    {
+      "level": 2,
+      "title": "The Astrology Chart vs. the I*AM Chart",
+      "page": 41
+    },
+    {
+      "level": 3,
+      "title": "The 3 Modalities",
+      "page": 42
+    },
+    {
+      "level": 3,
+      "title": "The 13 Points of the I*AM Algorithm",
+      "page": 43
+    },
+    {
+      "level": 3,
+      "title": "What the 13 Points of the I*AM Algorithm Mean",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "The I*AM Score: Putting It All Together",
+      "page": 47
+    },
+    {
+      "level": 2,
+      "title": "Add the 4 Elements: Fire, Earth, Air, and Water",
+      "page": 50
+    },
+    {
+      "level": 3,
+      "title": "How Do the Elements Work with I*AM?",
+      "page": 50
+    },
+    {
+      "level": 3,
+      "title": "How the 4 Elements Shape Your Personality",
+      "page": 51
+    },
+    {
+      "level": 2,
+      "title": "Score Your Chart with the 4 Elements",
+      "page": 52
+    },
+    {
+      "level": 2,
+      "title": "The I*AM Diagram: Put It All Together",
+      "page": 54
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage in Communication",
+      "page": 59
+    },
+    {
+      "level": 2,
+      "title": "Innovator Communication",
+      "page": 61
+    },
+    {
+      "level": 2,
+      "title": "Authority Communication",
+      "page": 72
+    },
+    {
+      "level": 2,
+      "title": "Maven Communication",
+      "page": 81
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage at Work",
+      "page": 93
+    },
+    {
+      "level": 2,
+      "title": "The I*AM Types and Time",
+      "page": 94
+    },
+    {
+      "level": 2,
+      "title": "Innovator Career Profile",
+      "page": 95
+    },
+    {
+      "level": 3,
+      "title": "Innovator Time Management",
+      "page": 96
+    },
+    {
+      "level": 3,
+      "title": "Innovator Productivity",
+      "page": 97
+    },
+    {
+      "level": 3,
+      "title": "What Innovators Need to Succeed",
+      "page": 98
+    },
+    {
+      "level": 3,
+      "title": "Innovator Career Challenges",
+      "page": 101
+    },
+    {
+      "level": 3,
+      "title": "The Ideal Innovator Workspace",
+      "page": 104
+    },
+    {
+      "level": 2,
+      "title": "Authority Career Profile",
+      "page": 107
+    },
+    {
+      "level": 2,
+      "title": "Authority Time Management",
+      "page": 108
+    },
+    {
+      "level": 2,
+      "title": "Authority Productivity",
+      "page": 109
+    },
+    {
+      "level": 3,
+      "title": "What Authorities Need to Succeed",
+      "page": 110
+    },
+    {
+      "level": 3,
+      "title": "Authority Career Challenges",
+      "page": 112
+    },
+    {
+      "level": 3,
+      "title": "The Ideal Authority Workspace",
+      "page": 115
+    },
+    {
+      "level": 2,
+      "title": "Maven Career Profile",
+      "page": 118
+    },
+    {
+      "level": 3,
+      "title": "Maven Time Management",
+      "page": 119
+    },
+    {
+      "level": 3,
+      "title": "Maven Productivity",
+      "page": 120
+    },
+    {
+      "level": 3,
+      "title": "What Mavens Need to Succeed",
+      "page": 121
+    },
+    {
+      "level": 3,
+      "title": "Maven Career Challenges",
+      "page": 124
+    },
+    {
+      "level": 3,
+      "title": "The Ideal Maven Workspace",
+      "page": 127
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage for Team Building",
+      "page": 132
+    },
+    {
+      "level": 2,
+      "title": "I*AM Group Dynamics: Building a Team That Works",
+      "page": 132
+    },
+    {
+      "level": 3,
+      "title": "Balancing Innovator Energy in a Group",
+      "page": 133
+    },
+    {
+      "level": 3,
+      "title": "Balancing Authority Energy in a Group",
+      "page": 138
+    },
+    {
+      "level": 3,
+      "title": "Balancing Maven Energy in a Group",
+      "page": 143
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage in Relationships",
+      "page": 149
+    },
+    {
+      "level": 2,
+      "title": "The Innovator in Love: The Idealist",
+      "page": 150
+    },
+    {
+      "level": 2,
+      "title": "Relationship Strengths: Inspiring Partners",
+      "page": 151
+    },
+    {
+      "level": 3,
+      "title": "Relationship Challenges: Hard to Pin Down",
+      "page": 151
+    },
+    {
+      "level": 3,
+      "title": "Dating an Innovator",
+      "page": 153
+    },
+    {
+      "level": 3,
+      "title": "The Innovator in a Relationship",
+      "page": 157
+    },
+    {
+      "level": 3,
+      "title": "What Innovators Want from a Partner",
+      "page": 159
+    },
+    {
+      "level": 2,
+      "title": "The Authority in Love: The Attacher",
+      "page": 163
+    },
+    {
+      "level": 3,
+      "title": "Relationship Strengths: Loyal and Consistent",
+      "page": 163
+    },
+    {
+      "level": 3,
+      "title": "Relationship Challenges: Stuck on Security",
+      "page": 163
+    },
+    {
+      "level": 3,
+      "title": "Dating an Authority",
+      "page": 165
+    },
+    {
+      "level": 3,
+      "title": "The Authority in a Relationship",
+      "page": 169
+    },
+    {
+      "level": 3,
+      "title": "What Authorities Want from a Partner",
+      "page": 172
+    },
+    {
+      "level": 2,
+      "title": "The Maven in Love: The Mirror",
+      "page": 175
+    },
+    {
+      "level": 3,
+      "title": "Relationship Strengths: Lifelong Playmates",
+      "page": 176
+    },
+    {
+      "level": 3,
+      "title": "Relationship Challenges: Energy Bomb",
+      "page": 176
+    },
+    {
+      "level": 3,
+      "title": "Dating a Maven",
+      "page": 179
+    },
+    {
+      "level": 3,
+      "title": "The Maven in a Relationship",
+      "page": 183
+    },
+    {
+      "level": 3,
+      "title": "What Mavens Want from a Partner",
+      "page": 185
+    },
+    {
+      "level": 1,
+      "title": "Compatibility: I*AM Matcher",
+      "page": 193
+    },
+    {
+      "level": 2,
+      "title": "I*AM Compatability: How the 3 Types Get Along with Each Other",
+      "page": 193
+    },
+    {
+      "level": 3,
+      "title": "Innovator + Innovator = Rewrite the Script",
+      "page": 194
+    },
+    {
+      "level": 3,
+      "title": "Innovator + Authority = Domination Duo",
+      "page": 194
+    },
+    {
+      "level": 3,
+      "title": "Innovator + Maven = Creation Station",
+      "page": 195
+    },
+    {
+      "level": 3,
+      "title": "Authority + Authority = Grow or Plateau",
+      "page": 196
+    },
+    {
+      "level": 3,
+      "title": "Authority + Maven = Mixed Maturity",
+      "page": 197
+    },
+    {
+      "level": 3,
+      "title": "Maven + Maven = Endless Carnival",
+      "page": 198
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage in Everyday Life",
+      "page": 202
+    },
+    {
+      "level": 2,
+      "title": "Personal Style for Every I*AM",
+      "page": 203
+    },
+    {
+      "level": 3,
+      "title": "Innovator: Personal Style",
+      "page": 203
+    },
+    {
+      "level": 3,
+      "title": "Authority: Personal Style",
+      "page": 205
+    },
+    {
+      "level": 3,
+      "title": "Maven: Personal Style",
+      "page": 207
+    },
+    {
+      "level": 2,
+      "title": "Self-Care for Every I*AM",
+      "page": 208
+    },
+    {
+      "level": 3,
+      "title": "Innovator: Self-Care",
+      "page": 209
+    },
+    {
+      "level": 4,
+      "title": "Me-Time for the Innovator",
+      "page": 210
+    },
+    {
+      "level": 4,
+      "title": "Healthy Habits for the Innovator to Develop",
+      "page": 210
+    },
+    {
+      "level": 4,
+      "title": "Best Vacations for the Innovator",
+      "page": 211
+    },
+    {
+      "level": 3,
+      "title": "Authority: Self-Care",
+      "page": 212
+    },
+    {
+      "level": 4,
+      "title": "Me-Time for the Authority",
+      "page": 213
+    },
+    {
+      "level": 4,
+      "title": "Healthy Habits for the Authority to Develop",
+      "page": 213
+    },
+    {
+      "level": 4,
+      "title": "Best Vacations for the Authority",
+      "page": 214
+    },
+    {
+      "level": 3,
+      "title": "Maven: Self-Care",
+      "page": 215
+    },
+    {
+      "level": 4,
+      "title": "Me-Time for the Maven",
+      "page": 216
+    },
+    {
+      "level": 4,
+      "title": "Healthy Habits for the Maven to Develop",
+      "page": 216
+    },
+    {
+      "level": 4,
+      "title": "Best Vacations for the Maven",
+      "page": 217
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage at Home",
+      "page": 220
+    },
+    {
+      "level": 2,
+      "title": "Design Your Home with I*AM",
+      "page": 220
+    },
+    {
+      "level": 3,
+      "title": "The Innovator Home",
+      "page": 222
+    },
+    {
+      "level": 3,
+      "title": "The Authority Home",
+      "page": 227
+    },
+    {
+      "level": 3,
+      "title": "The Maven Home",
+      "page": 232
+    },
+    {
+      "level": 1,
+      "title": "The Astrology Advantage for Family",
+      "page": 238
+    },
+    {
+      "level": 2,
+      "title": "The I*AM Types as Parents",
+      "page": 238
+    },
+    {
+      "level": 3,
+      "title": "The Innovator Parent",
+      "page": 239
+    },
+    {
+      "level": 3,
+      "title": "The Authority Parent",
+      "page": 247
+    },
+    {
+      "level": 3,
+      "title": "The Maven Parent",
+      "page": 255
+    },
+    {
+      "level": 2,
+      "title": "The I*AM Types as Children",
+      "page": 262
+    },
+    {
+      "level": 3,
+      "title": "The Innovator Child",
+      "page": 263
+    },
+    {
+      "level": 3,
+      "title": "The Authority Child",
+      "page": 266
+    },
+    {
+      "level": 3,
+      "title": "The Maven Child",
+      "page": 268
+    },
+    {
+      "level": 1,
+      "title": "Conclusion: Making I*AM Part of Your Life",
+      "page": 272
+    },
+    {
+      "level": 1,
+      "title": "Acknowledgments",
+      "page": 274
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "The Astrology Advantage: Use Your Horoscope for Personal and Professional Success",
+    "author": "Ophira Edut & Tali Edut",
+    "subject": "",
+    "keywords": "",
+    "creator": "calibre 7.4.0",
+    "producer": "calibre 7.4.0",
+    "creationDate": "D:20241009010601+00'00'",
+    "modDate": "D:20241009010601+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": false,
+  "text_chars": 21697,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": "Thank you for downloading this\nSimon & Schuster ebook.\nGet a FREE ebook when you join our mailing list. Plus, get updates on new releases,\ndeals, recommended reads, and more from Simon & Schuster. Click below to sign up\nand see terms and conditions.\nCLICK HERE TO SIGN UP\nAlready a subscriber? Provide your email again so we can register this ebook and\nsend you more of what you like to read. You will continue to receive exclusive offers in\nyour inbox.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "text": "OceanofPDF.com\n"
+    },
+    {
+      "page": 5,
+      "text": "Introduction:\nThe Astrology Advantage\nDo you ever wish that the people in your life came with an instruction manual?\nThat you could understand their real motives, find empathy, and settle your\ndifferences fast?\nTurns out, we are all born with a mystical manual of sorts. It’s called your\nastrological chart, and it’s a map of the planets overhead at your exact moment\nof birth.\nAs the founders of the popular daily horoscope site Astrostyle.com, the\nastrologers for ELLE since 2009, and the authors of over twenty books and\ncounting, we’ve been sharing its secrets with more than twenty million people a\nmonth for nearly three decades. We also co-created the first astrology-based\nreality dating show, Cosmic Love, which streamed on Amazon Prime Video.\n(Spending six weeks as matchmakers at a Malibu mansion was one of the more\ninteresting parts of this profession!)\nWhen we were first introduced to astrology some thirty years ago, instant\ncuriosity struck. There was a personality test based on our birthdays that could\nmake life less confusing? Sign us up!\nLearning about our zodiac sign (Sagittarius, in case you’re wondering) was\nvalidating in ways that surprised us. It explained so much about who we’d always\nbeen—our humor, our eclectic social groups, and our can-do approach to life.\nAnd those other eleven zodiac signs? Well, our friends, foes, and family pretty\nmuch fit theirs to a tee.\nAt the time, we were University of Michigan art students on the cusp of\ngraduation. Life was about to fill up with huge decisions we didn’t feel equipped\nto make. Astrology looked like a system that could help with that.\n"
+    },
+    {
+      "page": 6,
+      "text": "When we dove deeper into our moon and rising signs, and then did a full\nbirth chart of all our planets, we were galactically gobsmacked. The accuracy was\nastonishing! For the first time, we felt permission to be complex humans. As\nidentical twins, it was even cooler, because we could see the different ways each\nof us expressed these personality traits.\nAfter starting careers in magazine publishing and web design in the 1990s, we\nwent on to become professional astrologers, launching with our first column in\nTeen People magazine in 2002. To get there, we plowed through a treasure trove\nof New Age astrology books and first-generation astrology software. We\ninterrogated our friends about their birth times, and looked at thousands of\nnatal charts to understand what all the complicated patterns meant. It was like\nlearning how to code a website, a task that we also mastered simultaneously.\n(Coincidence?) In short order, we gave a live astrology chart reading to Beyoncé,\nwrote our first book, and began building a platform at Astrostyle.com. The\nworld, it seemed, really wanted this knowledge too.\nAs die-hard skeptics who were anything but “witchy,” we were shocked to\nfind ourselves leaping from curiosity to full-on adoption after seeing our full\nbirth chart. We certainly didn’t intend to use our undergraduate degrees to\nlaunch an astrology platform. But there was no denying the gut-punch of truth\nthat struck as we read the printed, coil-bound document containing our birth\nchart. This information was more than mere “confirmation bias.” Much more.\nFor fellow critical thinkers whose first response is to dismiss astrology, or to\nview it as an affront to common sense, we say this: We hear you. We get you. We\nwere you.\nJust remember that a skeptic and a cynic are two different things. A cynic\ndenies a hypothesis outright, never even testing or trying it for themselves. The\nmere existence of the unknown threatens them.\nA skeptic suspends judgment—swims against the mighty current of their own\nknowledge base (and, dare we say it, human ego)—and tries the damn thing on.\nIf it’s not a fit or it doesn’t click after you investigate, cool. Onward. Thanks for\nstopping by.\nConsider this: What if a moment of curiosity, of willingness, could open\ndimensions of yourself you never would have accessed otherwise?\n"
+    },
+    {
+      "page": 7,
+      "text": "The spirituality of today is a fruitful realm for cynics and skeptics alike. Most\nbelievers disguise their connection to the divine, diminish it, dismiss it with\nwords like “woo-woo.” The subtext is, I’m normal. I’m not part of some cult. I’m\nan intelligent, informed, and science-backed person. But I’ve also seen some things I\ncan’t explain or deny.\nThat dissonance can be disorienting for many people, leading us to hide or\ndownplay our interest in astrology, numerology, “signs from the universe,” and\nother wonder-inducing phenomena. But this is changing. A few decades ago,\nyoga, plant-based diets, and meditation were not yet normalized by the\nmainstream, and were considered as fringe as some still regard astrology today.\nHere’s hoping that the cultural acceptance of spiritually supportive tools\ncontinues to grow.\nShortly after our first birth chart experience, we started to think of astrology\nas the “source code” that programs every human. Naturally, we wanted everyone\nto have access to it. But we soon learned that astrology has a marketing problem.\nLike JavaScript or CSS, it’s not simple to master. It’s also stigmatized, thanks to\nfluffy tabloid horoscopes that could apply to anyone (“you’ll bump into an\nintriguing person today…”) and snake oil practitioners who’ve populated the\npublic face of the “brand.” Don’t worry, our eyes are rolling right along with\nyours.\nDone right, astrology is a spiritual science, a personality test on steroids (star-\noids?), and a helpful inner guidance system. It can tell you uncannily accurate\nthings about yourself that can’t just be dismissed as random coincidence. After\nlooking at thousands of charts, we feel confident in astrology’s people-hacking\nand problem-solving powers. We’ve seen it change perspectives with the speed\nand simplicity that personal breakthroughs sometimes demand.\nLuckily, a crisis isn’t required to benefit from astrology. It’s remarkably\neffective for navigating the day-to-day choices that can paralyze us with\nuncertainty. Did you know that the average adult makes over thirty-five\nthousand decisions a day? There’s a reason experts have coined the term\n“decision fatigue.” With the Astrology Advantage, we hope to dramatically\nreduce yours!\n"
+    },
+    {
+      "page": 38,
+      "text": "High Authority (5 or more): Stickler for Structure\nIn your well-ordered world, everything is done “just so,” creating an impressive\noutcome that commands respect. Yet, when do you get to let your hair down\nand relax? Focusing on how things look (including, ahem, your hair) may\nprevent you from fully engaging with the things you work so hard to create.\nMoreover, your adherence to rules and procedures can create a tense atmosphere\nat work and home. The truth is, you’re only trying to make people happy!\nUnfortunately, your focus on results can turn you into a people pleaser. This\ndiverts attention away from the genuinely caring connections that you excel at\ncreating… once you take the pressure off yourself!\nLow Authority (3 or less): Resistant to Structure\nYour eternally youthful spirit is refreshing, but when someone needs to be the\nadult in the room, you’re the last to raise your hand. You may resent anyone who\ncomes across as an “authority figure” and rebel against structures—even if they’d\nmake your life one thousand times easier. As a result, you often run out of\nmoney, miss appointments, and frustrate people who are depending on you.\nCommitments that require a good deal of responsibility can feel frightening, but\ndon’t run away! Resilience is a muscle worth building, in the name of having a\nricher life, deeper relationships, and more meaningful experiences—the things\nthat simply take more time to build.\nHigh Maven (5 or more): Loves to Experiment\nIs it recess yet? Your life is organized around playtime; in fact, you’ll turn the\nmost mundane task into a game. A true jack-of-all-trades, you enjoy juggling\nmany projects, but it’s easy for you to get scattered and overwhelmed. Chaos\nmay follow you, creating rifts with colleagues and anyone who you share space\nwith. Learn to prioritize so you actually finish the brilliant plans that you start. A\nsocial butterfly, you easily attract and collect friends. Storytelling is one of your\n"
+    },
+    {
+      "page": 69,
+      "text": "learning process as it is in the final result. They don’t mind making mistakes\nalong the way. They love to “throw spaghetti on the wall,” as the saying goes, to\nsee which “noodles” stick.\nLoved ones who are brave enough to step in and try to stop an Innovator\nonce they’re in motion might want to armor up. The Innovator’s first response\nmay be angry; aggressive, even. They’re speeding along at 100 mph and any\nadvice (or basic questions!) can feel to them as if someone pulled the emergency\nbrake.\nTruth is, the Innovator probably does need to stop… before things get any\nmessier or more expensive. But for anyone who hopes to attempt an Innovator\nIntervention, we recommend hopping on the Innovator’s speeding train first.\nGet interested in what they’re doing and the “why” behind it. The Innovator has\na method to their madness. They don’t take kindly to anyone trying to change\ntheir mind. But they are instantly warm to ideas that are presented as an\nenhancement to what the Innovator is already doing. Innovators will change\ncourse if you can point out clear benefits to your plan B.\nWe can think of many times that, in hindsight, we would have benefited from\na strong soul helping us press pause before we started an epic Innovator\nundertaking. Case in point: when Tali moved to Fort Greene, Brooklyn, in the\nlate 1990s, she scored the top floor of a brownstone overlooking a park. The\nsquare footage was roomy enough for two, which made her space the perfect\nlanding pad for friends who, like Tali, migrated from Detroit to NYC. The only\nproblem? The apartment was a railroad-style unit, so the two bedrooms opened\ninto each other.\nInspiration struck and Tali decided to build a wall that would enclose the\nsecond bedroom and give everyone more privacy. Without really thinking things\nthrough (or asking her landlord for permission), she raced to Home Depot and\ntalked to the guys in the drywall department. A few days later, Sheetrock, metal\nstuds, insulation, and a framed inside door were dropped on the landing of the\nbrownstone. Since they arrived midday while friends were at work, Tali lugged\nall the pieces up to the third floor one by one—an arduous and dangerous task.\nIt took her a full six weeks to complete the room because, why? She didn’t ask\nanyone for help.\n"
+    },
+    {
+      "page": 100,
+      "text": "Private lessons with a patient pro can be a game-changer for Innovators—\nand their attention span is much better in a one-on-one setting.\nFor Sandra, things shifted dramatically when a colleague who was\nassigned to personally mentor her, trained her on a prototyping software\ncalled Figma. “I used to spend hours designing a nearly finished product\nbefore presenting it to my clients,” recalls Sandra. “I would get so\nfrustrated when they didn’t like it or gave me a ton of changes, I’d want to\nfire them!\n“Now, I draft a rough sketch and have my clients give feedback first,”\nSandra shares. “I don’t start designing or pouring my best creative energy\ninto anything until they approve the colors, layout, fonts, and everything\nelse.” Her once-adversarial relationship with bosses and clients has\ntransformed into a pleasurable partnership.\nWhat used to seem like a lot of extra fuss to Sandra (“Sign-offs and\nwireframes? I didn’t ‘do bureaucracy’!”) now saves her tons of agonizing\ndo-over hours. When Innovators learn to “work smarter, not harder,” they\ncan enjoy the steady buzz of an endorphin rush instead of being haunted\nby a looming deadline and endless revisions. A little project management\non the front end will pay dividends when the Innovator reclaims their\ncherished hours of spaciousness and free time later.\nMentorship. Since Innovators blaze new trails, they may struggle to find\npeople who have walked a similar path before them. Still, these futurists\nthrive with people who can help them create systems and checkpoints that\nsupport their growth and emergence. Mentors and managers might have to\nregularly remind the Innovator to come back down to earth and run their\nideas through a reality filter.\nIdeal mentors for the Innovator know how to make structure fun and\ncreative. One of the most famous historical examples of an Innovator who\nthrived with a mentor is that of Helen Keller, who had six Innovator\nplacements in her chart. At nineteen months old, Keller contracted an\nillness that left her both permanently blind and deaf. She became one of\nthe world’s most pioneering advocates for disabled people’s rights and\n"
+    },
+    {
+      "page": 131,
+      "text": "TEAM BUILDING\nOceanofPDF.com\n"
+    },
+    {
+      "page": 162,
+      "text": "How to Make It Last with an Innovator\nStay engaged with the Innovator’s passions and career; support their\ngrowth and success\nKeep growing and expanding your own success profile\nInvite the Innovator to be part of your successes too—not as a fan but\nas an irreplaceable advisor\nKeep them in the loop! Come to them first when you need anything\nand everything, even if they just help you find the right resource. Do\nnot confide in someone else behind their back.\nBe committed to building and growing a shared empire\nGo on adventures with them, from work travel to bucket-list trips.\nHelp the Innovator plan these, or better yet, bring the idea to them\nand get them excited.\nShare spiritual and personal growth: metaphysics, plant medicine\nceremonies, trekking through ancient ruins…\nHelp Innovators get ready for major events. Advise on outfit choices,\nkeep them on track with the clock, make them food so they eat before\nthey have to be “on”\nRepresent in public in a way that people admire—it reflects on the\nInnovator, too!\nNetwork together and help them break the ice (Innovators struggle\nwith small talk); introduce them to people they should meet.\n"
+    },
+    {
+      "page": 193,
+      "text": "Compatibility: I*AM Matcher\nI*AM COMPATIBILITY: HOW THE 3 TYPES GET ALONG WITH\nEACH OTHER\n“Are we compatible?” Ask any astrologer and they’ll tell you that it’s one of the\nmost common questions they hear. We understand why! When two people\nchoose to blend their energies, it’s hard to predict how the “cocktail” will turn\nout. Uncertainty is scary business, especially since a relationship gone awry has\nthe power to disrupt every stable part of one’s life.\nAnd of course, there’s the magic, the moments when everything just flows.\nIt’s human nature to romanticize; to hope that a peak soulmate experience can\nbe reached.\nThrough our decades of counseling people about love, we’ve never come\nacross a conflict-free relationship. We’re pretty sure that they don’t exist. Which\nis why we use a totally different measuring stick for compatibility. Rather than\ndelivering a black-or-white answer (“You’re perfectly matched” or “You’re totally\nwrong for each other”), we prefer to lay out where you’ll click and where you’ll\nclash.\nTo carry on the mixology metaphor: Where will you swirl together like top-\nshelf gin and vermouth? And where are the two of you like beer and vodka—\nbetter kept apart?\nUnderstanding how the three I*AM archetypes blend—for better and for\nworse—is a great way to create compatibility instead of hoping it just happens.\nBelow are our best recipes for success, whether you’re dating someone of the\nsame archetype or branching out into the wild unknown of someone quite\ndifferent from you.\n"
+    },
+    {
+      "page": 224,
+      "text": "“My bedroom has a south-facing window that floods the room with sunlight\nduring the day,” Sam continues. “I know you’re not technically supposed to work\nwhere you sleep, but the warmth on my face keeps me from slipping into the\nwinter blues. Since spring, I’ve relocated to the sofa where I get a stunning view\nof the front garden.”\nThe dreaded “Innovator sprawl” can become problematic for roomies and\nfor general functionality. Their books, papers, and supplies can creep into every\ncommon space. Dining areas, shelves, and bedside tables groan with the weight\nof the Innovator’s accumulations. At some point, Innovators might want to rent\na small office or storage space, or buy furniture with cleverly hidden drawers.\nSince Innovators strive for excellence in all that they do, even prepping a\nlunchtime salad can mean taking over the entire kitchen. (What, you thought\nthose dressing ingredients were going to mix themselves?) Immersion blenders,\ncast-iron pans, and fancy knives come out before a single leaf of lettuce hits the\nbowl.\nA savvy workaround to combat the Innovator sprawl? Place a dedicated\nsurface in each of the Innovator’s favorite areas. True, most homes don’t have a\ncredenza desk in the family room. But on the plus side, this may increase the\nlikelihood that the Innovator hangs out for movie night—even if he’s copying\nand pasting files while everyone’s taking in the flick.\nHomes that cater to Innovators may feature:\nStylish and visually appealing interiors that reflect their unique tastes\nand preferences\nDedicated surfaces for work and projects in all their favorite rooms\nOutdoor spaces like patios, decks, or gardens for socializing and\nshowcasing their flair for design\nThoughtfully curated decor, artwork, and objects that reflect their\nappreciation for aesthetics\n"
+    },
+    {
+      "page": 255,
+      "text": "A safe space to speak. Respect your elders. Mind your manners. Sadly, not\nall adults are safe or trustworthy. If the Authority teaches their children to\ndefer to someone’s age, rank, or position, their children may not speak up\nor advocate for themselves when they feel endangered. The “obedience\ntraining” some Authority parents put their kids through can backfire.\nRemember: the idea is to keep kids out of trouble, not make them afraid\nthey’ll get in trouble by telling the truth. “My mom had strict policies\nabout no sugar,” says one Authority’s grown daughter. “But all I did was\nsneak candy and soda whenever she wasn’t looking. I probably wouldn’t\neven have cared about it as much if she didn’t make such a big deal out of\nit.” Following the letter, rather than the spirit, of the law can be an\nAuthority parent’s pitfall.\nThe Maven Parent\nWho’s the kid here anyway? The eternally youthful Maven is a parent, teacher,\nand BFF in one. These multi-hyphenates have so much to share. Parenting is a\nchance to pass on their wide breadth of knowledge and dabble in new curiosities\ntogether. Mavens want to explore the world with their kids, glimpsing it all\nthrough curious and wonder-filled eyes.\nAlas, kids are often moody and mercurial, and many don’t live up to the\nMaven’s idealistic hopes. When their children complain “I don’t wanna!” and\n“Why are you dragging me here?” the Maven smiles and proceeds according to\nplan. There’s a method to the Maven’s madness. If a Maven parent signs you up\nfor sports or summer camp or private lessons, you’d better believe you’re going.\nLater in life, their children will appreciate these cherished memories and skills\nthat gave them a career advantage.\nOne Maven dad was offered a friend’s Florida condo in August, already the\nickiest and most humid month there, during a heat wave. The family, which\nincluded a seven-year-old and two teens, protested, but he piled them into a car\nand drove down the East Coast from New Jersey to Boca Raton. And of course,\n"
+    },
+    {
+      "page": 277,
+      "text": "Ophira and Tali have done workshops, talks, and trainings for executives at\ncorporations such as Nike, Condé Nast, and Saks Fifth Avenue, and have spoken\nat universities nationwide. They’ve collaborated with major brands and have\nread charts for celebrities including Beyoncé, Karlie Kloss, Emma Roberts, and\nAlicia Keys. Follow them at @astrotwins and www.astrostyle.com.\nwww.SimonandSchuster.com/Authors/Ophira-Edut\nwww.SimonandSchuster.com/Authors/Tali-Edut\nSimonandSchuster.com\n \n @_simonelement\nOceanofPDF.com\n"
+    },
+    {
+      "page": 278,
+      "text": "We hope you enjoyed reading\nthis Simon & Schuster ebook.\nGet a FREE ebook when you join our mailing list. Plus, get updates on new releases,\ndeals, recommended reads, and more from Simon & Schuster. Click below to sign up\nand see terms and conditions.\nCLICK HERE TO SIGN UP\nAlready a subscriber? Provide your email again so we can register this ebook and\nsend you more of what you like to read. You will continue to receive exclusive offers in\nyour inbox.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 279,
+      "text": "An Imprint of Simon & Schuster, LLC\n1230 Avenue of the Americas\nNew York, NY 10020\nwww.SimonandSchuster.com\nCopyright © 2024 by Ophira Edut and Tali Edut\nAll rights reserved, including the right to reproduce this book or portions thereof in any form whatsoever.\nFor information, address Simon Element Subsidiary Rights Department, 1230 Avenue of the Americas,\nNew York, NY 10020.\nFirst Simon Element hardcover edition August 2024\nSIMON ELEMENT is a trademark of Simon & Schuster, LLC\nSimon & Schuster: Celebrating 100 Years of Publishing in 2024\nFor information about special discounts for bulk purchases, please contact Simon & Schuster Special Sales\nat 1-866-506-1949 or business@simonandschuster.com.\nThe Simon & Schuster Speakers Bureau can bring authors to your live event. For more information or to\nbook an event, contact the Simon & Schuster Speakers Bureau at 1-866-248-3049 or visit our website at\nwww.simonspeakers.com.\nInterior design by Davina Mock-Maniscalco\nJacket design by the Authors\nJacket art by Ben Wiseman\nLibrary of Congress Cataloging-in-Publication Data has been applied for.\nISBN 978-1-6680-1720-3\nISBN 978-1-6680-1722-7 (ebook)\nOceanofPDF.com\n"
+    }
+  ],
+  "tech_pages": [],
+  "full_text": null
+}

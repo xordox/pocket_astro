@@ -1,0 +1,591 @@
+{
+  "file": "_OceanofPDF.com_Astrology_for_Yourself_-_Douglas_Bloch.pdf",
+  "size_bytes": 15789595,
+  "error": null,
+  "pages": 389,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Cover",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "Title",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "Imprint",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "Contents",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "Dedication",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "Figures in this book",
+      "page": 13
+    },
+    {
+      "level": 1,
+      "title": "Tables in this book",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "Exercises in this Book",
+      "page": 17
+    },
+    {
+      "level": 1,
+      "title": "Acknowledgements",
+      "page": 19
+    },
+    {
+      "level": 1,
+      "title": "Introduction: Getting Started",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "Part I: Learning the Basics",
+      "page": 26
+    },
+    {
+      "level": 2,
+      "title": "Chapter 1: Introducing the Zodiac",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "Astrology as a Language of Energy",
+      "page": 27
+    },
+    {
+      "level": 3,
+      "title": "The Building Blocks of the Zodiac: Element, Polarity, Modality, Orientation",
+      "page": 30
+    },
+    {
+      "level": 3,
+      "title": "A Final Synthesis: Writing Your Sun Sign Interpretation",
+      "page": 50
+    },
+    {
+      "level": 2,
+      "title": "Chapter 2: The Structure of the Birth Chart",
+      "page": 56
+    },
+    {
+      "level": 3,
+      "title": "How to Read Your Birth Chart",
+      "page": 56
+    },
+    {
+      "level": 3,
+      "title": "Reading Your Planets by Sign and House Position",
+      "page": 63
+    },
+    {
+      "level": 3,
+      "title": "An Overview of the Alphabet: Keywords for the Planets, Signs and Houses",
+      "page": 67
+    },
+    {
+      "level": 3,
+      "title": "Summary of the Astrological Alphabet",
+      "page": 74
+    },
+    {
+      "level": 2,
+      "title": "Chapter 3: Writing Your Personality Profile",
+      "page": 78
+    },
+    {
+      "level": 3,
+      "title": "The Sun, Moon and Ascendant",
+      "page": 80
+    },
+    {
+      "level": 3,
+      "title": "The Four Angles in the Birth Chart",
+      "page": 86
+    },
+    {
+      "level": 3,
+      "title": "The Planets in the Birth Chart",
+      "page": 91
+    },
+    {
+      "level": 4,
+      "title": "The Sun",
+      "page": 94
+    },
+    {
+      "level": 4,
+      "title": "The Moon",
+      "page": 97
+    },
+    {
+      "level": 4,
+      "title": "Mercury",
+      "page": 99
+    },
+    {
+      "level": 4,
+      "title": "Venus",
+      "page": 102
+    },
+    {
+      "level": 4,
+      "title": "Mars",
+      "page": 104
+    },
+    {
+      "level": 4,
+      "title": "Jupiter",
+      "page": 107
+    },
+    {
+      "level": 4,
+      "title": "Saturn",
+      "page": 109
+    },
+    {
+      "level": 3,
+      "title": "The Trans-Saturnian Planets: Ambassadors of the Galaxy",
+      "page": 114
+    },
+    {
+      "level": 4,
+      "title": "Uranus",
+      "page": 115
+    },
+    {
+      "level": 4,
+      "title": "Neptune",
+      "page": 118
+    },
+    {
+      "level": 4,
+      "title": "Pluto",
+      "page": 121
+    },
+    {
+      "level": 3,
+      "title": "The Asteroids and Chiron",
+      "page": 125
+    },
+    {
+      "level": 4,
+      "title": "Chiron",
+      "page": 126
+    },
+    {
+      "level": 4,
+      "title": "Ceres",
+      "page": 129
+    },
+    {
+      "level": 4,
+      "title": "Pallas",
+      "page": 132
+    },
+    {
+      "level": 4,
+      "title": "Vesta",
+      "page": 135
+    },
+    {
+      "level": 4,
+      "title": "Juno",
+      "page": 138
+    },
+    {
+      "level": 3,
+      "title": "The New Asteroids in the Birth Chart",
+      "page": 141
+    },
+    {
+      "level": 4,
+      "title": "Psyche",
+      "page": 143
+    },
+    {
+      "level": 4,
+      "title": "Eros",
+      "page": 144
+    },
+    {
+      "level": 4,
+      "title": "Lilith",
+      "page": 145
+    },
+    {
+      "level": 4,
+      "title": "Toro",
+      "page": 146
+    },
+    {
+      "level": 4,
+      "title": "Sappho",
+      "page": 148
+    },
+    {
+      "level": 4,
+      "title": "Amor",
+      "page": 149
+    },
+    {
+      "level": 4,
+      "title": "Pandora",
+      "page": 151
+    },
+    {
+      "level": 4,
+      "title": "Icarus",
+      "page": 152
+    },
+    {
+      "level": 4,
+      "title": "Diana",
+      "page": 153
+    },
+    {
+      "level": 4,
+      "title": "Hidalgo",
+      "page": 155
+    },
+    {
+      "level": 4,
+      "title": "Urania",
+      "page": 156
+    },
+    {
+      "level": 2,
+      "title": "Chapter 4: Work Signs and Love Signs",
+      "page": 160
+    },
+    {
+      "level": 3,
+      "title": "Astrology and Your Vocation",
+      "page": 161
+    },
+    {
+      "level": 4,
+      "title": "Sun Sign Careers",
+      "page": 162
+    },
+    {
+      "level": 4,
+      "title": "The Work Houses",
+      "page": 166
+    },
+    {
+      "level": 3,
+      "title": "Astrology and Your Relationships",
+      "page": 172
+    },
+    {
+      "level": 4,
+      "title": "My Birth Chart’s Love Potential",
+      "page": 173
+    },
+    {
+      "level": 3,
+      "title": "Compatibility and Connectedness",
+      "page": 185
+    },
+    {
+      "level": 1,
+      "title": "Part II: Digging Deeper",
+      "page": 189
+    },
+    {
+      "level": 2,
+      "title": "Chapter 5: The Birth Chart As a Whole",
+      "page": 191
+    },
+    {
+      "level": 3,
+      "title": "Hemisphere Emphasis",
+      "page": 193
+    },
+    {
+      "level": 3,
+      "title": "The Moon’s Nodes",
+      "page": 200
+    },
+    {
+      "level": 3,
+      "title": "The Part of Fortune and Moon Phases",
+      "page": 206
+    },
+    {
+      "level": 3,
+      "title": "Retrograde Planets and Intercepted Signs",
+      "page": 217
+    },
+    {
+      "level": 4,
+      "title": "Retrograde Planets",
+      "page": 217
+    },
+    {
+      "level": 4,
+      "title": "Intercepted Signs and Planets",
+      "page": 219
+    },
+    {
+      "level": 2,
+      "title": "Chapter 6: Planetary Patterns",
+      "page": 225
+    },
+    {
+      "level": 3,
+      "title": "The Planetary Aspects",
+      "page": 227
+    },
+    {
+      "level": 3,
+      "title": "How to Locate the Aspects in the Birth Chart",
+      "page": 227
+    },
+    {
+      "level": 4,
+      "title": "Interpeting Planetary Aspects",
+      "page": 233
+    },
+    {
+      "level": 3,
+      "title": "Astrological Timing",
+      "page": 264
+    },
+    {
+      "level": 4,
+      "title": "Astrological Transits",
+      "page": 265
+    },
+    {
+      "level": 4,
+      "title": "Looking at Transits in a Birth Chart",
+      "page": 268
+    },
+    {
+      "level": 4,
+      "title": "Interpreting the Transits in the Birth Chart",
+      "page": 272
+    },
+    {
+      "level": 2,
+      "title": "Chapter 7: The Applications of Astrology",
+      "page": 290
+    },
+    {
+      "level": 3,
+      "title": "Astro-Psychology",
+      "page": 291
+    },
+    {
+      "level": 3,
+      "title": "Vocational Astrology",
+      "page": 293
+    },
+    {
+      "level": 3,
+      "title": "Synastry—The Astrology of Relationships",
+      "page": 294
+    },
+    {
+      "level": 3,
+      "title": "Medical Astrology",
+      "page": 294
+    },
+    {
+      "level": 3,
+      "title": "Astrology and Child Rearing",
+      "page": 299
+    },
+    {
+      "level": 3,
+      "title": "Electional Astrology—The Art of Timing Events",
+      "page": 300
+    },
+    {
+      "level": 3,
+      "title": "Mundane Astrology",
+      "page": 306
+    },
+    {
+      "level": 3,
+      "title": "Astro-Economics",
+      "page": 308
+    },
+    {
+      "level": 3,
+      "title": "Historical Astrology",
+      "page": 311
+    },
+    {
+      "level": 3,
+      "title": "Horary Astrology",
+      "page": 312
+    },
+    {
+      "level": 2,
+      "title": "Chapter 8: Looking Inward",
+      "page": 314
+    },
+    {
+      "level": 3,
+      "title": "Discovering What I’ve Learned",
+      "page": 314
+    },
+    {
+      "level": 1,
+      "title": "Appendices",
+      "page": 320
+    },
+    {
+      "level": 2,
+      "title": "Appendix A: Keywords for the Signs",
+      "page": 321
+    },
+    {
+      "level": 2,
+      "title": "Appendix B: Keywords for the Houses",
+      "page": 330
+    },
+    {
+      "level": 2,
+      "title": "Appendix C: Keywords for the Planets",
+      "page": 335
+    },
+    {
+      "level": 2,
+      "title": "Appendix D: How to Obtain a Computer Printout of Your Birth Chart",
+      "page": 346
+    },
+    {
+      "level": 2,
+      "title": "Appendix E: Martin Luther King, Jr. Birth Chart",
+      "page": 349
+    },
+    {
+      "level": 2,
+      "title": "Appendix F: A Planetary Ephemeris—Mars-Pluto: 1932-2000",
+      "page": 359
+    },
+    {
+      "level": 2,
+      "title": "Appendix G: Progressions",
+      "page": 377
+    },
+    {
+      "level": 1,
+      "title": "Bibliography",
+      "page": 385
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Astrology for Yourself",
+    "author": "Douglas Bloch & Demetra George",
+    "subject": "",
+    "keywords": "",
+    "creator": "calibre (4.13.0) [http://calibre-ebook.com]",
+    "producer": "calibre (4.13.0) [http://calibre-ebook.com]",
+    "creationDate": "D:20200420124941+00'00'",
+    "modDate": "D:20200420174941+05'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": false,
+  "text_chars": 18522,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "text": "Also by Douglas Bloch\nHealing from Depression\nI Am with You Always\nListening to Your Inner Voice\nPositive Self-Talk for Children\nWords That Heal\nWords That Heal the Blues\nAlso by Demetra George\nAsteroid Goddesses\nFinding Our Way through the Dark\nMysteries of the Dark Moon\n"
+    },
+    {
+      "page": 4,
+      "text": " \nASTROLOGY\nA Workbook for\nFOR\nPersonal Transformation\nYOURSELF\nHOW TO UNDERSTAND AND INTERPRET YOUR OWN\nBIRTH CHART\nDOUGLAS BLOCH & DEMETRA GEORGE\n"
+    },
+    {
+      "page": 5,
+      "text": " \n \n \n \nThis edition published in 2006 by\nIbis Press, an imprint of\nNicolas-Hays, Inc.\nPO. Box 540206\nLake Worth, FL 33454-0206\nwww.nicolashays.com\nNicolas-Hays and Ibis Press books\nare distributed to the trade by\nRed Wheel/Weiser, LLC\n65 Parker St., Ste. 7\nNewburyport, MA 01950-4600\nwww.redwheelweiser.com\nCopyright © 1987 Douglas Bloch and Demetra George.\nAll rights reserved. No part of this publication may be reproduced or\ntransmitted in any form or by any means, electronic or mechanical,\nincluding photocopying, recording, or by any information storage and\nretrieval system, without permission in writing from Nicolas-Hays, Inc.\nReviewers may quote brief passages. First published in 1987 by Wingbow\nPress.\n“Thinking of Bying or Selling a House?” reprinted by permission of The\nWall Street Journal © Dow Jones & Company, Inc. 1986. All rights\nreserved.\n“Physiological Correspondences of the Signs” and “Physiological\nCorrespondences of the Planets” reprinted from Astrology: The Divine\nScience by Mark Douglas and Marcia Moore, reprinted by permission of\nArcane Publications.\nLibrary of Congress Cataloging-in-Publication Data\nGeorge, Demetra, 1946–\n"
+    },
+    {
+      "page": 6,
+      "text": "Astrology for yourself.\nBibliography: p.\n1. Horoscopes. I. Bloch, Douglas, 1949–\nII. Title\nBF1728.A2G357 1987 133.5’4 86–18966\nISBN 978-0-89254-122-5\nCover design by Kathryn Sky-Peck\nBook design: Paula Morrison\nPrinted in the United States of America by Bang Printing,\nBrainerd, Minnesota\n15\n7\n6\nThe paper used in this publication meets the minimum requirements of the\nAmerican National Standard for Information Sciences—Permanence of\nPaper for Printed Library Materials Z39.48-1992 (R1997).\n"
+    },
+    {
+      "page": 7,
+      "text": "Dedicated to students of astrology throughout the world who through\ntheir dedication have preserved the knowledge of this ancient art\n"
+    },
+    {
+      "page": 50,
+      "text": "Personal—focused on personal wants and needs\nInterpersonal—social, focused on others\nTranspersonal —universal, focused on ideals and abstractions\nDo the keywords you have just written seem to describe your\noutlook? In most cases they will.\nA Final Synthesis: Writing Your Sun Sign\nInterpretation\nThe building blocks of the Zodiac—polarity, element, modality, and orientation—are\ngraphically summarized for you in the wheel of Figure 6. Their respective keywords\nare listed in Table 6.\nUsing the knowledge contained in this figure and table, you can discover the\nmeaning of each sign of the Zodiac, including your own Sun sign.\nBy combining the fundamental principles of Element, Polarity, Modality, and\nOrientation, the essential principles underlying the twelve signs are born. Now you\nknow why those Sun sign descriptions read the way they do. The multitude of\npersonality traits and characteristics arise from these basic primal energies.\nFor example, let us say that you were born on March 25, a Sun sign Aries. Our\nZodiac wheel reveals that the sign Aries contains the following traits: yang, personal,\ncardinal fire. No wonder the horoscope column refers to you as “fiery, pioneering,\nimpulsive and self-centered!” And what about your successor, the “steadfast, bull-\nheaded, down-to-earth Taurus?” Are not these the traits of a fixed earth sign?\nAnd so the procession continues. From the “flighty and communicative” Gemini\n(mutable air) to the “enterprising and practical” Capricorn (cardinal earth), a lawful\nZodiac unfolds.\nTable 6: Keywords for the Basic Energies\nTHE FOUR ELEMENTS\nFire—Enthusiastic, energetic, creative, passionate, assertive, freedom-\nloving Earth—practical, grounded, sensual, reliable, stable, cautious\nAir—mental, communicative, social, detached, abstract, changeable\nWater—emotional, feeling, nurturing, hidden, sensitive\n"
+    },
+    {
+      "page": 93,
+      "text": "(A note to intermediate students, the theme of the empty house is determined by\nthe sign located on the house cusp. The planet associated with that sign is the key to\nactivating the affairs of the empty house.)\nIncreasing Your Life’s Options Through This Exercise\nThe sign keywords from Appendix A describe the characteristics and tendencies of\nthe signs of the Zodiac. Though each sign represents a basic mode of energy, this\nenergy can manifest in a range of possible expressions during the course of your life.\nThis is why we have given you such a large number of keywords to choose from.\nAlthough these sign energies are neutral, they can manifest in either skillful or\nunskillful ways. For example, if we give two carpenters the same tools and raw\nmaterials, one may build a graceful, solid structure while the other may create a\nrickety shack. Likewise, your birth chart depicts the potential that you have to work\nwith, but your free will and the choices you make will determine how skillfully you\nbuild your life.\nThis point separates modern astrology from the fortune telling and determinism\nthat characterized much of the practice in the Middle Ages. Unfortunately, many\nindividuals still think of astrology in a deterministic light, not realizing that it actually\nincreases rather than restricts our options.\nTherefore, it is important to realize that if you have been using a certain energy in\na way that is creating destructive or unhappy results in your life, you can also choose\nto express the very same energy in a more positive or constructive manner. It is not a\nmatter of adding something that you do not have, but of better learning how to use\nwhat is already available.\nNow let us continue the journey of writing your own birth chart with an example\nthat will demonstrate how the process works.\nExercise 3: I Interpret the Planets in My Birth Chart\nSample Planetary Analysis: The Sun\n"
+    },
+    {
+      "page": 136,
+      "text": "Vesta speaks of deepening the relationship with our own soul and spirit. Her\nthemes encompass our search for deeper meaning in the midst of unsatisfying\ntraditional religious creeds. Consequently she corresponds to the recent growth of the\npsychic arts and occult sciences, Goddess worship and widespread dissemination of\nancient spiritual paths. Vesta governs spiritual disciplines which refine our psychic\nand telepathic channels, and physical disciplines which purify the temples of our\nbodies.\nVesta was revered as eldest sister and presided over the communities of\nsisterhoods and brotherhoods. Her presence corresponds to the development of\nvarious support groups in contemporary society including meditation groups, men and\nwomen’s consciousness groups, ritual circles, psychological group therapy, Alcoholics\nAnonymous and Weight Watchers.\nVesta stands holding a lamp of the eternal flame lighting the path as humanity\nhurls into a new age. She assists us in focusing our energies as we commit ourselves\nto inner work on integrating the power of ourselves, and outwardly dedicating this\npower to fulfilling a vision. For those who live alone by choice or necessity, she is the\nrecognition that “alone” can be a precious friend and ally. Vesta points to perfecting\nthe self as preparation for participation in the group mind.\nAstrologically Vesta indicates how we face the issues of personal integration,\nwork, devotion, spiritual practice, commitment, sacrifice, aloneness, solitude,\nalienation from personal relationships, and a range of sexual complexes based on\ndenial and fear of intimacy.\nIn the birth chart Vesta describes our style of self-identification, focus and\ndevotion, and where we are able to commit ourselves to work for a worthy goal.\nSkillful Expression: focused, integrated, self-identified, committed,\nsacred\nUnskillful Expression: sexually alienated, inhibited, overworked,\nrepressed, narrowminded\nI Interpret Vesta in My Birth Chart\nVesta Keyphrases\n• The capacity for personal integration through a variety of disciplines\n• Sexual liberation, sexual fears, guilt and inadequacies\n• Spiritual devotion, channeling of the kundalini energy\n"
+    },
+    {
+      "page": 179,
+      "text": "Earth—Earth\nSkillful: Our earth signs enhance practicality and productivity.\nUnskillful: Our imbalanced Earth produces conservatism, boredom, and resistance\nto change.\nEarth—Air\nSkillful: Earth applies Air’s ideas in a useful way; pragmatism balances theory.\nUnskillful: Earth’s desire for consistency conflicts with Air’s need for change.\nEarth—Water\nSkillful: Earth provides a structure to stabilize Water’s emotions; Water nurture’s\nEarth and gives it life.\nUnskillful: Too much comfort prevents growth and keeps the partnership “stuck in\nthe mud.”\nAir—Air\nSkillful: Our Air signs delight in commmunicating (talking) with each other.\nUnskillful: Our imbalanced Air can keep the relationship overly intellectual and\nungrounded.\nAir—Water\nSkillful: Air’s intellect gives perspective to Water’s emotions; Water teaches Air\nhow to feel.\nUnskillful: Air’s logic conflicts with Water’s feelings; Air’s detachment can’t satisfy\nWater’s need to emotionally connect.\nWater—Water\nSkillful: Our water signs can nurture, support, encourage, and heal each other.\nUnskillful: Our imbalanced water may cause us to become overemotional,\nhypersensitive to each other, too dependent, and afraid to take risks.\nPart 2:1 Compare My Needs With My Partner’s Needs\nBy now you should realize that certain temperaments naturally adjust to each other\n(Fire to Air; Earth to Water). Yet, we must always bear in mind that the astrological\nenergies are essentially neutral; it is how we apply them that makes the difference.\nThus, there are positive and negative virtues of any two element combinations. Table\n3 demonstrates this by providing skillful and unskillful interpretations of each of the\n"
+    },
+    {
+      "page": 222,
+      "text": ".\nIf you have any planets in these intercepted signs, list\nthese planets and their keyphrases from Appendix C.\nYou may not have conscious access to the full power of\nthese parts of your personality until the later part of\nyour life.\nPlanet                          Personality Function\n1.\n_____________      _____________________________\n_______________\n2.\n_____________      _____________________________\n_______________\n3.\n_____________      _____________________________\n_______________\n4.\n_____________      _____________________________\n_______________\n5.\n_____________      _____________________________\n_______________\n6.\n_____________      _____________________________\n_______________\nJournal Entry\nTo help you synthesize the information you learned about your retrograde\nplanets and intercepted signs, review the material you have just completed.\n"
+    },
+    {
+      "page": 265,
+      "text": "How does all this affect you? After all, the title of this book is Astrology for\nYourself. Let us begin with your natal birth chart—the blueprint of your talents and\nabilities, a statement of your life’s intentions. Your birth chart’s intention is not to\nremain unexpressed. By the application of your will and freedom of choice, your\ncelestial potential can manifest when “the time is ripe.” Change and growth occur\nwhen preparation (the blueprint of your birth chart) meets opportunity (the outer\nconditions).\nThe two most frequently used methods of astrological timing are called transits\nand progressions. These timing systems of astrology indicate, in the words of Dane\nRudhyar, the schedule for the unfoldment of the birth potential over time. Let’s\nexplore them now.\nAstrological Transits\nAccording to astrology, the outer conditions that stimulate these times of growth are\nsymbolized by the astrological transits. The word “transition” was perhaps derived\nfrom the astrological word “transit.” Hence, transits correspond to periods of change\nin our lives.\nSimply defined, transits are the current positions of the planets in the sky as they\ninteract with your birth chart. For example, let’s assume that I was born on October\n27, with the Sun in 4 degrees of Scorpio. Now today, December 20, 1985, Pluto’s\ncurrent position in the sky is also at 4 degrees of Scorpio. I would therefore say that\nPluto is “transiting” or passing over my Sun in Scorpio. This would mean that\ncertain experiences represented by Pluto are being brought to bear upon my solar\nconsciousness.\nThe natal chart shows the positions of the planets when you were born. After\nyour birth, these planets don’t stand still, but continue in their orbits around the sun.\nAs they pass over the degrees occupied by the natal planets, they activate those\nplanetary functions. It becomes time for these parts of personality to walk out on\nstage and speak their lines. This is why each planetary function comes to the\nforeground at certain times of your life and not at others.\nBecause we measure transits by seeing how a planet in the heavens interacts with\na planet in the birth chart, it may appear that the transits are “doing something” to us.\nThis would imply a cause-effect relationship, with the transit causing certain events\nin our lives to occur. Fortunately, this is not the case. It is our philosophy that you are\nthe creator of your universe, and therefore you are “at cause” in your life. Thus, we\nsee transits as those experiences that you have drawn to yourself, caused by your\nown prior choices. As contemporary astrologers are fond of saying, “Events don’t\n"
+    },
+    {
+      "page": 308,
+      "text": "3. The conjunction on the Sun (one’s purpose), Jupiter (expansion), and\nVenus (the power of attraction) in Cancer (sustenance) falls in the second-\neighth house axis of material resources. This explains the abundance of\nnatural resources endowed to us and the material prosperity we have created\nwith it. Although our Cancerian insecurities have led to an\noverconsumption of material goods, we have also been generous (Jupiter)\nwith our resources, helping to rebuild Europe after World War II and\ndonating millions to the needy through foreign aid.\n4. Finally, at the moment of our “birth,” Uranus, planet of revolution,\nfreedom, self-reliance, and scientific innovation, was on the horizon in the\nsign of Gemini. We have certainly made major scientific advances in the\nGemini fields of transportation and communication. Moreover, Uranus rules\nconstant change, making Americans, despite their love of home, a very\nmobile people. The average American uproots him- or herself every seven\nyears.\nHopefully, this brief overview has demonstrated that nations, like\npeople, have their own birth charts which contain the seeds of their\ncharacters and destinies.\nAstro-Economics\nAstro-economics applies the tools of astrology to the study of economic\ntrends and cycles. Like historical astrology, the transits and cycles of outer\nplanets correspond to the most important cycles.\nFor example, the planet Neptune corresponds to mass money. Thus\nwhen Neptune was transiting through the sign of expansion, Sagittarius, in\nthe 1970 s, we experienced a time of high inflation. Now that Neptune is in\nthe earth sign of restriction and limitation, Capricorn, we are in the midst of\na long-term deflationary cycle. This is precisely what occurred when\nNeptune last transited through the earth sign Virgo, from 1929 to 1942.\nAside from the outer planets, astrologers also use sunspot activity to\nchronicle overall business cycles. In addition, many national newsletters\nexist that correlate astrological cycles to overall economic trends or to the\nmovement of financial markets (especially the stock market). If you wish to\n"
+    },
+    {
+      "page": 351,
+      "text": "Note that King’s chart displays an Eastern hemisphere\nemphasis, symbolizing his role as pioneer and initiator.\nFigure 1: Birtfochart of Martin Luther King, Jr.\n"
+    },
+    {
+      "page": 387,
+      "text": "Moon Phases\nRudhyar, Dane, The Lunation Cycle, Aurora, 1967.\nAstrology and Psychology\nArroyo, Stephen, Astrology, Psychology and the Four Elements, CRCS\nPubl., 1975; Astrology, Karma and Transformation, CRCS Publ, 1978.\nCunningham, Donna, An Astrological Guide to Self-Awareness, CRCS\nPubl., 1978.\nHebei, Doris, Celestial Psychology, Aurora, 1985.\nMayo, Jeff, The Planets and Human Behavior, CRCS Publ., 1985.\nPottenger, Maritha, Healing With the Horoscope, ACS Publ., 1983.\nRosenblum, Bernard, The Astrologer’s Guide to Counseling, CRCS Publ.,\n1983.\nTyl, Noel, Astrological Counsel, Llewelyn Publ., 1975.\nMoon’s Nodes\nSchulman, \nMartin, \nKarmic \nAstrology: \nThe \nMoon’s \nNodes \nand\nReincarnation, Vol. 1, Weiser, 1977.\nVocational Astrology\nWickenburg, Joanne, In Search of a Fulfilling Career, Search, 1977.\nRelationship Astrology\nArroyo, Stephen, Relationships and Life Cycles, CRCS Publ, 1979.\nDavidson, Ronald, Synastry, Aurora, 1983.\nGoodman, Linda, Linda Goodman’s Love Signs, Fawcett, 1985.\nGreene, Liz, Relating, Weiser, 1978; Star Signs for Lovers, CRCS Publ,\n1980.\nSargent, Lois H., How to Handle Your Human Relations, Am. Fed.\nAstrologers, 1958.\nTownley, John, Planets in Love, Whitford Press, 1978.\n"
+    },
+    {
+      "page": 388,
+      "text": "Transits\nForrest, Steven, The Changing Sky: The Dynamic New Astrology for\nEveryone, Bantam, 1984.\nHand, Robert, Planets in Transit, Whitford Press, 1976.\nLundsted, Betty, Transits: The Time of Your Life, Weiser, 1980.\nRiotte, Louise, Planetary Planting, ACS Publ., 1982.\nRobertson, Marc, The Transit of Saturn, Am. Fed. Astrologers, 1980.\nRuperti, Alexander, Cycles of Becoming, CRCS Publ., 1978.\nMundane\nBaigent, Campion and Harvey, Mundane Astrology: An Introduction to the\nAstrology of Nations and Groups, Aquarian Press, 1984.\nDodson, Carolyn, Horoscopes of US States and Cities, Am. Fed.\nAstrologers, 1976.\nLerner, Mark, Mysteries of Venus, Great Bear, 1980.\nLynes, Barry, The Next Twenty Years. Self-published.\nMoore, Moon, The Book of World Horoscopes, Seek It Publ., 1980.\nPenfield, Mark, Horoscopes of the Western Hemisphere, ACS Publ., 1984.\nHistorical Astrology\nRodden, Lois, The American Book of Charts, Profiles of Women, Am. Fed.\nAstrologers, 1979.\nEconomic Astrology\nLynes, Barry, Astro-Economics. Self-published.\nWilliams, Dr. David, Astro-Economics: A Study of Astrology and the\nBusiness Cycle, Llewellyn Publ., 1974.\nHorary Astrology\nJacobson, Ivy M., Simplified Horary Astrology. Selfpublished.\nSimmonite, Dr. W.J., Horary Astrology, Am. Fed. Astrologers, 1976.\n"
+    },
+    {
+      "page": 389,
+      "text": "Stone, Diana, Correspondence Course in Horary Astrology (8665 SW\nCanyon Road, Portland, OR 97225).\nWatters, Barbara, Horary Astrology, Am. Fed. Astrologers, 1982.\nAsteroids\nBach, Eleanor, Ephemerides of the Asteroids, Celestial Communications,\n1973.\nGeorge, Demetra and Bloch, Douglas, Asteroid Goddesses, ACS Publ.,\n1986.\nLantero, Ermine, The Continuing Discovery of Chiron, Weiser, 1983-\nStein, Zane, Interpreting Chiron, Assoc, for Studying Chiron, 1982.\n"
+    }
+  ],
+  "tech_pages": [],
+  "full_text": null
+}

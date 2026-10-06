@@ -1,0 +1,454 @@
+{
+  "engine": "pocketastro-learn",
+  "version": 1,
+  "sources": [
+    "Charak, Elements of Vedic Astrology — the structure of the syllabus.",
+    "Levacy, Beneath a Vedic Sky — houses, dignity and remedial framing.",
+    "Braha, Ancient Hindu Astrology for the Modern Western Astrologer — the two-zodiac comparison.",
+    "Sutton, The Essentials of Vedic Astrology — nakshatras and vargas."
+  ],
+  "levels": [
+    {
+      "id": "basic",
+      "title": "Basics",
+      "blurb": "What a chart is made of, and the vocabulary everything else is written in.",
+      "lessons": [
+        {
+          "id": "what-a-chart-is",
+          "title": "What a chart actually is",
+          "hook": "A chart is not a prediction. It is a diagram of where everything was, seen from one spot on Earth at one moment.",
+          "minutes": 4,
+          "points": [
+            {
+              "heading": "A moment and a place",
+              "body": "Every chart needs three things: a date, a time, and a pair of coordinates. Change the place and the sky is the same, but your view of it is not — which is why the rising degree moves about one degree every four minutes."
+            },
+            {
+              "heading": "Longitude, not pictures",
+              "body": "Astrology works in ecliptic longitude: one number from 0° to 360° for each body, measured along the Sun’s apparent path. Signs, houses and aspects are all arithmetic on those numbers."
+            },
+            {
+              "heading": "Why the birth time matters",
+              "body": "The grahas move slowly enough that a few hours barely shifts them. The ascendant does not — it travels the whole circle every day. Without a birth time the houses cannot be drawn, so PocketAstro withholds them rather than guessing."
+            },
+            {
+              "heading": "Two systems, one sky",
+              "body": "Vedic and Western astrologers compute the same positions. They disagree about where to start counting, and that one disagreement produces almost every difference between the two readings."
+            }
+          ],
+          "check": {
+            "question": "Why does an unknown birth time cost you the houses but not the grahas?",
+            "answer": "The grahas move by degrees a day; the ascendant moves by degrees a minute. A four-hour uncertainty barely touches the first and destroys the second."
+          }
+        },
+        {
+          "id": "the-two-zodiacs",
+          "title": "Signs, and the gap between the two zodiacs",
+          "hook": "Vedic and Western astrology use the same twelve signs, counted from two starting points about 24° apart.",
+          "minutes": 4,
+          "points": [
+            {
+              "heading": "The tropical zodiac",
+              "body": "Western astrology puts 0° Aries at the spring equinox — the point where the Sun crosses the celestial equator going north. That point is defined by the seasons, not by the stars."
+            },
+            {
+              "heading": "The sidereal zodiac",
+              "body": "Vedic astrology starts from a fixed star instead. Because the equinox drifts backwards about 50 arcseconds a year, the two zodiacs have slowly pulled apart over the centuries."
+            },
+            {
+              "heading": "The ayanamsa",
+              "body": "The gap between them is the ayanamsa, currently about 24°. PocketAstro uses Lahiri, the Indian government standard. Subtract it from a tropical longitude and you have the sidereal one."
+            },
+            {
+              "heading": "What it means for you",
+              "body": "It is why your Western Sun sign is usually the next sign along from your Vedic one. Neither is wrong. They are answering different questions about the same sky."
+            }
+          ],
+          "check": {
+            "question": "Your tropical Sun is at 2° Leo. Roughly where is it sidereally?",
+            "answer": "About 8° Cancer. Subtract the ayanamsa of roughly 24°."
+          }
+        },
+        {
+          "id": "the-nine-grahas",
+          "title": "The nine grahas",
+          "hook": "Nine moving points, each standing for one kind of pressure a life comes under.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "Seven bodies and two shadows",
+              "body": "Sun, Moon, Mars, Mercury, Jupiter, Venus and Saturn are visible objects. Rahu and Ketu are not bodies at all — they are the two points where the Moon’s path crosses the Sun’s, and they always sit exactly opposite each other."
+            },
+            {
+              "heading": "Benefic and malefic",
+              "body": "Jupiter, Venus, a waxing Moon and an unafflicted Mercury are natural benefics. Saturn, Mars, Rahu, Ketu and the Sun are natural malefics. The labels describe method, not morality: a malefic gets its results through pressure."
+            },
+            {
+              "heading": "Karakas",
+              "body": "Each graha signifies particular things wherever it sits — the Sun for father and authority, the Moon for mother and mind, Jupiter for children and teachers, Venus for spouse and pleasure, Saturn for labour and time."
+            },
+            {
+              "heading": "Functional, not fixed",
+              "body": "A graha’s role changes with the rising sign. Saturn is a natural malefic but a functional benefic for Taurus and Libra lagnas, because it owns good houses from there. Always check the lagna before judging a graha."
+            }
+          ],
+          "check": {
+            "question": "Is Saturn good or bad in a chart?",
+            "answer": "Neither, until you know the rising sign. Natural nature is fixed; functional nature is decided by the lagna."
+          }
+        },
+        {
+          "id": "the-twelve-houses",
+          "title": "The twelve houses",
+          "hook": "The signs say how. The houses say where in a life it lands.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "The frame",
+              "body": "The houses are twelve divisions measured from the ascendant, the degree rising on the eastern horizon at birth. PocketAstro uses whole-sign houses — the oldest system and the standard in Vedic work, where the rising sign is the whole first house."
+            },
+            {
+              "heading": "What each one covers",
+              "body": "1 body and self, 2 money and speech, 3 effort and siblings, 4 home and mother, 5 children and creativity, 6 work, debt and illness, 7 partnership, 8 crisis and inheritance, 9 belief and fortune, 10 career and standing, 11 gains and networks, 12 loss, retreat and abroad."
+            },
+            {
+              "heading": "The four groups",
+              "body": "Angles (1, 4, 7, 10) are where things happen. Trines (1, 5, 9) are where they go well. The dusthanas (6, 8, 12) are where they cost. The upachayas (3, 6, 10, 11) improve with time and effort."
+            },
+            {
+              "heading": "Reading one",
+              "body": "A house is judged three ways at once: what sits in it, where its lord went, and what aspects it. All three, every time. One alone is a guess."
+            }
+          ],
+          "check": {
+            "question": "The 6th house is a dusthana and also an upachaya. How can it be both?",
+            "answer": "It costs at the start and rewards persistence. Debts, illness and rivals are real problems that shrink as you work at them."
+          }
+        },
+        {
+          "id": "your-three-signs",
+          "title": "Your three signs",
+          "hook": "Most people know their Sun sign. In Vedic work it is the third most important of the three.",
+          "minutes": 4,
+          "points": [
+            {
+              "heading": "Rising sign — the frame",
+              "body": "The ascendant sets where every house begins, so it decides which graha rules what in your life. Change the lagna and the whole chart re-reads, even with identical planetary positions."
+            },
+            {
+              "heading": "Moon sign — the mind",
+              "body": "Vedic astrology reads primarily from the Moon. It is the janma rashi: the basis of the dasha system, of the birth nakshatra, and of all transit judgment. When someone in India asks your sign, this is the one they mean."
+            },
+            {
+              "heading": "Sun sign — the self",
+              "body": "The Sun is soul, father, authority and vitality. It matters, but it moves one sign a month, which makes it the coarsest of the three."
+            },
+            {
+              "heading": "Why they disagree",
+              "body": "They answer different questions: what shape your life takes, how your mind meets it, and what stands at the centre. A chart that reads the same from all three is unusual."
+            }
+          ],
+          "check": {
+            "question": "Which sign does a Vedic astrologer use to judge a transit?",
+            "answer": "The Moon sign. Gochara is counted from the janma rashi, not from the ascendant or the Sun."
+          }
+        }
+      ]
+    },
+    {
+      "id": "intermediate",
+      "title": "Intermediate",
+      "blurb": "How the pieces are combined into a reading, and how time is divided.",
+      "lessons": [
+        {
+          "id": "house-lords",
+          "title": "House lords, and where they went",
+          "hook": "The single most useful sentence in Vedic astrology: the lord of house A sits in house B.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "Ownership",
+              "body": "Every sign has a ruling graha, so every house in your chart has a lord. Where that lord sits is where the matters of its house get carried — a 10th lord in the 7th moves your career into partnership."
+            },
+            {
+              "heading": "Reading a pair",
+              "body": "The classics read this as a sentence: the affairs of the owned house are directed toward the occupied house. Twelve lords across twelve placements gives 144 sentences, and most of a traditional reading is built from them."
+            },
+            {
+              "heading": "Strength decides delivery",
+              "body": "A well-placed lord delivers. A lord that is combust, debilitated or sitting in a dusthana struggles. A house is only as strong as the state of its lord, wherever that lord is standing."
+            },
+            {
+              "heading": "Yogakaraka",
+              "body": "A graha that rules both an angle and a trine for a lagna is a yogakaraka, and is the best single thing that can sit in a chart. Saturn for Taurus and Libra, Mars for Cancer and Leo, Venus for Capricorn and Aquarius."
+            }
+          ],
+          "check": {
+            "question": "Your 2nd lord sits in the 12th. What is the plain reading?",
+            "answer": "Money moves outward — toward expense, foreign matters, or letting go. It is a direction, not a sentence about poverty."
+          }
+        },
+        {
+          "id": "aspects",
+          "title": "Aspects — drishti and the Western angles",
+          "hook": "Two different ideas share one English word, and mixing them is the commonest beginner’s error.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "Vedic drishti",
+              "body": "A graha looks. Every graha aspects the 7th house from itself in full. Mars additionally looks at the 4th and 8th, Jupiter at the 5th and 9th, Saturn at the 3rd and 10th. These are counted in whole signs, not in degrees."
+            },
+            {
+              "heading": "Not mutual",
+              "body": "Drishti runs one way. Saturn in your 1st aspects your 10th; a graha in your 10th does not aspect your 1st unless it is one that looks backward. Western aspects, by contrast, are always mutual."
+            },
+            {
+              "heading": "Western aspects",
+              "body": "Conjunction, sextile, square, trine and opposition are measured by exact angular separation inside an orb of a few degrees. They describe a relationship between two bodies; drishti describes where one graha’s attention falls."
+            },
+            {
+              "heading": "Using both",
+              "body": "PocketAstro computes both and keeps them apart. Use drishti to judge houses in the Vedic frame, and the Western aspects when reading psychological material."
+            }
+          ],
+          "check": {
+            "question": "Jupiter sits in your 3rd house. Which houses does it aspect?",
+            "answer": "The 7th, 9th and 11th — the 5th, 7th and 9th counted from itself."
+          }
+        },
+        {
+          "id": "nakshatras",
+          "title": "Nakshatras",
+          "hook": "Twenty-seven lunar mansions, each 13°20′ wide. They are older than the twelve signs and carry more of the detail.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "The division",
+              "body": "The 360° circle divides into 27 nakshatras of 13°20′, each quartered into four padas of 3°20′. A graha’s nakshatra is often more descriptive than its sign."
+            },
+            {
+              "heading": "The lords",
+              "body": "Each nakshatra is owned by one of nine grahas, in a fixed repeating order: Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury. That ownership drives the entire Vimshottari dasha system."
+            },
+            {
+              "heading": "Your birth star",
+              "body": "The nakshatra the Moon occupies at birth is the janma nakshatra. It fixes your dasha sequence, is used in traditional name-giving, and supplies several of the eight kootas in matching."
+            },
+            {
+              "heading": "Padas and the navamsa",
+              "body": "The four padas of a nakshatra map exactly onto the nine divisions of the navamsa chart. That is not a coincidence: 27 × 4 = 108 = 12 × 9."
+            }
+          ],
+          "check": {
+            "question": "What decides which mahadasha you are born into?",
+            "answer": "The nakshatra your Moon occupies at birth, and how far through it the Moon has already travelled."
+          }
+        },
+        {
+          "id": "dignity-and-strength",
+          "title": "Dignity and strength",
+          "hook": "The same graha in the same house behaves differently depending on the sign it is standing in.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "The five states",
+              "body": "A graha is exalted in one sign, debilitated in the sign opposite, at home in the signs it rules, and otherwise in a friend’s, a neutral’s or an enemy’s house. Exalted Saturn in Libra and debilitated Saturn in Aries are not the same planet."
+            },
+            {
+              "heading": "Moolatrikona",
+              "body": "Each graha also has a moolatrikona arc — a stretch of degrees inside its own sign where it is at its most functional. It ranks just below exaltation."
+            },
+            {
+              "heading": "Combustion",
+              "body": "A graha too close to the Sun is combust and loses the ability to deliver anything separate from the Sun’s agenda. The orb differs by graha, and Mercury and Venus — which are never far from the Sun — are judged more leniently."
+            },
+            {
+              "heading": "Shadbala",
+              "body": "The classical measure is shadbala: six kinds of strength summed into rupas, with a required minimum for each graha. It is arithmetic, and it disagrees with intuition often enough to be worth computing."
+            }
+          ],
+          "check": {
+            "question": "Why is a debilitated graha not simply a bad graha?",
+            "answer": "Debilitation can be cancelled — neecha bhanga — by the dispositor’s placement, and the classics treat a cancelled debilitation as a source of unusual strength."
+          }
+        },
+        {
+          "id": "vimshottari",
+          "title": "Vimshottari dasha",
+          "hook": "Vedic astrology’s answer to when. A 120-year cycle, opened by the Moon’s birth star.",
+          "minutes": 6,
+          "points": [
+            {
+              "heading": "The 120-year wheel",
+              "body": "Nine grahas take fixed shares of 120 years: Ketu 7, Venus 20, Sun 6, Moon 10, Mars 7, Rahu 18, Jupiter 16, Saturn 19, Mercury 17. Always that order, always adding to 120."
+            },
+            {
+              "heading": "Where you start",
+              "body": "Your birth Moon’s nakshatra lord opens the sequence, and the fraction of that nakshatra already crossed decides how much of the first period you were born having used up."
+            },
+            {
+              "heading": "Nesting",
+              "body": "Each mahadasha divides into nine antardashas in the same proportion and the same order, and each of those into pratyantaras. The nesting can go deeper; three levels is the practical limit."
+            },
+            {
+              "heading": "Reading a period",
+              "body": "The dasha lord’s promise is the natal promise: what that graha owns, where it sits, and what it aspects. A dasha delivers what the chart already contains. It does not add anything."
+            }
+          ],
+          "check": {
+            "question": "Can a dasha give you what the natal chart never promised?",
+            "answer": "No. The dasha is the timer, not the source. This is the order of judgment, and every classical author insists on it."
+          }
+        }
+      ]
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced",
+      "blurb": "The scoring systems, the derived charts, and the limits of the method.",
+      "lessons": [
+        {
+          "id": "yogas",
+          "title": "Yogas",
+          "hook": "Named combinations with stated results. There are thousands; a few dozen do most of the work.",
+          "minutes": 6,
+          "points": [
+            {
+              "heading": "What a yoga is",
+              "body": "A yoga is a specified configuration with a stated result. Gajakesari is Jupiter in an angle from the Moon; Ruchaka is Mars strong in an angle in its own or exaltation sign. The name is shorthand for a rule."
+            },
+            {
+              "heading": "Raja and dhana",
+              "body": "Raja yogas form when an angle lord and a trine lord associate — by conjunction, mutual aspect or exchange. Dhana yogas involve the 2nd and 11th lords. These two families are the ones to learn first."
+            },
+            {
+              "heading": "Cancellation matters more than count",
+              "body": "Every yoga is subject to the state of its participants. A raja yoga whose lords are combust, debilitated or in dusthanas is a promise the chart cannot keep. Counting yogas without weighing them is the classic way to misread a chart."
+            },
+            {
+              "heading": "Timing",
+              "body": "A yoga sits dormant until the dasha of one of its participants runs. That is the honest answer to when a yoga fires."
+            }
+          ],
+          "check": {
+            "question": "A chart has six raja yogas and the life is ordinary. What did the reading miss?",
+            "answer": "The state of the lords involved, and whether their dashas have run yet."
+          }
+        },
+        {
+          "id": "divisional-charts",
+          "title": "Divisional charts",
+          "hook": "Sixteen charts derived from one. Each divides the signs further and magnifies a single area of life.",
+          "minutes": 6,
+          "points": [
+            {
+              "heading": "How a varga works",
+              "body": "Divide each 30° sign into n parts and re-map each part onto a full sign. The result is a new chart from the same longitudes. Nothing is added; resolution is."
+            },
+            {
+              "heading": "The navamsa (D9)",
+              "body": "The ninth division, and the one to learn first. It is read for marriage and for the inner strength of every graha. A graha in the same sign in D1 and D9 is vargottama, and is unusually reliable."
+            },
+            {
+              "heading": "The ones that earn their keep",
+              "body": "D1 the life, D9 marriage and strength, D10 career, D7 children, D4 property, D3 siblings and courage. The rest are specialist, and several are disputed."
+            },
+            {
+              "heading": "The rule of use",
+              "body": "A divisional chart never contradicts D1; it refines it. If the natal chart does not promise a thing, no varga can grant it."
+            }
+          ],
+          "check": {
+            "question": "Your D10 shows a strong career and your D1 does not. Which wins?",
+            "answer": "D1. The varga refines the promise the natal chart makes. It cannot create one."
+          }
+        },
+        {
+          "id": "ashtakavarga",
+          "title": "Ashtakavarga",
+          "hook": "The classics’ own scoring system: eight contributors vote on every sign, and the totals show where a chart is thin.",
+          "minutes": 6,
+          "points": [
+            {
+              "heading": "Bindus",
+              "body": "For each of seven grahas, eight contributors — the seven plus the ascendant — award a bindu or withhold it from each sign, by fixed tables. The result is that graha’s bhinnashtakavarga: a score from 0 to 8 per sign."
+            },
+            {
+              "heading": "Sarvashtakavarga",
+              "body": "Sum the seven bhinnas and you have the sarva: 337 bindus spread across twelve signs, averaging 28. A sign above the average supports the matters of the house it falls in. Below, it does not."
+            },
+            {
+              "heading": "Judging a transit",
+              "body": "A graha transiting a sign where it holds five or more of its own bindus tends to give results; three or fewer tends not to. This is the most practical daily use of the system."
+            },
+            {
+              "heading": "The kakshya filter",
+              "body": "Each sign divides into eight kakshyas of 3°45′. A transiting graha standing in a kakshya whose owner gave it a bindu is supported that day, and otherwise is not. It is a day filter and nothing more."
+            }
+          ],
+          "check": {
+            "question": "Why does an unknown birth time cost you the ashtakavarga entirely?",
+            "answer": "The ascendant is one of the eight contributors. Without it the tables cannot be built at all."
+          }
+        },
+        {
+          "id": "gochara",
+          "title": "Gochara — reading transits",
+          "hook": "Where the grahas are now, judged from where your Moon was then.",
+          "minutes": 6,
+          "points": [
+            {
+              "heading": "Counted from the Moon",
+              "body": "Vedic transit work counts the transiting graha’s house from the janma rashi, not from the ascendant. Saturn in the 12th, 1st or 2nd from the Moon is Sade Sati; in the 8th it is Ashtama Shani."
+            },
+            {
+              "heading": "Slow before fast",
+              "body": "Saturn, Jupiter and the nodes set the weather. The fast grahas only trigger. A Mars transit matters when it lights something a slow transit has already set up."
+            },
+            {
+              "heading": "Vedha",
+              "body": "A classical refinement: a favourable transit result is obstructed when another graha occupies the paired obstructing house. Most modern readings skip vedha, and lose accuracy for it."
+            },
+            {
+              "heading": "The ceiling",
+              "body": "A transit modulates the running dasha. It cannot outrank it, and neither can outrank the natal promise. Sade Sati is a toll on a chapter, not the deletion of a yoga."
+            }
+          ],
+          "check": {
+            "question": "Which do you read first — a hard transit or a favourable dasha?",
+            "answer": "The dasha, and before that the natal chart. Transit is the third and weakest of the three."
+          }
+        },
+        {
+          "id": "order-of-judgment",
+          "title": "The order of judgment, and what not to claim",
+          "hook": "The most advanced skill in astrology is knowing what the technique cannot tell you.",
+          "minutes": 5,
+          "points": [
+            {
+              "heading": "The order",
+              "body": "Natal promise first, dasha second, transit third, and the panchanga last. Each layer can only modulate the ones above it. Almost every bad reading is a layer used out of order."
+            },
+            {
+              "heading": "Confidence is part of the answer",
+              "body": "A reading that does not say how sure it is has left out half the information. PocketAstro caps confidence by technique and lowers it further when the birth time is uncertain."
+            },
+            {
+              "heading": "What this app refuses",
+              "body": "Death, terminal illness and harm to a named third person are outside what PocketAstro will produce. The classical literature contains such methods. Their accuracy does not justify the damage of a wrong answer."
+            },
+            {
+              "heading": "A chart is not consent",
+              "body": "A compatibility score describes classical parameters, not two people. No chart should decide whether someone stays in a relationship, takes a medicine, or is given a job. Say so out loud when you read for anyone."
+            }
+          ],
+          "check": {
+            "question": "Someone asks how long their parent has to live. What is the correct answer?",
+            "answer": "That astrology does not answer that, and that a doctor does. The refusal is a professional standard, not a gap in the technique."
+          }
+        }
+      ]
+    }
+  ],
+  "disclaimer": "A syllabus, not a certification. PocketAstro teaches the classical method and is explicit about where that method stops."
+}

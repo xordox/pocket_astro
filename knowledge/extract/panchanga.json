@@ -1,0 +1,914 @@
+{
+ "engine": "pocketastro-panchanga",
+ "version": 1,
+ "sources": [
+  "Charak, Elements of Vedic Astrology — ch. XXVI (Muhurta) and XXIX (Gochara).",
+  "Standard Panchanga practice for tithi, yoga, karana and the kaal segments."
+ ],
+ "five_limbs": [
+  "tithi (lunar day)",
+  "vara (weekday)",
+  "nakshatra (lunar mansion)",
+  "yoga (Sun+Moon sum)",
+  "karana (half-tithi)"
+ ],
+ "tithi": {
+  "arc_deg": 12.0,
+  "rule": "Tithi number = floor((Moon longitude - Sun longitude, normalised to 0-360) / 12) + 1, counted 1-30 from the new Moon.",
+  "groups": {
+   "nanda": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+   "bhadra": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+   "jaya": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+   "rikta": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+   "purna": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter."
+  },
+  "list": [
+   {
+    "number": 1,
+    "paksha": "shukla",
+    "name": "Pratipada",
+    "deity": "Agni",
+    "group": "nanda",
+    "group_meaning": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 2,
+    "paksha": "shukla",
+    "name": "Dwitiya",
+    "deity": "Brahma",
+    "group": "bhadra",
+    "group_meaning": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 3,
+    "paksha": "shukla",
+    "name": "Tritiya",
+    "deity": "Gauri",
+    "group": "jaya",
+    "group_meaning": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 4,
+    "paksha": "shukla",
+    "name": "Chaturthi",
+    "deity": "Ganesha",
+    "group": "rikta",
+    "group_meaning": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 5,
+    "paksha": "shukla",
+    "name": "Panchami",
+    "deity": "the Nagas",
+    "group": "purna",
+    "group_meaning": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 6,
+    "paksha": "shukla",
+    "name": "Shashthi",
+    "deity": "Kartikeya",
+    "group": "nanda",
+    "group_meaning": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 7,
+    "paksha": "shukla",
+    "name": "Saptami",
+    "deity": "Surya",
+    "group": "bhadra",
+    "group_meaning": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 8,
+    "paksha": "shukla",
+    "name": "Ashtami",
+    "deity": "Shiva",
+    "group": "jaya",
+    "group_meaning": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 9,
+    "paksha": "shukla",
+    "name": "Navami",
+    "deity": "Durga",
+    "group": "rikta",
+    "group_meaning": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 10,
+    "paksha": "shukla",
+    "name": "Dashami",
+    "deity": "Yama",
+    "group": "purna",
+    "group_meaning": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 11,
+    "paksha": "shukla",
+    "name": "Ekadashi",
+    "deity": "the Vishvadevas",
+    "group": "nanda",
+    "group_meaning": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 12,
+    "paksha": "shukla",
+    "name": "Dwadashi",
+    "deity": "Vishnu",
+    "group": "bhadra",
+    "group_meaning": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 13,
+    "paksha": "shukla",
+    "name": "Trayodashi",
+    "deity": "Kamadeva",
+    "group": "jaya",
+    "group_meaning": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 14,
+    "paksha": "shukla",
+    "name": "Chaturdashi",
+    "deity": "Shiva (Kali)",
+    "group": "rikta",
+    "group_meaning": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 15,
+    "paksha": "shukla",
+    "name": "Purnima",
+    "deity": "Chandra",
+    "group": "purna",
+    "group_meaning": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 1,
+    "paksha": "krishna",
+    "name": "Pratipada",
+    "deity": "Agni",
+    "group": "nanda",
+    "group_meaning": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 2,
+    "paksha": "krishna",
+    "name": "Dwitiya",
+    "deity": "Brahma",
+    "group": "bhadra",
+    "group_meaning": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 3,
+    "paksha": "krishna",
+    "name": "Tritiya",
+    "deity": "Gauri",
+    "group": "jaya",
+    "group_meaning": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 4,
+    "paksha": "krishna",
+    "name": "Chaturthi",
+    "deity": "Ganesha",
+    "group": "rikta",
+    "group_meaning": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 5,
+    "paksha": "krishna",
+    "name": "Panchami",
+    "deity": "the Nagas",
+    "group": "purna",
+    "group_meaning": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 6,
+    "paksha": "krishna",
+    "name": "Shashthi",
+    "deity": "Kartikeya",
+    "group": "nanda",
+    "group_meaning": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 7,
+    "paksha": "krishna",
+    "name": "Saptami",
+    "deity": "Surya",
+    "group": "bhadra",
+    "group_meaning": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 8,
+    "paksha": "krishna",
+    "name": "Ashtami",
+    "deity": "Shiva",
+    "group": "jaya",
+    "group_meaning": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 9,
+    "paksha": "krishna",
+    "name": "Navami",
+    "deity": "Durga",
+    "group": "rikta",
+    "group_meaning": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 10,
+    "paksha": "krishna",
+    "name": "Dashami",
+    "deity": "Yama",
+    "group": "purna",
+    "group_meaning": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 11,
+    "paksha": "krishna",
+    "name": "Ekadashi",
+    "deity": "the Vishvadevas",
+    "group": "nanda",
+    "group_meaning": "Nanda (joyful) — good for celebration, art, new clothes, festivity. Ruled by Venus.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 12,
+    "paksha": "krishna",
+    "name": "Dwadashi",
+    "deity": "Vishnu",
+    "group": "bhadra",
+    "group_meaning": "Bhadra (auspicious) — good for construction, marriage, travel, learning. Ruled by Mercury.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 13,
+    "paksha": "krishna",
+    "name": "Trayodashi",
+    "deity": "Kamadeva",
+    "group": "jaya",
+    "group_meaning": "Jaya (victorious) — good for contest, litigation, competition, confrontation. Ruled by Mars.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 14,
+    "paksha": "krishna",
+    "name": "Chaturdashi",
+    "deity": "Shiva (Kali)",
+    "group": "rikta",
+    "group_meaning": "Rikta (empty) — avoid for anything you want to keep. Good only for demolition, debt recovery, ending things. Ruled by Saturn.",
+    "arc_deg": 12.0
+   },
+   {
+    "number": 15,
+    "paksha": "krishna",
+    "name": "Amavasya",
+    "deity": "the Pitris",
+    "group": "purna",
+    "group_meaning": "Purna (full) — good for completion, journeys, marriage, anything requiring fullness. Ruled by Jupiter.",
+    "arc_deg": 12.0
+   }
+  ]
+ },
+ "vara": {
+  "Sunday": {
+   "lord": "Sun",
+   "nature": "fixed and fierce",
+   "good_for": [
+    "government work",
+    "medicine",
+    "authority",
+    "anything in your own name"
+   ],
+   "avoid": [
+    "starting a journey west",
+    "beginning a long partnership"
+   ],
+   "rahu_segment": 8,
+   "yamaganda_segment": 5,
+   "gulika_segment": 7
+  },
+  "Monday": {
+   "lord": "Moon",
+   "nature": "movable and mild",
+   "good_for": [
+    "travel",
+    "public dealings",
+    "water and liquids",
+    "domestic matters",
+    "planting"
+   ],
+   "avoid": [
+    "confrontation",
+    "surgery"
+   ],
+   "rahu_segment": 2,
+   "yamaganda_segment": 4,
+   "gulika_segment": 6
+  },
+  "Tuesday": {
+   "lord": "Mars",
+   "nature": "fierce",
+   "good_for": [
+    "surgery",
+    "litigation",
+    "competition",
+    "property",
+    "debt recovery"
+   ],
+   "avoid": [
+    "marriage",
+    "lending money",
+    "starting anything meant to be peaceful"
+   ],
+   "rahu_segment": 7,
+   "yamaganda_segment": 3,
+   "gulika_segment": 5
+  },
+  "Wednesday": {
+   "lord": "Mercury",
+   "nature": "mixed",
+   "good_for": [
+    "study",
+    "trade",
+    "writing",
+    "contracts",
+    "negotiation"
+   ],
+   "avoid": [
+    "nothing specific; Abhijit muhurta is the one exception, being weak on Wednesday"
+   ],
+   "rahu_segment": 5,
+   "yamaganda_segment": 2,
+   "gulika_segment": 4
+  },
+  "Thursday": {
+   "lord": "Jupiter",
+   "nature": "mild and swift",
+   "good_for": [
+    "marriage",
+    "education",
+    "religious work",
+    "finance",
+    "new ventures"
+   ],
+   "avoid": [
+    "deception of any kind — it reliably rebounds"
+   ],
+   "rahu_segment": 6,
+   "yamaganda_segment": 1,
+   "gulika_segment": 3
+  },
+  "Friday": {
+   "lord": "Venus",
+   "nature": "mild",
+   "good_for": [
+    "marriage",
+    "art",
+    "vehicles",
+    "luxury purchases",
+    "partnership"
+   ],
+   "avoid": [
+    "austerity and renunciation"
+   ],
+   "rahu_segment": 4,
+   "yamaganda_segment": 7,
+   "gulika_segment": 2
+  },
+  "Saturday": {
+   "lord": "Saturn",
+   "nature": "fixed and slow",
+   "good_for": [
+    "long-term foundations",
+    "iron and machinery",
+    "service",
+    "hiring",
+    "discipline"
+   ],
+   "avoid": [
+    "marriage",
+    "buying vehicles",
+    "starting a journey east"
+   ],
+   "rahu_segment": 3,
+   "yamaganda_segment": 6,
+   "gulika_segment": 1
+  }
+ },
+ "yoga": {
+  "count": 27,
+  "arc_deg": 13.3333,
+  "rule": "Yoga number = floor(((Sun longitude + Moon longitude) mod 360) / 13°20') + 1.",
+  "names": [
+   "Vishkambha",
+   "Priti",
+   "Ayushman",
+   "Saubhagya",
+   "Shobhana",
+   "Atiganda",
+   "Sukarma",
+   "Dhriti",
+   "Shula",
+   "Ganda",
+   "Vriddhi",
+   "Dhruva",
+   "Vyaghata",
+   "Harshana",
+   "Vajra",
+   "Siddhi",
+   "Vyatipata",
+   "Variyana",
+   "Parigha",
+   "Shiva",
+   "Siddha",
+   "Sadhya",
+   "Shubha",
+   "Shukla",
+   "Brahma",
+   "Indra",
+   "Vaidhriti"
+  ],
+  "inauspicious": [
+   "Atiganda",
+   "Ganda",
+   "Parigha",
+   "Shula",
+   "Vaidhriti",
+   "Vajra",
+   "Vishkambha",
+   "Vyaghata",
+   "Vyatipata"
+  ],
+  "note": "The nine inauspicious yogas are avoided for beginnings. Vyatipata and Vaidhriti are the two most strongly avoided."
+ },
+ "karana": {
+  "count_per_tithi": 2,
+  "arc_deg": 6.0,
+  "movable": [
+   "Bava",
+   "Balava",
+   "Kaulava",
+   "Taitila",
+   "Gara",
+   "Vanija",
+   "Vishti"
+  ],
+  "fixed": [
+   "Shakuni",
+   "Chatushpada",
+   "Naga",
+   "Kimstughna"
+  ],
+  "rule": "Sixty karanas fill a lunar month. The four fixed karanas occur once each: Kimstughna in the second half of Krishna Chaturdashi, then Shakuni, Chatushpada and Naga. The seven movable karanas repeat eight times.",
+  "inauspicious": [
+   "Vishti (Bhadra)"
+  ],
+  "note": "Vishti karana is avoided for every auspicious beginning. It lasts about half a tithi."
+ },
+ "inauspicious_periods": {
+  "rahu_kaal": {
+   "rule": "One eighth of the daylight period; the segment number varies by weekday.",
+   "segments": {
+    "Sunday": 8,
+    "Monday": 2,
+    "Tuesday": 7,
+    "Wednesday": 5,
+    "Thursday": 6,
+    "Friday": 4,
+    "Saturday": 3
+   },
+   "use": "Avoid signing, launching and departing. Ongoing work is unaffected."
+  },
+  "yamaganda": {
+   "segments": {
+    "Sunday": 5,
+    "Monday": 4,
+    "Tuesday": 3,
+    "Wednesday": 2,
+    "Thursday": 1,
+    "Friday": 7,
+    "Saturday": 6
+   },
+   "use": "Secondary avoidance window."
+  },
+  "gulika_kaal": {
+   "segments": {
+    "Sunday": 7,
+    "Monday": 6,
+    "Tuesday": 5,
+    "Wednesday": 4,
+    "Thursday": 3,
+    "Friday": 2,
+    "Saturday": 1
+   },
+   "use": "Classically the worst of the three for anything meant to last; also used deliberately for things meant to be permanent in some traditions."
+  },
+  "durmuhurta": "Two short windows in each day, computed from the 15 muhurtas of daylight; avoided for beginnings."
+ },
+ "abhijit_muhurta": {
+  "rule": "The eighth of the fifteen daylight muhurtas — roughly 24 minutes centred on local apparent noon.",
+  "quality": "Among the most auspicious windows of any day, and it overrides most minor blemishes.",
+  "exception": "Weak on Wednesday."
+ },
+ "choghadiya": {
+  "segments": [
+   "Udveg",
+   "Chal",
+   "Labh",
+   "Amrit",
+   "Kaal",
+   "Shubh",
+   "Rog"
+  ],
+  "good": [
+   "Amrit",
+   "Shubh",
+   "Labh",
+   "Chal"
+  ],
+  "bad": [
+   "Udveg",
+   "Kaal",
+   "Rog"
+  ],
+  "rule": "Eight equal segments of daylight and eight of night; the starting segment rotates by weekday."
+ },
+ "panchaka": {
+  "nakshatras": [
+   "Dhanishta (second half)",
+   "Shatabhisha",
+   "Purva Bhadrapada",
+   "Uttara Bhadrapada",
+   "Revati"
+  ],
+  "avoid": [
+   "roofing a house",
+   "buying fuel",
+   "travelling south",
+   "making a bed",
+   "cremation rites"
+  ],
+  "note": "A narrow, specific prohibition — not a general 'bad period'."
+ },
+ "tarabala": {
+  "rule": "Count nakshatras inclusively from the natal Moon's nakshatra to today's; the remainder after division by nine gives the tara.",
+  "taras": [
+   {
+    "name": "Janma",
+    "number": 1,
+    "reading": "Your own star. Mixed — good for personal matters, poor for risk."
+   },
+   {
+    "name": "Sampat",
+    "number": 2,
+    "reading": "Wealth. Auspicious for gain and acquisition."
+   },
+   {
+    "name": "Vipat",
+    "number": 3,
+    "reading": "Danger. Avoid for anything important."
+   },
+   {
+    "name": "Kshema",
+    "number": 4,
+    "reading": "Well-being. Auspicious."
+   },
+   {
+    "name": "Pratyari",
+    "number": 5,
+    "reading": "Obstacle. Avoid."
+   },
+   {
+    "name": "Sadhaka",
+    "number": 6,
+    "reading": "Accomplishment. Auspicious for undertakings."
+   },
+   {
+    "name": "Vadha",
+    "number": 7,
+    "reading": "Injury. Avoid — the worst of the nine."
+   },
+   {
+    "name": "Mitra",
+    "number": 8,
+    "reading": "Friend. Auspicious."
+   },
+   {
+    "name": "Ati-Mitra",
+    "number": 9,
+    "reading": "Great friend. Most auspicious."
+   }
+  ],
+  "malefic_taras": [
+   "Vipat",
+   "Pratyari",
+   "Vadha"
+  ]
+ },
+ "chandrabala": {
+  "good_houses_from_janma_rashi": [
+   1,
+   3,
+   6,
+   7,
+   10,
+   11
+  ],
+  "bad_houses_from_janma_rashi": [
+   4,
+   8,
+   12
+  ],
+  "rule": "The transiting Moon's house from the natal Moon sign. A poor chandrabala cancels an otherwise good muhurta."
+ },
+ "priority": [
+  "Tarabala and chandrabala are checked first — a muhurta that fails either is discarded.",
+  "Then tithi group, then nakshatra class, then vara, then yoga and karana.",
+  "Then the muhurta lagna: the house relevant to the undertaking should be clean and its lord strong.",
+  "Ashtakavarga refinement last: pick a lagna from which the relevant house holds above-average bindus.",
+  "Rahu kaal, Vishti karana and rikta tithi are the three most commonly applied vetoes."
+ ],
+ "activities": {
+  "marriage": {
+   "tithi": [
+    "2",
+    "3",
+    "5",
+    "7",
+    "10",
+    "11",
+    "13"
+   ],
+   "avoid_tithi": [
+    "4",
+    "9",
+    "14",
+    "Amavasya",
+    "Purnima (secondary)"
+   ],
+   "nakshatra": [
+    "Rohini",
+    "Mrigashira",
+    "Magha",
+    "Uttara Phalguni",
+    "Hasta",
+    "Swati",
+    "Anuradha",
+    "Mula",
+    "Uttara Ashadha",
+    "Uttara Bhadrapada",
+    "Revati"
+   ],
+   "vara": [
+    "Monday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "lagna_rules": [
+    "The 8th from the muhurta lagna and from the Moon must be free of grahas and of affliction — Charak XXIX.",
+    "Venus and Jupiter should be strong and unafflicted.",
+    "Avoid a lagna in which the 7th house holds a malefic.",
+    "Avoid the periods when Jupiter or Venus is combust."
+   ]
+  },
+  "housewarming": {
+   "tithi": [
+    "2",
+    "3",
+    "5",
+    "7",
+    "10",
+    "11",
+    "13"
+   ],
+   "avoid_tithi": [
+    "4",
+    "9",
+    "14"
+   ],
+   "nakshatra": [
+    "Rohini",
+    "Mrigashira",
+    "Uttara Phalguni",
+    "Chitra",
+    "Anuradha",
+    "Uttara Ashadha",
+    "Dhanishta",
+    "Uttara Bhadrapada",
+    "Revati"
+   ],
+   "vara": [
+    "Monday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "lagna_rules": [
+    "A fixed sign rising is preferred.",
+    "The 4th house should be clean and its lord strong."
+   ]
+  },
+  "business_start": {
+   "tithi": [
+    "2",
+    "3",
+    "5",
+    "7",
+    "10",
+    "11",
+    "13"
+   ],
+   "avoid_tithi": [
+    "4",
+    "9",
+    "14"
+   ],
+   "nakshatra": [
+    "Ashwini",
+    "Pushya",
+    "Hasta",
+    "Chitra",
+    "Swati",
+    "Anuradha",
+    "Uttara Ashadha",
+    "Shravana",
+    "Dhanishta",
+    "Revati"
+   ],
+   "vara": [
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "lagna_rules": [
+    "Mercury and Jupiter strong; the 10th and 11th lords well placed.",
+    "Avoid Rahu kaal entirely for the moment of signing."
+   ]
+  },
+  "travel": {
+   "tithi": [
+    "2",
+    "3",
+    "5",
+    "7",
+    "10",
+    "11",
+    "13"
+   ],
+   "avoid_tithi": [
+    "4",
+    "9",
+    "14"
+   ],
+   "nakshatra": [
+    "Ashwini",
+    "Mrigashira",
+    "Punarvasu",
+    "Pushya",
+    "Hasta",
+    "Anuradha",
+    "Shravana",
+    "Dhanishta",
+    "Revati"
+   ],
+   "vara": [
+    "Monday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "lagna_rules": [
+    "Avoid a journey in the direction of the day's disha shula.",
+    "The Moon should be in the 1st, 3rd, 6th, 7th, 10th or 11th from the natal Moon."
+   ]
+  },
+  "surgery": {
+   "tithi": [
+    "4",
+    "9",
+    "14"
+   ],
+   "avoid_tithi": [
+    "Amavasya",
+    "Purnima"
+   ],
+   "nakshatra": [
+    "Ardra",
+    "Ashlesha",
+    "Jyeshtha",
+    "Mula",
+    "Bharani",
+    "Magha"
+   ],
+   "vara": [
+    "Tuesday",
+    "Saturday"
+   ],
+   "lagna_rules": [
+    "Keep the Moon away from the sign ruling the body part being operated on.",
+    "A waning Moon is preferred for removal, a waxing Moon for reconstruction.",
+    "This is guidance, not medical advice. The surgeon's schedule wins."
+   ]
+  },
+  "education_start": {
+   "tithi": [
+    "2",
+    "3",
+    "5",
+    "10",
+    "11",
+    "12"
+   ],
+   "avoid_tithi": [
+    "4",
+    "9",
+    "14"
+   ],
+   "nakshatra": [
+    "Ashwini",
+    "Punarvasu",
+    "Pushya",
+    "Hasta",
+    "Chitra",
+    "Swati",
+    "Anuradha",
+    "Shravana",
+    "Dhanishta",
+    "Revati"
+   ],
+   "vara": [
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "lagna_rules": [
+    "Mercury and Jupiter strong; the 4th and 5th houses clean."
+   ]
+  },
+  "vehicle_purchase": {
+   "tithi": [
+    "2",
+    "3",
+    "5",
+    "7",
+    "10",
+    "11",
+    "13"
+   ],
+   "avoid_tithi": [
+    "4",
+    "9",
+    "14"
+   ],
+   "nakshatra": [
+    "Ashwini",
+    "Rohini",
+    "Mrigashira",
+    "Punarvasu",
+    "Pushya",
+    "Hasta",
+    "Chitra",
+    "Swati",
+    "Anuradha",
+    "Revati"
+   ],
+   "vara": [
+    "Monday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "lagna_rules": [
+    "Venus strong and unafflicted; the 4th house clean."
+   ]
+  }
+ },
+ "disclaimer": "Muhurta improves the odds on a discretionary start. It does not override the natal promise or the running dasha, and it is never a reason to delay medical care."
+}

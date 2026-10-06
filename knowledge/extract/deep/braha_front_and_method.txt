@@ -1,0 +1,2330 @@
+# source: _OceanofPDF.com_Ancient_Hindu_Astrology_for_the_Modern_Western_Astrologer_-_James_Braha.pdf
+# pages: 1-60
+# compiled into: interpretation.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 1>>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+16°
+Hermetician Press 
+ANCIENT 
+HINDU 
+ASTROLOGY 
+FOR THE MODERN 
+WESTERN 
+ASTROLOGER 
+BY JAMES T. BRAHA 
+
+<<<PAGE 2>>>
+Cover Design by Rohlni Priya dasa 
+ 
+HERE IS WHAT THE WORLD’S FORE-
+MOST ASTROLOGER HAS SAID; 
+"This book is not only the best intro-
+duction to Hindu astrology that there is, it 
+is a superbly written astrology book in it s 
+own right. James Braha has done an 
+excellent job of making the reasoning 
+process of astrology clear to the reader, 
+especially considering that it is Hindu 
+astrology that he writes about... The book 
+fills an enormous gap and fills it well- With 
+this book under one’s belt, the others 
+begin to make sense. Even the Hindu 
+books then become understandable to 
+someone who has not had the chance to 
+study under an Hindu astrologer. I think 
+James T. Braha may have written some-
+thing of a masterpiece here!" 
+ ROBERT HAND 
+ASTROLOGER/AUTHOR 
+OTHER REVIEWS 
+"This is a book to be warmly welcomed. 
+Here finally is a concise and comprehen-
+sive text which veiy clearly and effectively 
+presents the event oriented astrology of the 
+East This is a very important book!" 
+ASTROLOGICAL JOURNAI^ ENGLAND 
+“This is the clearest exposition of Hindu 
+astrology I have ever seen. The book 
+deserves to become the classic reference 
+on Hindu astrology for Western readers." 
+TERESA HAMILTON—INST. EAST WEST 
+STUDIES FOR THE MERCURY HOUR 
+"This easily-understood reference book 
+will be of great help to astrology lovers who 
+have previously found the Hindu system 
+very hard to grasp...BRAVO!" MARION 
+MARCH FOR ASPECTS MAGAZINE 
+“James T. Braha’s book deserves to 
+become the classic reference on Hindu 
+astrology for Western readers. A better 
+book could not be written!" KOSMOS 
+MAGAZINE—I.SAR
+
+<<<PAGE 3>>>
+ 
+Other Books By James Braha: 
+How To Predict Your Future: 
+Secrets of Eastern and Western Astrology 
+How To Be a Great Astrologer: 
+The Planetary Aspects Explained 
+Astro-Logos, Revelations of a Hindu Astrologer 
+The Art and Practice of Ancient Hindu Astrology: 
+Nine Intimate Sessions Between Teacher and Student 
+James Braha 
+Hermetician Press 
+P.O. Box 195 
+Longboat Key, Florida 34228 
+© 1986 Copyright James Braha 
+First paperback edition 1993 
+All rights reserved. No part of this text may be reproduced or used in any form 
+or by any means—graphic, electronic, or mechanical, including photocopying, 
+mimeographing, or information storage and retrieval systems—without written 
+permission from the publisher. A reviewer may quote passages. 
+Library of Congress Catalogue Card Number: 85-81314 ISBN 0-935895-04-3 
+Printed in Hong Kong by Liang Yu Printing Factory, Ltd. Mr. Eric Hui (852) 
+2560-4453 
+11 12 13 14 15 20 25
+
+<<<PAGE 4>>>
+ 
+To my father for his character, 
+to Emmett Walz for his selflessness, 
+and to Dennis Young (G.H.E.M.H.) for his work in Astrology, 
+and his role in alleviating human suffering.
+
+<<<PAGE 5>>>
+ 
+TABLE OF CONTENTS 
+Prologue 
+vii 
+Acknowledgments 
+viii 
+Introduction 
+ix 
+WarningxliiiThe 
+Hindu 
+Zodiac
+ 
+1 
+Planetaiy Symbols, Direction Indicators & Body Rulerships 
+5 
+The Chakra—The Birthchart 
+7 
+The Navamsa—The One-Ninth Division (Marriage Chart) 
+13 
+Grahas—The Planets 
+The Sun 
+17 
+The Moon 
+19 
+Mars 
+23 
+Mercury 
+25 
+Jupiter 
+27 
+Venus 
+29 
+Saturn 
+31 
+Rahn and Ketu 
+33 
+Bhavas—The Horoscope Houses 
+37 
+Rasis—The Zodiac Signs 
+41 
+Gaining Perspective of the Hindu System 
+43 
+Friendships Between Planets 
+45 
+Planetary Powers 
+47 
+House Rulerships 
+49 
+Drishtis— Planetary Aspects 
+55 
+Shad Bala—Determining Planetary Strengths 
+59 
+The Effect of Retrograde Planets 
+63 
+House Karakas—House Indicators 
+65 
+Kufadosha—Mars Affliction Affecting Married Life 
+67 
+Upayes—Antidotes for Planetary Afflictions (Gemstones 
+and Mantras) 
+69 
+Planets in the Houses 
+77 
+1st House—House of the Body 
+79 
+2nd House—House of Finances 
+91
+
+<<<PAGE 6>>>
+
+<<<PAGE 7>>>
+ 
+Planets In the Houses (continued) 
+3rd House—House of Siblings 
+101 
+4th House—House of Happiness and Comforts 
+111 
+Sth House—House of Children 
+121 
+6 th House—House of Enemies 
+133 
+7th House—House of Wife 
+143 
+8th House—House of Death 
+155 
+9th House—House of Fortune 
+169 
+10th House—House of Activities (Occupation) 
+183 
+11th House—House of Gains and Profits 
+195 
+12th House—House of Expenditure and Loss 
+205 
+Vtmsottari Dasa System of Prediction 
+217 
+Delineation of Dasa Bhuktis—The Planetary Periods 
+225 
+Transits—Predicting Marriage. Pregnancy, 
+Homes & Cars, Etc. 
+233 
+Maturity of Planets—When Planets Give Their Full Effects 237 
+Yogas—Planetary Unions 
+239 
+Horoscopes of Famous People 
+245 
+Richard Nixon 
+249 
+John Lennon 
+255 
+John F. Kennedy 
+263 
+Marilyn Monroe 
+269 
+Lyndon Baines Johnson 
+273 
+Jackie Onassls 
+279 
+Wemer Erhard 
+281 
+Francis Ford Coppola 
+285 
+Paul Newman 
+289 
+Mahatma Gandhi 
+291 
+Muhammed All 
+295 
+Martin Luther King 
+297 
+Jimmy Carter 
+301 
+John Glenn 
+305 
+Baba Ram Das 
+307 
+Vargas—The 16 Divisional Charts 
+311 
+Chaleta Bhava Kundali—The Diurnal Chart 
+Predictive Method 
+323 
+Ashtaka Varga—Eight-fold Division System 
+325 
+Nakshatras—Lunar Mansions 
+331 
+Free Will vs. Predestlny 
+333 
+A Final Note 
+335 
+Ecclesiastes Excerpt 
+337 
+Glossaiy 
+339 
+Bibliography 
+347 
+Hermetician Press Services 
+349
+
+<<<PAGE 8>>>
+ 
+PROLOGUE 
+The following conversation took place In 1982, In Benares, India, It is an 
+excerpt from the 1st Hindu astrology reading of the author’s life. 
+Astrologer: You are going to write some books. 
+What!!! 
+Astrologer You are going to write some books. 
+Are you sure? 
+Astrologer Yes. 
+J.T.B.: How many? 
+Astrologer A few. five or six. 
+J.T.B.: Are you sure? 
+Astrologer: Yes. 
+J.T.B.: But are you sure? I mean are you positive? 
+Astrologer: My dear friend, astrology is not an absolute science. 
+J.T.B.:Ahhhhhh .......  
+Astrologer: But you will write books’
+
+<<<PAGE 9>>>
+ 
+ACKNOWLEDGMENTS 
+I wish to express my gratitude to the following people: To Bob & Mary Jo 
+Holtzman for suggesting that this book be written. To Sri R. Santhanam & Sri 
+Poputlal M. Padia, my mentors during two separate journeys to New Delhi and 
+Bombay; for so graciously sharing their knowledge and experience, I remain 
+deeply indebted. To Patricia L. Rogers, for her editing assistance and valuable 
+suggestions; to Jane Tobal for all of her time, artwork, support, and spiritual 
+vibrations: to Harold Benjamin, for his insights into Stri Jataka—female 
+horoscopy, and to my brother Charles whose support has enabled this work to 
+be brought out expeditiously. 
+To Gopiparanadhana dasa for his Sanskrit translations; to Dravida dasa 
+for his valuable grammatical assistance to Rohini Priya dasa and Dhaneshvara 
+dasa of ISKCON for their care and artistic expertise in the production of this 
+book, as well as for their kindness and sattwa. To Maria Walz for her assistance 
+through the difficult days, and astrologer Larry Sands of New Hampshire for his 
+inspired classes some years back. And to Mary Beth Farkas, Shirley Chubin, Lilly 
+(La Paz) Chilla, Peter Jones, Mary Jane Holt, Daniel Buis, Sheldon Epps, Mike 
+Perrie. Kerry Breitbart, Cheryl Goodman, Willis Backus, James Macedo, and Dr. 
+Chuck Jacobs.
+
+<<<PAGE 10>>>
+ 
+INTRODUCTION 
+Ever since my first journey to India I have desired to share the knowledge 
+I was fortunate enough to receive. I have also felt a need to dispel some rather 
+major misconceptions, the main one being the fact that Hindu astrology is 
+extraordinarily difficult. This is not true, as will soon hopefully be revealed. 
+Although I have always been most fascinated with astrology because of 
+the philosophical implications and revelations which can be extracted, I have 
+done my best to keep philosophy from this work, as that is not my present 
+purpose. It is my intention only to present Hindu astrology in a way that it 
+deserves to be presented, which is long overdue—a way which Western 
+astrologers can understand and utilize, and which will clear away the mystery 
+and finally put into perspective the enormously complex techniques which make 
+up the bulk of most textbooks on the subject. 
+Having worked with both the Hindu and Western systems, it is my 
+experience that the two greatly complement each other and together form the 
+basis for a complete and profound astrology. For the many past centuries the 
+two diverse astrological methodologies have remained separated. As the world 
+now approaches the new age (of Aquarius), where the science of the stars will be 
+a prevalent discipline, great leaps and bounds, indeed breakthroughs, in 
+astrology are rapidly being made. It is my belief that we are now at one of the 
+most fascinating junctures in the history of this science, a point in time when 
+differences shall begin to merge and dissolve and the two systems will come 
+together. 
+It is perfectly appropriate that for all this time the Western world has been 
+satisfied with an astrology which excels in delineating character disposition, 
+talents, abilities, and possibilities. Western culture is steeped in the philosophy 
+of free will, where man may do what he will with what he was bom with, the 
+extent of success and its trappings being dependent only upon how far the 
+individual is willing to go to realize his desires. On the other hand, the Hindus 
+have for several thousands of years worked with their predictive system, which 
+fortells more than anything else the events and circumstances of a person’s life. 
+This is only natural in view of Indian life, where there has existed a caste system 
+which has determined that the son of a servant shall also be a servant and a 
+merchant’s son shall always be a merchant More than that, India has for so long 
+been so terribly impoverished that unless one is bom wealthy, there
+
+<<<PAGE 11>>>
+ 
+Is, as perhaps only one who has seen India firsthand may know, almost no 
+possible way to rise above the circumstances one is bom under— unless, that is, 
+destiny as revealed in the stars determines otherwise. 
+And so it is that Hindu predictive astrology is perhaps 95% concerned with 
+a person’s fame, fortune, wealth, etc., and 5% with his personality, motivation, 
+and psychology. Explanations or answers to the whys and wherefores of a 
+person's life are essentially nonexistent. There is no delineation of what path one 
+must undertake in order to learn specific lessons or further his evolution. Rather 
+contrary to what Westerners might think, our Western astrology is more 
+“spiritual” while the ancient Hindu system is more mundane. And interestingly, 
+the outer planets Uranus, Neptune, and Pluto, which are so prominent in 
+Western astrology and which many consider nature's instruments helping to 
+bring about the new age. are unnecessary in this predictive work and are widely 
+ignored in India. However, in terms of consistently and accurately delineating 
+events, circumstances, and periods in a person’s life, nothing compares to Hindu 
+astrology. It is simply marvelous. It is especially helpful to Western astrologers 
+in confirming or specifying exactly what a transit or progression may be revealing 
+and whether it is indicating an internal occurrence or something in the outer 
+world. For as far as external events are concerned, much less goes on in a 
+person’s life unaccounted for in this predictive system than in Western astrology. 
+There are now those in the East who are captivated by Western astrology, 
+and It is simply a matter of time before our system takes its rightful place next 
+to the square-shaped Indian horoscope. For in the same way that Westerners are 
+now familiar with and believing in karma and predestiny, and wanting to know 
+their fate, Indians are escaping their caste system and questioning their age old 
+traditions. They are also asserting their own individual wills more than ever 
+before. For these and whatever other reasons, ancient Hindu predictive astrology 
+and the more modem Western system are about to be used together, and the 
+result is greater efficiency, accuracy, and knowledge for all concerned. 
+Hindu astrology is not intrinsically more difficult than Western astrology. 
+It may appear so because a seemingly infinite number of rules and astrological 
+techniques have been developed by the Indians. This is of course natural for a 
+society over 6,000 years old whose elders have not only employed astrology but 
+embraced it. These time-consuming techniques and complexities present an 
+opportunity rather than a hindrance, and when kept in perspective they allow 
+for more subtlety, accuracy, and the privilege to go deeper into the work. With 
+this in mind, a great deal of care has gone into the presentation of the material 
+in this book. It is felt that most books on this subject have unwittingly kept 
+Westerners faithfully away! This is also largely due to most Hindu authors’ lack 
+of understanding of the Western mind, as well as perhaps their lack of dexterity
+
+<<<PAGE 12>>>
+ 
+with the English language. And in the very few cases of books on Hindu astrology 
+by Western authors, the problem has been too much focus on extraneous, 
+detailed techniques, with precious little emphasis on the essentials. The result 
+has been mass confusion to the uninitiated. 
+While a good many of the unnecessary complexities have been dis- 
+criminatively omitted from this book, it is hoped that the reader will be able to 
+establish enough of a working basis with the system to proceed further, and if 
+desired, to even take on the almost endless maze of Hindu delineations that 
+indeed exist. For Hindu astrology is so unlimited in its scope that this book is in 
+a sense merely a beginning or an eye opener. And yet it contains all the essentials 
+necessary to learn to uncover the fate of a person in regards to his outer 
+circumstances and events. It is my wish that Western astrologers will take this 
+work, embrace it, and further investigate and explore the use of Hindu predictive 
+astrology alongside our modem system. It is, in my view, a very exciting 
+proposition. If in the years to come, more books such as this are written by 
+Westerners and appear in the marketplace, then this work will have achieved its 
+purpose. 
+January. 1986
+
+<<<PAGE 13>>>
+
+<<<PAGE 14>>>
+ 
+WARNING! 
+Because Hindu astrology Is the art of predicting actual events and 
+circumstances in a person's life, it is by its very nature a rather intense and 
+consequential proposition. It is therefore especially less appropriate to learn the 
+practice from a book than from an experienced astrologer. And because the 
+results of delineation are factual, greater precision is essential. Thus the 
+astrological “cook book” approach, where all elements are broken down 
+separately and interpreted as an end in themselves, falls short and leaves a good 
+deal to be desired. However, since this is the medium at hand, all that can be 
+done is to present the material and issue a stem caution regarding its proper use. 
+First of all, it must be clearly understood that although any one particular 
+condition in a birthchart may reveal quite a definite and predictable effect, this 
+aspect must absolutely be balanced with the enormous amount of other variables 
+present. One need only consider that there are some 4 billion souls on the earth, 
+each leading a different life, to realize the great variety of astrological 
+combinations that must exist. Hindu astrology is, much more so than the 
+Western system, a process of weighing the positive and negative forces attached 
+to each specific issue. For example, if there are 3 or 4 strong indications of fame 
+deduced from 10th house analysis but the ascendant is badly afflicted, then the 
+likelihood of acclaim is reduced to perhaps a 70-80% chance. Also, in this work 
+there will often be a mixture of extreme indications, which demand both time and 
+experience with the system before one may be able to draw the correct 
+conclusions. For instance, if, in analyzing a person's mother, it is noted that the 
+Moon is in its highest degree of exaltation but the 4th house is badly marred, 
+then the mother may be fabulously wealthy, beautiful, and long-lived, but the 
+person’s relationship with her might be worthless at best. Or she could be very 
+poor and die early but be an exceptionally positive influence in the person's life. 
+The possibilities are of course as limitless as life Itself. And although this author 
+likes to believe that astrology is a scientific system, it must be acknowledged that 
+the most accurate and profound “readings” experienced in India were by those 
+who had been practicing for 15 or 20 years and clearly applied the use of intuition 
+to their craft. 
+In describing the effects of different astrological Indications in this text, 
+statements are frequently made in a decidedly definite and unqualified manner. 
+This is simply the way of Hindu astrology, the way of scrip-
+
+<<<PAGE 15>>>
+ 
+ 
+tural teachings. Because Hindu astrology deals with actual occurrences, the 
+writings are given In this way in order to empower the astrologer to comfortably 
+make predictions. Therefore these statements of fact serve a functional purpose, 
+even though each delineation is realistically perhaps only a possibility or a 
+potential. It is strongly advised, then, that one not take eveiy delineation to be 
+“written in stone”, at least until some degree of experience is gained. The task at 
+hand in the beginning days is to glean the essence of each particular 
+interpretation. If this advice is not heeded, there is a strong probability of going 
+overboard with predictions, not to mention the fears that will be embedded in 
+one's mind. For without a doubt nearly anyone analyzing his own horoscope 
+through the use of the section titled "Planets in the Houses,” will read that either 
+his spouse, sibling, mother, or father “may suffer or die early". It must be 
+understood that these are simply written words which hopefully point in the 
+direction of the truth, but which take on no life or power without the conscious-
+ness and intelligence of an experienced astrologer who has taken all factors into 
+account. And even then, of course, the greatest humility and broadmindedness 
+are required by the practitioner, for who in this work is without error? !! 
+There is another issue which, though not exclusive to Hindu astrology, is 
+important to address lest the astrologer run into frustration. This is the matter 
+of having a person disagree with what the birthchart has revealed about his past. 
+This occurs at times simply because of the relativity of viewpoints. In other words, 
+when a person is told, for example, that the horoscope reveals that his mother 
+has led a life of hardship, he may flatly deny the claim. If the astrologer has 
+properly made his analysis, what usually occurs is that the truth eventually 
+shows up that the statement has been on the mark. However, the person perhaps 
+could not agree because his idea of a "life of hardship" is not the same as the 
+astrologer’s. Therefore, it sometimes happens that information about the past is 
+simply pointless to mention, though it may be especially beneficial to the 
+counseling astrologer. Although this occurrence is no more typical than what 
+happens in Western astrological counseling, it is rather more disconcerting, 
+because since what has been delineated is factual, one may find it absurd that 
+the person cannot or will not remember or acknowledge certain central 
+circumstances in his life. And though the burden of proof of course lies with the 
+astrologer, experience has shown that this art is extremely reliable when 
+practiced properly. 
+In India there are several different systems of astrology in use. The most 
+popular by far is Parasara, and this is the one given in this book. Two other 
+systems which one may wish to study are Jaimtni and Tajaka. However, these 
+are complete within themselves and should not be in any way combined with 
+Parasara. 
+In all ancient Hindu texts, delineations are made with reference to
+xiv
+
+<<<PAGE 16>>>
+ 
+men except when chapters are specifically devoted to “female horoscopy." In this 
+book the pronoun “his" is employed, but only for the sake of ease of writing. 
+Certainly no disrespect to women is intended, especially since at this time 
+astrology seems to be more appreciated by them! Regarding female horoscopy, it 
+is a field which seems to have been designed for men, since what is analyzed is 
+a woman's virtue, chastity, and suitability as a wife. It is an entire system and 
+not within the scope of this book. 
+Finally, it may be reiterated that Hindu astrology employs more 
+techniques in its basic analysis than the Western system. And it is crucial to 
+consider all such elements before making any predictions. The na- vamsa or 
+l/9th divisional chart, is essential, and any Indian astrologer making a prediction 
+without its use merely gives away his ignorance and amateur status. Concerning 
+the section on "Planets in the Houses" one must especially note whether the 
+planet involved is in the house of a friend or an enemy. This will most definitely 
+affect the result in a positive or negative way. Western astrologers used to a 
+system with less basic variables may be prone to make hurried judgements, and 
+the words of P.M. Padia (one of the author's mentors) may be helpful. Indians 
+over time have developed a delicious and veiy special-tasting tea called chai. Sri 
+Padia, after explaining the many different facets which would lead him to make 
+a particularly accurate prediction, was fond of saying this: “My dear friend, chat 
+is not simply water, sugar, and milk. It is a mixture of many herbs and spices, 
+all delicately balanced." Many indeed!
+xu
+
+<<<PAGE 17>>>
+ 
+WITH KNOWLEDGE COMES POWER. 
+THERE IS NO GREATER TEST. 
+THEREFORE USE THIS KNOWLEDGE WISELY.
+
+<<<PAGE 18>>>
+ 
+THE HINDU ZODIAC 
+There is a fundamental difference between the zodiac used in Hindu 
+astrology and the one used in the Western system. A zodiac Is an imaglnaiy 
+sphere encircling the heavens, inside of which the Sun, Moon, and planets travel 
+in their orbits. This circular space is divided into 12 equal parts of 30 degrees 
+each, known as the zodiac signs. At one time these signs corresponded to actual 
+fixed star constellations. However, due to the precession of the equinox, which 
+moves at a mean or approximate rate of 50 1/4 seconds per year or 1 degree 
+every 70 years, the same connection no longer exists. At this point, after so many 
+years of this slight movement, there Is a difference of about 23 degrees between 
+the constellations and the signs with the same names. Therefore, when a 
+Westerner refers to the Sun being in 15 degrees of Libra, for instance, the 
+statement is technically inaccurate, because the Sun, after being backed up 23 
+degrees, would actually reside in Virgo. 
+The system which Western astrologers use, which is unrelated to the 
+constellations, is called the tropical zodiac. The older and more traditional zodiac 
+employed by the Hindus, where there is no difference between a star constellation 
+and the sign name given to it, is called the sidereal zodiac. The way the 
+constellations are kept track of, to account for this slow but constant movement, 
+is to cumulatively subtract the approximate 50  1/4 seconds from the longitudes 
+of the planets each year. 
+Now that it is gathered that the Hindus use a “real" zodiac and Westerners 
+a symbolic one, an Important question naturally arises. Which zodiac produces 
+the most accurate and predictable results? Since both methods have withstood 
+the test of time, one need not jump to any hasty or fanatical conclusion that 
+either is necessarily superior to the other, especially since it is certainly possible 
+to arrive at the same end through radically different means. It is also possible 
+that each system is geared towards delineating its own specifically desired 
+results. And this, in the author’s view, seems to be the case. The Hindus' “real” 
+zodiac analyzes actual events and circumstances destined to occur by virtue of 
+one’s past actions, and the Westerners' symbolic one reveals one's experience of 
+those occurrences as well as basic personality traits. 
+That both zodiacs are quite workable is easily ascertained through 
+practical experience in either method. Therefore, the reader should appre-
+
+<<<PAGE 19>>>
+ 
+elate the accuracy, beauty, and profundity of both systems and simply make 
+space for any paradox which may perhaps exist. Western readers are cautioned 
+against making hasty judgements about the meaning of the fact that all planets 
+in a tropical horoscope are backed up 23 degrees (approximately) to arrive at the 
+sidereal birthchart. This apparently means that since a person’s Sun, Moon, and 
+ascendant may now occupy different signs, all character traits which have already 
+been accurately described will now completely change because of sidereal 
+delineations. Such Is absolutely not the case, for the truth is, even though the 
+signs In the sidereal zodiac are labeled with the same basic characteristics as 
+those of the tropical system, there Is practically no mention of personality in a 
+Hindu astrological reading! Hindu predictive astrology allows one to do exactly 
+what its name Implies, and that Is to predict! It does not in any serious way 
+attempt to reveal the kind of in-depth character analysis Western astrology so 
+excels In. 
+At this point there is an even greater complexity which must be dealt with. 
+This is the matter of the ayanamsa (pronounced alya- namsha). The ayanamsa 
+is the longitudinal difference between the two zodiacs—in other words, the 
+difference between the 1st degree of the actual constellation Aries and the 
+beginning of the the sign Arles as considered In the tropical zodiac. This figure is 
+critical, for in order to locate the planetary positions of.the sidereal zodiac, this 
+measurement must be subtracted from the longitudes given for the planets In the 
+tropical ephemeris. Since it is known exactly how fast this precession of the equi-
+nox moves, the only question is at what time did the 2 zodiacs coincide with each 
+other. It is known that the zodiacs are together every 26,000 years, but there are 
+any number of differing opinions as to when this last occurred. 
+The determination of this event is a complicated matter and not within 
+the scope of this work. Suffice it to say that most astrologers agree that the zodiacs 
+were at one with each other sometime around AD. 200- 600. Therefore the most 
+widely accepted measurement for the ayanamsa Is somewhere between 19—25 
+degrees for the year 1950. Although several ayanamsas have been proposed, the 
+Indian government has for some time officially sanctioned the work of N.C, Lahiri. 
+Since this author has tried several various measurements and found great 
+success with the traditional Lahiri findings and none with the others, it is his 
+ayanamsa that is used in this book and advised for the readers. However, some 
+different ayanamsas will be given below. 
+The easiest way to test the accuracy of the various ayanamsas is through 
+the use of the Vtmsottarl dasa system of prediction given further on in this book. 
+The dasa system is a means of prediction which divides a person's life into 
+periods, which are each governed by a particular planet. These periods, or dasas, 
+are based upon the degree of the Moon’s
+
+<<<PAGE 20>>>
+ 
+position at birth, and a mere 2 or 3 degree difference can cause the starting date 
+of a dasa to vary by as much as 4 or 5 years in certain instances. 
+The ayanamsa Is obviously of utmost importance, since aside from its 
+effect on planetary periods, the horoscope in many cases will be dramatically 
+altered by this crucial measurement. Therefore astrologers may want to draw their 
+own conclusions as to which one to use. It is hoped that they will rely on 
+experience with the results each ayanamsa produces in actual birthcharts, rather 
+than theories, concepts, and findings based upon weather changes and 
+atmospheric conditions, etc., as some have done. Unfortunately, it cannot be 
+overstated that each person professing a different measurement swears 
+vehemently about the veracity of his finding. Even more disconcerting is the fact 
+that nearly all make cases for their ayanamsa based upon the accuracy of 
+delineated horoscopes. 
+Below are 3 of the most respected opinions for the ayanamsa on January 
+1st, 1950. In order to discern the ayanamsa for a date other than what has been 
+given, simply add 48 seconds (the approximate rate at which the precession of 
+equinoxes is currently moving In Its 26,000-year cycle) for each year after 1950, 
+or subtract the same figure for years preceding 1950. Or a Lahiri ephemeris can 
+of course be purchased (refer to bibliography). Also, there are computer programs 
+for Hindu astrology which give a choice of several different ayanamsas. 
+THREE WIDELY ACCEPTED AYANAMSAS FOR JANUARY 1 st. 1950 
+N.C. Lahiri (government of India) 23 degrees, 9 minutes B.V. 
+Raman 
+21 degrees, 42 minutes 
+Fagan—Bradley 
+24 degrees. 2 minutes 
+LAHIRI AYANAMSAS FOR DIFFERENT YEARS 
+January 1, 1900 22° 27' 59" 
+January 
+1, 
+1910 
+22°35'51" 
+January 1, 1920 22° 44' 43" 
+January 1, 1930 22° 52' 40" 
+January 1. 1940 23° 01'21" 
+January 
+1, 
+1950 
+23’09'34" 
+January 1, 1960 23° 17'54" 
+January 1, 1970 23° 26'21" 
+January 1.1980 23° 34'31" 
+Note: Although Lahiri’s ayanamsa produces excellent results, 1 am also impressed 
+with astrologer Krishnamurti's work. His ayanamsa for 1-1-1950 is 23’ 3' 58". This is 
+only about 6 MINUTES earlier than Lahiri’s and consistently causes dasas and bhuktis 
+to begin 45 days earlier than Lahiri's ayanamsa. Astrologers may experiment.
+
+<<<PAGE 21>>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+PLANETARY SYMBOLS 
+5 
+____________________________________________ PLANETARY DIRECTIONS 
+Planets and signs represent certain directions and may be useful in 
+determining favorable areas for a person to reside. 
+PLANETARY SYMBOLS 
+SIGN SYMBOLS 
+
+<<<PAGE 22>>>
+ 
+ 
+Malefic or fallen planets will harm the part of the body corresponding to 
+the sign or house placement occupied. Please note that in Hindu astrology the 
+heart and stomach are not ruled by the same signs and houses as those in the 
+Western system. 
+ 
+ 
+__________________________________________________ BODY RULERSHIPS 
+SIGN HOUSE PART OF BODY SIGN HOUSE PART OF BODY 
+
+<<<PAGE 23>>>
+ 
+In India there are 2 different horoscope formats, one more widely used in the 
+south and one more popular in the north. The figures have no effect on the results 
+of delineation and are simply a matter of tradition. In this book it is the south Indian 
+method which is employed. 
+Contrary to the Western birthchart, where the ascendant (i.e., 1st house) is 
+fixed in the Eastern section of the map and signs rotate, in the Hindu chart the 
+reverse is the case. Signs always correspond to the same squares, and the 
+ascendant, which is noted by a diagonal line, is placed in the appropriate sign. Also 
+at odds with the Western horoscope is the fact that houses are counted in a 
+clockwise direction rather than counterclockwise. Shown below is a sample 
+horoscope with the ascendant in Taurus. In this chart the signs have been labeled 
+in their appropriate spaces, however these symbols are ordinarily omitted, since 
+this format is so easily memorized. Since the ascendant is Taurus, Aries represents 
+the 12th house while Gemini indicates the 2nd. Also, it should be mentioned that 
+Hindus do not use symbols for the planets but. the words Sun, Moon, etc. Nor do 
+they write in the degrees but rather keep those figures on paper nearby. However, 
+for delineation purposes it is easier and more efficient to Include the degrees. Also, 
+Western astrologers will find it more, comfortable to use planetary symbols rather 
+than words. 
+HOUSE SYSTEMS 
+It is the equal house system that is most widely used in India, but not exactly 
+the same method as that known in the West. The equal house
+THE CHAKRA—THE BIRTHCHART 
+7 
+South Indian
+North Indian
+
+<<<PAGE 24>>>
+ 
+ 
+system known to Western astrologers is the method where the houses begin 
+exactly 30 degrees apart from each other, starting with the ascendant degree. The 
+Hindu equal house system also uses the exact 30 degree separations, but it is not 
+the ascendant degree which begins the house. 
+There are actually 2 different methods used, which will now be explained. 
+The 1st technique, the ancient and more traditional way, considers the entire 
+house containing the ascendant degree to be the 1st house. Therefore, no 
+discrimination of degrees exists at all. For example, if the ascendant is 2 degrees 
+or 28 degrees of Taurus, then any planet in that same sign is taken to be in the 
+1st house. Likewise then, a planet in any part of Gemini would be considered in 
+the 2nd house, etc., etc. This method, though it may seem extremely unspecific 
+and imperfect to the Westerner actually produces very fine results and is preferred 
+by this author and recommended to the reader. 
+The 2nd method called equal house system, which is currently in vogue 
+(and was used by this author for the first 2 years with Hindu astrology), is more 
+specific in separating houses and therefore closer to the Western technique. In 
+this system the ascendant degree is considered the middle of the house. Thus, 
+any planet within 15 degrees on either side of this point is also in the 1st house. 
+Therefore a planet may be in a different sign and yet still be in the 1st house. For 
+example, if the ascendant is 10 degrees Taurus, then any planet up to 25 degrees 
+Taurus occupies the 1st. Also, any planet behind the 10 degree point as far back 
+as 25 .degrees Aries is also in the 1st. With this method, once the beginning of the 
+1st house is found, the rest of the houses follow in 30 degree intervals. For 
+example, if 25° Aries to 25° Taurus marks the 1st house, then 25° Taurus to 25° 
+Gemini marks the 2nd, and so on. However, the lord of the the 1st house in this 
+case is taken to be Venus, the ruler of Taurus, even though the 1st house begins 
+at 25 degrees Aries. 
+Because a more definite actual distinction exists from constellation
+
+<<<PAGE 25>>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+to constellation (i.e„ sign to sign), delineation through the ancient house system 
+will produce results which are more accurate and of the essence than the modem 
+technique. However, the newer technique has also lasted for some time because 
+it too gives predictable effects. Therefore many Hindu astrologers actually use 
+both systems but rely more heavily on the ancient method. It is not that they 
+analyze the birthchart twice, but both techniques are kept in mind. For instance, 
+in the horoscope above, an astrologer would consider Jupiter to be in the 1st 
+house but realize that it might have a recognizable effect on 2nd house affairs 
+also. Though this may seem confusing to the beginner, it is actually rather simple 
+once a certain amount of time and experience with the system have been gained. 
+In any case, it is advised that for the time being one use only the more traditional 
+system. And that is the method which will be focused on in this book. One 
+important word of caution, however, is necessary. An error in a person’s birth 
+time of 4 minutes will move the ascendant 1 degree. In those horoscopes where 
+the ascendant occupies an extremely early or late degree, the entire horoscope 
+will be thrown off if the ascendant changes signs. Therefore when analyzing such 
+birthcharts it is essential to determine the correctness of the ascendant. This is 
+generally done quite easily by simply finding the most afflicted or well-disposed 
+house and questioning the client about those particular significations. If the 
+delineation fits, then one may proceed without concern. 
+SETTING UP THE HOROSCOPE 
+The procedure for drawing up the birthchart from scratch is complicated 
+and unnecessary to deal with here, since it is found in so many basic textbooks. 
+What is now shown is how to transpose the Western horoscope to the Hindu 
+chakra. Therefore it is necessary to obtain an accurately drawn horoscope based 
+on one’s time and place of birth (for those who do not possess one, a 
+computerized horoscope service providing Western or Hindu birthcharts is 
+offered at the back of this book). Any house system will suffice, since it is only 
+the ascendant and planetary positions that are needed. All that must be done is 
+to find the ayanamsa for the date of birth and subtract that measurement from 
+the ascendant and all planets. The ayanamsas are given on page 3. The 
+horoscope of Richard Nixon is given below as an example. 
+BIRTH DATA FOR RICHARD NIXON
+Jan. 9, 1913,9:35 P.M., P.S.T.
+long. 117.49, lat 33.59
+TROPICAL 
+ZODIAC 
+POSITIONS 
+
+<<<PAGE 26>>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The easiest way to proceed with the necessary calculations is to first 
+reduce the sign degrees of each item to its proper degree within the 360 degree 
+zodiac. Therefore the following table may be helpful. 
+Aries 
+Taurus 
+Gemini 
+Cancer 
+Leo 
+Virgo Libra 
+Scorpio 
+Sagittarius 
+Capricorn 
+Aquarius 
+Pisces 
+0“—29“ 59' 30’—
+59“ 59' 60’—89“ 
+99' 90°—119’59' 
+120’—149“ 59' 
+150’—179’59' 
+180’—209’ 59' 
+210“—239’59' 
+240’—269“ 59' 
+270’—299’59' 
+300’—329’59'
+330’—360“
+The ayanamsa for this birthdate is 22 degrees 38 minutes. This 
+measurement must be subtracted from the tropical zodiac positions to arrive at 
+the sidereal figures. 
+EXAMPLES
+The Sun—
+= 289° 24' minus 22° 38' = 266° 46' =
+ 
+The Moon—
+= 320° 08' minus 22° 38' = 297° 30' =
+ 
+Rahu (north node)—
+(add 360 since 22° 38' cannot be subtracted 
+from 07° 15').= 367° 15' minus 22° 38' = 344° 37' =
+ 
+
+<<<PAGE 27>>>
+ 
+
+<<<PAGE 28>>>
+THE NAVAMSA—THE ONE-NINTH DIVISION 
+(MARRIAGE CHART) 
+In Hindu astrology the horoscope may be broken down Into several vargas, 
+or divisions. Although as many as 16 basic divisional charts exist, most 
+astrologers only concern themselves with the navamsa (pronounced navamsha) 
+or 1/9 division. Each varga chart relates to a certain house, and this one 
+corresponds to the 7th, the house of marriage. However, because the 7th is the 
+opposite of the 1st. which is the most personal part of a horoscope, it has to do 
+with a person's relationship to society and all its functions. Therefore the 
+nauamsa is of great importance, and no professional Hindu astrologer will 
+attempt to analyze a birthchart without it 
+Although astrologers consult the nauamsa for specific details of married 
+life, the chart is mainly used for its impact on a person’s life in general, for this 
+chart carries a good deal of power to affect the actual birthchart. For example, if 
+4 or 5 planets in the naramsa are exalted, or in their own signs, the original 
+horoscope is tremendously strengthened in a recognizable way. Naturally, if 
+many planets are fallen in this divisional chart, the opposite results would occur. 
+Also, nearly all Hindu scriptures are emphatic about the fact that if a planet is 
+exalted in the birthchart but fallen in the navamsa. then the particular effects of 
+that planet will be extremely mixed, and in that planet’s dasa (planetary period—
+discussed on page 217) some amount of misery must be reaped. It should also 
+be mentioned that the Hindu scriptures are replete with planetary combinations 
+and formulas involving this varga. One such basic and easily noted condition is 
+what is known as vargothamamsa, or vargottama. This occurs when a planet in 
+the navamsa occupies the same sign as its horoscope placement This is a 
+beneficial situation, and Hindu scriptures state that the planet will give results 
+similar to those given when posited in its own sign. A planet in its fallen sign, 
+being vargottama, is of course only worse off. 
+One must bear in mind, however, that the navamsa is not an actual 
+horoscope but a calculated one based upon the original. Therefore aspects and 
+conjunctions in this chart should never be used, despite the fact that some 
+astrologers attempt to do so. Also, planets are posited in signs in the navamsa, 
+but there are no degrees for them. 
+The navamsa is essentially used to color the actual horoscope. There is no 
+question that specific results can be delineated from the proper use of the chart, 
+but the conditions revealed must be balanced
+
+<<<PAGE 29>>>
+ 
+with the natal horoscope. For example, if Jupiter is fallen in the 10th house of 
+the navamsa, one may expect disturbances in the person’s career. However, the 
+intensity of difficulties will depend upon the condition of the 10th house of the 
+actual birthchart. 
+There is one consideration, especially for Westerners, which must be 
+taken quite seriously. And that is that when a 30 degree sign is divided into 9 
+parts, each one is only 3 degrees 20 minutes. Therefore since 1 degree equals 4 
+minutes of arc, an error of 13 minutes in the birthtime throws this chart 
+completely off. In many cases a mere 4 or 5 minute discrepancy will give a wrong 
+ascendant for the navamsa. Thus, it is Inappropriate to use the houses in the 
+navamsa unless one is certain the birthtime is exact, or unless events proving 
+the accuracy of the divisional chart have been witnessed. But although the 
+houses may be inaccurate due to an improper birthtime; the planets in signs will 
+not be affected. Therefore even if one is not positive the birthtime is exact, there 
+is still great value in knowing what signs the planets occupy in the navamsa. 
+ 
+ 
+SETTING UP THE NAVAMSA 
+First, 30 degrees are divided into 9 parts. These numbers can easily be 
+memorized in time.
+
+<<<PAGE 30>>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+DEGREES 
+0° 00—3® 20' 3° 
+20—6° 40' 6° 40 
+—10° 00' 10° 00 
+— 13° 20 13° 20 
+—16° 40' 16° 
+40—20° 00' 20° 
+00'—23° 20' 23° 
+20 —26° 40' 
+26° 40—30° 00' 
+gets 
+1 navamsa 
+gets 2 nauamsas 
+gets 3 naramsas 
+gets4 
+navamsas 
+gets 5 nauamsas 
+gets 6 navamsas 
+gets 7 nauamsas 
+gets 8 navamsas 
+gets 9 navamsas 
+Using Richard Nixons planetary positions, the number of parts to be 
+used will be determined. 
+SIDEREAL (HINDU) ZODIAC POSITIONS 
+Ascendant 
+Sun Moon 
+Mars 
+Mercury 
+Jupiter 
+Venus 
+Saturn 
+Rahu Ketu 
+count 8 navamsas 
+count 9 navamsas 
+count 9 navamsas 
+count 3 navamsas
+count 3 navamsas 
+count 3 navamsas 
+count 4 navamsas 
+count 2 navamsas
+count 4 navamsas
+count  4 nauamsas 
+The next step is to note the element of the sign each planet occupies. 
+• Navamsas of planets in fire signs
+are counted from Aries. 
+• Na vamsas of planets i n earth signs
+are counted from Capricorn. 
+• Navamsas of planets in air signs
+are counted from Libra. 
+• Navamsas of planets in water signs
+are counted from Cancer. 
+For example, Venus, which occupies an air sign, gets 4 navamsas which 
+are counted from Libra. Therefore Venus is placed in Capricorn, the 4 th house 
+from Libra. 
+NAVAMSA CHART FOR RICHARD NIXON 
+
+<<<PAGE 31>>>
+RAVI—THE SUN 
+ 
+ 
+The Sun, because of its intense heat, is a malefic planet in Hindu 
+astrology. It does not destroy its associations quite as badly as Mars and Saturn, 
+but it is essentially a harmful influence. Also because of its heat, any planet that 
+is posited within 8 degrees of the Sun is burnt up or absorbed by its rays. This 
+condition is called combustion, and it effectively spoils the conjoined planet and 
+whatever houses it rules. Regarding the 8 degree orb assigned to combustion, 
+individual astrologers may wish to determine their own orb of influence, but in 
+any case, combustion must never be ignored. 
+While the Sun is considered the most significant factor in Western 
+astrology, such is not the case in the Hindu system. The assigned significations 
+for the Sun are basically the same in Hindu astrology, but the Moon takes top 
+priority since it, more than anything else, is responsible for the overall happiness 
+and general well-being of a person. The Sun, however, is very important since it 
+governs a person's confidence, authority, power, and status. It also rules the 
+father and has a great deal to do with career and the person's worldly activities. 
+The Sun rules the soul and is therefore called the atmakaraka, or soul 
+indicator. As such, the conditions and surroundings of the Sun will reveal 
+tendencies and affinities which are extremely fundamental to the person. It 
+should be mentioned that there are often references made to the atmakaraka in 
+the Hindu scriptures. But it must be determined which one is being referred to, 
+since there are two. The planet in the latest degree in a horoscope (i.e„ a planet 
+in 28—29 degrees) is also an atmakaraka. 
+The negative effects of the Sun are somewhat easily altered when the Sun 
+is aspected by a benefic. Therefore, when aspected by Venus, Jupiter, or the 
+Moon, the Sun will produce rather beneficial results. Also, as all planets have 
+certain house placements where their energy is more compatible, so it is that the 
+Sun produces excellent results in the upachaya. or growing houses (3rd, 6th, 
+10th, and 11th). where maleflcs are welcomed. The best placement for the Sun 
+is the 10th house, where it receives dik bala, or directional strength. It also 
+functions at its optimum in Aries, its exalted, or uchcha, sign. It is weakest in 
+Libra, its fallen, or neecha sign. And it gives very good results in Leo. its 
+swakshetra, or own house. 
+The Sun is masculine in gender. And as has already been menti-
+
+<<<PAGE 32>>>
+ 
+oned, it is hot, dry, and malefic. Another name of the Sun is Surya. The friends 
+who welcome the Sun in their houses are the Moon, Mars, and Jupiter. Venus 
+and Saturn are enemies, while Mercury is neutral to the Sun. The gem to wear to 
+strengthen an afflicted Sun is a red ruby. The metals gold and copper are also of 
+benefit to a weak Sun. 
+INDICATIONS OF THE SUN 
+• 
+father 
+• 
+the soul, ego 
+• 
+power, ambition 
+• 
+vitality, dignity. Self-reliance 
+• 
+authority or rulership position 
+• 
+government 
+• 
+vocation 
+• 
+professional status, position, popularity 
+• 
+physicians, chemists, druggists 
+• 
+the eyes, vision 
+• 
+the heart 
+• 
+copper, gold 
+• 
+eastern direction 
+• 
+Sunday 
+• 
+red ruby 
+• 
+the color gold 
+
+<<<PAGE 33>>>
+CHANDRA—THE MOON
+ 
+ 
+The Moon is the single most important influence in Hindu astrology. In 
+significance it is equal to or greater than the ascendant. If one understands the reasoning 
+behind the great emphasis on the Moon, then the gist of this system can be gotten, for 
+the Moon rules peace of mind, comforts, and the general well being and fortune of a 
+person. Unlike Western astrology where the Sun is the most vital concern, the focus in 
+this system is not on a person's deeply ingrained tendencies and affinities, his will power, 
+authority, and ability. It is rather on the benefits he reaps, i.e„ his comforts, ease of life, 
+affluence, fame, etc. This is the crux of Hindu astrology. Therefore if the Moon is weak or 
+afflicted, success becomes rather difficult to achieve and happiness and a comfortable 
+life on earth may never be known to the person. 
+In terms of rulerships, the Moon governs, among other things, the mother, 
+females, the emotional life, and the public. It also rules growth and, perhaps for this 
+reason, has much to do with the health during childhood. Persons with an afflicted Moon 
+are generally weak or sickly in their early years. The Moon also rules the mind, but more 
+in the way of common sense and peace of mind vs. intellect. And memory is a function 
+of the Moon. Perhaps the most important point to remember is that the Moon contributes 
+more to the overall tenor of the horoscope than any other factor except possibly the 
+ascendant. 
+It cannot be overemphasized that the Moon’s house position must never be 
+ignored or underestimated. The significations of that particular house are natural, 
+comfortable, and vital facets of the life. The placement of the Moon is thus one of the 
+most consistent indicators of where a person will play out his karma, and it is often 
+rather helpful when trying to determine what profession a person may choose. 
+Because the Moon is such an essential factor, the next step after analyzing the 
+horoscope in the traditional way is to review the chart, ignoring the ascendant and 
+considering the Moon’s position as the 1st house. This is known as Chandra lagna 
+(literally Moon ascendant) and is not in fact a separate procedure but something Hindu 
+astrologers keep in mind while delineating the horoscope. This technique is not perhaps 
+so definite in its revelations but will give added weight or shading to what the actual 
+horoscope indicates. 
+ 
+
+<<<PAGE 34>>>
+Another Hindu delineation indicative of the significance of this luminary 
+is the effect of surrounding planets on the Moon. It is highly desirable, in fact 
+necessary, that the Moon not be isolated in the horoscope. There should be 
+planets either conjunct or in the house preceding or following the Moon, or both. 
+It is of course better that these planets not be malefics, although even those are 
+better than no planets at all. Otherwise, if the Moon is segregated, there will be 
+disturbance of mind and less good fortune, and the ability to reap fame or 
+recognition in life is marred. 
+Aside from the fact that the Moon takes precedence over the Sun, there is 
+another major difference between Hindu and Western astrology concerning the 
+Moon. And that is that it is crucial to determine whether the Moon was waxing 
+or waning at birth. This is because the waxing Moon is considered a beneflc, while 
+the waning Moon is malefic However, there is a subtlety to this matter in that a 
+Moon that Is waxing or getting brighter may have just passed its new Moon and 
+therefore still be quite dim. Likewise, a waning Moon that is on its way to 
+darkness may have just finished its full Moon point and still be extremely bright. 
+So discretion must be used in this matter. But the two points which must be 
+remembered are that there is a veiy real qualitative difference between a waxing 
+Moon and a waning Moon, the latter being malefic and the former benefic, and 
+that the brighter the Moon, the more powerful is its effect, while the more dim it 
+is, the weaker. It must also be realized that a bright Moon in its house placement 
+and aspects gives effects on a par with Jupiter in its intensity. Therefore, the full 
+Moon, which in Western astrology is an extremely difficult influence (known as 
+the Sun opposite Moon aspect), in Hindu astrology is one of the most favorable 
+and auspicious of all astrological conditions. 
+To distinguish if the Moon is waxing or waning at birth is an easy matter. 
+Since the Moon travels faster than the Sun, simply note in the horoscope whether 
+the Moon is moving towards its opposition point from the Sun. If so, then it is 
+waxing, or getting brighter. If It has reached its opposition with the Sun and is 
+moving towards the conjunction, then it is waning, or getting darker. 
+The Moon is cold, moist and feminine. It is best placed in Taurus, where 
+it is exalted, and most poorly placed in Scorpio, its fallen sign. The Moon rules 
+Cancer and gives very good results in that sign. It receives dik bala, or directional 
+strength, in the 4th house, where it gives excellent results. The friends who 
+welcome the Moon in their houses are the Sun and Mercury. The rest of the 
+planets are neutral to the Moon. There are no enemies. Another name for the 
+Moon is Soma. Pearls or silver may be worn to strengthen a weak, waning, or 
+afflicted Moon.
+
+<<<PAGE 35>>>
+ 
+ 
+INDICATIONS OF THE MOON 
+• 
+mother 
+• 
+females 
+• 
+the mind, common sense, memory 
+• 
+the public, mass consciousness 
+• 
+emotions 
+• 
+general well-being (affluence, fortune, recognition & fame) 
+• 
+fluctuations, moodiness, instability 
+• 
+beauty, romance, sensitivity, femininity 
+• 
+milk, grains, liquids 
+• 
+growth (health in childhood), fertility 
+• 
+cooks, nurses, caterers 
+• 
+eyesight 
+• 
+breasts, brain 
+• 
+pearls 
+• 
+the metal silver 
+• 
+northwestern direction 
+• 
+Monday 
+• 
+menstrual cycle 
+
+<<<PAGE 36>>>
+ 
+ 
+KUJA—MARS 
+In Hindu astrology, Mars Is a first-class malefic capable of harming any or 
+all of its associations. It destroys by way of aggression, violence. Impulsiveness, 
+accidents, and insensitivity. It also, however, gives energy, drive, determination, 
+and the ability to put one’s personal desires above those of others. If Mars is weak 
+or afflicted in a horoscope, the person will lack ambition and motivation, while 
+success remains elusive. 
+Mars also rules courage and bravery and all military functions. Therefore, 
+generals and commanders, as well as anyone who has the desire to rule or lead 
+others, have a strong or significantly placed Mars. This is also the planet of 
+passions and desires, and has much to do with sexual activity. Another function 
+of Mars is that of mechanical or technical ability. As such it creates surgeons, 
+engineers, mechanics, and those who excel in the use of their hands. 
+The main difference regarding Mars between Hindu and Western astrology 
+is that in the Hindu system Mars is the Indicator of brothers and sisters {except 
+for the eldest) and landed property. That aside, the only point worth reiterating 
+is that in this event-oriented system of astrology, a malefic such as Mars causes 
+troubles, disputes, and miseries unless it is posited in one of the 4 upachaya, or 
+growing, houses, (the 3rd, 6th, 10th, or 11th), where malefics produce good 
+effects. 
+Mars is masculine, dry. and fiery. It is best placed in the 10th house, 
+where it receives dtk bala, or directional strength. It operates best in Capricorn, 
+its exalted sign, and worst in Cancer, its fallen placement. It also functions well 
+in Arles and Scorpio, the signs it rules. The gem to wear to strengthen a weak or 
+afflicted Mars is red coral. The friends who welcome Mars in their houses are the 
+Sun, Moon, and Jupiter. Mercury is its enemy, while Venus and Saturn are 
+neutral in friendship. The scriptures relate that Mars represents the 5 senses. 
+Another common name for Mars is Mangat 
+INDICATIONS OF MARS 
+• brothers and sisters (except the eldest) 
+• courage, bravery, heroic deeds 
+• sports 
+• property
+
+<<<PAGE 37>>>
+ 
+ 
+• 
+mechanical or technical ability 
+• 
+builders, designers, engineers, surgeons, mechanics 
+• 
+the military, soldiers, policemen, war 
+• 
+generals, commanders, rulers 
+• 
+accidents, violence, fires 
+• 
+cuts, bums, bruises 
+• 
+ambition, motivation, desires 
+• 
+physical strength, forcefulness 
+• 
+temper, arguments, fights 
+• 
+weapons, guns, explosives 
+• 
+energy, aggressiveness 
+• 
+passions, sex 
+• 
+medical operations 
+• 
+the blood, muscular system, bone marrow 
+• 
+Tuesday 
+• 
+southern direction 
+• 
+red coral 
+
+<<<PAGE 38>>>
+ 
+ 
+BUDDHA— MERCURY 
+ 
+ 
+Mercuiy is the planet of intellectual and communicative matters. By itself, 
+it is a purely benefic influence which energizes its associations and produces 
+positive results. However, because it is a neutral, sexless, and adaptable planet, 
+it takes on the nature and quality of any planet it is conjunct with or aspected 
+by. Therefore it is crucial to thoroughly analyze its condition before interpreting 
+its effects in a house. It must also be understood though, that if Mercuiy being 
+conjunct with a malefic such as Mars, is thus spoiled and itself becomes malefic, 
+then Mars will have received a very beneficial energy and become powerfully 
+enhanced. The house, however, must be delineated as being occupied by 2 
+malefics. 
+Mercuiy governs intelligence, speech, education, and all mental pursuits. 
+It is responsible for creating writers, lecturers, and teachers. It also rules trade 
+and commerce and will be prominent in the lives of business people. Other 
+matters dependent upon the condition of Mercury are the nervous system and 
+confidence. Therefore, when badly placed or afflicted, Mercury indicates a person 
+who is nervous, overly excitable, conceited, and insecure. 
+Another point worth mentioning is that Mercury may. without malicious 
+intent, cause harm in certain houses due to its superficial nature. It has been 
+labeled by the Hindu sages as being fickle, two-faced, and often conducive to 
+detachment and an overly Independent nature. 
+There is little difference in the treatment of this planet between Hindu and 
+Western astrology except that the Hindus consider Mercury to be exalted in the 
+first 15 degrees of Virgo rather than the sign Aquarius. It is also important to 
+note that Mercury is not the only planet to govern the mind, since this 
+assignment is shared with the Moon, which rules memory and the common-
+sense aspect of the intellect. 
+Mercury is sexless, neutral, cold, and moist. It is best placed in the 1st 
+house where it receives dik bala, or directional strength. It functions best in the 
+first half of Virgo, where it is exalted, and worst in Pisces, its fallen sign. It owns 
+Gemini and Virgo and produces very good results in either sign. Mercury is a 
+very youthful planet and gives such an appearance when it associates with a 
+planet or house connected in some way to the physical body (i.e„ the 1st house 
+or its ruler). The gem to wear to strengthen an afflicted Mercury is green emerald. 
+The friends of Mercury
+
+<<<PAGE 39>>>
+ 
+ 
+are the Sun and Venus, in whose signs Mercury is welcomed. The Moon is an 
+enemy to Mercury, while Mars, Jupiter, and Saturn are neutral to it. 
+INDICATIONS OF MERCURY 
+• 
+intelligence 
+• 
+education, learning, teaching 
+• 
+speech, poetry 
+• 
+confidence 
+• 
+communication 
+• 
+writing, drawing 
+• 
+books, papers, publishing 
+• 
+conscious mind, intellect, analytical ability 
+• 
+commerce, trade, business 
+• 
+humor, wit 
+• 
+astrology, math 
+• 
+nervous system, lungs, intestines 
+• 
+nerve disorders, brain diseases, epilepsy 
+• 
+short journeys 
+• 
+writers, astrologers, secretaries, scholars, etc. 
+• 
+northern direction 
+• 
+Wednesday 
+• 
+green emerald 
+
+<<<PAGE 40>>>
+ 
+ 
+
+<<<PAGE 41>>>
+ 
+ 
+GURU— JUPITER 
+ 
+ 
+Jupiter is the planet of luck and fortune. It is an expansive, optimistic 
+energy which brings benefits to whatever planets or houses it associates with. It 
+rules opportunity, prosperity, affluence, and money. It also tells much about a 
+person’s deserved benefits earned from activities of previous lives. This is 
+because Hindu life is based on the theory of karma and reincarnation. This 
+means that what appears in one's life as luck or chance advantages are 
+considered the results of past efforts. So the condition of Jupiter (as well as the 
+5 th house) may be analyzed to derive information about one's past life credit. 
+Another main attribute of Jupiter is its rulership of religion, philosophy, 
+and spiritual affairs. Its influence is more inclined towards appreciation of 
+traditional beliefs, faith, and devotion rather than ascetic, occult or mystical 
+tendencies. But it should be noted that in this system, which does not include 
+the planets Uranus, Neptune, and Pluto. Jupiter and Saturn are considered the 
+outer planets, capable of bestowing the higher evolutionary qualities of man. In 
+this vein it is interesting to note that when Jupiter and Saturn form any mutual 
+aspect (either the conjunction or opposition) a great spiritual nature is the result. 
+There is no difference in the treatment of this great beneflc between Hindu 
+and Western astrology except that Jupiter in the Hindu system is the chief 
+planetary Indicator of children. Therefore if Jupiter is exalted or very powerful, 
+the person should enjoy a good relationship with his children, and their lives will 
+be generally fortunate. If the planet is afflicted, the opposite is the case, or there 
+may be very few or no children at all. Of course the 5th house must also be 
+considered. 
+Jupiter is satvic (pure), beneflc, and masculine. It functions best in 
+Cancer, its exaltation sign, and worst in Capricorn, where it is fallen. Jupiter 
+rules Sagittarius and Pisces and gives very good effects in either of those signs. 
+Its best house placement is the 1st, where it receives dik bala, or directional 
+strength. The friends of Jupiter are the Sun, Moon, and Mars. Mercury and 
+Venus are its enemies, and Saturn is neutral. One may wear yellow topaz or 
+yellow sapphire to strengthen a weak or afflicted Jupiter. Another common name 
+for this planet is BrihaspatL
+
+<<<PAGE 42>>>
+ 
+ 
+INDICATIONS OF JUPITER 
+• 
+money, wealth, prosperity 
+• 
+luck, fortune, opportunity 
+• 
+religion, philosophy 
+• 
+children 
+• 
+long distance travel 
+• 
+faith, devotion, spirituality 
+• 
+wisdom, truthfulness, morality 
+• 
+charity, benevolence, compassion 
+• 
+foreigners, foreign affairs 
+• 
+meditation 
+• 
+astrology 
+• 
+law, legal affairs 
+• 
+liver, allergies, thighs 
+• 
+optimism 
+• 
+speculation, gambling 
+• 
+solutions to problems 
+\ 
+• 
+one's guru or religious teachers 
+• 
+past life credit 
+• 
+Thursday 
+• 
+northeastern direction 
+/ 
+• 
+yellow sapphire, yellow topaz 
+• 
+bankers, lawyers, judges, ministers, gurus, religious leaders 
+
+<<<PAGE 43>>>
+ 
+ 
+SUKRA—VENUS 
+ 
+ 
+Venus is the planet of love. It is a benefic and enhances the house it 
+occupies, as well as any planet it aspects or associates with. Like Jupiter it 
+bestows money, comforts, and fortune on a person when it is strong and 
+significantly placed. Apart from the fact that it governs such crucial matters as 
+love affairs and married life, it also specifically rules happiness. Therefore, almost 
+no other astrological condition can spoil the sweetness of life like an afflicted 
+Venus. It is also a planet of beauty, sensuality, and passion, and anyone with a 
+well-placed Venus is likely to be sensitive, beautiful, magnetic, and attractive to 
+the opposite sex. The person would also be artistic or appreciative of beauty, 
+since Venus is the planet of aesthetic appreciation. 
+Venus also rules the reproductive system, and when ill-placed or afflicted 
+by maleflcs it often causes venereal diseases, sexual disorders, or reproductive 
+ailments. It is also noted that when Venus is in Virgo, its fallen sign, an 
+overindulgence in sex or sensual pleasures often results. 
+There is almost no major difference in the consideration of Venus between 
+East and West except that the Hindus use Venus to delineate the extent of one’s 
+comforts, luxuries, conveyances, and happiness. However, the great importance 
+of this planet lies in its rulership of love affairs, the spouse, and marriage. It may 
+also be mentioned that when Venus is in an angular house (1st, 4th, 7th, or 
+10th), it produces a person who is extremely kind and forgiving. 
+Venus is feminine and watery and is best placed in the 4th house, where 
+it receives dtk bala, or directional strength. It also operates best in Pisces, its 
+exaltation sign, and worst in Virgo, where it is fallen. It owns Taurus and Libra 
+and of course gives very good results in those signs. The gem to strengthen an 
+afflicted Venus is a diamond. The metal silver is also of benefit to a weak Venus. 
+The friends of Venus are Mercury and Saturn. Its enemies are the Sun and Moon, 
+and it is not welcomed in their signs. Mars and Jupiter are neutral to Venus. 
+INDICATIONS OF VENUS 
+• marriage, love matters, romance 
+• comforts, luxuries, jewelry 
+• wealth, prosperity 
+• 
+happiness 
+• 
+beauty 
+• 
+vehicles, conveyances 
+
+<<<PAGE 44>>>
+ 
+ 
+• 
+sensuality, passion, sexual pleasure 
+• 
+art. dance, music, drama 
+• 
+actors, artists, musicians, etc. 
+• 
+reproductive system, semen 
+• 
+venereal diseases, ailments of ovaries or uterus 
+• 
+mantras, medicine 
+• 
+hypnotism, mesmerism, casting of spells 
+• 
+southeastern direction 
+• 
+Friday 
+• 
+the metal silver 
+• 
+diamonds 
+
+<<<PAGE 45>>>
+ 
+ 
+SANI — SATURN 
+ 
+ 
+In the event-oriented Hindu astrology, Saturn is generally the most 
+dreaded of all the planets. It is the epitome of malevolence and harms the house 
+it occupies and any houses it aspects. It also spoils any planets it conjoins or 
+aspects. Saturn’s associations are destroyed in a rather "karmic," or fateful, way, 
+meaning that there is little a person can do about whatever signification has been 
+ruined. In short, this planet victimizes a person unless it is placed in a house 
+that can utilize a malefic, and even then there is likely to be some evidence of 
+injury. 
+Although Saturn’s very nature is to restrict, deny, and destroy, it also, as 
+one of the two outer planets in Hindu astrology, is capable of bestowing the 
+greatest evolutionary qualities a person may possess, A well-aspected and well-
+placed Saturn indicates a person of wisdom, integrity. and discipline. It is 
+especially helpful to those persons on the spiritual path who are diligently 
+seeking perfection, for Saturn gives humility, patience, dedication, and the most 
+genuine sense of non-attachment to worldly desires and pleasures. It is a 
+spiritual influence par excellence. It is noted that nearly all those involved in 
+serious new-age practices, religions, and philosophies have Saturn aspecting the 
+Sun. ascendant, or ascendant ruler. 
+Another fine attribute of Saturn is its power to give leadership ability. In 
+the ancient Hindu scriptures, this is the planet most cited as making a person 
+"leader of his village”. This may be related to the fact that the wisdom indicated 
+by Saturn has been gained by experience rather than by philosophy or 
+intelligence, as is the case with Jupiter, the other spiritual planet. In any case, 
+Saturn is the planet of authority, and it bestows the ability to govern and lead 
+others. 
+Apart from the fact that Saturn’s effects in the Hindu system are 
+considered more blatantly malefic, there is little difference in the meaning of the 
+planet from Western astrology. There is, however, one major signification which 
+should be noted, and that is the matter of longevity, whose rulership is assigned 
+to Saturn. A powerful and well-aspected Saturn indicates a long life, although 
+this must be balanced with an analysis of the 8th house, which also rules the 
+same. In Hindu writings the term ayush karaka is used to denote the Indicator 
+of longevity, and it Is understood that the reference is to Saturn.
+
+<<<PAGE 46>>>
+
+<<<PAGE 47>>>
+ 
+ 
+Saturn Is cold, dry, earthy, and masculine. It is known to be tamastc, or 
+lethargic and destructive. It is an old or elderly planet, and when significantly 
+placed so as to aspect or associate with the ascendant or ascendant ruler, it will 
+give an aged appearance early in life. Saturn receives dlk bala, or directional 
+strength, in the 7th house, where it becomes quite powerful and its significations 
+are strengthened. However, it should be noted that for some reason this is the 
+one case where a planet in its dlk bala position causes great destruction to the 
+house it occupies. Regarding sign placements, Saturn functions best in Libra, 
+where it is exalted, and worst in Aries, its fallen sign. It rules Capricorn and 
+Aquarius, where it also gives very good results. The friends of Saturn who 
+welcome its presence in their houses are Mercury and Venus. The Sun, Moon, 
+and Mars are its enemies, while Jupiter is neutral. It should be mentioned, 
+though, that it is commonly stated in the scriptural writings that this planet gives 
+excellent results in Sagittarius and Pisces (the signs ruled by Jupiter). This is so 
+even though in the technical friendship scheme Jupiter is simply a neutral to 
+Saturn. The gem a person may wear to strengthen an afflicted Saturn is a blue 
+sapphire. 
+INDICATIONS OF SATURN 
+• longevity, death 
+• misery, adversity, sorrows 
+• restriction, denial, delays 
+• discipline, responsibility 
+• accidents, chronic diseases 
+• authority figures, elders 
+• leadership, ambition, wisdom bom of experience 
+• humility, honesty, sincerity 
+• spirituality, non-attachment, asceticism 
+• perfection, highest human qualities 
+• organization, form, structure 
+• thieves, theft 
+• paralysis, asthma, rheumatism 
+• teeth, bones 
+• construction work, carpentry, tedious work, mining, bricklaying 
+•wood, coal, steel, iron 
+• real estate dealers 
+• ascetics, monks, hermits 
+• Saturday 
+• blue sapphire, blue and black gemstones 
+• Lord Shiva, Shalvites (disciples of Lord Shiva)
+
+<<<PAGE 48>>>
+ 
+ 
+RAHU & KETU—THE NORTH AND SOUTH NODES 
+Rahu and Ketu are two malefic influences which are not in fact planets but 
+calculated points in the sky. Because they generate recognizable effects in a horoscope, 
+they have been labled “shadowy planets" by the ancient Hindu sages. The best way to 
+understand Rahu and Ketu is to consider the Hindu mythological story about their 
+existence. It seems that Lord Vishnu was distributing amrita. a potion granting 
+immortality, to the Devas (Gods) and planetary beings. After the nectar was finished, the 
+Sun and Moon discovered that a rakshasa, or demon, had managed to enter the room 
+and gulp down the potion. After the serpentlike demon was exposed by the luminaries, 
+Lord Vishnu grabbed his sword and severed the demon in two. However, having already 
+gained immortality, this being did not die but instead became two creatures. The top half 
+of the rakshasa was named Rahu, and the bottom portion, Ketu. And ever since that time 
+the nodes have been bitter enemies of the luminaries. It is said that for this reason the 
+nodes regularly attempt to swallow up the Sun and Moon (this occurs during every 
+eclipse, when either luminary is conjunct with Rahu or Ketu). However, the luminaries 
+of course always escape, as they also are Immortal. 
+To truly understand the effects of the nodes, one should always keep in mind the 
+above story, for Rahu and Ketu indeed behave like two parts of a demon. Such a being 
+may be thought of as an animalistic or instinctual creature with no directed intelligence, 
+bent on achieving all the pleasurable stimulation it can possibly grasp. This is an 
+especially good image for Rahu, whose absolute essence is that of insatiable worldly 
+desire. A purely hedonistic, unconscious, and insensitive being is this character. And if 
+Rahu can be described as such, what can possibly be said of Ketu. the portion of the 
+serpent without a brain! With no special effort, Ketu can produce some of the most 
+Intense, compulsive, and unconscious behavior. 
+However, the kinds of effects Rahu and Ketu may cause depend even more than 
+with other planets, on the other astrological specifics involved. For although Rahu and 
+Ketu are considered planets in Hindu astrology and give relatively predictable results, 
+they behave differently than the other heavenly bodies. Because they are elemental and 
+Instinctual forces, they are more like masses of energy than directed forces. Nor do they 
+have the ability to cast aspects as other planets do. And although Rahu and Ketu are 
+certainly malefics, it is often harder to know the exact injury they indicate in a horoscope. 
+Suffice it to say that the nodes are generally better placed in houses which can utilize 
+malefic planets (the 3rd, 6th, 10th, & 11th), and that more havoc is created if Rahu or 
+Ketu occupy the houses of enemies, or if they are aspected by malefics. 
+Regarding the significations of the nodes, there is little discernable difference in 
+what is listed in the ancient scriptures between the two. Both are responsible for all sorts 
+of evils, such as Incurable diseases, murder, theft, poison, snakes, fears, phobias, 
+
+<<<PAGE 49>>>
+ 
+ 
+undiagnosable illnesses, imprisonment, and on and on and on! But certain intelligent 
+distinctions are made, especially concerning the more positive attributes. For instance, 
+it is only natural that if Rahu indicates, worldly desires, it is capable of giving power, 
+fame, political success, money and beauty when beneficially placed. However, it should 
+not be forgotten that the desires of Rahu are insatiable, and therefore satisfaction may 
+not necessarily result from the attainment of these benefits. It may also be mentioned 
+that the scriptures declare that whatever is given in the 18-year Rahu dasa (period) is 
+usually taken away in the last few years before that period ends. 
+As for the traits of Ketu, this planet is called moksha karaka, or indicator of 
+enlightenment. And indeed it does give very fine spiritual tendencies, especially qualities 
+of asceticism and non-attachment. It is therefore rather common to find a prominently 
+positioned Ketu in the horoscope of a dedicated spiritual seeker. Also, in a similar vein, 
+Ketu is known as Gnana karaka. Gnana is a term meaning knowledge, wisdom, or 
+discrimination, which in India is taken to be a specific path to enlightenment. Therefore, 
+along with the spiritual tendencies created, this planet confers great discriminative 
+powers, even to the extent of psychic ability. 
+Although the sages assert that Rahu's effects are similar to Saturn’s and Ketu’s 
+like that of Mars, this is true only in a general sense. For Ketu, when inauspiciously 
+placed, can ruin significations in an uncommonly awful and devious way. Whereas Rahu 
+disturbs by way of lethargy, grossness and insensitivity, it does so in a manner that is 
+much less intense and purposeful. 
+The most detrimental effects of the nodes occur when either one is closely 
+conjunct with another planet. In such cases, the conjoined planet is terribly spoiled, as 
+are the houses it rules. If Rahu is the node involved, it harms mainly by dulling or 
+suppressing the energy of the other influence so that it is powerless to function in its 
+normal way. On the other hand, a planet conjunct with Ketu seems to be dissolved or 
+swallowed up into an abyss or kind of black hole. Then, rather than simply having its 
+potency clipped, that planet behaves in a weird, compulsive, and unconscious or 
+uncontrollable way. 
+When delineating the nodes, it cannot be overemphasized that one should bear in 
+mind the lack and abandonment of logic, reasoning ability, and Intelligence that 
+characterize Rahu and Ketu They are animalistic, obsessive, and compulsive influences 
+and indicate areas of life where a person simply has very little control. 
+Rahu and Ketu are not characterized as masculine or feminine. And there 
+is almost no agreement by the Hindu sages about their beneficial or detrimental 
+sign placements. The only certainty is that the nodes are both exalted in either 
+of Mercury’s signs, Gemini and Virgo. This is logical because Rahu and Ketu, 
+which are devoid of any mental qualities, must benefit by the intelligence and 
+stimulation of the Mercury energy. It should also be mentioned that Rahu and 
+Ketu normally move backwards but occasionally stop and travel forward for brief 
+periods. It is noted that the nodes become extremely powerful during these times. 
+Therefore, whenever analyzing a horoscope, the ephemeris should be consulted 
+
+<<<PAGE 50>>>
+ 
+ 
+to determine whether these planets were stationary direct or traveling in forward 
+motion. If so, then they may be considered highly positive and energizing forces 
+giving similar results to that of their exaltation positions. Since no fallen 
+placements are given for Rahu and Ketu it may be remembered that the nodes 
+are great enemies of the Sun and Moon and may give worse than usual results 
+in their signs. Although Ketu is not included in the friendship scheme, most 
+astrologers take the enemies of Rahu to also be inimical to Ketu Also, any aspects 
+malefic to the nodes will act as afflictions and cause them to produce even more 
+disturbance than normal. The gem to strengthen a weak or afflicted Rahu is 
+Gomed or hesson- ite, while Ketu governs Cat’s eye or chrysoberyl. 
+INDICATIONS OF RAHU 
+• insatiable worldly desires, great worldly benefits 
+• inertia, dullness, laziness 
+• sense gratification 
+• ignorance 
+• gomed or hessonite (honey colored form of agate) 
+INDICATIONS OF KETU 
+• asceticism, non-attachment to worldly desires 
+• amrita, natural healing methods, healing diets, etc. 
+• moksha (enlightenment, final liberation) 
+• psychic ability 
+• gnana (wisdom, knowledge, discrimination) 
+• tendency to go unnoticed or be invisible to others 
+• ghosts, spirits, astral forces 
+• cat's eye or chrysoberyl (not to be confused with tiger eye) 
+INDICATIONS OF BOTH RAHU AND KETU 
+• 
+occultism & spirituality 
+• 
+compulsive & unconscious behavior 
+• 
+fears, phobias, nightmares 
+• 
+mental derangement 
+• 
+associations with low-class people 
+• 
+addictions, bad habits 
+• 
+poisons 
+• 
+illusion, deception 
+• 
+dirt, filth, parasites 
+• 
+stuttering, spasms 
+• 
+undiagnosable and incurable ailments. 
+• 
+theft, murder, imprisonment 
+• 
+witchcraft, magic 
+• 
+ulcers, cancer, skin diseases 
+
+<<<PAGE 51>>>
+ 
+ 
+
+<<<PAGE 52>>>
+ 
+ 
+BHAVAS—THE HOROSCOPE HOUSES 
+INDIAN PHILOSOPHY DIVIDES LIFE INTO 4 CATEGORIES: 
+1. DHARMA— life purpose or righteous action 
+2. ARTHA—wealth matters 
+3. KAMA—desires 
+4. MOKSHA—enlightenment, self-realization, final liberation 
+• 
+Houses 1, 5, & 9 correspond to fire signs and are therefore dharma 
+houses. 
+• 
+Houses 2, 6, & 10 correspond to earth signs and are therefore artha 
+houses. 
+• 
+Houses 3,7, & 11 correspond to air signs and are therfore kama houses. 
+•Houses 4, 8, & 12 correspond to water signs and are therefore moksha 
+houses. 
+FIRST HOUSE IS A DHARMA HOUSE, CONNECTED TO LIFE PURPOSE. 
+• 
+the personal self, ego 
+• 
+appearance, face, head 
+• 
+character, disposition, tendencies, conduct 
+• 
+well-being, happiness 
+• 
+health, longevity 
+• 
+strength, will power 
+• 
+dignity, self-esteem, self-love, confidence 
+• 
+fame, ability to be recognized, general prosperity 
+• 
+birth, early childhood, start in life 
+SECOND HOUSE IS AN ARTHA HOUSE, CONNECTED TO WEALTH MATTERS. 
+• 
+money, wealth, finances 
+• 
+knowledge, education, educators 
+• 
+speech, use of foul language, speech defects 
+• 
+orators, poets 
+• 
+imagination 
+• 
+truthfulness, tendency to lie 
+• 
+family life, domestic happiness 
+• 
+face, mouth, tongue 
+• 
+vision in right eye, neck, throat 
+• 
+confidence, timidity
+
+<<<PAGE 53>>>
+ 
+ 
+• 
+food one eats 
+•charity 
+• 
+dress 
+THIRD HOUSE IS A KAMA HOUSE, CONNECTED TO DESIRES. 
+• 
+one’s own efforts and adventures 
+• 
+younger brothers and sisters 
+• 
+all desires 
+• 
+life, energy, excitement, enthusiasm 
+• 
+initiative, motivation 
+• 
+courage, bravery , fear 
+• 
+voice, singing 
+• 
+fine arts, music, dance, drama 
+• 
+musicians, actors, dancers, singers 
+• 
+theatrical directors and producers 
+• 
+managers, organizers, detail work 
+• 
+hearing, the right ear 
+• 
+the hands, arms, shoulders 
+• 
+letters, writings, journals, all communications 
+• 
+firmness of personality (mental stability—but not the mind) 
+• 
+Travel—short journeys 
+i 
+FOURTH HOUSE IS A MOKSHA HOUSE, CONNECTED TO FINAL LIBERATION. 
+• 
+mother 
+• 
+happiness and contentment 
+• 
+the heart, emotions and passions 
+• 
+fixed assets, land, buildings, real estate 
+• 
+comforts, luxuries 
+• 
+cars, boats, planes, conveyances 
+• 
+academic degree, education (to an extent) 
+• 
+endings, the close of life 
+• 
+farms, graves 
+FIFTH HOUSE IS A DHARMA HOUSE CONNECTED TO LIFE PURPOSE. 
+• 
+children 
+• 
+the mind, intelligence 
+  
+• 
+poorvapunya (rewards or credit due from last incarnation) 
+• 
+sense of destiny 
+• 
+speculation, gambling, investments 
+• 
+love affairs, romance, love from spouse 
+• 
+kingship, government, rulers, politicians 
+
+<<<PAGE 54>>>
+ 
+ 
+• 
+spiritual techniques, mantras, religious practices or rituals 
+• 
+morals, good deeds, charity 
+• 
+merit, fine qualities, Integrity, humility, ability 
+• 
+religious-mindedness 
+• 
+pleasures, fun, sports 
+• 
+art of painting or drawing 
+SIXTH HOUSE IS  AN ARTHA HOUSE, CONNECTED TO WEALTH MATTERS. 
+• 
+health, illness, disease 
+• 
+enemies, competitors (seen and unseen), foes, jealous people 
+• 
+daily job, service 
+• 
+detail Jobs, service Jobs 
+• 
+preparation of food, restaurants, caterers 
+• 
+appetite 
+• 
+subordinates, tenants, maids, employees 
+• 
+maternal unde 
+• 
+medical profession, nursing, doctors 
+• 
+cousins 
+• 
+litigations, tendency to be charged in court cases 
+SEVENTH HOUSE IS A KAMA HOUSE, CONNECTED TO DESIRES. 
+• 
+the spouse, married life 
+• 
+all partners 
+• 
+sexual passions 
+• 
+residence in foreign countries 
+•courts 
+• 
+veins and loins 
+EIGHTH HOUSE IS A MOKSHA HOUSE, CONNECTED TO FINAL LIBERATION. 
+• 
+life, longevity 
+• 
+means of death, experience of death 
+• 
+wills & legacies, insurance benefits 
+•joint finances, partner’s money, alimony 
+• 
+ability to receive partner’s wealth 
+• 
+sexual strength, reproductive system, venereal diseases 
+• 
+sexual attractiveness 
+• 
+chronic and long-term illnesses of any kind 
+• 
+occult subjects, secretive matters 
+• 
+intuition 
+• 
+accidents 
+NINTH HOUSE IS A DHARMA HOUSE CONNECTED TO LIFE PURPOSE. 
+• 
+the father 
+• 
+luck, fortune, solutions to problems 
+• 
+religion, philosophy 
+• 
+faith, worship 
+• 
+a person’s Guru 
+• 
+spiritual teachers, elders 
+
+<<<PAGE 55>>>
+ 
+ 
+• 
+travel—longjoumeys 
+• 
+wisdom 
+• 
+higher knowledge of all kinds, higher education 
+♦law 
+• 
+performance of good deeds, charity, virtue 
+TENTH HOUSE IS AN ARTHA HOUSE, CONNECTED TO WEALTH MATTERS. 
+• 
+career, professional activities 
+• 
+the dharma, or life purpose 
+• 
+fame, honor, status 
+• 
+worldly power 
+• 
+holy pilgrimages 
+• 
+good deeds, activities which benefit society 
+• 
+authority figures, eminent persons, government officials 
+ELEVENTH HOUSE IS A KAMA HOUSE, CONNECTED TO DESIRES. 
+• 
+major goals, ambitions, and desires 
+• 
+opportunities 
+• 
+eldest sibling 
+• 
+gains and profits by any means (wealth) 
+• 
+sudden financial fluctuations 
+• 
+supplemental monies- wealth from sideline jobs or sudden ventures 
+• 
+paternal uncle 
+• 
+legs and ankles 
+TWELFTH HOUSE IS A MOKSHA HOUSE CONNECTED TO FINAL LIBERATION. 
+• 
+expenditure, expenses 
+• 
+moksha, self-realization, enlightenment, final liberation, salvation 
+• 
+the state after death (heaven or hell), lokas, or planes of existence 
+• 
+the bedroom, bedding 
+• 
+pleasures of the bed (sexual pleasure) 
+• 
+"unknown places” (remote, far-off countries) 
+• 
+travel to foreign lands, life In remote countries 
+• 
+hospitals, prisons 
+• 
+confinement 
+• 
+hearing, the left ear 
+• 
+vision, the left eye 
+• 
+feet 
+•anus 
+• 
+waste, debts, misfortune 
+• 
+experience with thieves and robbers 
+• 
+secret enemies 
+
+<<<PAGE 56>>>
+ 
+ 
+RASIS—THE ZODIAC SIGNS 
+Although the signs of the zodiac In Hindu astrology are of the same 
+characteristics as in the Western system (except that Capricorn is represented as 
+a crocodile Instead of a goat), there is very little information extracted from their 
+use. Certain modern Hindu astrological authors have used sign delineations in 
+their texts, however, it appears that they have taken their knowledge from 
+Western astrological wisdom. In Hindu scriptures signs are simply not employed 
+In this way. And in practice, nor do Hindu astrologers bother with sign 
+interpretations. 
+Rasis, or signs, are not totally disregarded, but they are used in a very 
+basic and simplistic way. For example, it may be said that a person bom with a 
+Gemini ascendant will be intellectually oriented, since Mercury rules his 
+ascending sign. Or an astrologer may note that Venus posited in a sign of Mars 
+(i.e., Scorpio) will give a person strong sexual passions. But the Western sort of 
+explanation of Venus in Scorpio, describingjealousy, intensity, selfishness, etc., 
+is out of bounds in this system. There are only simplistic statements made, based 
+upon the mixture of the posited planet and the lord of the particular sign. It may 
+be that there is in fact value to sign delineations in Hindu astrology—that for 
+example, more leaders are bom with Leo ascendants, or more spiritualists have 
+Aquarian or Pisces midheavens. But It should be understood by Western 
+astrologers that this kind of delineation is not Hindu astrology as handed down 
+by the ancient sages or as practiced In India at the present time. 
+A common use of signs occurs in the Hindu yogas, or planetary unions, 
+where a statement may be made noting that, for example, if a particular planet 
+involved in a yoga combination is found occupying, say, a cardinal sign, then a 
+specifically defined effect will result. This is a matter of applying memorized 
+factual rules rather than any kind of thoughtful interpretation or analysis. 
+Since there is no great body of information which has been imparted 
+regarding the effects of signs, what is given below are simply the Hindu names of 
+each sign, as well as their essential characteristics. These attributes are known 
+as elements and triplicitles, and as they are used only in scriptural delineations 
+in a technical manner, no explanation of their meaning is necessary. When 
+studying the scriptures, these must be learned.
+
+<<<PAGE 57>>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+42 
+SIGNS 
+HINDU NAME 
+Aries 
+Mesha 
+Cardinal 
+Fire 
+masculine 
+Taurus 
+Vrtshabh 
+Fixed 
+Earth 
+feminine 
+Gemini 
+Mithuna 
+Dual 
+Air 
+masculine 
+Cancer 
+Kataka 
+Cardinal 
+Water 
+feminine 
+Leo 
+Stmha 
+Fixed 
+Fire 
+masculine 
+Virgo 
+Kanya 
+Dual 
+Earth 
+feminine 
+Libra 
+Thula 
+Cardinal 
+Air 
+masculine 
+Scorpio 
+Vrtschtk 
+Fixed 
+Water 
+feminine 
+Sagittarius 
+Dhanus 
+Dual 
+Fire 
+masculine 
+Capricorn 
+Makara 
+Cardinal 
+Earth 
+feminine 
+Aquarius 
+Kumbha 
+Fixed 
+Air 
+masculine 
+Pisces 
+Meena 
+Dual 
+Water 
+feminine 
+
+<<<PAGE 58>>>
+ 
+ 
+GAINING PERSPECTIVE OF THE HINDU SYSTEM 
+Hindu predictive astrology is very different from Western astrology. In 
+order to learn this system, it is crucial to approach the work innocently and 
+newly, disregarding as best as possible whatever is known from Western 
+astrological wisdom. It is not the difference in specific techniques which is of 
+significance. It is that the ESSENCE of delineation is radically dissimilar. The 
+Hindu method is much more simple and circumscribed than Western astrology. 
+Planets are either benefic or malefic by nature. Any planet conjunct with or 
+aspected by a benefic flourishes. Planets aspected by malefics are destroyed. 
+Houses are either weak or powerful, and power produces good effects while 
+weakness destroys significations. Benefic planets cast beneficial aspects onto 
+houses; malefic aspects destroy houses. The trinal houses (5th and 9th) give good 
+results, while the dusthanas, or evil, houses (6th, 8th, and 12th) cause misery. 
+Therefore, make no mistake about it: there is no meditative blending or symbolic 
+imageiy to be used in this system. There are only rules to be followed and 
+accounted for. Once having learned the basic significations, there is simply the 
+process of considering the innumerable influences, some positive and some 
+negative, and then drawing a final conclusion as to whether a signification is 
+more likely to flourish, wither, or function somewhere in between. Astrologers 
+who carry detailed sign analysis or symbolic imageiy into this work will fall flat 
+when it comes to prediction. They will also have invented a brand new system of 
+astrology! 
+Because of the preconceptions Western astrologers may have, and simply 
+In order to gain a more clear perspective and sense of proportion regarding Hindu 
+techniques, the reader Is requested at this point to read 1 or 2 pages of the 
+section titled "Horoscopes of Famous People." This should be done, however, in 
+a very light and easy fashion, with no intention at all to understand the details 
+involved, but merely to get a sense of how this ancient system of astrology works. 
+Otherwise, when attempting to learn the various elements given in this book, 
+there is likely to be a difficulty in knowing which factors take precedence over 
+others and which deserve emphasis in terms of delineation. This could especially 
+occur because the section titled “Planets in The Houses” forms the bulk of this 
+text and therefore may seem to be the predominant factor involved. One might 
+then be somewhat surprised when finally reaching the practical application 
+section “Horoscopes of Famous People." Those astrologers familiar with horary 
+astrology may find the work easier, since horary is also a system based upon 
+many rules, regulations, and significations.
+
+<<<PAGE 59>>>
+ 
+ 
+However, anyone with a sincere desire to learn this system and with a moderate 
+degree of patience will soon be making accurate predictions. And as always, 
+experimentation and experience with the system are the best teachers, 
+
+<<<PAGE 60>>>
+ 
+ 
+ 
+FRIENDSHIPS BETWEEN PLANETS 
+In Hindu astrology, planets have friends, enemies, and those which are 
+considered neutral. Generally Rahu, Venus, Saturn, & Mercury are friendly to 
+each other, while Jupiter, the Sun, the Moon, & Mars welcome each other’s 
+presence. While Rahu Is Included in the friendship scheme, Ketu Is not. However, 
+most astrologers consider Rahu’s enemies to also be inimical to Ketu. 
+The friends, enemies, and neutrals of each planet have been given 
+separately in the descriptions of each planet. However, below are 2 horoscope 
+forms showing in which signs each planet is welcome or unwelcome. If a planet 
+Is not posited in a particular sign In either chart, it is because that sign is a 
+neutral Influence to the planet. Until the knowledge of planetary friendships is 
+second nature, these graphs should be kept In sight when delineating any 
+horoscope. 
+Friendships are a basic and important part of delineation, as a planet in 
+an enemy’s house cannot be expected to produce the same effects as it will in a 
+sign where It is welcomed as a friend. Placement in a friendly or unfriendly sign 
+will not affect a planet with the same Intensity as would an exaltation or fallen 
+status, but the Influence Is not insignificant enough to be Ignored. Astrological 
+work is essentially the consideration and blending of an innumerable number of 
+factors, of which friendships are a basic technique to help tip the scales in either 
+a positive or negative direction. 
+What is discussed above is the issue of "permanent” or “natural"

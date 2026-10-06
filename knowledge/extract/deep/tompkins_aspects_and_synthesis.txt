@@ -1,0 +1,1608 @@
+# source: _OceanofPDF.com_The_Contemporary_Astrologers_Handbook_-_Sue_Tompkins.pdf
+# pages: 1-60
+# compiled into: interpretation.json
+# regenerate: knowledge/build/extract_chapters.py
+
+
+<<<PAGE 1>>>
+
+<<<PAGE 2>>>
+The Contemporary
+Astrologer’s
+Handbook
+an in-depth guide to interpreting your horoscope
+Sue Tompkins
+
+<<<PAGE 3>>>
+OceanofPDF.com
+
+<<<PAGE 4>>>
+To Maureen Barker with love
+
+<<<PAGE 5>>>
+OceanofPDF.com
+
+<<<PAGE 6>>>
+Acknowledgements
+Many people have helped directly and indirectly in the writing of this book.
+The true list might include every student I have ever taught and every client
+I have ever had a conversation with, but this much shortened version
+focuses on some of my closest buddies in the astrological world. Firstly
+thanks to Frank Clifford for agreeing to publish the book in the first place
+and for making such a good job of it, and to Jane Struthers for her editing
+skills and for her input generally. To Tamara Stamenkovic for her artwork
+and to Deana Necic for her ideas and expertise. Huge thanks too to Jane
+Hastings for being such a good friend; to Melanie Reinhart for Chironic and
+other conversations; and to Barbara Norris for negotiating with Metro.
+More generally, my long-term appreciation goes to Kim Farley, Babs Kirby,
+Lindsay Radermacher, and to members of maybe the oldest astrological
+group in town: Victoria Harper, Laura Thoresby and Gill Young. Also to all
+my friends at 60° North, especially Nan Lemaréchal (Oslo), Marit Dahl
+(Stockholm), Iris Hallankukka and Marita Hölttä (Helsinki). Also to Marja-
+Liisa Niemi Mattila for her professional generosity when I was working in
+Finland.
+Sue Tompkins, August 2006
+
+<<<PAGE 7>>>
+OceanofPDF.com
+
+<<<PAGE 8>>>
+Contents
+Title Page
+Dedication
+Acknowledgements
+Chapter 1 First Things First – Philosophical Underpinnings
+Chapter 2 Elements and Modes
+The Elements
+Fire • Earth • Air • Water
+Elemental Lacks
+The Modes
+Cardinality • Fixity • Mutability
+Chapter 3 The Zodiac Signs
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+Sagittarius
+Capricorn
+Aquarius
+Pisces
+More on the Signs: the Six Pairs
+
+<<<PAGE 9>>>
+Chapter 4 The Planets and Other Essential Bodies
+The Sun
+How to Interpret the Sun – Recapping the Main Points
+The Moon
+The Moon Through The Signs
+The Void-of-Course Moon
+Mercury
+Mercury Retrograde
+Mercury Through The Signs
+Venus
+Venus Through The Signs
+Mars
+Mars Through The Signs
+Jupiter
+Jupiter Through The Signs
+Saturn
+Saturn Through The Signs
+The Outer Planets
+Uranus
+Uranus Through The Signs
+Neptune
+Neptune Through The Signs
+Pluto
+Pluto Through The Signs
+Planetary Dignities
+Chapter 5 Aspects and Planetary Combinations
+
+<<<PAGE 10>>>
+Part One: The Aspects
+Orbs • The Conjunction • The Opposition • The Square • The Semi-Square
+and Sesquiquadrate • The Trine • The Sextile • The Quincunx • The Quintile
+• The Septile • Dissociate Aspects • Applying and Separating Aspects •
+Charts without  Aspects • Most Aspected Planet • Unaspected  Planets
+Part Two: Aspect Patterns
+The Stellium • The T-Square • The Grand Cross • The Grand Trine • The
+Yod • The Kite and Mystic  Rectangle
+Part Three: Planetary Combinations
+Chapter 6 The Houses
+The First House and the Ascendant
+The Second House
+The Third House
+The Fourth House and the IC
+The Fifth House
+The Sixth House
+The Seventh House and the Descendant
+The Eighth House
+The Ninth House
+The Tenth House and the MC
+The Eleventh House
+The Twelfth House
+The Importance of House Rulership
+Chapter 7 Non-Essential Bodies
+Part One: The Moon’s Nodes
+Part Two: Chiron and the Centaurs
+Pholus – the Lid Comes Off
+
+<<<PAGE 11>>>
+Nessus – the Buck Stops Here
+Part Three: Asteroids
+Chapter 8 Steps Towards Chart Interpretation and Synthesis
+Interpretation Checklist
+Chapter 9 Profiles
+Henry VIII and an Illustration of T-Squares
+Kelly Holmes and an Illustration  of the Sun/Moon Midpoint
+Agatha Christie
+On Integration: the Case of ‘Amanda’
+Holistic Astrology – Peter and the Indian Cobra
+The Chart for a Country – Indonesia
+The Chart for an Accident
+Notes and References
+
+<<<PAGE 12>>>
+OceanofPDF.com
+
+<<<PAGE 13>>>
+Chapter 1
+First Things First – Philosophical Underpinnings
+To every thing there is a season, and a time to every purpose under the
+heaven …
+Ecclesiastes, 3:1
+Some form of astrology has probably been practised in all cultures since
+civilization began. Seemingly, the roots of Western astrology date back at
+least several thousand years before Christ and to an area which embraces
+modern-day Iraq and parts of Syria and Turkey. While the history of
+astrology is rich and complex, the philosophical implications of the subject
+are arguably even greater.
+Anyone who studies astrology seriously for a while will discover for
+themselves that it does work and, having made that discovery, questions
+such as ‘How can it work?’ start to exercise the imagination. Then those
+other, sometimes dormant, often nagging, questions such as ‘Why am I
+here?’, ‘Who is God?’ also re-assert themselves. As with any rich and
+exciting subject, astrology can present us with as many questions as it
+answers. Regrettably many of the wider philosophical ramifications of
+astrology, and speculations as to how it might work, have to be largely set
+aside here.¹ What follows are a few, fairly standard, philosophical principles
+which underpin my particular way of viewing and practising astrology.
+Fate and Free Will
+One of the issues that astrologers and would-be astrologers alike grapple
+with is the issue of fate and free will. One question is: If astrology is true
+does it mean that our lives are fated? For me, the answer to this question is
+to be found in the Yes and No universal box of answers. Undoubtedly we
+must take full responsibility for our lives and for both our successes and
+failures, and to some extent we are also responsible for much that happens
+
+<<<PAGE 14>>>
+around us. Equally, there is nothing that happens to us, and nothing that we
+do, which is not reflected as a possibility or likelihood in our horoscope.
+The natal chart is basically a map of potential. Like a picture on a packet of
+garden seeds, it shows what we might become. Perhaps the best way of
+viewing the fate and free will question is to turn to the subject of maps.
+After all, the birth chart is quite literally a map for a particular moment.
+Talking metaphorically, imagine that you were born with a map of the
+Kalahari Desert and that I was born with a map of Birmingham. One might
+say that the Kalahari is your fate and that Birmingham is my fate. Our
+choices and potential are different. I have roads and canals that I can go up
+and down, and shops I can frequent but just because I have all the various
+features in my map it doesn’t mean that I will visit them or, if I do, that I
+will do so consciously. In your map of the Kalahari you have different
+choices: choices of country, choices of game park, choices of whether to
+keep cattle or hunt wild game, choices as to whether you listen to the
+weaver birds or notice the acacias. So we both have at least some degree of
+free will but our choices are circumscribed by the perimeters of our
+particular map. Such perimeters might be described as our fate.
+Of course the individual and their horoscope do not exist in a vacuum. We
+are all also at the mercy of a much larger fate – the destiny of our country,
+for instance. The fate of the individual is, to an extent, eclipsed by the fate
+of the greater whole. Similarly, the fate of one’s country is secondary to the
+fate of the continent or the planet itself. Astrology offers an opportunity for
+glimpsing the potential of both destinies and, in so doing, increasing the
+opportunity for the exercise of free will. Governments, businesses, events –
+anything that has a beginning has a horoscope and will be caught up in the
+particular planetary cycles of the time of its inception.
+Macrocosm and Microcosm
+The idea that the cosmos is a unity and that all parts of it are interdependent
+is basic to most subjects under the occult, New Age and healing umbrella;
+in fact, it is central to the alchemists of yesterday and the quantum
+physicists of today. The ramifications of this way of thinking are vast, for if
+the universe is a whole and everything in it is a part of that whole, then
+hurting one small portion of it (even treading on an ant) means we also hurt
+
+<<<PAGE 15>>>
+the whole, including ourselves. Allied to the idea of unity and
+interdependence is the concept of macrocosm and microcosm. Stated
+simply this means that all happenings, all manifestations in and by the
+universe (macrocosm) are also reflected inside every individual
+(microcosm). Science confirms that all of nature can be broken down into
+the 118 elements that comprise the periodic table, so each human being
+actually contains all aspects of the world around them – all the plants,
+animals, minerals and celestial bodies.
+The Hermetic Doctrine
+Alchemy is often known as hermetic philosophy after Hermes Trismegistus,
+who, if he existed as a single individual, did so around 1900 BC. He is often
+thought of as the father of the alphabet, astronomy and mathematics as well
+as astrology and alchemy. His secret doctrine was only revealed to the few
+who came from far and wide to study at the mystery schools of Egypt. The
+term ‘hermetically sealed’ reveals how secret the doctrine was. The
+compilation of basic hermetic doctrines, passed on from teacher to student,
+was known as ‘The Kybalion’, and from it come the seven hermetic
+principles, all of which are confirmed by astrological practice.
+i) The principle of mentalism. This first principle is perhaps the most
+difficult to grasp and perhaps should be set aside for the moment. Briefly
+the principle states that the universe is a mental creation of All That Is. This
+principle is basically concerning itself with God, infinity and eternity,
+which for most of us are unknowable.
+ii) The principle of correspondence which states As Above, So Below, As
+Below, So Above. One might add, As Within, So Without. In other words,
+as it is in the heavens, so it is on earth. As it is on the physical plane, so it is
+on the mental and spiritual planes. As it is in the body, so it is in the mind.
+Each is a reflection of the other. The already mentioned notion of
+macrocosm and microcosm is one example of the principle of
+correspondence. There will be more on this subject later.
+
+<<<PAGE 16>>>
+iii) The principle of vibration, which states that nothing rests, everything is
+in a state of flux, in constant and never-ending motion. Even the Earth,
+which we experience as being pretty fixed, is rotating on its axis and
+revolving around the Sun. Philosophers and scientists since time
+immemorial have said much the same thing: Aristotle (384–322 BC) said
+that all things are in motion all of the time, but this fact escapes our
+perception; Heraclitus (535–475 BC) held that the world is like a flowing
+river and that you cannot step into the same river twice. So all things
+vibrate, or they could be said to have a vibration rate. By changing the
+vibration, one changes the manifestation. Water at a high vibration is steam
+and at a lower vibration is ice. By changing its vibration, water manifests
+itself differently.
+iv) The principle of polarity or duality, which states that everything has an
+opposite pole. All opposites are identical in nature but different in degree.
+Up and down are opposite to each other, as are light and dark. There is no
+such place as ‘up’ and no such place as ‘down’ – each is relative to the
+other. As with everything else on the list, the idea of polarity applies to
+emotional states, too. Love and hate, joy and despair are just two examples.
+v) The principle of rhythm, which states that all things have their cycles,
+their tides; an ebb tide and a flood tide. All things flow in and out, all things
+rise and fall. All things go through the process of birth, growth,
+deterioration and death, and death can be taken to be a beginning, as well as
+an end point. There are thousands of such cycles – each day being one of
+them, each breath being another. Some cycles may last only seconds, others
+millions of years. If one accepts this (to me) self-evident truth that
+everything goes through the process of birth, growth, deterioration and
+death, then that must also apply to the Earth itself. Indeed, it seems to me
+that the Earth, or Western society at any rate, has reached middle age, even
+late middle age. The reason for this conclusion is the observation that the
+speed of life has increased substantially, especially in the inner cities. This
+can be taken as analogous to the fact that, as they get older, people report
+that time seems to go so much faster and, towards the end of life, that it
+goes very fast indeed. For the child, on the other hand, everything seems to
+go very slowly.
+
+<<<PAGE 17>>>
+vi) The principle of cause and effect, which states that every cause has its
+effect and every effect has its cause. According to this principle, everything
+happens according to this law and there is no such thing as ‘coincidence’.
+There are many layers of causation and what seems to be chance has really
+been caused by something or, usually, several things. The cause and effect
+principle might also be defined as the law of consequences because every
+thought, action or event has repercussions. Thought, however fleeting,
+comes before action. Everything we say or do, however trivial, has a
+consequence – it affects something. And whatever is affected, in turn,
+affects something else. From physics we learn that for every action there is
+an equal and opposite reaction. Not only does every act – mental, emotional
+or physical – project outwards and have a consequence, the same energy
+also rebounds back upon us, rather like a boomerang. In the East, the
+principle of cause and effect is known as karma² and isn’t usually thought to
+be limited to the one life; if taken to its logical conclusion, it leads on to the
+notion of reincarnation. Astrologers don’t necessarily believe in
+reincarnation (I am open-minded on this issue) and it is not necessary to
+believe in it in order to accept the principle of cause and effect. Whatever
+the reader’s personal beliefs, the subject might as well be touched on at this
+point. The reincarnationist world view suggests that the physical body is but
+a vessel and, when it dies, the soul is reborn again and again.³ The body is
+viewed as being merely a tool to enable the individual to live out their
+soul’s purpose (s). In each life the individual reaps what they have sown in
+previous lives and also sows the seeds that can be harvested in a future life.
+Thus, according to the law of karma, our thoughts and actions may rebound
+upon us either in this life or in a future one. In each and every moment, we
+are creating both the next stage of our current life and also a future life, or
+so the theory goes. Thus, while the legacy of what we have set in motion in
+previous lives limits, at least to some extent, our current freedoms (and such
+limits might be defined as our fate), it can be seen that we can also change
+our future to some extent. While we cannot change what has already
+happened, we can certainly change our attitude to events and, given that
+action follows thought, by changing our attitudes we can change our
+destiny.
+
+<<<PAGE 18>>>
+vii) The principle of gender, which states that all things have a yin and yang
+(or masculine and feminine) principle. The yang force is outgoing, positive
+and instigating, while the yin force is receptive and incoming. This again
+works on physical, emotional and spiritual levels. Even when having a
+conversation with someone, one can see the yin-yang principle at work. The
+person who is talking is in yang mode (giving out) and the person listening
+is in yin mode (receiving). In astrology, the fire and air signs are dubbed
+positive (or masculine), while the earth and water signs are negative (or
+feminine). Similarly, with the planets, the Sun and Mars are obviously yang
+and the Moon and Venus obviously yin.
+More on Correspondences
+While we live in a heliocentric (Sun-centred) universe, due to the Earth’s
+rotation, as we go about our daily business we appear to live in a geocentric
+(Earth-centred) world: the Sun and all the planets appear to revolve around
+us. While the horoscope can be, and sometimes is, drawn from the
+heliocentric perspective, it is more commonly drawn from the point of view
+of human experience and thus depicted geocentrically.
+Imagine yourself walking on the Earth. You have no buildings around you
+to obscure your view. The land under your feet is your horizon. You can
+look to the east and look to the west and watch sunrise and sunset. At
+lunchtime the Sun is overhead, and after sunset the Sun disappears
+altogether. Bear in mind that your particular horizon will be different to
+everyone else’s horizon, unless they happen to be standing on the same spot
+of land as you. This is basically the start of a horoscope. The upper part
+represents daylight and the lower part night-time.
+A Map of Life: a Starting Point for Correspondences
+In fact, we can go further with our circle for it can be viewed as a map
+depicting a day, a year or a life. Assuming that it doesn’t rain, what is the
+wettest time of day? The answer has to be the morning when there is dew
+on the ground. During the day, the Sun rises in the sky, creating heat and a
+drying effect, thus sunset is the dry time of day. It is hot at noon but actually
+hotter in the middle of the afternoon. Similarly the air is at its coldest some
+
+<<<PAGE 19>>>
+time after midnight, in the early hours. The year is similar: roughly
+speaking, spring is wet, autumn is dry, summer is hot and winter is cold.
+The individual’s life is no different. We are at our wettest as a baby but dry
+out with advancing age. Old age is often referred to as the autumn years; a
+dry time when leaves go crisp underfoot and bones crack, skin dries out and
+wrinkles appear.
+We can easily add the elements of fire, earth, air and water and also add
+colours and tastes to our circular map of life. Hopefully these are self-
+explanatory. Water has surely to be associated with blue, and do not salt and
+water always go together? Fire goes with red. As foods ripen in the sun they
+grow sweeter. When onions or any vegetables are fried, they become sweet.
+We grow bitter as we grow older and bitter foods tend to grow closer to the
+earth. Air can be associated with cold – if our food is hot, we blow air on it
+to cool it. If we leave milk out in the air it goes sour. We use the refrigerator
+or a fan – both systems of moving air – when we wish to bring down
+temperatures. The monthly Moon phases can also be added to the diagram,
+as can the equinoxes and solstices, and obviously the intermediary compass
+points.
+
+<<<PAGE 20>>>
+Note that this illustration is offered as a way of understanding how some
+correspondences might arise – it is a map of life in general, and shouldn’t
+be confused with actual horoscopes. Among different cultures, there are
+various versions of the elements and seasons. This particular model differs
+from that used by many astrologers and herbalists who, following the ideas
+of Plato, have ascribed a warm and moist quality to air. The model
+presented here accords more with my personal experience. It may have
+some historical credibility as the 4th-century physician Philistion seems to
+have favoured it. However, it is not necessary for the astrologer to adopt
+this diagram or even for the beginning student to understand it. Neither can
+I confidently assert that it is absolutely true. It is presented simply to
+illustrate that a day, a year and a life all reflect each other, and to suggest
+how seemingly unrelated things can reasonably be associated with each
+other.
+The idea of correspondences has been embraced by alchemists and
+astrologers for centuries, and I doubt if there is an astrologer on the planet
+who wouldn’t, for example, connect all kinds of inflammatory situations
+with Mars. Indeed, astrology might be described as the study of
+correspondences. The exciting thing about making these kinds of
+connections is that there is plenty of room for making more of them. All one
+has to be is observant and confirm one’s observations time and time again
+to be sure that the ascriptions arrived at are the correct ones. Over the years,
+I have been able to ascribe different planets, signs and aspects to various
+members of the animal kingdom. For instance, in my observation (and this
+might accord with tradition also) the bird kingdom as a whole comes under
+Aquarius (see pages 64–7). To hone in on individual bird species, you
+should use all the zodiac signs: poultry may come under the subdivision of
+Cancer; swans (royal birds), peacocks and the like, under Leo; small birds
+such as sparrows under Virgo, and so on. One can do the same with insects,
+reptiles and all flora and fauna. Indeed, one can do it with all of life: notice
+how news stories concerning the police often ‘coincide’ with times when
+there are several planets in the sky in Taurus; how golfers will often have a
+Capricorn emphasis or Mercury-Saturn aspects in their charts; how
+Europeans visit Australia under Uranus transits, and countless other
+
+<<<PAGE 21>>>
+examples. With a little thought, one can usually work out why the given
+activity or place can be linked to the relevant symbolism.
+One can make such connections without stepping outside one’s front door
+just by observing what is happening in the world and in the sky. On page 15
+is the front page for the London newspaper, Metro, on 28 June 2000. A
+casual glance will reveal little, but look a little more closely and notice that,
+at the top, the reader is advised of a review inside the paper of the then
+newly released film Chicken Run. The activities of the British tennis player
+Tim Henman are promised on the back page and the cook Nigella Lawson
+is writing on fowl on page 10. All this poultry imagery is rather jokey, but
+watching the cosmos at work is jokey. The headline runs: ‘Family backs
+Dando suspect.’ At the risk of stretching things a little too far, a similar
+word to Dando in French – dindon – means turkey! With the allusion to
+family and all the references to chickens, it will not surprise any astrologer
+to learn that on that day the Sun, Mercury, Venus, Mars and North Node
+were all in the sign of Cancer – a sign to associate with family matters, food
+and poultry. The other sign that is most concerned with food is Taurus, and
+the Moon, Jupiter and Saturn were in that sign. The observant astrologer
+will be able to find yet more Cancerian imagery on this front page, should
+they choose.
+All news items inevitably reflect whatever is going on in the sky at a given
+time and one doesn’t have to confine one’s observations to news items;
+even something as trivial as light entertainment will reflect the heavens.
+Turn on the TV and be prepared to channel-hop. Or turn to a TV listings
+magazine (the Radio Times is best in the UK because it gives more detail
+and also includes radio programmes). It doesn’t matter which day you
+choose, or which medium you use (TV just happens to be easy), you will
+find subject matters that are clustered around a given theme. Of course, the
+most profound astrological deductions can often be gleaned from watching
+happenings in our own life and through observing the lives of the people
+around us.
+
+<<<PAGE 22>>>
+
+<<<PAGE 23>>>
+Although the empirical approach to science is not popular at the current
+time, for me, as long as one is rigorous in checking one’s observations, it is
+still a very valid approach to employ. Consider astrologer/alchemist
+Paracelsus (1493–1541), the father of modern medicine, physiology,
+biochemistry, pharmacy as well as many complementary medicines. He was
+taught by his father, Wilhelmus, not to rely simply on books or the opinions
+of other authorities, but to observe nature directly and to learn from
+personal experience.⁴ This he did. However much our knowledge has
+increased since the time of Paracelsus, there is still much that we don’t
+know and also much knowledge that has been lost. Wilhelmus’s advice
+holds as true today as it did in the 16th century: there is nothing wrong with
+having an empirical approach to science. Nothing happens randomly. As
+Jung puts it: ‘Whatever is born or done at a particular moment of time has
+the quality of that moment of time.’ In watching this process at work, the
+astrologer is able to have fun and potentially to make discoveries.
+We are not all exposed to the same world and, even when we are, there are
+different ways of looking at that world and interpreting it. Arguably, it is the
+job of the astrologer to look at things from a wider perspective, perhaps
+from an inner, magical or soul perspective – rather as a priest, shaman or
+psychotherapist might. Or if that sounds too esoteric, one might just say that
+the horoscope is a map and the astrologer is a map-reader. Maps draw our
+attention to things that we might not otherwise notice (e.g. the remains of
+the Stone Age fort over yonder), maps help to give us a sense of
+perspective– we can see where we are in relation to everything else – and,
+finally, maps help us find our way. The astrologer’s job includes making the
+whole process of navigating through life that bit easier.
+That doesn’t mean that the professional astrologer should be telling their
+clients where to go; the astrologer’s job includes looking at the map and
+helping clients to find out where they are now. An example may help. Mrs
+Bloggs consults an astrologer about her work situation. She is unhappy at
+work because she feels her boss is being overly dictatorial and ‘getting at
+her’. She reports feeling crushed and frightened. Mrs Bloggs wants her
+astrologer to tell her whether she should leave her job and try to find
+another one. Undoubtedly the astrologer would be able to assess whether
+now is a good time for finding a new job/going self-employed/changing her
+
+<<<PAGE 24>>>
+line of work/retirement, and so on. Indeed, the odds may be so stacked in
+the sky that the astrologer may even be able to guess pretty much what will
+happen. However, it is also the case that Mrs Bloggs is responsible for her
+life and needs to make her own decisions. Also things change by the simple
+expedient of looking at them – as always, energy follows thought.
+The astrologer’s job may actually be less about predicting what will happen
+next and more about interpreting what is happening now. For example, Mrs
+Bloggs may have a Tenth House Pluto, and Saturn in the sky may be
+conjuncting it, describing her current feelings and situation. The Tenth
+House refers to all authority figures including parents. The astrologer,
+knowing this, might ask Mrs Bloggs if her boss reminds her of anyone from
+her past, or if she has ever experienced feelings before which are similar to
+the ones she is experiencing now. The chances are that Mrs Bloggs will say
+something like: ‘It’s funny you should say that, my boss reminds me of my
+mother, who terrified me. I used to feel I was being criticized all the time. I
+feel now like I did when I was five.’ The astrologer might then suggest that
+Mrs Bloggs is transferring her early feelings of impotence on to her current
+situation. As a child, Mrs Bloggs was powerless in the face of her parent but
+she is no longer a child. Now she is in a much stronger position to talk to
+her boss than she ever would have been with her mother. So she is being
+offered an opportunity. After the conversation, Mrs Bloggs may be able to
+view her situation differently. She might also speculate that, if she doesn’t
+deal with the issues of feeling criticized and powerless now, she is likely to
+meet up with them again some time in the future. After all, when we travel,
+most of us take our baggage with us. It may be that changing her work
+situation and her boss is entirely appropriate for Mrs Bloggs. What is
+important is that whatever she chooses to do, she does so with as much
+awareness as possible, and that she makes her own decisions and is able to
+take responsibility for doing so.
+Of course there remains the question of the degree to which her mother (and
+boss) was overly critical of her, and the degree to which she has projected
+her own criticism of herself on to these authority figures, but that kind of
+discussion can be left for another time.
+The point is that the astrologer’s job is, in my view, to discover the inner
+truth of a situation, in as far as that is possible. Astrology has almost
+limitless potential to increase consciousness and to shed light on endless
+
+<<<PAGE 25>>>
+situations. En route to being able to do this, the astrology student needs to
+become fluent in the basic language of the horoscope – the elements, signs,
+planets, houses and aspects.
+Notes – Chapter 1: First Things First – Philosophical Underpinnings
+1. The reader wishing to know about the practice of astrology and touch on
+some philosophy from a contemporary and practical ‘hands on’ viewpoint
+would do well to read Dennis Elwell’s excellent book Cosmic Loom, The
+Urania Trust, 1999.
+2. The word ‘karma’ is usually translated as meaning ‘action’, and comes
+from the Sanskrit word kri meaning ‘to do’.
+3. Much of our understanding of karma and reincarnation is derived from
+the Hindu teachings of about 3500 BC, which are enshrined in the ancient
+scriptures known as The Vedas.
+4. According to Matthew Wood, The Magical Staff – The Vitalist Tradition
+in Western Medicine, North Atlantic Books, 1992.
+
+<<<PAGE 26>>>
+OceanofPDF.com
+
+<<<PAGE 27>>>
+Chapter 2
+Elements and Modes
+The Elements (or Triplicities)
+Since the discovery of the periodic table and its 118 elements, the word ‘elements’ nowadays conjures up
+something much more complex than merely air, earth, fire and water. Even so, these basic four elements still
+provide a construct upon which it is possible to view both the natural world and human behaviour.
+The four elements represent four basic ways of perceiving and processing stimuli.¹ These four ways can be
+summarized as:
+The impulse to make something happen or, if already in existence, the need to establish where it may be coming
+from or going to, and what it might mean. (Fire)
+The urge to make the fiery impulse a tangible reality or, if in existence already, the need to touch it and smell it.
+(Earth)
+The urge to communicate with or about ‘it’, possibly to name ‘it’ or establish what ‘it’ is. (Air)
+The need to emotionally connect with ‘it’ and to decide whether ‘it’ is agreeable or not. (Water)
+In combination with the qualities, the elements are major building blocks of the zodiac and therefore provide an
+aid to understanding each of the twelve signs. Individuals and all horoscopes are made up of all the elements and
+qualities but some birth charts will have an obvious emphasis on some and an under-emphasis on others. Thus, an
+understanding of the elements and modes does more than foster an understanding of the signs: it can provide a
+starting point towards understanding the whole horoscope. While what follows concentrates on the elements in
+terms of human experience, it is no less relevant to consider what a preponderance or lack of an element might
+mean in a horoscope set for a company, country or event. For example, it is not uncommon for horoscopes set for
+the time of accidents to be weak in the earth element.
+Fire – Aries, Leo, Sagittarius
+Fire provides warmth and light and, just as heat always rises, the fire signs are characterized by their upbeat
+quality, their enthusiasm, their innate faith in life and, often, in themselves. Frequently there is an infectious
+optimism and a joy in living; sometimes even a Tigger-like bounce. As with a fire in the grate which becomes
+temporarily subdued for a time when logs are placed on it, the fiery type isn’t crushed for long. Neither does
+classic fire hold grudges. Having said that, if there is a stronger presence of earth or water in a horoscope, these
+elements can do much to dampen the planets that are in fire, while planets in air will fan the flames.
+The fire signs have a vision of how things could be and a gift for inspiration; each fire sign in differing ways can
+ignite others into enthusiasm and action. Aries ignites with the idea of a cause or of being a pioneer or warrior; Leo
+inspires others through appealing to honour, loyalty or the noble spirit; while Sagittarius gets others going through
+its quest for meaning and desire ‘to go further’, whether this be physically, emotionally or spiritually. Thus, the
+purpose of fire is to lead, inspire and imbue others with confidence. The fire signs are positive and tend towards
+extroversion and spontaneity. Fire is stimulating and good at just ‘making things happen’. However, the classic
+fiery type has a dislike of any kind of passive situation and undervalues the quality of just ‘being’. Fire has a
+speedy quality, it provides the impulse to do something and also the vision of what the completed thing might be
+like. The fiery type can sniff future possibilities and believe that they will become reality, and convince others that
+they will, too.
+
+<<<PAGE 28>>>
+Overdeveloped, the fire signs periodically suffer from momentary collapse, they can burn themselves out by doing
+too much. They can also exhaust others, particularly more pragmatic types, by waxing enthusiastically over
+matters about which there is very little to enthuse.
+Idealism rather than realism is the gift of fire – with one’s head on the ceiling it follows naturally that one’s
+feet can’t touch the floor. Calmness, poise, sensitivity, empathy and subtlety are traits that don’t come easily
+to the fiery type but may of course be found in other parts of the chart.
+Earth – Taurus, Virgo, Capricorn
+Our planet – the Earth – supports all life; we walk on it and we grow things in it. Not surprisingly, the earthy type
+of person tends to be reliable and dependable Practical, thorough, realistic and ‘down-to-earth’, those who vibrate
+strongly to this element are usually comfortable with life’s responsibilities, with earning a living, and with caring
+for and maintaining the body. The earthy type understands and works in accord with the limitations of the material
+world. They understand money and possessions and are aware of their own and others’ reliance on these things.
+Earth is concerned with the ‘real’ world and, unlike fire, is not that interested in future possibilities. Each of the
+earth signs has an appreciation for what is real and tangible, a concern for what ‘is’, not for what ‘might be’.
+Taurus and Capricorn especially want to produce something in tangible form, ideally something that can be seen
+and measured. Earth is at home with matter and feels quite insecure without it. This can apply to Virgo too, but
+Virgo with its mutable quality and Mercury rulership is perhaps the least earthy of the earth signs, feeling as it does
+slightly airy or more like sand.
+The earth signs tend to be concerned with security in financial and material terms. Some earthy types will be
+acquisitive and ambitious to have a ‘good life’, but, for many, being secure materially doesn’t necessarily mean
+being rich. The needs of the earth signs (whose goals in life may be narrower than their fiery counterparts) may be
+comparatively few, and many an earthy type feels comfortable as long as they have just enough, plus a little bit
+more. Classically, the earthy type has a fairly even and calm temperament. A dry sense of humour may also be in
+evidence.
+If overdeveloped in the birth chart, earth can get bogged down by material considerations, reluctant to let anything
+threaten their material security. Unable to take risks, even if making life changes may be just what is required. At
+worst, overdeveloped earth can be narrow, overly cautious, conventional and conservative, perhaps even a plodder
+and a slave to routine. The presence of fire or the strength of fiery planets can do much to offset some of these
+tendencies.
+Air – Gemini, Libra, Aquarius
+Air has no form: it moves more from side to side than up and down, although air can and does go everywhere. Air
+ensures that there is no such thing as empty space. The right/left movement of air symbolizes the basically even
+temperament of the airy type. All sound, including speech and music, is dependent on air as all sound is produced
+by some kind of vibration.
+Fire envisioned something, earth produced it and now air has to inform everyone about it. It is also the task of air
+to consider the implications of what has been produced and to generally decide where it falls in the general scheme
+of things.
+The strong need of those with an emphasis on the air signs is to communicate and to feel communicated with, so
+relationships are essential to the airy type. While not necessarily warm or involved, typically airy people have
+strong social skills; they understand about give and take and don’t get easily ruffled or take offence unnecessarily.
+In many ways the social skills arise out of the airy ability to keep things in perspective and proportion. The airy
+quality adds rationality, objectivity and an ability to take the long view. The strongly airy type may be interested in
+your point of view and able to understand it, even without necessarily agreeing with you. Not one of the air signs is
+depicted by animals and this also gives a clue to the very civilized nature of these signs.
+At best, the airy type is refined, humane and courteous, with an awareness of the rights of others and a true sense
+of fair play. At worst, and if overdeveloped, the airy type can be unrealistic and overly rational, ‘heady’ and
+
+<<<PAGE 29>>>
+theoretical. Air tends to see life in patterns and formulas and then coerce all of life experience into those formulas.
+The problem is that things in practice can often be very different to how they are in theory. At worst, air is a slave
+to theory and principles, and the overly airy type can become out of touch with the real world and their own more
+personal needs. Excess air can also produce an indecisive, anxious and scattered quality.
+Water – Cancer, Scorpio, Pisces
+In nature, the water element can take on many forms: the babbling brook, a drizzle of rain, a stagnant pond and the
+raging sea are a few images. Undoubtedly water is wet; it lubricates, it cleanses, things can get dissolved in it, and
+without it there would be no life. Water has no form of its own and takes on the shape and colour of its container
+and, even more important, water always goes to the lowest point.
+The water signs tend to be more introverted and downbeat than the other elements. The water signs are concerned
+with emotional security and belonging. With Cancer it is the family that provides a feeling of belonging, with
+Scorpio an intense intimate relationship, and with Pisces it is nothing less than a feeling of oneness with the
+universe, a spiritual belonging. As a glass of water needs the glass in order to feel contained, so the water signs can
+reflect whoever they are with. The water signs tend to be impressionable (Scorpio is less so) and absorbent. Watery
+types tend to be sensitive. They take on board all the feelings, subtleties and nuances around them and ideally
+assimilate what needs to be assimilated and let the rest flow away. At worst the watery type can get waterlogged
+and overwhelmed by all that they have picked up. With all this sensitivity it is not surprising that strongly watery
+types tend to feel vulnerable and exposed and thus tend to be protective, often self-protective, and rather secretive.
+With all the water signs there is a feeling of ‘still waters run deep’, a feeling that what you see is most definitely
+not what you get, that so much more is submerged.
+Working well, water is the most empathetic of the elements and also the most responsive. At best, water can feel as
+you feel. The difficulty is that the overly-watery type may not be able to separate and may not know where you
+leave off and they begin. Overdeveloped, water can be clingy, needy, dependent, irrational, manipulative, unable to
+separate themselves from others and therefore over-identified with all that happens around them.
+Elements in Combination
+From an understanding of individual elements it is only a short step to understanding what they will be like in
+combination. Much could be written here, but I will put it briefly. While the Fire/Earth type may lack subtlety, they
+are likely to be dynamic; a visionary who gets things done, whatever the obstacle. Fire/Air may be an idealist full
+of big ideas (hot air), whereas steamy Fire/Water, a real creative type, will tend towards emotionality and mood
+swings. Earth/Water is the nurturer and burden-carrier of the zodiac and usually very concerned with their own and
+others’ security. Earth/Air is a dry, pragmatic combination, often with a marked sense of humour and a very
+practical intelligence. For the rather sedentary Air/Water type, relationship is everything and a good understanding
+of people may be in evidence.
+Elemental Lacks
+As every horoscope embraces all twelve signs, no element can be truly said to be missing in any horoscope, nor in
+an individual’s make-up. However, an element can be untenanted, i.e. there may be no planets falling in that
+element. Or there may simply be fewer planets in the given element. When this happens, the characteristics of the
+weak or missing element may manifest very strongly but operate from what appears to be an unconscious and less
+accessible standpoint. The individual seems to have no control over, and difficulty processing, whatever the given
+element signifies. Often the element takes on a pessimistic or negative cast. For example, fire is the element most
+at home with intuition, so a lack of fire can manifest as someone whose intuitions tend to be negative; in other
+words they are prone to a world view that expects dreadful things to happen. It is ideal for the writer of lurid horror
+and crime stories.
+Perhaps it is because we humans are all struggling towards wholeness, but we tend to either ‘marry’ or work with
+any strong elemental (or other) lacks in our horoscope. Thus, the person who lacks air may choose partners whose
+
+<<<PAGE 30>>>
+charts are dominated by the air element, or they may work as counsellors or librarians. These are the individuals
+who endlessly collect books and maps. Whatever the so-called ‘missing’ element, we access it from somewhere. It
+is not only the number of planets in a given element which has to be considered but where the planets are falling.
+One might, for instance, have four planets in water in the Seventh House (the house of partners) but not seem
+watery at all. In that instance, it is the partner who will carry and manifest the water element.
+In practice, a lack of an element can manifest in a vast number of different ways, depending to a marked degree on
+which factors are strong in the horoscope. Many charts will not have any obvious elemental imbalance at all, in
+which case the elements are not going to be a way into understanding those horoscopes. Listed below are some of
+the psychological principles to associate with missing elements, followed by common manifestations of elemental
+lacks.
+As a rule the individual has less control over what the given element represents. For example, a lack of water
+person may have less control over their feelings. Basically, the missing element just functions more slowly.
+As already noted, they often become obsessed with what the missing element signifies – they ‘marry’ it or do ‘it’
+for a living. Sometimes an under-emphasis and an over-emphasis on a sign can seem to manifest very similarly,
+even if it is only at first glance.
+Individuals often express the missing element in quite a childlike, unsophisticated and innocent way. For example,
+a lack of earth person may have no embarrassment about revealing their body, and may be seemingly unaware of
+the effect their semi-naked body is having on others.
+Individuals can be very sensitive and ‘touchy’ with respect to what their missing element signifies. So, those with
+air under-emphasized may think others underestimate their brainpower, missing water may have a horror of being
+considered insensitive, and so on.
+Because of this sensitivity, the individual often seeks to overcompensate; the lack of water person may send more
+flowers and thank-you cards, for instance, and the lack of air person may be a great collector of qualifications or
+books.
+On another level, they tend to undervalue what the given element signifies and there is often an emotional charge
+around the difficult area, or a negative interpretation of others who appear to be sophisticated in that area. Thus,
+the lack of air person may have a dislike of ‘intellectuals’, the lack of water a suspicion concerning anyone who is
+‘too emotional’ or ‘sweet’. The lack of earth may accuse others of being too materialistic or dislike what they
+consider to be undue vanity in others. Finally, a person who lacks fire may dislike the world’s gamblers or those
+who appear to get through life just trusting to luck.
+What Constitutes an Elemental Lack?
+There are no hard and fast rules as to what constitutes an elemental lack. Basically if something is not obvious then
+it is probably better to ignore it. Vast swathes of the population do not have strong elemental imbalances and, when
+looking at such horoscopes, the best bet is to move on and concentrate on other chart factors that are obvious. The
+important point to bear in mind, however, is that all planets are not created equal when it comes to assessing
+elemental strength in the chart. Much less emphasis should be given to the element in which the outer planets are
+found, for instance. After all, Pluto may be in a sign for thirty years and Uranus and Neptune are each in a sign for
+seven and fourteen years respectively. Similarly, Jupiter and Saturn need to be given much less weight than the
+personal planets.
+What about Angles and Houses?
+Like the other personal planets, and especially the Sun, Moon and Ascendant ruler, the Ascendant sign itself can be
+weighted fairly strongly in terms of assessing elemental preponderance, whereas the MC should probably be
+ignored from an elemental point of view, as it is not really such a personal point in the chart. However, it
+sometimes occurs that an individual has no planets in a particular element although that element is found on the
+Ascendant or MC. In my view, when an element is found on the Ascendant but scarcely anywhere else, the issue is
+that the individual still lacks the element but has some awareness of the lack and often accesses the element
+through the medium of the sign which is rising. Or someone may have no earthy planets, for instance, but have
+packed earth houses (Second, Sixth, Tenth). In this example, the individual will usually work with the earthy lack
+
+<<<PAGE 31>>>
+in their professional activities. The same would apply if the ‘missing’ element is found on the MC but nowhere
+else, an example of this being the horoscope for Marilyn Monroe.² Marilyn had no planets in earth, other than
+Chiron, but did have Taurus on her MC. Her career featured her looks and body a great deal, and to an extent her
+physicality is what she is famous for. However, her psychological make-up had all the hallmarks of an earthy lack.
+Absence of Planets in Fire
+While a lack of fire can sometimes manifest as a lack of drive and ‘oomph’ (depending on what the fiery planets –
+Sun, Mars and Jupiter – are up to in the chart), the more common difficulties concern accessing trust and faith.
+Faith and confidence in oneself, and in life itself, can be elusive. It is not easy for those who lack fire to access the
+childlike knowledge that things will ‘turn out all right in the end’. The intuitions and hunches of the individual
+lacking fire tend to be negative. This may manifest as frequent feelings that something terrible is going to happen,
+such as dramatic ‘something is out to get me’ imaginings of assaults, robberies, murders and road traffic accidents.
+Superstition is another common manifestation. Many people consult the church, astrologers and clairvoyants (or
+take up these subjects) because of a lack of fire; they think if they know the worst, they can prepare for it! They
+can be slow too to realize that their fate, to a large extent, lies in their own hands. Subjects that defy easy
+explanation are ideal for the individual lacking fire. Subjects such as astrology and tarot can be beneficial because
+they open up the notion of possibility. Any kind of play and fun situations are also ideal as the ability to ‘let go’ can
+be elusive for some with the fire signs untenanted.
+Absence of Planets in Earth
+Difficulty with the earth element often manifests as an individual being out of touch with their body, with money
+or with ‘things’. Equally the individual may be over-delighted with the earthy world and many have a strong, if
+naïve, appreciation of nature and the natural world. There can be fascination with the body and a childlike need to
+exhibit it, thus models, people who wear little or too tight clothing, even people who frequent nudist colonies, may
+all have a lack of planets in earth. Hypochondria can be another manifestation; the individual wonders if they have
+a terminal illness with each passing pain, whereas it is more likely that they simply forgot to stop for lunch! A lack
+of earth can also sometimes contribute to addictive personality types, as those with a weakness here often have
+difficulty in appreciating when enough is enough or knowing when to stop. An emphasized Saturn in the chart will
+decrease the chance of any addictive tendency, while a strong Neptune may increase it. Clumsiness, losing things
+or getting into debt are other possibilities with a lack of earth. Suggested therapy for those lacking earth can be
+anything physical such as gardening, yoga, massage or simple, physical exercises; anything that will help the
+individual to realize that the body isn’t alien or separate.
+Absence of Planets in Air
+The main problem here can be in seeing the implications of one’s actions and the actions of others. Being able to
+take an overview of a situation can be elusive too, and this can be problematic because glimpsing the larger picture
+enables us to keep things in perspective. Seeing our own needs in the context of the needs of others is another
+offshoot of being able to grasp the wider picture. Thus, individuals lacking in air may have difficulty in co-
+operating and compromising with others, and with behaving in a reasonable way. They may not be able to distance
+themselves from their problems and may be prone to wallowing (especially if the chart is watery) in their pain. For
+some, the prospect of meeting new people and adjusting to new situations can be anxiety-making, so much so that
+making life changes may not come easily. There may be a tendency to think the worst and to be something of an
+Eeyore or ‘voice of doom’. A tendency to worry is the norm here. As a rule, a lack of air by no means diminishes
+the intellectual capacity or ability to think (for example, Einstein lacked air), but it can give rise to a lack of
+confidence in communicative and learning situations. Some will be easily influenced by the opinions of others.
+Missing air people often like maps and subjects that provide some kind of map for living; subjects such as
+psychology or astrology are ideal here as they can help increase a sense of objectivity and perspective.
+Absence of Planets in Water
+The main difficulty in having a lack of water can be in processing feelings. A minority who lack water or who have
+difficulty with the element may be completely out of touch with their feelings to the point of being downright
+
+<<<PAGE 32>>>
+lacking in empathy. In these instances, the feeling realm is felt to be so painful that feelings have become well and
+truly suppressed, usually due to early traumatic experiences. More frequently, though, the difficulty is not that the
+feelings aren’t there – they may exist in abundance – but the individual has a less sophisticated relationship with
+them and less control over them. Rather like a tap when the washer needs replacing, feelings come and go willy-
+nilly. A lack of water can manifest as someone who is super-sensitive: after an argument with a loved one, for
+instance, they might believe that the spat spells the end of the relationship, rather than just the fact they have had a
+tiff. Thus, mismanaged water can be touchy and defensive and feel emotionally raw. There is often a proneness to
+what might be called the ‘grand passion’ – periodically becoming so emotionally attached to someone that the
+individual feels as if they are drowning in feelings. People who lack water often express feelings in a sentimental
+way and are attracted to the more sloppy or childish expression of feelings. Various art forms such as music and
+painting are useful to those lacking water as they provide an outlet for the expression of feelings. And almost any
+situations involving people have the same potential.
+
+<<<PAGE 33>>>
+The Modes (or Qualities or Quadruplicities)
+As well as being divided into the four elements, the signs of the zodiac are also classified into three groups of four
+signs, known as the quadruplicities, modes or qualities.
+FIRE
+EARTH
+AIR
+WATER
+CARDINAL
+Aries
+Capricorn
+Libra
+Cancer
+FIXED
+Leo
+Taurus
+Aquarius
+Scorpio
+MUTABLE
+Sagittarius
+Virgo
+Gemini
+Pisces
+
+<<<PAGE 34>>>
+As with the elements, an understanding of the quadruplicities is central to a good understanding of the horoscope.
+As well as helping us to understand the zodiac signs, any imbalances in terms of the modes usually gives clues as
+to how the individual both views and deals with conflict. Given that life itself is about conflict, we may as well say
+that the modes have much to tell us about how we deal with life itself. All twelve signs exist in each chart and most
+horoscopes will seem to have a fair balance between the modes, but some will obviously show a significant
+preponderance or lack, which, when it occurs, can be central to an understanding of the chart overall. More to the
+point, it is estimated that 40% of charts will have at least one T-square configuration (see page 228) and 5% of
+charts will have a Grand Cross (see page 229).³ The way into the first steps of understanding how a given T-square
+or Grand Cross will operate is through careful consideration of the mode in which the configuration falls.
+Cardinality – Aries, Cancer, Libra, Capricorn
+The Sun’s entry into each of the cardinal signs marks the beginning of the seasons for both Northern and Southern
+Hemispheres (albeit with different seasons), and the qualities of beginnings, fresh starts and change are strongly
+associated with cardinality. Having said that, this initiatory quality may sometimes be less obvious where the
+individual signs themselves are concerned. Aries is certainly concerned with pushing forward but Cancer can
+appear timid and Libra is characterized by indecision. However, each sign can be initiatory in its own particular
+fields. The word ‘cardinal’ comes from the Latin word cardo meaning ‘upon which life hinges’. In the same way
+the cardinal signs concern themselves with the central conflicts and issues of life. The conflicts are those everyday
+pulls upon our time, interests and resources on which, for many people, life does indeed hinge: how to forge ahead,
+be a pioneer, do one’s own thing (Aries), while honouring the need to co-operate and unite with another (Libra),
+and at the same time acknowledging the need to be established and respected in the world, to have status and a
+career (Capricorn), versus the need for home, familiarity, protection (Cancer), or even the needs and demands of
+our parents or of being a parent (Cancer and Capricorn).
+People who vibrate strongly to cardinality tend to see conflict as being something external to themselves rather
+than as a reflection of something which is going on within them. Their energies are taken up with meeting the
+challenges presented by the outer world and perhaps by seeking to conquer them. The cardinal type doesn’t stick in
+ruts; if unhappy with a situation they go on to pastures new. Keen for action, people who vibrate strongly to
+cardinality (especially Aries) are not afraid to get things going and to roll up their sleeves. The problem with an
+overdose of cardinality can be the tendency to create a crisis if one doesn’t already exist. Initiatory, pro-active and
+opportunistic, there can be a lot of drive and dynamism here with a corresponding dislike of restriction. A strongly
+cardinal type will not like to be hampered by restraints imposed by others or by circumstance, and often they will
+feel more comfortable being in charge. Cardinal types like to run things, to be in the driving seat – even before
+they have learned to drive. This is especially obvious in those with cardinal T-squares, and more especially Grand
+Crosses, who can suffer greatly from frustration, so urgent is the need to do their own thing in their own way.
+Suffering from overdrive and often an over-the-top competitive spirit, they will often be anti-establishment and
+anti the usual way of doing things. Poor planning is another feature of this action-at-any-price type. Thus, direct
+head-on confrontations with others are likely. Poise, calmness and some ability to accept the limitations both of
+oneself and others need to be cultivated.
+From the health/body perspective, the cardinal signs can be associated with the onset of illness and acute
+conditions which invite swift intervention from health care practitioners. Acute situations left unattended are self-
+limiting; the organism will either recover (usually) and grow stronger, or will die. Acute disease is less observable
+in Western society these days as symptoms tend to be suppressed with antibiotics, rather than allowed to work their
+way through the system.
+Well developed
+Overdeveloped
+U
+• Able to start things
+• Always starting things – possibly a difficulty in completing
+•
+
+<<<PAGE 35>>>
+• Self-motivated • Goal-orientated
+• Finds co-operating with others difficult, because so bent on the given goal
+•
+• Good in crisis
+• Creates crisis and stirs up problems
+•
+• In touch with the ‘here and now’
+• Concerned only with ‘here and now’ issues
+•
+
+<<<PAGE 36>>>
+Fixity – Taurus, Leo, Scorpio, Aquarius
+The notion of attachment is central to an understanding of the fixed perspective: Taurus can be overly attached to
+the material world and to trusting only what is tangible, Leo’s attachment is to pride, Scorpio’s to feelings and
+Aquarius’s to ideas.
+Fixity provides persistence, stability, constancy, reliability and thus the capacity for endurance. Endurance because
+the fixed type can put up with situations that cardinal or mutable types would find intolerable. Fixed types are the
+ones you want with you over the long haul, the concentrated kind of energy which is more akin to a cart-horse than
+a thoroughbred, highly-strung racehorse. On the down side, fixity tends to get stuck in ruts or stalemate situations.
+Letting go, whether of people, feelings, things or ideas, does not come easily to those overly developed in this
+area.
+Fixity has great resistance to change and to being pushed, pulled or coerced. The meaning is akin to those times
+which mark the middle of the seasons, when change seems far off, for example, in high summer when spring is
+long gone and before there is even a hint of autumn in the air. The fixed time is a time for establishing, for making
+secure and building upon what cardinality started. The energy is concentrated, intense and prolonged. To fix
+something is to mend it and the fixed types are the great sustainers and preservers of the status quo. There is also
+the notion of being ‘in a fix’ where it seems as if movement in any direction is impossible. Those with a fixed T-
+square or more especially a Grand Cross can be especially unyielding and stubborn or particularly determined and
+persistent, depending on one’s point of view. A ‘might makes right’ attitude can be the downfall of this type, who
+needs to learn to cultivate flexibility.
+From the health/body perspective, fixity can be associated with chronic disease: diseases that take years to
+develop, which will slow the individual down, go on forever and simply have to be endured. Slow poisoning of the
+body and a holding on to pain are also fixed characteristics.
+Well developed
+Overdeveloped
+Underdeveloped
+• Determined and persistent
+• Stubborn, obstinate and inflexible
+• Lacking strength and s
+• Self-willed
+• Overly wilful
+• Lack of willpower
+• Constant, reliable and loyal
+• Rigid, implacable and unable to adapt
+• Inconstant and irresolu
+• Sticks at it • Resistant to change
+• Sticks in ruts • Inert, stuck
+• Sticks at nothing
+• Enormous energy … once it gets going
+• Tends to conserve energy (a pressure cooker)
+• Blown every which w
+
+<<<PAGE 37>>>
+Mutability - Gemini, Virgo, Sagittarius, Pisces
+The mutable signs equate with the end of the seasons, for example when summer is turning to autumn. Not
+surprisingly, therefore, those people who vibrate strongly to this mode are good at coping with uncertainty and
+shifting goalposts. They are able to live in a state of flux and transition, always ready to respond to whatever is
+required of them. Not expecting (or even necessarily wanting) anything to be permanent, the mutable signs all
+have some tendency towards restlessness.
+All the mutable signs are concerned with ideas (Gemini and Virgo) or beliefs (Sagittarius and Pisces), and since
+each has some tendency to experience life vicariously, to read about it, to talk about it or to philosophize about it,
+the challenge of the mutable type can sometimes be to actually live life. These are the signs that are concerned
+with their relationship to life itself, and are neither goal-orientated nor into power. Thus, although commitment-
+shy, the mutable type can be the easiest to get along with, as they don’t tread so much on others’ toes. The mutable
+types can hang on in there if they are interested; otherwise, forever restless, they move on. And when faced with
+conflict, discord or confrontation, there is a strong tendency to avoid it by simply changing direction. The
+establishment of goals and the achievement of them can therefore be particularly elusive, especially if a T-square
+or Grand Cross is involved. And those with mutable T-squares and Grand Crosses are particularly prone to anxiety,
+restlessness and inconsistency. To be productive, a modicum of self-discipline is essential here, as is the ability to
+set and keep to realistic goals. With mutable types there is not the urge to get to the root of things or put up with
+them (as with fixity), or to get on top of them (cardinality), but mutability is very gifted at adapting to
+circumstance. The mutable signs are sometimes called the ‘common’ signs and surely the reason for this is that the
+usual or common way of dealing with life is for us to adapt to it. The uncommon person is the person who gets the
+world to bend to them.
+From a health perspective, as elsewhere, the main problem with the mutable signs can be a lack of resistance.
+These are the types who pick up every sneeze that is going and get anxious whenever a decision or commitment is
+required of them.
+Well developed
+Overdeveloped
+Un
+• Adaptable and flexible
+• Overly yielding and malleable
+• U
+• Able to co-exist with each and every circumstance
+• Too easily side-tracked
+• Inclusive in orientation
+• Unable to exclude
+• Ability to adjust
+• Adjusts inappropriately – shifts when should hold firm
+• U
+• Curious, searching
+• Without a goal, directionless
+• U
+• Scattered. Anxious
+• N
+
+<<<PAGE 38>>>
+Notes – Chapter 2: Elements and Modes
+1. Suggested further reading: Astrology, Psychology and the Four Elements, Stephen Arroyo, CRCS Publications,
+1975.
+2. Marilyn Monroe: 1 June 1926, 9:30 a.m. PST, Los Angeles, California (34N03, 118W15). Source: Birth
+certificate.
+3. Dean, Geoffrey, and Mather, Arthur, Recent Advances in Natal Astrology, The Astrological Association, 1977.
+
+<<<PAGE 39>>>
+OceanofPDF.com
+
+<<<PAGE 40>>>
+Chapter 3
+The Zodiac Signs
+The twelve signs of the zodiac can be described as ‘ways of being’ or types
+of energy. Most people are familiar with their Sun sign, but actually each
+planet is modified in its expression by the zodiac sign in which it is found.
+Similarly the activities of each house in a horoscope are modified by the
+sign on its cusp.
+It is important to remember that the signs are not as important as Sun sign
+books and newspaper columns would have us believe. The planets, and the
+relationships between the planets and angles, are far more important in
+chart interpretation than signs. The signs are like adjectives, the words that
+describe, whereas the planets are the nouns.
+Symbols and Glyphs
+Each of the twelve signs has a symbol attached to it: e.g. Aries is the Ram,
+Taurus is the Bull, and so on. Basically, symbols are compressed and
+concentrated carriers of meaning. Each sign, like each planet, has a glyph, a
+pictorial representation to convey quickly the given symbol and a whole
+host of shorthand meanings and associations. Society as a whole is full of
+logos – instantly recognizable images – which convey information and
+feelings quickly and efficiently to people whose language may not even be
+the same. In the same way that we learn the common language of road
+signs, we can learn the astrological symbols (or glyphs) and use them as a
+shorthand.
+The Signs as Developmental Phases
+
+<<<PAGE 41>>>
+The signs can be read as a developmental story. For instance, one common
+story goes along the lines that Aries pioneered the land, Taurus built on it,
+Gemini went to meet the neighbours, Cancer started a family, and so on. In
+fact, one could come up with a range of stories while travelling through the
+zodiac. The signs grow more complex as one travels through them. At Aries
+we are simply at the embryonic ‘I’ stage of development, but travelling
+through all twelve we learn about ourselves, about relating to others, and
+about society and the universe as a whole. By the time we arrive at Pisces,
+more spiritual dimensions are in the frame.
+Another significant point about the order of the signs is that each sign reacts
+against its predecessor, attempting to compensate for any lacks or extremes
+that the previous sign brought with it.
+Sign Groupings
+As we have already seen, the signs can be grouped in terms of their element
+or mode. Dividing signs in other ways can also be helpful to their
+understanding and, as with elemental or modal imbalances, can sometimes
+provide an important ‘in’ into understanding a horoscope.
+The twelve signs neatly fall into three sectors of four signs. The first sector,
+comprising the first four signs (Aries, Taurus, Gemini and Cancer), is
+concerned with the basics of life, what might be termed fundamental or
+survival needs. The next four signs (Leo, Virgo, Libra and Scorpio) venture
+into more social and relationship issues, while the last four signs
+(Sagittarius, Capricorn, Aquarius and Pisces) concern themselves with
+collective or universal matters and, in the case of Pisces, the spiritual realm.
+Sometimes a horoscope has an emphasis or under-emphasis on one of these
+three groupings and this can provide the all-important entry into
+understanding what the chart and individual are about. For instance, where
+there are no planets in the first four signs (or, if one is using this idea with
+the houses, the first four houses), the individual may put their own personal
+needs aside or be out of touch with them. Where there are no planets in the
+last four signs (or houses), the person may ignore some of the larger
+questions of life or the wider world. The meanings of the various
+permutations should be fairly obvious. Not too much stress should be laid
+
+<<<PAGE 42>>>
+on this idea, unless, as usual, it is also borne out by other factors. For
+instance, if the houses tenanted also reflect similar ideas to the signs that are
+tenanted (e.g. no planets situated in the last four signs and no planets in the
+last four houses either), this could be taken as being significant.
+Sections on the Body
+Health comments must not be taken too seriously as all twelve signs do
+appear in every horoscope and, as with everything, the whole chart has to
+be considered and each individual factor appropriately weighted to assess
+its importance (or lack of). In general terms, though, health comments
+based on signs (which can only ever be vague) apply not only to your Sun
+sign but also to the sign on your Sixth House cusp and possibly your
+ascending sign, too. Note that the sign position of Saturn is often a weak
+area of the body.
+Points to Consider When Using this Section
+Learning about the signs should help you to interpret the various planets
+and angles in a horoscope from the point of view of their sign. The
+cookbook sections under each planet will also help you do this.
+As there has been so much written on Sun signs, they have not been
+emphasized in this book but this section should help you to understand the
+main Sun sign characteristics. Just remember that Sun signs are hugely
+over-emphasized in the press, and that our Sun describes more what we are
+striving to become than a set of characteristics that are already completely
+ours.
+Every sign is contained within each horoscope somewhere; you can tell in
+which area(s) of life you are at your most Taurean or Geminian, for
+instance, by looking for the houses (and cusps) where those signs are to be
+found. Don’t forget that the ruler of the house cusp is crucial and will give
+you more information. This is explained in more detail on pages 300–1.
+
+<<<PAGE 43>>>
+Aries
+Element: Fire
+Mode: Cardinal
+Ruler: Mars
+The Symbol and Glyph
+The Ram is the symbol for Aries and the glyph of the sign can be
+interpreted as being the horns and nose of the male sheep; the so-called
+battering ram. The beginning of Aries starts with the first day of spring (in
+the Northern Hemisphere), the time of new beginnings. Aries rules the head
+and the glyph also resembles the eyebrows and nose.
+General Characteristics
+As the first sign of the zodiac, Aries is concerned with new beginnings.
+Being first is a key to much of the psychological traits of the sign and also
+to its vulnerability and naïveté. Any planet in Aries is usually affected with
+this ‘being first’ and competitive quality. But despite the theme of being
+first, many an Aries type, in my experience, appears to be the great copier
+of the zodiac: if you have got it then Aries wants it. Aries will pick up an
+idea, run with it and become famous for it as if no one had ever thought of
+it before. Aries can be like a child revelling enthusiastically in the discovery
+of something, joyfully unaware that countless others have previously made
+the same discovery.
+Pioneers have courage in embarking into the unknown. However, doing
+things for the first time (or, never having asked, believing them to be
+for the first time) usually means that one is ill-prepared. Little wonder
+
+<<<PAGE 44>>>
+that the sign is associated with traits such as fervour, enthusiasm,
+immaturity and naïveté and also with impetuosity, foolhardiness and
+recklessness. These are qualities that go with youth, vitality and the
+pioneering spirit. They also on occasion go with mischief-making and
+generally getting oneself into hot water. Mythical stories of
+swashbuckling heroes and knights on white chargers rescuing damsels
+in distress (e.g. Robin Hood) all have an Arien ring to them. Having
+said that, it should be added that planets in Aries can represent either
+the rescuer (Robin) or the rescued (Maid Marian), and not necessarily
+along gender lines.
+Aries needs action; a pro-active sign, it isn’t Aries’ style to idly sit around
+waiting for something to happen. Aries meets life head-on. Having a cause
+of some kind brings out the best of the sign, and by that I mean something
+or someone to fight for or, at least, something to do. Aries is good in
+situations which require quick decision-making or have a trouble-shooting
+aspect to them. Anything which has the aspect of chase or conquest is also
+ideal. Activities that require reflection, self-doubt or compromise, on the
+other hand, will often fall way outside the typical Arien league.
+The Aries quality can be arrogant, impulsive, impatient and sometimes
+downright reckless, but the vitality and enthusiasm of the sign can do much
+to spur others into action. Planets in Aries can also spur other parts of the
+horoscope into action. On the other hand, those who vibrate strongly to the
+sign can be overly self-centred and opportunistic, and the often seemingly
+naïve way of pushing themselves forward can be antisocial and may offend
+more subtle types. The ram is honest and direct in its dealings – there is no
+going round the houses. It may not be easy for the strongly Arien person to
+see another’s point of view; co-operation doesn’t come easily to those who
+vibrate to Aries, but the real weakness of the sign stems from the inability to
+separate oneself from what is going on and thus a tendency to take
+everything personally.
+Sun and Moon Ariens are often accused, sometimes quite justifiably, of
+being bossy, but the sign is not really into power or even into leadership for
+its own sake. It is just that Aries is self-motivated and doesn’t need or seek
+the approval, permission or co-operation of others. Typically, planets in
+Aries (and the Arien type generally) just want to do things in their own
+way; that is, not to be hampered, constrained or fettered by anyone or even
+
+<<<PAGE 45>>>
+by the energies described by other chart factors. Planets in Aries (in hard
+aspect) will often give rise to a feeling of frustration. This is sometimes
+because there can be a ‘taking over’ quality and a tendency to butt in
+uninvited in those with this sign strong. Others may not take kindly to such
+interference and may make efforts to block it. This pushiness is largely
+because of the need for action and the general impatience at the perceived
+slow pace of life and the slow pace of others. Aries hates sitting round while
+others are making decisions or spending too much time in preparing to act.
+Thus, Aries types make bad subordinates and are not usually good as team
+players either for, again, they tend to find others far too slow. Aries is
+wonderful at just doing, getting on with it, whatever the project in hand
+actually is, but the type tends to lack staying power. The purpose of Aries is
+to initiate, not necessarily to complete.
+Aries thrives best on challenge but some degree of preparedness will always
+increase the chances of success in any undertaking. And understanding that
+results cannot always be quick will limit the feelings of frustration when
+obstacles do occur. As with Mars, the ruler of Aries, those with the Sun or
+Moon in Aries can be prone in particular to whining when things do not go
+as they want. Indeed, the phrase ‘I want’ is traditionally a key phrase of this
+sign. ‘I want it now’ might be more accurate. I am indebted to the astrologer
+John Alexander for his very accurate observation that the Sun in Aries
+person often reports feeling abandoned or, at least, left out of things. This
+can of course result from the difficulty that Aries can have in co-operating.
+For instance, imagine the Arien whose choice of dinner is a Mexican take-
+out while all his friends want to dine at the local Chinese. He is then
+nonplussed when they all leave him for noodles and sweet and sour! But the
+feeling of being left out can also be a reflection of how much Aries wants to
+be in the thick of whatever is going on. It is not that he is left out any more
+than anyone else, merely that he wants to be included more.
+The Wider World
+Countries who have historically been aggressors and colonizers often
+vibrate to Aries. England would be one example (but see also Capricorn). I
+have noted that people from overseas who settle in England often have
+
+<<<PAGE 46>>>
+Aries strong in their charts. In the animal world, male sheep and any
+animals that tend to ‘lock horns’ over matters of territory or courtship can
+be viewed as Arien. The robin with its territorial attitude, cheeky ways
+(always bravely waiting while the bird table is being restocked) and red
+breast also has a touch of the Ram about it.
+Colours/Taste/Style
+Red for ‘go’ is the classic Aries colour. But black and white also belong
+here, for those who vibrate strongly to this sign tend to see things in black
+and white terms. Typically, Aries makes strong statements in matters of
+taste: perhaps the wearing of bold colours, the latest hairstyle or the shortest
+hem-lines. Flamboyant or not, Aries is the sign that likes hats. This can even
+be seen in non-Aries types when their progressed Sun or Moon enters the
+sign. More specifically, those with natal Sun conjunct natal Mercury in
+Aries particularly like wearing hats.
+The Body
+Aries holds dominion over the head, and not only has a propensity for many
+head-related disorders (headaches, migraine, concussion, neuralgia) but
+many ‘head’ words can be appropriate for the sign. The Arien principle can
+be impulsive and reckless; success only comes about when the thinking
+process is engaged first. In short, Aries needs to ‘use its head’. Failure to
+think first can make those who vibrate strongly to this sign rather accident-
+prone. On a physical level, injuries to the head and eyes are likely. Many
+Ariens have a prominent nose (or eyebrows and nose) or some kind of
+facial scar. Those with Sun in Aries, especially, are often well-known
+among their friends for gazing very directly at you or, in shyer types, for not
+being able to look you in the eye when talking.
+Planets in Aries
+
+<<<PAGE 47>>>
+Planets here are usually speeded up and operate in a more impulsive,
+adventurous, impetuous, decisive or courageous way, but the action
+associated with the planet may only be short-lived. The quality of daring
+can be added to the psychological traits associated with the given planet.
+Any planets here will also take on a competitive edge. (Note that Saturn in
+Aries may be frightened of competition, both fearful of coming first and
+fearful of not coming first.)
+Aries on a House Cusp
+This shows the area of life where we may show daring. Where we may be
+willing to bravely start anew. Where we may be competitive. Here, we may
+be eager for action – and possibly able to spur others into action. This area
+could be where we may be able to say ‘I’m going do what I want to do,
+when I want to do it’ – an area where we act first and think later. The Aries
+house may act as a launch pad or starting point for many of the individual’s
+activities. For instance, Aries on the Seventh House cusp may imply that it
+is one’s partner, or the requirements of partnership, that spurs one into
+action.
+
+<<<PAGE 48>>>
+Taurus
+Element: Earth
+Mode: Fixed
+Ruler: Venus
+The Symbol and Glyph
+The glyph can be taken to represent the head and horns of the Bull, the
+Taurean symbol. The bull conjures up a picture of enormous strength: an
+animal slow to move but a force to be reckoned with when aroused. The
+bull is a living bulwark, a rampart, a barricade, simply by virtue of its size
+and strength. The bull is a fertile animal but the ‘reined in bull’, the Ox (a
+mature castrated male), is capable of carrying the heaviest of loads without
+buckling. Baseball teams often call themselves ‘Bulls’ (e.g. the Chicago
+Bulls) to indicate the strength and endurance of the team. Bulls are also
+taken to symbolize fertility and some have even viewed the Taurean glyph
+as depicting fallopian tubes leading into the uterus.
+General Characteristics
+If it was the job of Aries to start things, then the tasks of sustaining, taking
+root and accumulating fall to Taurus. Whereas Aries wanted ‘to do’, Taurus
+doesn’t particularly want to do, or want to reflect or want to speculate. The
+Taurean impulse is just to be and to have. Taurus seeks to create or acquire
+something and then hold on to it. Little wonder therefore that the sign has a
+reputation for being possessive.
+As well as being patient, placid and calm, Taurus is the most enduring,
+persistent, and steadfast of all the signs: an oak tree rather than a willow.
+
+<<<PAGE 49>>>
+Oak trees are not as good at bending as willows but it has to be
+acknowledged that oak trees are much more satisfying to lean against. And
+you can lean against and rely on those whose chart vibrates strongly to
+Taurus. Persevering and determined, if not stubborn and obstinate, the Bull
+is deliberate and cannot easily be pulled, pushed or coerced into anything
+against its will. With some planets in Taurus (e.g. Mars), resistance to
+movement and change can sometimes give rise to ‘bullying’ behaviour,
+especially in people who have not learned how to get their needs met in
+healthier, more conscious ways. As any farmer will testify, under stress
+(‘stress’ here might be defined as undue disturbance) even normally placid
+cattle can become aggressive, although on the whole one might associate
+Taurus with more passive aggression.
+While not the most imaginative sign, Taurus is blessed with realism and
+common sense. Those with many planets here want an unchanging life and
+seek to preserve the status quo and stability in almost all areas. Many
+decisions, whether or not to do something, stem consciously or
+unconsciously from this desire to have a quiet life and basically from a
+strong instinct for self-preservation. Taurean philosophy dictates that they
+leave well alone – permanently if possible, or at least until, in true bovine
+style, they have had the chance to chew things over slowly and carefully.
+Thus, all else in the horoscope being equal, the Taurean type doesn’t
+interfere with (or even have an opinion about) the affairs of others. Equally,
+Taurus doesn’t like to be interfered with themselves.
+Practical in orientation and disliking of the purely theoretical, Taurus
+doesn’t easily believe in anything that can’t be seen or touched. Taurus
+likes the simple life and, indeed, in most matters prefers simplicity.
+Taurus doesn’t cope well with complexity or complex types of people.
+Pragmatic and down-to-earth, those who vibrate strongly to this sign
+don’t like things unnecessarily ‘wrapped up’. They can see through
+bullshit. Indeed, this is typical Taurean language, so very often
+appreciative of lavatory humour.
+The concern of Taurus is with producing and building something tangible.
+Building is undoubtedly a keyword to use with respect to any planet found
+in this sign. There can be a capacity for building slowly upon previous
+efforts and the building-block approach to life has a slow-but-steady aspect
+to it which is distinctly Taurean. This considered approach can often bring
+
+<<<PAGE 50>>>
+in real wealth in the longer term. An educational role is not the most
+obvious one for the typical Bull but if there is a need to teach it will be done
+in a clear, step-by-step, keep-it-simple, building blocks kind of way.
+The Bull is also very concerned with security and stability. For those with a
+Taurean emphasis in the chart, it is the basics of life – home, food and
+physical security – that must not be endangered. Thus, Taurus will not
+easily do anything that might threaten their physical or material security and
+can appear to be rather plodding and stick-in-the-mud to more carefree,
+adventurous types.
+Basically, Taurus is stoical. Not easily ruffled, those with an emphasis here
+may seem to be unaffected by grief or joy, pain or pleasure. This is because
+of an ability to calmly accept everything that happens as the unavoidable
+result of the natural order of things. Thus, Taurus, perhaps more than any
+other sign, is in touch with nature. There is usually also an appreciation of
+nature’s bounty, an appreciation of the beauty and riches of the land and of
+the food it produces. In life and in art, this contributes to a sense of
+proportion. Fundamentally, the rhythms of nature are unchanging, which
+may be another reason why Taurus feels so at home with the natural world.
+Being in touch with nature also includes being in touch with the body: its
+needs and its skills. As well as being a very earthy and   sign, the senses
+tend to be highly developed – taste, smell and touch in particular. The
+strong sense of touch, texture and form found with a variety of placements
+in Taurus are ideal for those who work in occupations dealing with textiles.
+Ideal too for anyone whose life involves tactile skills – massage,
+aromatherapy or healing, for instance. Construction, musical, agricultural
+and horticultural trades are also potentially Taurean. Music is applicable
+because Taurus is so good with all things oral – singing as well as eating!
+The vulnerability of some with Taurus emphasized in their chart can lie in
+the tendency to be addicted to physical comforts and the good life. Taurus
+can be a self-indulgent and lazy sign, prone to inertia and stagnation, to
+conserving energy rather than using it.
+With its realistic two (four?) feet on the ground and strong sense of
+proportion, Taurus is perhaps one of the sanest signs of the zodiac.
+Emotionally, sexually and in matters requiring anger management, the type
+is characterized by quiet resistance, slow arousal and considerable
+endurance. The down-to-earth quality of the sign also contributes to its
+
+<<<PAGE 51>>>
+sense of humour as much laughter is gleaned from the more basic attributes
+of human nature. Thus, Taurean humour tends to be simple and earthy
+unless other parts of the horoscope predominate.
+Staunch might be another keyword for the sign. Like the Bull, Taurus
+is so firm and steadfast, it checks the flow of whatever comes into its
+path. Therefore, Taurean energy can allay anxiety and protect, but
+equally it can block change and progress.
+The Wider World
+Although Sagittarius is traditionally associated with Spain, I associate that
+country with Taurus. This is partly through experience with clients and
+Spanish news stories but also because Spain is a country that is fertile, dry
+and famed as the land of bullfighting. The country is home to many an
+earthy peasant who, when you get to know them, is often surprisingly well-
+off. Cattle (especially bulls!) and potentially all farm animals including pigs
+are reminiscent of Taurus. In other words, they are animals that get
+converted to food! Note that the police (which I believe comes under this
+sign) are often referred to as ‘pigs’. Taurus would also apply to PC Plod.
+Detectives come under the umbrella of the opposite sign, Scorpio. Ireland is
+another country that has traditionally been associated with Taurus, an
+attribution that I can neither confirm or deny but which seems reasonable
+given the highly rural nature of that country.
+Colours/Taste/Style
+Taurus is usually associated with pastel shades or colours associated with
+nature. Pale pink, green and blue-green sometimes feature. There can be a
+liking for floral patterns and those who vibrate strongly to the sign may be
+quite traditional in their tastes. Whatever the preferred colours, Taurus is
+always very hot on texture – there will invariably be a liking for fabrics that
+feel good (e.g. velvet or silk) in those with this sign strongly emphasized.
+
+<<<PAGE 52>>>
+The Body
+The Taurean bodily terrain is the neck, including the larynx and thyroid.
+The neck of the Taurus type is often noticeable for its long, slender beauty
+or, conversely, its thickness. Taurus is the sign to be associated with a
+beautiful voice, and in terms of health may be prone to sore throats, and
+pain and stiffness in the neck.
+Planets in Taurus
+Planets in Taurus tend to operate more slowly, simply and often more
+cautiously than in other signs. Taurus will add a traditional and usually a
+stable quality to the psychology of the given planet, the affairs of which
+may also be tinged by matters of money or beauty. Or at least tinged with
+the notion of ownership.
+Taurus on a House Cusp
+In this house, one might want value for money. For example, one woman
+with Taurus on the Second House cusp told me she bought designer clothes
+but only in the sales! In our Taurean house we may stick to what is tried and
+tested, be more traditional, be down-to-earth or motivated by matters of
+self-preservation. Here, perhaps, we may be known for being realistic and
+reliable. Sometimes we may be possessive in this area of life. For example,
+Taurus on the Seventh House cusp might imply either that one may have a
+tendency to attract possessive partners or that one might be possessive of
+one’s own partner.
+
+<<<PAGE 53>>>
+Gemini
+Element: Air
+Mode: Mutable
+Ruler: Mercury
+The Symbol and Glyph
+Two twin pillars depicted by vertical lines joined at top and bottom signify
+the Twins, and also the notion of duality. In common parlance, we have the
+expression ‘from pillar to post’ which captures the spirit of Gemini,
+meaning moving hither and thither; going to and fro; from one place or
+predicament to another; travelling backwards and forwards.
+General Characteristics
+One of the key principles of Gemini is that of connection. This super-
+networking sign is concerned with connecting people, places, ideas and all
+else; its purpose is concerned with association and communication.
+Gemini’s job is to gather information and then process and distribute it. It is
+left to Sagittarius (Gemini’s opposite sign) to consider what the information
+might mean and to the other Mercury-ruled sign, Virgo, to decide whether
+the information is useful or not and to discard it if it isn’t. Gemini’s task is
+merely to gather information and disseminate it. Hence Gemini is the sign
+of both the scholar and the gossip. Each gathers information and each
+conveys it to others. Gathering facts requires an open attitude. Any kind of
+censorship on information will stop it moving freely. Basically, too strong a
+sense of right or wrong limits where one can go. Little wonder, then, that
+Gemini is essentially an amoral sign and those who vibrate strongly to it are
+
+<<<PAGE 54>>>
+mentally agile, curious and flexible. Curiosity is perhaps the dominant trait
+here.
+Versatile, flexible and adaptable and very much liking variety and diversity,
+Gemini seeks an infinite variety of tasks and as many different ways as
+possible of carrying out the given assignment (unlike Taurus, its
+predecessor, which liked to do the same things and in the same way). Thus,
+there is an experimental attitude to life with this sign, a tendency to live life
+provisionally and to not take things too seriously. Commitmentshy,
+whatever the situation, Gemini will choose to keep all possible options
+open.
+In common with the other mutable signs, Gemini is not goal-orientated.
+Goals imply the commitment to cover a long distance, whereas Gemini
+prefers short distances and revels in the little deviations and digressions
+along the given path. Gemini does cover a lot of ground (perhaps more than
+any other sign) but the ground covered is not found in a simple linear
+direction, it is more accidental than that. Arguably, true satisfaction in life
+comes from experiencing what is to be experienced deeply. One tastes the
+flavours more when one chews slowly and carefully, but Gemini’s style is
+to hop from flower to flower. This butterfly existence has not only
+restlessness but also, very often, dissatisfaction as part of its package. For
+this reason, those with a strong emphasis on this dilettante sign can easily
+feel that they are missing out in some way, even while actually being at the
+very centre of all that is going on.
+Gemini is the great cosmic agent, always able to put A in touch with B.
+Gemini is able to make a phenomenal number of connections – this is the
+sign of networking. There is a need to be ‘in’ on whatever is going on, a
+dislike of being excluded, but always the requirement to be able to move
+freely within the hub of activity, remaining uncommitted and able to move
+or exit if things become too restrictive or heavy. The Gemini type is
+essentially a juggler: forever juggling people, time, places and ideas.
+A preponderance of planets in Gemini will often lead to a talent with
+language and languages. Often too there is a liking and aptitude for games,
+especially card games. Cycling, tennis and skateboarding are also often
+Geminian pursuits, as are all matters concerned with knowledge or
+
+<<<PAGE 55>>>
+communication. Intelligence is not something that can be measured in the
+horoscope but commonly those who vibrate strongly to this sign are clever.
+At worst, those who vibrate strongly to this easily bored sign may be
+flighty, fidgety and fickle. Lacking in both concentration and conviction,
+some will appear tricksterish, vacillating and changeable. A strong Saturn or
+the presence of fixity in the chart can do much to offset such tendencies.
+Both scepticism and gullibility can also be part of the Gemini package, for
+arriving at a depth of understanding can be hard. The openness to
+everything and inability to exclude information can also lead to difficulties
+in decision-making. The typical Gemini is invariably ‘in two minds’ about
+most things. Like Janus, the Roman god of gates and doorways, Gemini can
+face two ways simultaneously.
+At best though, strongly Geminian types are skilful and versatile and able to
+turn their hand to anything. Contemporary, always ahead of the game,
+sociable and busy, Gemini is an interesting sign. Planets in Gemini may
+seek novelty but they may also produce individuals who provide it. It is also
+the sign most associated with youth, as typically youngsters want and need
+variety and perhaps shouldn’t commit themselves until they have
+sufficiently experimented with life. Lifetime youthfulness and a Peter Pan
+quality can be especially associated with individuals who have both sides of
+the Gemini-Sagittarius polarity emphasized in their horoscopes, especially
+where the fire element is also strong and/or the earth element weak.
+Although the Third House and Mercury are much stronger indicators, the
+part of the horoscope where Gemini is to be found (and planets placed in
+the sign) often also contributes information about an individual’s siblings:
+the people they are or were, and the nature of the relationship with them.
+The Wider World
+The insect world in general can be associated with Gemini, especially
+flying insects, moths and butterflies. I have noted that transits from, or to,
+Mars in Gemini, for instance, often equate with insects that bite or sting,
+such as bees and wasps. The monkey family may also owe something to the
+sign. Birds renowned for mimicry such as parrots, the crow family and
+
+<<<PAGE 56>>>
+mocking birds may also vibrate to Gemini. London, city of commerce and
+infinite variety in all things, has for centuries been associated with this sign.
+William Lilly’s famous prediction of the Great Fire of London in September
+1666 was depicted in a woodcut of the Twins surrounded by flames.
+Colours/Taste/Style
+This is a contemporary and fashionable sign. The colour associated with
+Mercury, the ruler of Gemini, is yellow – a stimulating colour, long
+connected with communication and intellectual matters. For this reason the
+walls of mental hospitals used to be painted yellow. More importantly,
+yellow is a cheerful colour, and certainly Geminian taste veers towards the
+bright and the cheerful. Patterns with lines rather than curves may be
+favoured. In matters of taste, as elsewhere, Gemini cannot be pinned down,
+though there is usually a liking for variety in colours and styles.
+The Body
+The agility of Gemini can also be physical: Gemini has rulership over the
+lungs, arms and hands but, in my experience, also has a connection with all
+the limbs in the body. People who have difficulty getting around, for
+whatever reason, will usually have this fact partially shown by planets in
+the Third House or in Gemini. Gemini is a nervous, worrying sign and this
+may be in evidence in those who have a preponderance of planets here. This
+is especially the case when something is expected of them. Mercurial types,
+including those who vibrate strongly to Gemini, may be more predisposed
+to smoking (for starters, there is a need to do something with one’s hands)
+or sometimes more ill-disposed to smoking than others. The respiratory
+system is a key area for this sign.
+Planets in Gemini
+
+<<<PAGE 57>>>
+Gemini lightens up – seems to almost add air – to any planet found in the
+sign. The qualities of the given planet will not only seem to become lighter
+and less serious but also more scattered and difficult to get hold of. With the
+exception of Saturn, the attention of the given planet may more easily stray.
+Often the issues associated with the planet will be verbalized more. The
+individual may want to understand the aspect of themselves described by
+the particular planet. Youth will also be added to the equation: for instance,
+Venus, and especially Mars, in Gemini can suggest age differences between
+lovers.
+Gemini on a House Cusp
+Gemini on a house cusp always implies dualism: for instance, two
+marriages when on the Seventh House, two jobs on the Sixth or Tenth, two
+parents sometimes on the Fourth or Tenth, and so on. Siblings will also
+often feature in the activities of the given house and there may be links to
+schooldays. Activities associated with the given house may become more
+diverse and the individual will approach the activities associated with that
+house with curiosity and from a rational and cerebral point of view.
+
+<<<PAGE 58>>>
+Cancer
+Element: Water
+Mode: Cardinal
+Ruler: Moon
+The Symbol and Glyph
+The symbol for Cancer is the Crab. The glyph can be taken to depict the
+crab’s claws encircling each other in a protective posture. Curiously it also
+looks like the number 69 turned on its side. The crab has a hard shell to
+protect a soft body and the Cancerian person can also be like this: crusty
+and defensive on the outside but soft and squidgy within. The glyph can
+also be interpreted as being representative of breasts (a Cancerian part of
+the body), or cradling arms, both images reminiscent of the nurturing and
+maternal nature of the sign.
+General Characteristics
+The emphasis for Cancer is on the home, the family and the past – the key
+principle being a need to feel safe and a strong urge to belong. Those who
+vibrate strongly to the sign often have a great liking for history and
+sometimes for antiques. Both history and family provide a feeling of
+continuity with all that has gone before. This sense of having a past affords
+the individual a feeling of emotional security. The knowledge that they
+belong to a family also provides a sense of security, as an important role of
+the family unit is to provide a cushion against outside dangers.
+Although a cardinal sign, the Cancerian method of initiation is not a
+straightforward one. Like the crab, the movement of Cancer tends to be
+
+<<<PAGE 59>>>
+oblique, sideways and manoeuvring; Cancer can be skilled at ‘going round
+the houses’. Going sideways or retreating into one’s shell can be useful
+defensive measures to take when a degree of protection is required, but can
+also be ways of avoiding issues that need to be dealt with. And as the crab
+has very large claws to hold on tightly when necessary, so too does the
+Cancerian type have a tenacious grip.
+The oblique, sideways quality associated with this sign can be a way of
+dealing with shyness and timidity. Sidling up can feel easier than a head-on
+confrontation. Those with a preponderance of planets in Cancer may be
+defensive and cagey but can often be very shrewd, too. The shrewdness,
+conservative attitude and tendency to let go of nothing often makes for
+skills with money and what might be termed ‘good husbandry’. Sometimes
+hoarding and penny-pinching go with the territory.
+Cancer is noted for its characteristic traits of imagination, sensitivity and
+sympathetic understanding. Its energy is soft and yielding and yet
+surprisingly defensive. The Cancerian type is very protective; not only self-
+protective and protective of their clan but even of their country. Cancer can
+be patriotic. Those who vibrate strongly to this sign often feel easily
+threatened. There are various ways that might be used to respond to a
+supposed threat but often the response is to become touchy, sulky or huffy.
+Cancer is a moody sign although, more positively, one might say that it is in
+touch with the changeability of the feeling realm. Be that as it may, there
+can be a great sensitivity to slights whether these are imagined or real.
+The protective, sympathetic quality of the sign goes alongside the strong
+urge to mother, to nurture, to care for. Planets here can be useful in both
+kinds of nursery: those that are child-based and the horticultural variety.
+And there is a strong nest-building propensity with Cancer. Home, the
+ultimate place of retreat and safety, is everything. The house position of any
+planet in Cancer can show where the individual creates some kind of home-
+from-home.
+Whereas in many ways Gemini was the sign of the child, being youthful
+and innocent and either oblivious to, or not frightened by, the horrors of
+life, Cancer is the sign of the mother, who, almost by definition, is always
+alive to danger and takes little that happens in life lightly. Hence, in the
+same way that the crab has a tough shell to protect a sensitive body, those
+
+<<<PAGE 60>>>
+whose charts have a Cancerian emphasis can be rather crusty. In other
+words they can be moody, negative and pessimistic. For all that, it should
+be added that humour is very much part of the Cancerian picture, partly
+because laughter increases a sense of belonging. Aldous Huxley’s theory of
+in-group/out-group hostility may be relevant in a discussion of both the sign
+of Cancer and a discussion of the nature of humour. Cancer will do
+anything for their group; usually jokes are targeted at people who are not
+perceived as belonging to their own group. Potentially, therefore, Cancer is
+the sign more likely to find it difficult to accommodate foreigners and
+foreignness.
+Tenacity is another keyword and, reminiscent of the claws of the crab,
+this is indeed the most tenacious and potentially clingy of the signs. It is
+not easy for Cancer to let go of the past or of family members, or
+indeed of anything that provides any kind of support system. Cancer
+can cling to people and to things, no matter how old. In some with the
+sign emphasized, their tendency to cling to people can result in
+possessiveness, a smothering propensity and needlessly fussing over
+them.
+The sign has an association with memory; not for having a memory for
+facts so much as a memory for feelings, such as what happened on holiday
+thirty years before. Cancer is a sentimental sign and some with planets here
+will have a tendency to collect and hoard. The typical Cancerian type does
+not want to forget the past and does not want you to forget it either. Not
+only might they cling to you and not let you go, they might actually want
+you to cling to them. The need to be needed is very great and, again,
+provides a feeling of security. Still on the theme of tenacity, those whose
+charts are dominated by the sign are probably, statistically speaking, the
+longest living. And this is despite the fact that the disease called cancer has
+undoubtedly (in my experience) a strong link with the sign. Readers with
+planets in Cancer need not panic when they read this. There are few of us,
+in Western society particularly, whose lives have not been touched by the
+disease. The area in your chart where the zodiacal sign falls may simply
+show through whom and where you come face to face with it. Note that a
+study of crustaceans (including crabs) is called carcinology and that the
+disease was probably named after the crab because of the tenacious way in
+which it can cling. The Latin word cancer literally means ‘crab’.

@@ -1,0 +1,198 @@
+#!/usr/bin/env python3
+"""Ashtakavarga runtime tables.
+
+Bhinnashtakavarga benefic-point tables transcribed from
+Dr K.S. Charak, *Elements of Vedic Astrology*, Chapter XXX (Ashtakavarga),
+cross-checked against the classical per-planet totals
+(Sun 48, Moon 49, Mars 39, Mercury 54, Jupiter 56, Venus 52, Saturn 39 = 337).
+"""
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+
+# contributor -> houses (counted from the contributor's natal sign)
+# in which the subject planet earns a benefic point (bindu).
+BAV = {
+    "Sun": {
+        "Sun":     [1, 2, 4, 7, 8, 9, 10, 11],
+        "Moon":    [3, 6, 10, 11],
+        "Mars":    [1, 2, 4, 7, 8, 9, 10, 11],
+        "Mercury": [3, 5, 6, 9, 10, 11, 12],
+        "Jupiter": [5, 6, 9, 11],
+        "Venus":   [6, 7, 12],
+        "Saturn":  [1, 2, 4, 7, 8, 9, 10, 11],
+        "Lagna":   [3, 4, 6, 10, 11, 12],
+    },
+    "Moon": {
+        "Sun":     [3, 6, 7, 8, 10, 11],
+        "Moon":    [1, 3, 6, 7, 10, 11],
+        "Mars":    [2, 3, 5, 6, 9, 10, 11],
+        "Mercury": [1, 3, 4, 5, 7, 8, 10, 11],
+        "Jupiter": [1, 4, 7, 8, 10, 11, 12],
+        "Venus":   [3, 4, 5, 7, 9, 10, 11],
+        "Saturn":  [3, 5, 6, 11],
+        "Lagna":   [3, 6, 10, 11],
+    },
+    "Mars": {
+        "Sun":     [3, 5, 6, 10, 11],
+        "Moon":    [3, 6, 11],
+        "Mars":    [1, 2, 4, 7, 8, 10, 11],
+        "Mercury": [3, 5, 6, 11],
+        "Jupiter": [6, 10, 11, 12],
+        "Venus":   [6, 8, 11, 12],
+        "Saturn":  [1, 4, 7, 8, 9, 10, 11],
+        "Lagna":   [1, 3, 6, 10, 11],
+    },
+    "Mercury": {
+        "Sun":     [5, 6, 9, 11, 12],
+        "Moon":    [2, 4, 6, 8, 10, 11],
+        "Mars":    [1, 2, 4, 7, 8, 9, 10, 11],
+        "Mercury": [1, 3, 5, 6, 9, 10, 11, 12],
+        "Jupiter": [6, 8, 11, 12],
+        "Venus":   [1, 2, 3, 4, 5, 8, 9, 11],
+        "Saturn":  [1, 2, 4, 7, 8, 9, 10, 11],
+        "Lagna":   [1, 2, 4, 6, 8, 10, 11],
+    },
+    "Jupiter": {
+        "Sun":     [1, 2, 3, 4, 7, 8, 9, 10, 11],
+        "Moon":    [2, 5, 7, 9, 11],
+        "Mars":    [1, 2, 4, 7, 8, 10, 11],
+        "Mercury": [1, 2, 4, 5, 6, 9, 10, 11],
+        "Jupiter": [1, 2, 3, 4, 7, 8, 10, 11],
+        "Venus":   [2, 5, 6, 9, 10, 11],
+        "Saturn":  [3, 5, 6, 12],
+        "Lagna":   [1, 2, 4, 5, 6, 7, 9, 10, 11],
+    },
+    "Venus": {
+        "Sun":     [8, 11, 12],
+        "Moon":    [1, 2, 3, 4, 5, 8, 9, 11, 12],
+        "Mars":    [3, 5, 6, 9, 11, 12],
+        "Mercury": [3, 5, 6, 9, 11],
+        "Jupiter": [5, 8, 9, 10, 11],
+        "Venus":   [1, 2, 3, 4, 5, 8, 9, 10, 11],
+        "Saturn":  [3, 4, 5, 8, 9, 10, 11],
+        "Lagna":   [1, 2, 3, 4, 5, 8, 9, 11],
+    },
+    "Saturn": {
+        "Sun":     [1, 2, 4, 7, 8, 10, 11],
+        "Moon":    [3, 6, 11],
+        "Mars":    [3, 5, 6, 10, 11, 12],
+        "Mercury": [6, 8, 9, 10, 11, 12],
+        "Jupiter": [5, 6, 11, 12],
+        "Venus":   [6, 11, 12],
+        "Saturn":  [3, 5, 6, 11],
+        "Lagna":   [1, 3, 4, 6, 10, 11],
+    },
+}
+
+EXPECTED_TOTALS = {"Sun": 48, "Moon": 49, "Mars": 39, "Mercury": 54,
+                   "Jupiter": 56, "Venus": 52, "Saturn": 39}
+
+for planet, rows in BAV.items():
+    total = sum(len(v) for v in rows.values())
+    assert total == EXPECTED_TOTALS[planet], f"{planet} {total}"
+assert sum(EXPECTED_TOTALS.values()) == 337
+
+DOC = {
+    "engine": "pocketastro-ashtakavarga",
+    "version": 1,
+    "source": "Charak, Elements of Vedic Astrology, ch. XXX; totals verified 337.",
+    "note": (
+        "Ashtakavarga is computed on rashi (sign) positions, never on bhava "
+        "positions. Rahu and Ketu contribute nothing. It is a transit filter: "
+        "subservient to the natal promise and to the running dasha."
+    ),
+    "contributors": ["Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn", "Lagna"],
+    "bhinnashtakavarga": BAV,
+    "planet_totals": EXPECTED_TOTALS,
+    "sarva_total": 337,
+    "sarva": {
+        "max_per_sign": 56,
+        "average_per_sign": 28,
+        "strong_above": 30,
+        "weak_below": 25,
+        "reading": (
+            "More than 28 bindus in a sign makes that house progressively strong; "
+            "fewer makes it progressively weak. A quantum jump between two adjacent "
+            "signs marks a real rise or fall as slow planets cross that boundary."
+        ),
+    },
+    "bhinna_reading": {
+        "0": "Humiliation, disease and danger. Malefic transits here are decidedly harmful.",
+        "1": "Disease, misery, hardship, aimless wandering.",
+        "2": "Mental anguish, censure from authority, loss through theft.",
+        "3": "Mental and physical discomfort.",
+        "4": "Good and bad in equal measure — the borderline.",
+        "5": "Learning, wealth, children, good clothes.",
+        "6": "Good character, victory over opponents, wealth, vehicles, renown.",
+        "7": "Honours, awards, very good fortune.",
+        "8": "Regal grace and glory.",
+    },
+    "bhinna_transit_threshold": 5,
+    "bhinna_mixed_at": 4,
+    "transit_rule": (
+        "A planet transiting a sign where it holds 5+ bindus in its own "
+        "bhinnashtakavarga gives its promised result; 4 is mixed; 0-3 withholds it. "
+        "Read the transit house both from lagna and from the Moon."
+    ),
+    "dignity_override": {
+        "strong_planet_low_bindu": (
+            "An exalted or own-sign planet with few bindus in its own ashtakavarga "
+            "loses much of its effect."
+        ),
+        "weak_planet_high_bindu": (
+            "A debilitated or combust planet with more than average bindus retains "
+            "much of its efficacy."
+        ),
+    },
+    "kakshya": {
+        "arc_degrees": 3.75,
+        "order": ["Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon", "Lagna"],
+        "note": (
+            "Each sign splits into eight kakshyas of 3°45'. The first is Saturn's, "
+            "then Jupiter, Mars, Sun, Venus, Mercury, Moon, Lagna. A transiting planet "
+            "is productive when its kakshya carries a bindu in its own prastara."
+        ),
+        "day_quality": {
+            "7": "Excellent — a day of achievement.",
+            "6": "Excellent.",
+            "5": "Very good.",
+            "4": "Good; this is the borderline.",
+            "3": "Average, with some difficulty.",
+            "2": "Poor day — do not stamp anything.",
+            "1": "Very poor — setbacks, accidents.",
+            "0": "Worst grade — postpone anything irreversible.",
+        },
+        "caution": (
+            "Kakshya grading is a daily filter only. It never overrides the natal "
+            "promise or the dasha."
+        ),
+    },
+    "house_comparisons": [
+        {"rule": "lagna_and_8_above_average", "means": "Good constitutional health. Below average in both suggests proneness to illness."},
+        {"rule": "11_above_10", "means": "Greater gain for less labour."},
+        {"rule": "12_above_11", "means": "Spending outruns earning — or earning genuinely comes from abroad."},
+        {"rule": "2_above_12", "means": "Accumulation outweighs expenditure."},
+        {"rule": "6_strong", "means": "Struggle and a proneness to illness, but also the strength to defeat opposition."},
+        {"rule": "5_above_10_without_strong_11", "means": "Career suffers unless a strong 11th acts as antidote (Col. A.K. Gaur)."},
+    ],
+    "slow_planet_notes": {
+        "Jupiter": "Jupiter transiting a strong sign confers dignity and recognition.",
+        "Saturn": "Saturn transiting a strong sign confers power, authority and endurance.",
+    },
+    "dasha_link": (
+        "When the mahadasha, antardasha and pratyantara lords transit signs strong "
+        "in their own ashtakavarga, they give benefic results; through weak signs, adverse."
+    ),
+    "muhurta_use": (
+        "For election, pick a lagna from which the house signifying the undertaking "
+        "carries above-average bindus, and where the karaka of that undertaking is "
+        "itself transiting a strong sign."
+    ),
+}
+
+for out in (ROOT / "assets/kb/ashtakavarga.json", ROOT / "knowledge/extract/ashtakavarga.json"):
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(DOC, indent=1, ensure_ascii=False) + "\n")
+print("ashtakavarga.json", len(json.dumps(DOC)), "bytes")

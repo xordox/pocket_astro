@@ -1,0 +1,821 @@
+{
+  "file": "_OceanofPDF.com_Cosmic_Coupling_-_Stella_Starsky.pdf",
+  "size_bytes": 8590114,
+  "error": null,
+  "pages": 820,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Other Books By This Author",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "Title Page",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "Dedication",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "Acknowledgments",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "Contents",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "Introduction",
+      "page": 24
+    },
+    {
+      "level": 1,
+      "title": "Aries + Aries",
+      "page": 27
+    },
+    {
+      "level": 2,
+      "title": "Chapter 1 - Aries Man + Aries Woman: The Ultimate",
+      "page": 27
+    },
+    {
+      "level": 2,
+      "title": "Chapter 2 - Aries Man + Aries Man: The Unspoken",
+      "page": 30
+    },
+    {
+      "level": 2,
+      "title": "Chapter 3 - Aries Woman + Aries Woman: The Urge",
+      "page": 32
+    },
+    {
+      "level": 1,
+      "title": "Aries + Taurus",
+      "page": 34
+    },
+    {
+      "level": 2,
+      "title": "Chapter 4 - Aries Man + Taurus Woman: The Classic",
+      "page": 34
+    },
+    {
+      "level": 2,
+      "title": "Chapter 5 - Aries Woman + Taurus Man: The Counterpoint",
+      "page": 37
+    },
+    {
+      "level": 2,
+      "title": "Chapter 6 - Aries Man + Taurus Man: The Clash",
+      "page": 41
+    },
+    {
+      "level": 2,
+      "title": "Chapter 7 - Aries Woman + Taurus Woman: The Crush",
+      "page": 43
+    },
+    {
+      "level": 1,
+      "title": "Aries + Gemini",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "Chapter 8 - Aries Man + Gemini Woman: The Heat",
+      "page": 45
+    },
+    {
+      "level": 2,
+      "title": "Chapter 9 - Aries Woman + Gemini Man: The Happening",
+      "page": 48
+    },
+    {
+      "level": 2,
+      "title": "Chapter 10 - Aries Man + Gemini Man: The Hunger",
+      "page": 51
+    },
+    {
+      "level": 2,
+      "title": "Chapter 11 - Aries Woman + Gemini Woman: The Hype",
+      "page": 53
+    },
+    {
+      "level": 1,
+      "title": "Aries + Cancer",
+      "page": 55
+    },
+    {
+      "level": 2,
+      "title": "Chapter 12 - Aries Man + Cancer Woman: The Fairytale",
+      "page": 55
+    },
+    {
+      "level": 2,
+      "title": "Chapter 13 - Aries Woman + Cancer Man: The Fix",
+      "page": 58
+    },
+    {
+      "level": 2,
+      "title": "Chapter 14 - Aries Man + Cancer Man: The Failsafe",
+      "page": 61
+    },
+    {
+      "level": 2,
+      "title": "Chapter 15 - Aries Woman + Cancer Woman: The Foray",
+      "page": 63
+    },
+    {
+      "level": 1,
+      "title": "Aries + Leo",
+      "page": 65
+    },
+    {
+      "level": 2,
+      "title": "Chapter 16 - Aries Man + Leo Woman: The Glow",
+      "page": 65
+    },
+    {
+      "level": 2,
+      "title": "Chapter 17 - Aries Woman + Leo Man: The Gold",
+      "page": 69
+    },
+    {
+      "level": 2,
+      "title": "Chapter 18 - Aries Man + Leo Man: The Grabbag",
+      "page": 72
+    },
+    {
+      "level": 2,
+      "title": "Chapter 19 - Aries Woman + Leo Woman: The Guild",
+      "page": 74
+    },
+    {
+      "level": 1,
+      "title": "Aries + Virgo",
+      "page": 76
+    },
+    {
+      "level": 2,
+      "title": "Chapter 20 - Aries Man + Virgo Woman: The Puzzle",
+      "page": 76
+    },
+    {
+      "level": 2,
+      "title": "Chapter 21 - Aries Woman + Virgo Man: The Pact",
+      "page": 79
+    },
+    {
+      "level": 2,
+      "title": "Chapter 22 - Aries Man + Virgo Man: The Plot",
+      "page": 83
+    },
+    {
+      "level": 2,
+      "title": "Chapter 23 - Aries Woman + Virgo Woman: The Project",
+      "page": 85
+    },
+    {
+      "level": 1,
+      "title": "Aries + Libra",
+      "page": 87
+    },
+    {
+      "level": 2,
+      "title": "Chapter 24 - Aries Man + Libra Woman: The Compound",
+      "page": 87
+    },
+    {
+      "level": 2,
+      "title": "Chapter 25 - Aries Woman + Libra Man: The Complement",
+      "page": 90
+    },
+    {
+      "level": 2,
+      "title": "Chapter 26 - Aries Man + Libra Man: The Contest",
+      "page": 93
+    },
+    {
+      "level": 2,
+      "title": "Chapter 27 - Aries Woman + Libra Woman: The Cotillion",
+      "page": 95
+    },
+    {
+      "level": 1,
+      "title": "Aries + Scorpio",
+      "page": 97
+    },
+    {
+      "level": 2,
+      "title": "Chapter 28 - Aries Man + Scorpio Woman: The Riddle",
+      "page": 97
+    },
+    {
+      "level": 2,
+      "title": "Chapter 29 - Aries Woman + Scorpio Man: The Rite",
+      "page": 100
+    },
+    {
+      "level": 2,
+      "title": "Chapter 30 - Aries Man + Scorpio Man: The Rub",
+      "page": 103
+    },
+    {
+      "level": 2,
+      "title": "Chapter 31 - Aries Woman + Scorpio Woman: The Rush",
+      "page": 105
+    },
+    {
+      "level": 1,
+      "title": "Aries + Sagittarius",
+      "page": 107
+    },
+    {
+      "level": 2,
+      "title": "Chapter 32 - Aries Man + Sagittarius Woman: The Escapade",
+      "page": 107
+    },
+    {
+      "level": 2,
+      "title": "Chapter 33 - Aries Woman + Sagittarius Man: The Élan",
+      "page": 110
+    },
+    {
+      "level": 2,
+      "title": "Chapter 34 - Aries Man + Sagittarius Man: The Extreme",
+      "page": 113
+    },
+    {
+      "level": 2,
+      "title": "Chapter 35 - Aries Woman + Sagittarius Woman: The Event",
+      "page": 115
+    },
+    {
+      "level": 1,
+      "title": "Aries + Capricorn",
+      "page": 117
+    },
+    {
+      "level": 2,
+      "title": "Chapter 36 - Aries Man + Capricorn Woman: The Crusade",
+      "page": 117
+    },
+    {
+      "level": 2,
+      "title": "Chapter 37 - Aries Woman + Capricorn Man: The Crossroads",
+      "page": 120
+    },
+    {
+      "level": 2,
+      "title": "Chapter 38 - Aries Man + Capricorn Man: The Conduit",
+      "page": 123
+    },
+    {
+      "level": 2,
+      "title": "Chapter 39 - Aries Woman + Capricorn Woman: The Core",
+      "page": 125
+    },
+    {
+      "level": 1,
+      "title": "Aries + Aquarius",
+      "page": 127
+    },
+    {
+      "level": 2,
+      "title": "Chapter 40 - Aries Man + Aquarius Woman: The Anomaly",
+      "page": 127
+    },
+    {
+      "level": 2,
+      "title": "Chapter 41 - Aries Woman + Aquarius Man: The Analogy",
+      "page": 130
+    },
+    {
+      "level": 2,
+      "title": "Chapter 42 - Aries Man + Aquarius Man: The Association",
+      "page": 133
+    },
+    {
+      "level": 2,
+      "title": "Chapter 43 - Aries Woman + Aquarius Woman: The Alcove",
+      "page": 135
+    },
+    {
+      "level": 1,
+      "title": "Aries + Pisces",
+      "page": 137
+    },
+    {
+      "level": 2,
+      "title": "Chapter 44 - Aries Man + Pisces Woman: The Reverie",
+      "page": 137
+    },
+    {
+      "level": 2,
+      "title": "Chapter 45 - Aries Woman + Pisces Man: The Refuge",
+      "page": 140
+    },
+    {
+      "level": 2,
+      "title": "Chapter 46 - Aries Man + Pisces Man: The Realness",
+      "page": 144
+    },
+    {
+      "level": 2,
+      "title": "Chapter 47 - Aries Woman + Pisces Woman: The Residence",
+      "page": 146
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Taurus",
+      "page": 148
+    },
+    {
+      "level": 2,
+      "title": "Chapter 48 - Taurus Man + Taurus Woman: The Front",
+      "page": 148
+    },
+    {
+      "level": 2,
+      "title": "Chapter 49 - Taurus Man + Taurus Man: The Freehold",
+      "page": 151
+    },
+    {
+      "level": 2,
+      "title": "Chapter 50 - Taurus Woman + Taurus Woman: The Fold",
+      "page": 153
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Gemini",
+      "page": 155
+    },
+    {
+      "level": 2,
+      "title": "Chapter 51 - Taurus Man + Gemini Woman: The Camp",
+      "page": 155
+    },
+    {
+      "level": 2,
+      "title": "Chapter 52 - Taurus Woman + Gemini Man: The Courtship",
+      "page": 159
+    },
+    {
+      "level": 2,
+      "title": "Chapter 53 - Taurus Man + Gemini Man: The Co-op",
+      "page": 162
+    },
+    {
+      "level": 2,
+      "title": "Chapter 54 - Taurus Woman + Gemini Woman: The Clatch",
+      "page": 164
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Cancer",
+      "page": 166
+    },
+    {
+      "level": 2,
+      "title": "Chapter 55 - Taurus Man + Cancer Woman: The Purpose",
+      "page": 166
+    },
+    {
+      "level": 2,
+      "title": "Chapter 56 - Taurus Woman + Cancer Man: The Package",
+      "page": 169
+    },
+    {
+      "level": 2,
+      "title": "Chapter 57 - Taurus Man + Cancer Man: The Posture",
+      "page": 172
+    },
+    {
+      "level": 2,
+      "title": "Chapter 58 - Taurus Woman + Cancer Woman: The Practice",
+      "page": 174
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Leo",
+      "page": 176
+    },
+    {
+      "level": 2,
+      "title": "Chapter 59 - Taurus Man + Leo Woman: The Imprint",
+      "page": 176
+    },
+    {
+      "level": 2,
+      "title": "Chapter 60 - Taurus Woman + Leo Man: The Item",
+      "page": 179
+    },
+    {
+      "level": 2,
+      "title": "Chapter 61 - Taurus Man + Leo Man: The Itch",
+      "page": 183
+    },
+    {
+      "level": 2,
+      "title": "Chapter 62 - Taurus Woman + Leo Woman: The Industry",
+      "page": 185
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Virgo",
+      "page": 187
+    },
+    {
+      "level": 2,
+      "title": "Chapter 63 - Taurus Man + Virgo Woman: The Mother lode",
+      "page": 187
+    },
+    {
+      "level": 2,
+      "title": "Chapter 64 - Taurus Woman + Virgo Man: The Mandate",
+      "page": 190
+    },
+    {
+      "level": 2,
+      "title": "Chapter 65 - Taurus Man + Virgo Man: The Maneuver",
+      "page": 194
+    },
+    {
+      "level": 2,
+      "title": "Chapter 66 - Taurus Woman + Virgo Woman: The Match",
+      "page": 196
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Libra",
+      "page": 198
+    },
+    {
+      "level": 2,
+      "title": "Chapter 67 - Taurus Man + Libra Woman: The Beauty",
+      "page": 198
+    },
+    {
+      "level": 2,
+      "title": "Chapter 68 - Taurus Woman + Libra Man: The Breeze",
+      "page": 201
+    },
+    {
+      "level": 2,
+      "title": "Chapter 69 - Taurus Man + Libra Man: The Break",
+      "page": 204
+    },
+    {
+      "level": 2,
+      "title": "Chapter 70 - Taurus Woman + Libra Woman: The Benefit",
+      "page": 206
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Scorpio",
+      "page": 208
+    },
+    {
+      "level": 2,
+      "title": "Chapter 71 - Taurus Man + Scorpio Woman: The Lab",
+      "page": 208
+    },
+    {
+      "level": 2,
+      "title": "Chapter 72 - Taurus Woman + Scorpio Man: The Lure",
+      "page": 211
+    },
+    {
+      "level": 2,
+      "title": "Chapter 73 - Taurus Man + Scorpio Man: The Leap",
+      "page": 215
+    },
+    {
+      "level": 2,
+      "title": "Chapter 74 - Taurus Woman + Scorpio Woman: The Limit",
+      "page": 217
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Sagittarius",
+      "page": 219
+    },
+    {
+      "level": 2,
+      "title": "Chapter 75 - Taurus Man + Sagittarius Woman: The Thrill",
+      "page": 219
+    },
+    {
+      "level": 2,
+      "title": "Chapter 76 - Taurus Woman + Sagittarius Man: The Trip",
+      "page": 222
+    },
+    {
+      "level": 2,
+      "title": "Chapter 77 - Taurus Man + Sagittarius Man: The Trance",
+      "page": 225
+    },
+    {
+      "level": 2,
+      "title": "Chapter 78 - Taurus Woman + Sagittarius Woman: The Trust",
+      "page": 227
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Capricorn",
+      "page": 229
+    },
+    {
+      "level": 2,
+      "title": "Chapter 79 - Taurus Man + Capricorn Woman: The Understanding",
+      "page": 229
+    },
+    {
+      "level": 2,
+      "title": "Chapter 80 - Taurus Woman + Capricorn Man: The Upside",
+      "page": 232
+    },
+    {
+      "level": 2,
+      "title": "Chapter 81 - Taurus Man + Capricorn Man: The Usual",
+      "page": 235
+    },
+    {
+      "level": 2,
+      "title": "Chapter 82 - Taurus Woman + Capricorn Woman: The Utmost",
+      "page": 237
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Aquarius",
+      "page": 239
+    },
+    {
+      "level": 2,
+      "title": "Chapter 83 - Taurus Man + Aquarius Woman: The Method",
+      "page": 239
+    },
+    {
+      "level": 2,
+      "title": "Chapter 84 - Taurus Woman + Aquarius Man: The Mission",
+      "page": 242
+    },
+    {
+      "level": 2,
+      "title": "Chapter 85 - Taurus Man + Aquarius Man: The Moment",
+      "page": 245
+    },
+    {
+      "level": 2,
+      "title": "Chapter 86 - Taurus Woman + Aquarius Woman: The Miscellany",
+      "page": 247
+    },
+    {
+      "level": 1,
+      "title": "Taurus + Pisces",
+      "page": 249
+    },
+    {
+      "level": 2,
+      "title": "Chapter 87 - Taurus Man + Pisces Woman: The Winner",
+      "page": 249
+    },
+    {
+      "level": 2,
+      "title": "Chapter 88 - Taurus Woman + Pisces Man: The Wonder",
+      "page": 252
+    },
+    {
+      "level": 2,
+      "title": "Chapter 89 - Taurus Man + Pisces Man: The Would-be",
+      "page": 256
+    },
+    {
+      "level": 2,
+      "title": "Chapter 90 - Taurus Woman + Pisces Woman: The Well-being",
+      "page": 258
+    },
+    {
+      "level": 1,
+      "title": "Gemini + Gemini",
+      "page": 260
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Cosmic Coupling",
+    "author": "Stella Starsky",
+    "subject": "",
+    "keywords": "",
+    "creator": "calibre 7.4.0",
+    "producer": "calibre 7.4.0",
+    "creationDate": "D:20250405232608+00'00'",
+    "modDate": "D:20250405232608+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "is_small": false,
+  "deep": true,
+  "text_chars": 71899,
+  "image_like": false,
+  "samples": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": "ALSO BY STARSKY + COX\nSextrology: The Astrology of Sex and the Sexes\nOceanofPDF.com\n"
+    },
+    {
+      "page": 3,
+      "text": "OceanofPDF.com\n"
+    },
+    {
+      "page": 4,
+      "text": "For James and Margaret\nOceanofPDF.com\n"
+    },
+    {
+      "page": 5,
+      "text": "acknowledgments\nWe wish to recognize all our colleagues, friends, and family who\nsupported us in the creation of Cosmic Coupling.\nGratitude goes to our agents, Tracy Fisher and Andy McNicol,\nand to Cathryn Summerhayes, Raffaella DeAngelis, Richie Kern,\nElizabeth Reed, and Anais Borja at William Morris Endeavor\nEntertainment.\nWe offer appreciation to Christy Fletcher, Elyse Cheney and to\nPhilip Patrick, Campbell Wharton, Sarah Breivogel, Jay Sones,\nDavid Tran, Erin Schell, Mark McCauslin, Elizabeth Rendfleisch,\nElina Nudelman, Kevin Garcia, Andrea Peabbles, Robert Siek, and\neveryone at the Crown Publishing Group involved in materializing\nthis book.\nMany thanks go to Rob Weisbach, Sally Hildreth, Emily\nMitchell, Brad Carlson, Jadah Carroll, Susan Goldberg, Ahbi\nNishman, Gimel Mateus, Pauline Fisher, Charles Stuetz, Julie\nGilhart, Simon Doonan, Sarah Lerfel, Leslie Stevens, Tom\nAckerman, Lee Randall, Mary Ellen O’Neill, David Sweeney,\nJanina Mak, Marianne Eschbach, Sitara Atasoy, Matt Tyrnauer,\nVanessa Von Bismarck, Robert Duffy, Marc Jacobs, and all our\nclients and readers around the world.\nOn a personal note, we are most beholden to Jeannette +\nPhilip Corbett, Nancy + Brian Doben, John Derian, Pascale Smets\n+ Matthew Pritchett, Susanne Tide, Jo + Neil Murray, Justin\nBond, Griet Vandekerckhove, David Conrad Brouillard, Martyn\nThompson, Mark Ciolli, Todd Thomas, Christian McCulloch,\nAntonella Mazza, The South Players—Mary Downing, Thomas\n"
+    },
+    {
+      "page": 6,
+      "text": "Bossert, Emily Haas, Diane Crespo, Karin Schaefer, Stephen\nJohnson, Jack Pierson, Brian Meola—Victoria + Michael\nImperioli, Renata Bokalo + Roman Luba, Astranada Gamsey +\nBertrand Boudier, Jon Fried + Deena Shoshkes, Devon Ruesch,\nthe \nreading \ngroupies—Michael \nCunningham, \nNina \nWest,\nChristopher Potter, Billy Hough, Ann Wood + Tim Barry—and,\nmost of all, to William Leone + Lynne Corbett, without whose\nimaginings Cosmic Coupling would never have been born.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 7,
+      "text": "contents\nIntroduction\nAries + Aries\nAries Man + Aries Woman                the ultimate\nAries Man + Aries Man                     the unspoken\nAries Woman + Aries Woman           the urge\nAries + Taurus\nAries Man + Taurus Woman             the classic\nAries Woman + Taurus Man             the counterpoint\nAries Man + Taurus Man                  the clash\nAries Woman + Taurus Woman        the crush\nAries + Gemini\nAries Man + Gemini Woman             the heat\nAries Woman + Gemini Man             the happening\nAries Man + Gemini Man                  the hunger\nAries Woman + Gemini Woman        the hype\nAries + Cancer\nAries Man + Cancer Woman             the fairytale\nAries Woman + Cancer Man             the fix\nAries Man + Cancer Man                  the failsafe\n"
+    },
+    {
+      "page": 28,
+      "text": "wife, Lilith, who preferred it on top, being no compliant Eve. Aries\naffect each other’s Ist house of individuation, separate identities and\na need to exert swollen egos. No same-sign pairing is potentially so\nat odds, selfishness being a trait they share. Thus this bond often\nends just as it begins. Though not before offering the most athletic\nsex imaginable. Aries is the physical sign. And confronted with so\nblatantly wanton a woman, he may unapologetically release the\nbeast, without pretense of ever even phoning again. Fine by her. It\ntherefore takes a self-realized Ram man to forge a relationship with\nthe male-objectifying Ewe. It means forgoing the bulk of his valiant\nvisions, embracing the primal primate he truly is. She, too, might\nbend her rules, letting him open doors and pull out chairs for her.\nShe’ll see it as servitude. When this coupling works, congratulations\nare in order. It means neither is reliant on oppressing the other for\ntheir own self-aggrandizement—something she does by cuckolding a\nmate she finds lacking. Man-izing is her stock and trade. And the\nslightest whiff of manlier meat on the market can send her out to\nsurvey the livestock. Fortunately, no guy is more equipped than he\nto keep that from happening, as he must accept the role he was born\nto play: that of sexual crusader. He need know, or be led to believe,\nthat he’s calling the shots, lest he feel emasculated. In all other\nareas, she wears the pants, the bedroom being the only place she’ll\nwant to be bested.\nCARNALITY\nThis is where his knight-errant tenacity finds practical use, as\nquenching her unslakeable fire is an eternal quest. No couple is in as\nperpetual a state of heat as these two. Their mutual lust is palpable.\nIn their company, other couples can feel sexless, diminished. And\ndon’t think the Aries don’t know it. Together, they are far more\nassertive than when solo. Just as they’re wont to beat rivals on the\ntennis court, they’ll also boast superiority in the sack. Swagger on\nthat subject is intended to shrink another man’s ego and shock a\nwoman’s sensibilities, if not pique her interest. Aries man will brag\nof his lady’s insatiability. Aries woman will let slip it takes a\nsuperman to satisfy her. He might reveal she’s an exhibitionist with\n"
+    },
+    {
+      "page": 49,
+      "text": "Hemingway heroine who calls all the shots and sees men running\ncircles around her. So being with her is a challenge, but it’s also\naspirational. Aries rules Gemini’s outré cosmic 11th house, that of\nprogressive, indeed revolutionary thought and experience; and a\nrelationship with an Aries woman has the effect of forcing the\nGemini further and further out onto the world stage. As insular as\nthis couple is—the whole of their shared existence is like an inside\njoke—she can’t help urging the Gemini, whether consciously or not,\nto evolve out of petty experience and make as big a mark as he\nmight. She wants him to be someone to look up to, if only for selfish\nreasons. Conversely, Gemini governs Aries’ 3rd house of intimate\nrelationships and experiences. This stresses the need to cultivate a\nstrong sense of community, which is often lacking in the Ram’s\nexperience, and to relate to others on a less conditional, siblinglike\nlevel. Gemini is quite family orientated, and she’ll need to assimilate\ninto his often extended brood. This can cause friction, as she’s not\nmuch of a joiner; but learning to bend wins her increased emotional\nsecurity and support. Gemini is a real operator, a ringleader with a\nMachiavellian mind-set. Aries, too, believes it’s every wo/man for\nher/himself. And yet, this relationship generally runs its course,\nwith notable exceptions, as he ultimately wants a more compliant\nmate. Often (sigh) she’s the one who got away.\nCARNALITY\nCertainly fun while it lasts (which, for some precious few, can be\nforever) this relationship provides plenty of sexual amusement. If\nyou ask him, he’d likely confide that, with Aries, he experiences the\nmost raw and aggressive rodgering ever. Her take on it, rather, is\nthat sex for them is more entertaining than it is earth shattering. But\nboth will admit it’s exciting. Even an extremely well-endowed\nGemini, something of a rarity, isn’t a sexual heavyweight. He is\nneither an animalistic ramrod, nor is he given to slow sensual sex.\nInstead, he’s artful and peppery, precise often to the point of\ndelicacy, a funny and fitting word as it carries the double meaning\nof “a treat.” Indeed, Gemini likes to offer up a full menu of tasty\ndelights, while Aries’ palate is decidedly more meat-and-potatoes.\n"
+    },
+    {
+      "page": 70,
+      "text": "insular and economical, even in their interaction with each other.\nFor them, life is about present-day plans and singular lifelong goals\n—they both have them—and one silently supports the other,\nwithout fail. Even if they’re show folk, they’re never showy folks.\nThey take their lives, separately and together, so very seriously. Leo\nrules Aries’ cosmic 9th house of imagination and vision, and in this\nbond she is not so much encouraged to let her mind alight on the\nproverbial big picture, as she’s expected to. In case you didn’t know,\nLeo is the premier authority on humanity, the environment, gosh,\nthe whole world, which he’s sure he’s got in his hands. Hello Robert\nRedford, Woody Harrelson, Sean Penn. If Aries is going to be his\nqueen, she must likewise consider the realm and its subjects. Aries,\nin turn, governs Leo’s cosmic 5th house of creation, artistry, as well\nas literal procreation and offspring. Which explains the ubiquity of\nthis pairing, as Leo almost can’t help but see Aries as the ideal\nmother for his children. The sign of Leo, naturally associated with\nthe 5th house, is about wholism, expressed by its perfect circular\nsymbol . And Aries gets the sense that, with this noble beast, she\ncan indeed have it all—career, motherhood, creativity, and\nautonomy. And let’s face it, Aries isn’t big on sacrifice. Then again,\nshe’s austere in her needs. This couple pride themselves on their\ntranscendence of all things ostentatious. They fancy themselves\nenlightened, and it makes them a bit smug.\nCARNALITY\nNo relationship is more focused on straightforward fucking than this\none. What they lack in breadth of sexual repertoire, however, they\nmore than make up for in sheer human-animal energy. To label\nthem “physical” is the understatement of the ages. A new word need\nbe invented. In originally sizing up the Aries, Leo surveys her\nnatural sinew, aroused as he is by health and fitness, and for a very\nspecific reason: He enjoys sex most when it’s a workout, though\nnegotiating the aggression he wants to release against the perceived\ndurability of a lover, so to find that perfect point in the center\nwhere a right pounding and realest pleasure meet. Aries thinks:\nFinally! It’s the hammering for which she’s been hunting. Endlessly\n"
+    },
+    {
+      "page": 91,
+      "text": "cosmic wheel. The 7th is, thus, the house of the nonself, or other.\nBeing so-called opposite signs, for starters, and of contrary sexes,\nAries and Libra already differ vastly in their outlook on life.\nHowever, they see in each other certain qualities to which they\nmight aspire but fall short of achieving. In essence, their connection\nis one of reciprocal appreciation for that which they, themselves,\nlack. In a certain light, they are cultivating desired elements in their\nindividual lives, via the execution of this relationship. Coupled, they\nhave it all. And, as time unfolds, they discover they’re really not so\nradically different. Each tends to be spoiled, in his or her own way.\nAnd both are capable of huge blowouts of temper, which at first\ncomes as quite a surprise to Aries. The Libra, drawing on the\narchetype of Apollo, the god of order, reason, and light, has a pretty\ndark shadow side. But Aries isn’t scared off. She actually likes\nknowing that, for all his surface poise and abstraction, there’s a real\nblood-and-guts character underneath. If anything, she tries to coax it\nout. On the flip side, he tries to tap her feelings, finding all her soft\nspots, and poking at them as it pleases him. He is a wiz with words.\nAnd just as he can cut her to the quick when confronted, he can also\nreduce this daughter of granite-eyed Athena to a sopping heap of\nemotions via the simplest expression of his love. Many men don’t\nthink they can, thus, romance this stone.\nCARNALITY\nFor all the built-in détente in this bond, these two form the beast\nwith two backs with startling frequency. Aries is immediately aware\nthat her tendency to take the sexual lead is happily embraced by\nLibra, who is languid, if not downright lackadaisical, in the boudoir.\nShe is an energetic bunny, hell-bent on rigorous rodgering to bring\nher home. To Libra, whose brain is his biggest sexual organ, this\nsparks ideas. He can roll out his own languorous, graceful sexual\nstyle to meet her every urgent panting and moaning. Doing much by\ndoing little: He slips into this position and that, sometimes placing\nhimself at obscure angles to deliver ever new sensations to the\nAries. Libra is a real renaissance man in the sack, and as an artist,\nhe doesn’t like to repeat himself, instinctively finding spontaneous\n"
+    },
+    {
+      "page": 112,
+      "text": "orgiastic. (We’ll come back to that.) He is a most imaginative man,\nand sometimes fantasy can overtake reality. Indeed, after the phone\nsex and mutual masturbation and various role-playing scenarios in\nwhich he likes to indulge, Aries might decide enough’s enough and\ntry to encourage some straightforward shagging. He’s can-do, of\ncourse. And, though he is a creature of extremes—more blatantly\nover- or underendowed men are Sagges—more often than not, this\nworks in his favor. Aries typically likes what she sees. Still, what she\ncouldn’t anticipate: Oh, all the places Sag’s penis can go. But she’s\nnot complaining. He is such a gifted and vibey lover that he easily\nguides the bedroom activities, taking Aries off her usual control\nstation. No man can have sex for as long a duration as he; and the\nRam is a most tireless lover, too. It’s a very physical affair that\nmight create bruises in heretofore unfathomable places. Sag is\nanything but squeamish in the sack, and he will work his tongue\ninto any crevice. If Sag can imagine it, he can do it. It must be said\nthat he has a thing for threesomes and even groups. As a single guy,\nhe is notoriously attracted to couples where he can better the other\nmale, imparting some humiliation in the process of pleasuring a\nwoman like she’s never been before. And, whether it be a case of\nnature or nurture, most Centaurs will have tried same-sex sex at\nleast twice. Aries, for her part, is fairly bicurious, too. So, the\npossibilities are nearly endless. Despite the fact they enjoy the most\nsolid of bonds, leading a serious and successful life together, they\nare oh, so freewheeling, imposing no taboos. That 5th—9th house\ndynamic manifests in the bedroom as well: With no other guy will\nshe reach such heights and depths of sexual experience. Alone\ntogether, he’ll work magic, inducing out-of-body sexual experiences\nfor her. And, for him, it’s unadulterated fun. He indulges in purest\npleasure with the least censure. Their private times are sweaty, full-\nthrottle affairs with piggy elements, particularly on his part. Making\nthe swinger scene, others are half intimated half expiring with lust.\nAnd don’t these two just know it. One wonders what’s bigger: the\nsize of their egos or their libidos.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 133,
+      "text": " ARIES MAN + AQUARIUS MAN\nthe association\nCHEMISTRY\nWhen Aries, the zodiac’s leader, meets the magnetic Aquarian guru,\nthere’s a glimmer of recognition. They employ different means to\nthe same end—whose, exactly, is anyone’s guess. The Ram typically\nlooks up to no man, but he admires the Waterbearer for being so\nvastly connected, having many acquaintances and minions to\nfurther his aims and do his bidding. Aquarius instinctively knows he\ncan’t count the Ram among his supporters, so he is free to associate\nwith him on a closer friendship level. This is ironic, as they can be\nthe least cozy of astrological characters. Aquarius is oft sexualized at\nan early age; and, by adulthood, he’s had it with domineering men.\nAries personifies officious. So, on the relationship front, they try to\nkeep a healthy distance—something at which they don’t always\nsucceed.\nCOMPATIBILITY\nThese guys will confide in each other secrets they’d never tell\nanother living soul. Doing so cements the bond. But in order for it to\ngo beyond the buddy stage, their sexual proclivities might need to\nspecifically align. Even so, the relationship will always carry a cool\nquality, lending others the impression they enjoy an open\nrelationship—which they mostly do. Aquarius creates a unique\nliving environment, one which reflects his social beliefs, as they do\ndefine him as an individual. Aries will carve out his own nooks and\ncrannies on the domestic front. But as both characters are fairly\naustere in their design aesthetic, just as they are in their signature\nuniform wardrobes and pared-down circle of true friends, all is right\nwith the world. Each tends to be active in the gay community, after\n"
+    },
+    {
+      "page": 154,
+      "text": "outside attention. Constantly doing so, a feigned struggle, provides\nharmless fun while keeping the bond on its toes.\nCARNALITY\nThings get pretty intense between these two. They are naturally\ntantric ladies who expect sex to be infused with meaning. They see\ntheir bedroom antics as a matter of importance, egging each other\non to be ever more attuned to the energy flow of their futzing\naround. There is little irony in the sack, as every lick, touch, and\nbrush of the tongue can carry the unspoken question, “How was\nthat?” (Answers come in moan form.) Not to say that they are self-\nconscious lovers, but rather self-reverential. Sometimes they can’t\ncontain their need to prove they’re the sexiest nymphs on the block,\nand so will bring another girl home with little hesitation. The more\nfemme the couple is, the more likely they would be to seduce a\nphysically fit boy, as well, offering him a privileged glimpse of their\nultraerotic practices. They can be natural babes for whom body hair\nand scents needn’t be masked. Worship can be a major theme,\ntaking turns being the other’s effusive love slave.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 175,
+      "text": "They learn and grow via this relationship; unfortunately, they\nsometimes graduate to other, more mature mates.\nCARNALITY\nIn an attempt to be the true nesters they are, the bedroom is\ntypically the first room in the house to become completely kitted\nout. These are two insatiable sexual creatures, ruled by the sole\n“feminine” planets, Venus and the Moon. This makes Taurus rather\npassive and Cancer, shall we say, actively receptive. Point being\nthey both desire major penetration, so they mightn’t so much have a\ngoody drawer as a museum of phallic instruments, battery operated\nand non, from which to pull and work one another over. A bit of\nbondage and discipline can easily find its way into the mix, with\nCancer taking on the mistress role. Teasing and otherwise\ntormenting the Bull is a big thrill for the Crab, not to mention a way\nto vent some relationship angst. Feet can be a turn-on to the Taurus\nespecially, and a little toe-to-camel-toe stimulation isn’t out of the\nquestion. Sixty-nining is a nearly nightly affair. Shaving and\ngrooming is sexy, too, but also symptomatic of these girls just being\ngirls.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 196,
+      "text": " TAURUS WOMAN + VIRGO WOMAN\nthe match\nCHEMISTRY\nVirgo sees Taurus as a vivid, if not somewhat cartoonish, character.\nThe Virgin is usually deferential to other women, but here she feels\na natural superiority, as she takes on the role of knowing\nintellectual. Taurus is generally attracted to Virgo in a cozy sort of\nway. Rarely does she strike the Bull as a hottie, but she feels a\nsisterly affinity with her, which goes a long way to explain why this\nrelationship at least starts as friendship, often remaining so.\nWhether Taurus is a lipstick lez or drives an eighteen-wheeler, or\nboth, she will fancy herself the catch and the leader in the\nrelationship, delivering directives to the stymied Virgo, who is a\nfountain of self-help advice herself. Both are talking, but whether\neither is listening is anyone’s guess. As true equals, they may feel in\ncompetition.\nCOMPATIBILITY\nTaurus sees Virgo as too complicated for her own good. The Bull\ndoesn’t bite off more than she can chew in life, and she always\nkeeps her eye on the prize of financial stability and comfort. Virgo is\na bundle of ever-shifting sand; she may go through myriad career\nchanges and social circles, becoming embroiled all too easily in\ndrama, thinking everybody else wants to hear every detail thereof.\nTaurus is the first to tell her to cut the diatribing. She sees Virgo as\na creative force, and a self-sacrificing figure to boot, and helps the\nVirgin to stop getting in her own way. Taurus is so grounding for\nVirgo, who feels deepest affection for the Bull, but considers her all\ntoo stuck in her ways. She has a legitimate gripe with Taurus-time,\n"
+    },
+    {
+      "page": 217,
+      "text": " TAURUS WOMAN + SCORPIO WOMAN\nthe limit\nCHEMISTRY\nThough so-called opposite signs, each of these ladies sees herself, a\nmirror image, in the other. Scorpio immediately kicks into mentor\nmode, viewing the Taurus as green, no matter the Bull’s age, and\nthus in need of direction on any given subject. Scorpio actually\nhides her insecurity behind bossiness, but it’s often all she can do to\nnot jump out of her skin with desire, such is the Taurus’ usual effect\non her. The Bull, who looks at the world askance, not trusting\neasily, will at least feign deference, willing to be guided and\nhopefully given a leg up, in some sense, in this would-be bond. She\nsees Scorpio as a seasoned character, someone who has gained\nknowledge through the experience of being knocked down and\nalways rising, phoenixlike. Scorpio is naturally someone on whom\nTaurus models herself.\nCOMPATIBILITY\nBoth creatures of habit, Taurus must bend to Scorpio’s control,\ngetting in synch with her rhythms and allowing her alpha status.\nThe Bull is rather self-centered in this relationship, which Scorpio\nactually encourages, just as she is in the business of helping foster\nher mate, avoiding any self-examination. There can be a surplus\nspinning of wheels, as inertia can be their combined enemy.\nSecurity is a key factor for Taurus in relationships, so Scorpio makes\nit her top priority to provide, for the good of the bond, and also\nbecause it is her best means of establishing control. Taurus is happy\nto relegate it. Sure, Scorpio is the authority, but the ongoing subject\nin the relationship is the Bull and her needs. Of course, it’s\n"
+    },
+    {
+      "page": 238,
+      "text": "but inspire salutations, say, striding up the avenue, arm-in-arm,\nsharing what amounts to a lifelong inside joke.\nCARNALITY\nA highly romantic couple, sex isn’t preconceived—neither of these\ngirls is disposed to specific fetishes or fantasies—rather, it starts\nwith a simple kiss and instinctively follows from there. That said,\nsubtle feminine trappings do fuel their passions. Well-manicured\nfingers gently prodding landscaped yonis, the sweet smell and soft\ntexture resulting from a trip to a fine hair salon; smooth, supple\nskin; and lips stemming from a thoughtful beauty regime. These\nlovelies present themselves to each other as gourmet morsels on a\nsilver platter. Oral in the extreme, Taurus is champion at taking the\nfull plunge. Capricorn, not to be outdone, perfects her tongue\nflicking and licking skills, inciting frustrated Taurean cries en route\nto release. Dildos, often so unsightly, are preempted by slick\nvibrators or, more often than one might imagine, by a young pretty\nboy who, despite being used for his tool, will think he has died and\ngone to heaven. For a third girl, a tryst could be hell.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 259,
+      "text": "keep life sanguine and clear of Piscean detachment from the outside\nworld. It is often best for this couple to stick to cities or\ncommunities where they can remain so engaged.\nCARNALITY\nThe butch-to-femme ratio of these signs is split pretty evenly, so it’s\nanyone’s guess who’ll play what role. Even if Pisces is the one\nsporting the toolbelt, she’ll still be the more emotionally accessible,\nif not outright needy of the two. Her Moodiness will decide when it\nis or isn’t time to hit the sheets. Taurus is a steady creature who\nactually welcomes a rollercoaster ride of feelings, and she finds the\nFish’s divalike switches from detachment to utter desperation fairly\namusing (mindful to not reveal that fact). The Bull is patient, and\ncan thus dangle herself, sexually, with an eye on frustrating the\nPisces into taking action. For Taurus craves adoration even more\nthan the Pisces, who is, rather, a solicitor of negative attention,\nknowingly or not. Pisces is tactile, as is Taurus, and they enjoy\ngently caressing as well as scissoring with enough friction to start a\nbush fire. Of all things, they’d agree: Deep kissing is the most\nimportant sexual art over which both claim the highest level of\nexpertise.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 280,
+      "text": " GEMINI WOMAN + LEO MAN\nthe booty\nCHEMISTRY\nA winning combination, these two immediately click. The golden\nLion appears lit from within to the Geminian girl who—will\nwonders never cease?—becomes uncharacteristically tongue-tied\naround this carefree fellow. He is the eternal class clown and he\ntakes advantage of the Twins’ naïveté, faking her out and otherwise\nplaying with her mind. She forms an instantaneous schoolgirl crush,\nand though he wouldn’t let it show, the feeling is mutual. She tends\nto embody his ideal woman more than most. She’s typically fit and\nsporty, something of an androgyne, which appeals to Leo, who\nwants a pal as much as a lover, all in one neat package. She’s bubbly\nor silly or otherwise amusing, making the Leo laugh, a major\naphrodisiac to him. And at the same time she’s savvy and social,\nwhere he’s something of a recluse; so Leo suspects he’ll be able to\nkeep up with friends and acquaintances, via her efforts, with\nminimal exertion on his part. Leo man is an egoist, so Gemini’s\nflattery gets her everywhere with this guy. He is so traditional vis-à-\nvis gender roles; he wants a woman who’ll regard him as the sun,\nand she’s just the girl to gigglingly pretend to do so. She has an\nagenda: Seeing the natural power and authority Leo wields, she\nseeks to harness that force for happiness’ sake.\nCOMPATIBILITY\nThe Leo gets just the kind of free ride he’s looking for in this\nrelationship. The purposeful Gemini prides herself on the facility\nwith which she lives life, day to day, which might easily entail\ndoing everything domestic, raising a family, and pursuing a career\n"
+    },
+    {
+      "page": 301,
+      "text": " GEMINI WOMAN + LIBRA MAN\nthe gravytrain\nCHEMISTRY\nLibra guy won’t know what hit him when Gemini gets it in her head\nto bust a move. She is notoriously attracted to this pretty fellow who\nis no match for the bulldozing Twins girl on a mission to make this\nman her own. Every day is Sadie Hawkins when these two meet,\nGemini not so much asking Libra if he’d like, perhaps, to go out\nsometime as telling him he’s been cast into a lifelong bond that, in\nmany ways, will border on bondage. The Scales guy interprets this\nas flattering. Moreover, he heaves a heavy metaphorical sigh of\nrelief as he senses he’s just found the safest possible relationship\nhaven. He’s infamously attracted to monumental women, but\nGemini isn’t so much a lofty icon as she is a hardened drill sergeant\nwho, from the moment they meet, will tell Libra exactly what he\nmust do to succeed in his life, which he, in effect, will sacrifice to\nher in entering this relationship. Just like the inverse-gender version\nof the Libra-Gemini combination, here the female tends to be the\nolder of the two who plays the role of wise-woman to the hilt. She\nfinds in him the perfect boy-toy to cherish and nurture via her tough\nbrand of love. She knows, in a flash, that with him she’ll wear the\npants. He feels she will empower him and provide him a sense of\npermanence.\nCOMPATIBILITY\nLibra man, like his female counterpart, tends to come from an\nunhappy or dysfunctional household. Their mothers, especially, are\noften unstable; and this engenders a disease in the Scales man, a\nfeeling of not being loved, or an inability to tell if he is. Gemini\nwoman cuts straight through all such psychology by making it\n"
+    },
+    {
+      "page": 322,
+      "text": "with the key organic component designed to do just that. In truth,\nshe is something of a size queen, requiring a man to put over a\nporn-worthy performance that is thus forceful and long-lasting.\nGemini may feel that his skills are lost on the Sag, whom subtlety\nseems to escape; and he can be daunted by her implied or expressly\ndeclared expectation of receiving the rodgering of her life. He\nsuspects, in any case, that, as she does in all aspects of life, she’ll\ncontinue to raise the bar such that sex may begin to feel like a\ncompetition, with himself. Of course, if he were to air his feelings on\nthe subject, she would be completely dumbstruck, as Sagittarius\nisn’t consciously aware of putting a man through his paces. It’s a\nknee-jerk mechanism that swiftly weeds out those she considers to\nbe the nonstarters. Men who cut the mustard will likewise push Sag\nto her sexual limits, which is exactly what she’s inherently seeking.\nBut Gemini is generally not one of the characters to do it. He enjoys\na free-form, albeit artful, horizontal bop in the bedroom; not some\nelaborately thought-out sexual production of Busby Berkeley\nproportions. As in their day to day, Sag never seems quite satisfied,\nalways longing for more, more, more. This may be true, however,\nonly in sharp relief to Gemini’s love of the status quo, whether it be\nhis determination to remain in family drama, stale friendships,\nhumble digs, or to stick with a sexual routine designed for a quick,\ndecidedly noncinematic, release. Sex can be so loaded for Sag,\nsomething which, if she feels is lacking purport, can make or break\nthe bond. Gemini often wishes this anxious lady would lighten up.\nBut she is only skittish in situations that she finds stifling, ill\naffording her to expand, exponentially, which she is meant to do\nthroughout her life. Sag sees so much raw potential in the Gemini,\nbut becomes frustrated by what she labels his complacency. If only\nhe’d have more confidence to play, by the rules, with the big boys,\nshe thinks. Would that she could live in the moment and appreciate\nlife as it comes on its own terms, he muses. If only each of them\nwould meet the other even a quarter of the way, this bond might\nhave half a chance to survive.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 343,
+      "text": "kill him. But it’s hard for this fellow, whose sign motto is “I think,”\nto get images out of his head. Not that he’s so vanilla flavored. For\nstarters, he will easily indulge in a bit of bondage. All Geminis fancy\nthemselves swashbuckling pirates so he may enjoy putting his\nAquarian wench in irons. Teasing activities and mind games are\nalways fun for the Twins, so blindfolding the Waterbearer and\ntaking her by myriad surprises puts an extra twinkle in his eye,\nwhile preventing getting any tinkle in hers. Look, once you let loose\nthe rude-boy side of Gemini’s persona, there is no limit to what he’ll\nget up to. And no woman is more likely to go with it than she. A too\nhardcore edge notwithstanding, sex for these two thrives on variety.\nThat means forever trying new positions, rooms, and pieces of\nfurniture. Shagging in offbeat public places, too—taxis, elevators,\ntrains, all such clichés are anything but for these excitement addicts.\nAquarius likes to bring out the animal in Gemini, who can be\nmeasured, and actually quite artful, in his sexual style. Most women\nnever quite unleash the beast the way the Waterbearer intends to.\nShe is an unsqueamish character and will rarely blink at swallowing,\nsay, or using her mouth in places the sun doesn’t shine. If anything,\nhe will get grossed out for her. He can be a real clean freak, and\nodors, to his mind, should be kept to a minimum. He also likes a\ntidy workspace, meaning Aquarius will want to invest in some\nserious bushwhacking. Gemini has something of a sanitized vision of\nnookie; and, sexist though it may sound, the closer a woman\nresembles some airbrushed bunny from the pages of his favorite\nmagazines, the better. Aquarius does enjoy costuming and here she\nhas fun with that fact. Besides, she’s been wondering where to wear\nher rainbow legwarmers with her purple platform stilettos and\ncrotchless chartreuse bodysuit. Gemini appreciates any efforts made\nto fulfill his fantasies, and we can’t think of any lady who’s more\nwilling to accept the challenge. If anything, he will struggle to come\nup with new ideas.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 364,
+      "text": " CANCER MAN + CANCER MAN\nthe landed\nCHEMISTRY\nCancerians don’t easily merge, mainly because they both covet a\nprincely role in a relationship. When they do connect, they tend to\nbond over their shared values and goals. They are single-minded in\ntheir pursuit of professional aims, and they like to scrub up and\nmingle in social circles with often older mover-shakers. Crab guys\nare self-deferential, and they take great care with their appearance.\nThey are likewise attracted to others who take an interest in their\nfitness, but they’re decidedly unshowy characters. Cancerians can be\na bit precious about themselves, and one might wish the other was\nmore forthcoming with flattery. But what turns the other on most is\ntheir upwardly mobile determination. Moon men can’t abide\nlaziness. If anything, he relies on a mate’s go-getting.\nCOMPATIBILITY\nBut just who must take care of business, and who gets to quietly\ncultivate a creative interest into a career, is anybody’s guess. Not to\nsay all Crabs are looking for sugar daddies, but as most Cancerians\nare wont to pursue dreams others might label the pipe variety,\nhaving a boyfriend with a bankroll certainly helps. Two Cancerians\nmake for a very serious affair. They can be constantly plotting their\nnext social coup, counting their pennies so to afford the next\ntrapping of their continued prosperity. For, though one or both\nmight have the soul of an artist, they find no honor in being the\nstarving kind. Cancer men are cool customers who keep their\nfeelings in check. Their life together is characterized by even\ntemperament and structured time. They are a functional lot who\n"
+    },
+    {
+      "page": 385,
+      "text": " CANCER MAN + VIRGO MAN\nthe club\nCHEMISTRY\nThese fellows are like-minds, characterized by a desire for growth\nand certain erudition. Cancer and Virgo are both the kind of boys\nwho pull themselves up by the bootstraps. (Pin in that.) And they\nseek to lead a civilized life, to be versed in Arts and Letters,\ntypically eschewing what they consider low-brow experience. They\nprefer quiet chats to club culture, yet they tend to swim in an almost\nexclusively gay-male pond, bonding with other power poofs, which\nis typically how they themselves meet. Virgo is something of a dark\nknight and he finds the Moonman illuminating. Cancer has a callow\nnature and portrays the ability to be discerning without being effete,\na tragic Virgo flaw he is coaxed out of, here. From the instant they\nlock eyes, they’re aware of sharing a sexual sophistication.\nCOMPATIBILITY\nTheirs is not a hot and heavy relationship. Even in their youth, this\nis more of an open arrangement. Virgo likes to think he’s\nmonogamous, but he often can’t deny his desire for variety, no\nmatter how superficial the dalliance—a quick, anonymous blow job\nsimply doesn’t register as infidelity. Cancer is often the marrying\nkind; but he mightn’t complain about the wiggle room in this bond,\nthough preferring to stray together, not alone. The line between\nother friends and lovers is pretty well blurred, as they’re hard-\npressed to find a guy on their roster of cronies with whom they\nhaven’t bedded at one point or another. Neither would blink at a\ntwenty-four-hour itinerary consisting of brunch, a museum,\nshopping, cocktails, a business dinner, and a tour through some\n"
+    },
+    {
+      "page": 406,
+      "text": "spirit in each other, these guys make exercise a big part of their life,\notherwise spent sampling any number of earthly delights.\nCARNALITY\nWith notable exceptions, Scorpio skews top and, again generally\nspeaking, Cancer opens like a steamed clam. These are two\nexceptionally sexual beings who celebrate gayness by experiencing\nevery corner of it, before going deep into indulging any one set of\ndesires. That said, this can be a fetishy fellowship. Not that the\nsecret handshake utilizes the fist, exactly, but let’s just say that the\nCrisco set is no stranger to men of these signs. Scorpio can be a real\nin-your-face sexual character, and Cancer’s right there wearing a\nsmile, if not the inevitable outcome of Scorpio’s libido on his face.\nHe, for one, likes a good rimming, and the Crab is ready to scuttle\nright on in. Scorpio won’t not reciprocate, but the general dynamic\nhere is, he’s the master and Cancer, his underling—Dracula and\nRenfrew, which doesn’t really do Cancer justice. The Crab is a\nloving character who can participate emotionally, even in getting\ngang-banged. Indeed, Scorpio might like to share his lover with\nothers, maybe strangers, something which, ironically, only\nstrengthens this most psychological of bonds.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 427,
+      "text": " CANCER MAN + CAPRICORN MAN\nthe alternative\nCHEMISTRY\nCapricorn is an old soul who, even in his youth, harkens back to\nsome real or mythic golden age. He is self-preservational and rather\nhard to pin down. Cancer is a traditionalist, too, but without the\nCap twist. The Crab is a bit of a climber, while Cap is happily jaded.\nCancer often targets the Goat, thinking him responsible, worldly\nwise, and capable of turning a buck. But Cap can be frivolous,\nspending his last cash on a ticket to Rio and a set of vintage Louis\nVuitton luggage. He is not in the least bit ordinary and Cancer seeks\nto fit into one enclave or another, all too easily becoming part of\nsome cult—corporate, creative, or social clique. Capricorn may also\nbe mindful of such constructs in his youth, but as time goes on, he\nmarches more and more to his own groovy beat.\nCOMPATIBILITY\nCancer and Capricorn are on two metaphorical escalators, going in\nopposite directions. Cancer has an emotional need to belong,\nparticularly in a relationship where he tends to enjoy being\nsomething of a possession or trophy. He often goes for older guys, if\nnot outright sugar daddies. Capricorn is an old Goat from the time\nhis voice changes, and, age aside, Cancer will look upon Cap as one\nwho’ll take the Crab under his wing. And this may be true for a\ntime. In fact, Capricorn often takes on what he may consciously\nconsider to be charity cases (friends and lovers), gaining the\nsatisfaction of helping someone in need, while not having to work\ntoo hard to maintain the relationship. Cancer would be appalled to\nlearn he may fall into that category. He will also be surprised to find\n"
+    },
+    {
+      "page": 448,
+      "text": "she inspires him to overcome the anguish that he buries deep inside\nbefore it overtakes him. Cancer pushes the Pisces, yes, by regarding\nhim as his best self; and when he doesn’t live up to her signature\nfloating hope, he sees his shortcomings reflected in the pools of her\neyes. Sexually, Cancer expects Pisces to express purest love for her\nand if she feels that certain erotic penchants he’s wont to explore\nare blocked pathways, perversions, to such expression, she will cast\nher disapproving gaze. On the other hand, if he can infuse even his\nkinkiest desires with a wholesome appreciation for her, at the core,\nthen she’ll be happy to get their combined freak on. Pisces has a\nthing for playing john to Cancer’s acting the role of prostitute. Chalk\nit up to his Jesus Fish archetype being drawn to fallen Magdalenas,\nor any number of reasons, but it gets a rise from him when lady\nMoonchild tarts it up, in the extreme. He is drawn to zaftig builds\nand Cancer can often be quite booby (or remarkably lacking\nthereof); the sleazier her choice of stockings, garters, and stilettos,\nthe better. Feet are a big Pisces fetish and Cancer can have a lot of\nfun with that, using her bare flippers to massage the Fish’s sweet\nspots, or offering them up to him to be nibbled and gnawed on.\nCancer can’t really play demure here; rather Pisces enjoys overt\ndisplays that might entail the Crab masturbating for his viewing\npleasure, preferably in a graphic fashion. He can enjoy humiliating\nthe Cancer—making her beg or teasing her with his member. Pisces\ntends to be something of a pretty boy, making him all the more\npalatable for the orally fixated Crab, who may be directed to lick\nhim from head to toe, where he might bid her stay awhile and\ngrovel. In extreme cases, Pisces is prone to varying brands of\ninfantilism, but it will take a fairly kinky Cancer to get into playing\nwith a grown man in Pampers. Watersports, however, may be\nsomething they can both get into, though his penchant for being\ncuckolded will probably not be satisfied in this relationship. Cancer\nsees no love in that. As activity gets naughtier, she will scan his\nmotivations for malignancy. For the Pisces has been known to vent\nsuppressed anger he magnificently masks behind a pacifist mien.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 469,
+      "text": "impossible for Virgo to mask his feelings, and for Leo not to feel a\nbit suffocated.\nCARNALITY\nIf you ask Leo whether or not he feels sexually compatible with the\nVirgo, he might have a few reservations, while Virgo may feel it’s\nnever been better. It’s ironic, as Leo will have the sense that the\nVirgin is anything but, and that he himself isn’t seasoned or indeed\nsleazy enough to keep Virgo excited, while Virgo finds that he has\nnever had a better time in bed doing the least amount of\nshenanigans. For him, with Leo, sex is healing and has the effect of\nrecapturing some lost innocence. He’ll happily forego the darker\ncorners of gay sexuality he’s apt to peruse for a lifetime of sunny sex\nwith this mate. Yet the Lion may worry that he’s not stacking up in\ncomparison to Virgo’s lovers of the past. Or at least that’s the story\nhe’s sticking to. He will of course enjoy Virgo’s nastier moves when\nthey’re happening, but he often has remorse afterward. If the Virgo\nis much younger, though no saint by any stretch, Leo will convince\nhimself he’s turning said skanky trick into a trophy twink.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 490,
+      "text": "absent mother. He constantly tries to rise to the occasion of life,\nwhile overencouraged Leo is managing expectations.\nCARNALITY\nThat dynamic can follow these fellows into the bedroom, where\nScorpio feels a great well of affection that wants expressing via sex,\nand the overloaded Leo seeks to keep it light. Activities like\nspooning, which achieves both goals, tend to take on the status of a\nmonumental sexual position. Indeed, as everything develops so\nslowly between these two, they may enjoy a romantic relationship\nfor some time before anything more than touching occurs. This has\na great healing effect for Scorpio, who, often sexualized early in life,\nand not completely by choice, needs to fill in some gaps, learning to\nrelate to a lover, first, from the heart, not the lingam level. The\nticker is ruled by the sign of Leo—he is his passions, of every kind—\nand experience tells him that he has burned through boyfriends by\noverwhelming them in every way. Sexually, this should give Scorpio\nsomething to look forward to. First comes love, then … the most\npowerfully vanilla sex on the planet.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 511,
+      "text": "can be the one dude in the zodiac Leo looks up to, and to whom he\ndefers on grand matters.\nCARNALITY\nSexually, they are quite compatible, even though they might tend to\nbe tops, or at least start out that way. The more flamboyant\nCapricorn, however, will ironically hold on to that position, reveling\nin bending the Leo to his will. The Goat enjoys playing with the\nLion’s hindquarters, slowly introducing even the virgin Leo butt to\nwhat sensations might be derived thereof. Cap likes to slap, if not\nspank, but always seeking to impart far more pleasure than any\nform of pain. He claims, shall we say, squatter’s rights over Leo’s\ncaboose, inserting digits, then plugs and dildos, before exercising his\nfull membership. By then, the Leo boy-next-store might hear himself\nbegging for it when, in many cases, he would never have\nentertained anal sex before meeting the patient and pleasing\nCapricorn. Meanwhile Cap will have served Leo orally, not\nnecessarily needing reciprocation. He’s a cock-sucking topman who\ncan love the Leo butch bottom for life.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 532,
+      "text": "sing Pisces praises, publicly, to friends and family, when they’re\nalone, he best watch out. She is demanding, and often demeaning,\nof the Fish man in the sack, where she will bark orders and\notherwise put him through his sexual paces. The pleasure, here, is\nall hers, his taking less priority. She owns him (often quite literally,\nas she may arrive home one day to announce she’s majority\nshareholder in his business) and he will comply in bed, not taking\nher directives too seriously. She is often asking for a fight and, when\nhe’s not looking, he might get it. She can be a bit rough on him,\nphysically, taking little care with his package when she’s putting\nhim through the mill with hers. He may have difficulty satisfying\nher and she might imagine he’s tuckering himself out elsewhere\nwith another woman, or maybe a man. Though Pisces are often\nbisexual by nature, no other man is so able to turn down the volume\non that particular voice in his head as the Fish, who, if anything, is\noften beyond sex rather than repressing any aspect of it.\nHypocritically, she might have a dalliance; sometimes he’s so blasé\nabout the carnal element of their relationship that he couldn’t seem\nto care less. And because she would likely be quote-unquote\ncheating with another guy as much for Pisces’ reaction as for the\nsatisfaction of her own desires, even philandering can ring hollow.\nPisces is one man in the zodiac who is nonjudgmental toward, if not\nturned on by, even his spouse’s sluttier behavior, and he might\nwelcome her getting it on with another guy for his viewing pleasure\n—even that would be about him, not her. He may want sex far less\nfrequently than she does and he’ll often “save up” for their next\nscheduled date. He’s into trashy costuming and having his Leo lady\ntart it up to the hilt, or even pretend to play prostitute, perhaps\npaying her, both staying in character, parting ways as such. She’ll\ntake the cash. It’s not what you’d call a traditional relationship, nor\nis it always the healthiest of bonds, as these two tend to be rather\nbig partiers, for at least a portion of their time together. At some\npoint they might call it quits as a result of one or both evolving out\nof any abuse. But despite the inherent dysfunction, they are often\nthe love of each other’s lives.\n"
+    },
+    {
+      "page": 553,
+      "text": " VIRGO WOMAN + LIBRA WOMAN\nthe pass\nCHEMISTRY\nVirgo often doesn’t know what to make of Libra. The Scales lady can\nseem foreboding and a bit snippy to the Virgin, who doesn’t realize\nthe Scales can actually be quite shy. Understandably: Libra is a\nstylish creature whom one assumes has been sought after since her\nyouth; but Libra always keeps new people at arm’s length until she\nhas a chance to process their intentions. Virgo, she realizes, is an\nunassuming, open book with whom conversation tends to readily\nflow. Often Libra feels in competition with other females, but\nVirgo’s energy is soft and nurturing, and Libra is at least willing to\ninvest in friendship, here. She notices she’s being cast in the role of\nleader, which is refreshing given the surplus of aggressive women\nshe typically attracts and who seek to objectify her.\nCOMPATIBILITY\nVirgo is comfortable being herself with Libra. Letting her guard\ndown, she chats away, with childlike abandon, revealing her\ninfectious laugh and warming the Scales’ spirits. Libra mightn’t be\nsure about the long term, but she’s not one to pass up a lusty crush\nwith so willing a girl. Once they hit the sheets, the dynamic might\nbegin to shift, Libra realizing just how prized Virgo poontang truly\nis. And blissfully unaware, the Virgin carries on, playing the perfect\nhelpmate, offering untold support of Libra’s ambitions and\notherwise slowly moving all her furniture and belongings into\nLibra’s abode. Virgo might begin visibly emulating Libra, something\nthe Virgin does by nature, and rather than freaking Libra out, the\nScales takes it in the same spirit it is intended: as a compliment.\n"
+    },
+    {
+      "page": 574,
+      "text": "background, not so here. She sees herself as the frontrunner in this\n… can you call it a relationship?\nCARNALITY\nIf all else fails, these two should just hit the sheets. Sex can be an\neffective way of relieving stress, not to mention allowing for the\nopportunity to realize they really are capable of being in synch.\nHere Virgo finds she’s being served just as much as she’s wont to eat\nat the Y. Sag likes to dress herself and her Virgin lover up in sexy\nlingerie. Sag will want to enhance the proceedings with a bit of the\nbubbly. She may suggest they get a load of themselves in\npurposefully placed mirrors, or create some unforgettable footage,\nwhich she’d think nothing of putting on the Internet for all to see.\nVirgo is more the voyeur and would prefer to kick back and let Sag\ngive her a solo show, not for circulation. For Sag, it’s all about using\nher healing hands on Virgo and working both their G-spots. Virgo’s\nbig into tribbing and can spend hours with her Sag scissors sister\ngrinding their way to glory. Sag is always up for the off third party.\nIn fact, if these two are casual lovers, Virgo may find that she makes\nthree.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 595,
+      "text": "Virgo keeps Aquarius real while the Waterbearer makes life more\nextraordinary for him.\nCARNALITY\nGay Aquarius, in his youth, draws on that mythic archetype of\nGanymede, the Greek Waterbearer, who was seduced and\nimmortalized by Zeus; likewise, the zodiac’s Waterbearer is often\ntaken up by powerful men. The same may be said for Virgo, who\nplays Dick to Bruce Wayne in his early days, sliding down any\nnumber of batpoles, before becoming the premier caped crusader.\nSo the young Waterbearer might easily be the butt-boy of an older\nVirgin, but in most cases the opposite is true, as Aquarius man, who\noften has the fangs for it (hello, Christian Bale and Eddie Van\nHalen), is wont to sink his teeth and other portions of his anatomy\ninto a more compliant Virgo. Boot camp indeed: Virgo may find\nhimself licking and groveling at the Aquarian’s feet, if not being\nball-or, even, butt-punched. The naturally submissive Virgo brings\nout the most adamant dominant tendencies in the Waterbearer,\nwhose emotional distance is both frightening and thrilling to this\nmate.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 616,
+      "text": "creature, sometimes literally, but emotionally, for sure. Her feelings\nare inalienable, her opinions not up for discussion, and, of all men,\nLibra must be free to embody his ceaseless stream of ideas,\nconstantly putting himself out there, testing his myriad notions,\naware that not everything he endeavors will stick. But it’s the\nprocess of pursuing principles or projects that is his pleasure.\nScorpio, on the other hand, ventures little from which she’s unsure\nto gain, rising phoenixlike even when she does fail, recalling the\nelliptical orbit of her ruler Pluto whose namesake god is the male\ncounterpart of Persephone; and she has special disdain for a\ndilettantish dude, as she might label Libra, who doesn’t concentrate\nhis energies into singular vocations or, moreover, means for making\nmoney. She is inclined to consider Libra the proverbial lightweight,\njust as he is likely to imagine that life with her might amount to a\nsort of living death wherein his every move is monitored. She’s\ncrowned and anchored, bent upon a stable life amassing power and\nmaterial treasure (like a dragon, yet another totem of her sign),\nwhile the Scales, the only inanimate sign in the zodiac, can be\nblatantly unmaterialistic if not outright immaterial, Scorpio and\nLibra gleaning different meanings from that particular term. Scorpio\nrules Libra’s cosmic 2nd house of substance, wealth, and real and\nmetaphoric value, and she indeed presents him the challenge and\nopportunity to build something real and lasting for himself,\nsomething he rarely takes up, placing focus on ethereal, indeed\nspiritual concerns.\nCARNALITY\nLibra governs Scorpio’s cosmic 12th house of, you guessed it,\nnonmaterial, experience. So he, too, offers something of a dare, here,\nbidding Scorpio to think beyond a life so rooted in the physical or\nher own inflexibility when it comes to lifestyle, especially, or even\ndogmatic values and belief systems that can cause stagnation or stop\nfurther enlightenment dead. Apollo killed the underworld serpent,\nPython, a symbol of chthonian nature associated with the sign of\nScorpio, to release the prophetic vapors that arose at the oracle of\nDelphi. So, too, is Libra man predisposed to free himself from\n"
+    },
+    {
+      "page": 637,
+      "text": "get the impression Libra isn’t good enough for her. The Scales need\nbe more come-hither.\nCARNALITY\nSex is a nervy affair. This typically cool Libran cucumber gets so\noverexcited just at the prospect of sex with Sag, who, even if not the\nlooker Libra is, exudes such a carnal power that it takes Libra off\nguard. They can be quintessential lipstick variety lezzes, girly\ntrappings endowing their bond with an underlying erotic glamour.\nTheir sex life is the perfect balance of raw energy and refinement;\nhealth, vitality, and fitness are key elements to keeping things alive\nand kicking, and they delight in inspiring the other to new levels of\ncorporeal perfection. Body worship is de rigueur in the boudoir,\nwhere an art form is made of kissing and tactile contact. The subtle\nuse of vibes takes precedence over that of deeply penetrative\nobjects, though when it comes to strapping one on, they will take\nequal turns at bat. Because they see no use in letting their combined\nbeauty and sex appeal go to waste, this bond can easily withstand\nthe introduction of a third party who will think she’s hit the\nultimate paydirt.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 658,
+      "text": " LIBRA MAN + PISCES WOMAN\nthe art\nCHEMISTRY\nLibra is attracted to the seemingly decorous Pisces, who appears to\nhim so graceful as to be a dream walking. She is intrigued by this\nartful fellow whose charm and intellect seem tailor-made not to\ninsult her delicate sensibilities. Mythology has a lot to say about the\narchetype of this relationship. Pisces embodies the goddess of love,\nAphrodite-Mari, who sprang from the foam of the sea—Pisces is the\nmutable-water sign; and originally, being an ancient goddess,\nAphrodite’s provenances, beyond love, beauty, and grace, were all\nthe arts, the nine muses, representing the triplicate triple goddess,\nsymbolized by the trident of Neptune, Pisces’ ruling planet. Libra,\nthe cardinal-air sign, draws on the archetype of Apollo, god of light,\na newer arrival on the deitific scene, who usurped much of the\ngoddess’ rulership, to satisfy an increasingly patriarchal society,\nmashed as it was into existing matriarchal culture; and thus the\nmuses became Apollo’s emanations and he the god of the arts. So,\ntoo, do Libra man and Pisces woman seem cut from the very same\ncloth, and yet there is a certain strain inherent in this would-be\nbond, as if each of them wish to occupy the same role in the\nrelationship, one which Pisces maintains is a more feminine part,\nwhile Libra may beg to differ.\nCOMPATIBILITY\nTrue, Libra is typically not a macho man, quite fitting, then, that his\nsign is opposite Aries, which boasts the largest list of he-men in the\nzodiac. Aries is Mars-ruled, and Libra, while also a masculine (air)\nsign, is ruled by planet Venus (Greek: Aphrodite), further hitting\n"
+    },
+    {
+      "page": 679,
+      "text": "return her feelings, she can be easily crushed, sometimes rising\nphoenixlike to give him a good stalking. One way or another,\nScorpio is forced to own her feelings in this relationship whereas, in\nothers, she can sometimes ignore them and operate on a sort of\nautopilot. Not so here, where she is continually on her toes, her\naffection for Sag actually making her a kinder, softer being than she\nmight be otherwise. Indeed, when we consider the purpose of the\n2nd-house holdings, we realize that they are there to enhance our\nwell-being, not owned for ownership sake. This is a paradoxical rub\nfor Scorpio, who must learn that love cannot be possessive, as hard\nas it is for this lady, in the throes of it, to set the Sag object of\naffection free. But that’s the key to success even in this relationship.\nScorpio, who is used to controlling everyone and everything, must\nrelease her hold on the one man in the zodiac who actually most\npushes her buttons on that score. It indeed provides a life lesson,\nthis particular love of hers. Scorpio in turn governs Sagittarius’\nnonmaterial 12th house, that of intangible experience and those in\nlife kept hidden from our eyes. It is thus associated with asylum(s)\nand both the imagination and madness, the fine line between which\nSag is wont to travel in manifesting his inherent genius. He is the\nzodiac’s shaman, after all, and he often requires such freedom from\nthe stuff of life in order to see the whole Technicolor forest through\nthe individual black-and-white trees.\nCARNALITY\nWhen it comes to beddy-bye time, Scorpio will want to make more\nliteral use of Sagittarius’ rule over her 2nd house of possessions,\nsuch that the Centaur becomes something of a live male blow-up\ndoll who just happens to be more anatomically correct than most\n(with notable exceptions). Here, the buckingest male bronco on the\nastrological block meets the self-professed perfect specimen of\nfemale sexuality, and don’t they just know it. Still, there is a funny\ndisconnect in that Scorpio prides herself on being the preeminent\nseductress, while Sag is so overt an exhibitionist that he doesn’t give\nher much of a chance to work her wiles to coax him out, being quite\nliterally in her face with his own sexual advances. Indeed, no man\n"
+    },
+    {
+      "page": 700,
+      "text": "use it to his best advantage. But that dynamic gets old for him, fast,\nmainly because he feels women never see the real blood-and-guts\nhim, only whatever ideal(s) he stands for, which, to be fair, are\ntypically worn on his sleeve, belying his hidden depth. Scorpio is\nclearly not a follower or one to worship any man. She stands out, if\nactually across a crowded room, as someone of substance who\nvividly embodies a certain emotional complexity akin to that which\nAquarius masks from the world. She is an obvious enigma; he seems\nanything but to the majority of the population who take him at face\nvalue. Indeed, he can barely glimpse the machinations of his own\npsyche. This manifests in thoughts and behavior that bubble to the\nsurface almost in spite of himself, another symptom of being that\narchetypal madman in the wilds. Scorpio rules Aquarius’ cosmic\n10th house of worldly status and certain mastery worthy of acclaim.\nHe thus finds Scorpio to be the mistress of her own mind and\ndestiny, not looking for a guru in a guy but rather intent on probing\na man’s mind, if not his unconscious, which he welcomes, hoping\nshe’ll make sense of it all. Aquarius in turn governs Scorpio’s 4th\nhouse of both endings and re-creation, the home you come from and\nthat which you establish, the transition thereof taking on the\ndynamic of recovery. And Scorpio thus sees in Aquarius not only a\ndeparture from her norm in love, but also the opportunity to make a\nclean go of life with a guy whom she perceives instinctively as her\nfuture, at least, his own flashes of things yet to come\nnotwithstanding.\nCARNALITY\nWhat Aquarius mightn’t consider, in entering this bond, is that he\nhas very rarely imposed authority on himself, let alone in a love\nrelationship, and he will and should ask himself, at various\njunctures, why it is he engaged Scorpio, who, from the get-go,\nmakes it clear that her words are to be regarded as law. That said,\nshe is in no way seeking to stifle this man, of all people. If anything,\nshe becomes his premier patron, the 10th house being associated\nwith fatherly, parental oversight, just as the 4th is one of motherly\nfostering. Here, of course, we have a gender switch that works out\n"
+    },
+    {
+      "page": 721,
+      "text": " SAGITTARIUS MAN + SAGITTARIUS MAN\nthe optimum\nCHEMISTRY\nA list of famous Sagittarian men consists of many comics, and yet he\nwears a tragic mask just as surely. These guys believe life should be\na bed of roses (and they’re not above surprising the other with a\npetal-strewn mattress), yet they can seem in a funk, as if constantly\ndisappointed. Two Sagges may bond over their existential angst,\nthough they don’t enter into a relationship easily. Even when not\nthe most gorgeous of guys, Sagges tend to be sought after in the gay\nworld, and don’t they know it. They can have a natural distrust of\nother men’s interest, feeling that it’s only ever a physical fling guys\nwant from them. They thus tend to bond in friendships with other\nbutch gays, and often with other Sagittarians with whom they can\nplay sports, party, and otherwise rue the state of things.\nCOMPATIBILITY\nOften two Sagges will polarize, taking distinct roles as student and\nteacher; and that status might shift, from time to time, depending on\nthe life lessons and adventures with which they’re grappling. They\nmake a daunting duo who may be so fixed upon getting the most\nthey can out of life that they neither suffer fools nor invest much in\nothers. Indeed, if these two make a commitment, other friends and\neven family might feel tossed over. Two Sagges fuel each other’s\nhunger for experience, but also each other’s sense of panic that life’s\ntoo short to accomplish all they envision. They must consciously\nharness the power of positive thinking, careful not to fall into a pity\nparade of two. Living large can become a means of emotional\nsurvival, as much of what passes as a happy life for other couples is,\n"
+    },
+    {
+      "page": 742,
+      "text": "escape his guru archetype and, as such, he may prescribe behavioral\nrestrictions on the Sag, who has been known to go to extremes in\nher life. He may not be a New Age religious zealot, but chances are\nhe’ll limit hedonistic tendencies in the household. Aquarius rules\nSagittarius’ cosmic 3rd house of, among other attributes, early\neducation, his own generally being strict and devoid of\nmollycoddling. He takes a special interest in reprogramming the\nSag, finding her signature emotionality self-indulgent, to say the\nleast. He espouses a regimented lifestyles where discipline over\none’s feelings is as valued as a daily regimen of productive pursuits.\nThinking, and the way one communicates thoughts, are hallmarks of\nthe 3rd house, and Aquarius reserves himself a cozy little corner of\nthe Centauress’ mind to, well, mind, like a Quaker librarian insisting\non an environment devoid of noise. Indeed, the success of this bond\ndepends very much on Sag happily surrendering herself to a\nrewiring of her attic to eliminate such static. A rebellious Sag\nwoman seeking to distinguish herself from the belief and behavioral\nsystem of the Aquarian won’t last long in this relationship.\nSagittarius, in turn, governs Aquarius’ 1 Ith house of universal\nexperience and the collective consciousness. Funny that just as he\nseeks to micromanage her notions and actions, Aquarius nonetheless\nrelies on the Sag to be his link to the world at large, if not help keep\nhis finger on the pulse of the zeitgeist. Indeed, he can live\nvicariously through Sag just as he sinks ever further into reclusion.\nCARNALITY\nThis couple may be one of the top five most romantically\ndemonstrative. Sag enjoys being treated like equal parts diva and\ndamsel in distress, which does indeed sum up the duality in her\npersonality. Though she may at times feel overly regulated by the\nAquarian, the good, here, so far outweighs the bad that she keeps\nsuch sentiments to herself, never even showing one iota of\ndiscontent to her closest confidants. Instead, this daughter of\noptimistic Jupiter accentuates the positive, particularly what passes\nbetween her and the Waterbearer in their boudoir. Even an\namazonial Sag with a strapping Aquaman might surprise visitors\n"
+    },
+    {
+      "page": 763,
+      "text": "always to be something lurking in his psyche, a sense of being some\nperversion personified vis-à-vis those he contemptuously labels\ngolden boys. This may drive him to seek sexual refuge in females he\nironically feels no need to impress, his affections for a woman\nnearly taking the form of an insult. And Cap lady is first in line to\nhave none of it. She can smell self-loathing a mile away, having\ntypically endured some shape or form of it in her youth. Her symbol\nis the SeaGoat in actuality, having front legs and a fish tail,\nsymbolizing her steady climb in life to drag herself completely out\nof the emotional depths, murk, or mire. He, on the other hand, finds\ncomfort in slipping back into the dark recesses (of his own being),\nand he should: In a way, though it might appear as wallowing, Cap\nman is fully engaged in sorting out his emotions, all his life, for ill\nor nil, while she is simply bent on putting all such gloom behind\nher, also for better or for worse. Sexually, he is comfortable rolling\naround in the muck when it suits him, whereas she is not. Cap\nembraces his more base carnal instincts, though keeping them\ncompletely under wraps. Female Goat inherently believes that such\nbehaviors as one can’t advertise openly are those to be transcended\nat all costs. Again that 1st house mirror: Capricorn woman does well\nto get a wee more down and dirty, and Cap guy might clean up his\nsexual act a bit. Venture to say they might be the least compatible of\nbedmates despite what is a true attraction and a spiritual\nconnection, albeit with crossed wires. He feels he can’t “subject” the\nGoat girl to acts more submissive, if not outright slaggish, types\nmight perform with relish. Cap woman could go in for some faux\ndiscipline, but if she were to receive a spanking that actually caused\npain, she’d walk off the sexual set. In the end, they both want to be\nin the driver’s seat. She revels in the seducer role; so, unless her Cap\nmate is still sporting peach fuzz and valet-parking her car, summers,\nbetween years at college, Goat might be her least favorite slice of\nmeat, as hearty a cut as it is. For his part, Cap has too much respect\nfor a woman of the Goat’s stature to expect her, for instance, to\nadminister a tongue bath where the Sun don’t shine.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 784,
+      "text": " CAPRICORN WOMAN + PISCES MAN\nthe check\nCHEMISTRY\nReality can be a big issue in this couple’s relationship. Pisces tends\nto look upon Capricorn as pure potential whom he can art-direct to\nhis liking. In her youth, the Goat girl might want to be thus guided,\nbut she might all too soon find that there is little room in this\nwould-be bond for her opinions. Still, as she evolves, as he sees it,\nalong directed paths, Pisces will naturally back off perpetuating a\ncodependent dynamic. He doesn’t actually perceive her as a project,\nas he will many a woman, but rather as a together lady who just\nneeds a little push. It’s almost impossible for Pisces man not to\npursue his dreams—which, he actually believes, is the most\npractical thing an individual can do. The voices in Cap’s head\n(mainly those of her parents) might discourage her from operating\nlikewise, but the Fish gives the Goat not only encouragement, but he\nshows her, by example, how to let go and let Universe. She is\nattracted to his notoriously creative nature and the fact that, with\nhim, life can feel like art school that never ends. Yet she does\nexperience real pangs resulting from an inability to pin him down.\nHe is something of a drifter, and, at times, he can be very present in\ntheir burgeoning life together, whilst going through phases of\nunreachability. His chosen profession often prescribes spates of time\nalone or away.\nCOMPATIBILITY\nThere is something of the Ulysses-Penelope dynamic in this bond, as\nPisces seems to be floating around somewhere, on a real or\nmetaphoric journey toward destination unknown, as Capricorn\n"
+    },
+    {
+      "page": 805,
+      "text": "Aquarian who teams with a Pisces isn’t your run-of-the-mill\nWaterbearer. For a female sign who typically targets rough-and-\ntumble fellows who seek to lead a low-key life, save for in the\nbedroom, here almost the opposite is true: Though she’ll pursue a\npretty Fish, Aquarius isn’t relying on him to rock her world,\ncarnally, but instead leans on him to achieve whatever vision of life\nshe has art-directed for herself (often since girlhood). Whether\nlaunching an artistic or entrepreneurial venture, or both, Aquarius\nwill work her fingers to the bone whilst the Fish trundles out each\nday to an often cushy job that garners steady pay with “bennies”\nuntil they are thriving enough for him to let go of such a lifeline.\nPisces rules Aquarius’ cosmic 2nd house of material wealth and\nvalue, as well as internal riches (talents, values), things which one\nowns, really or metaphorically. But, while Aquarius may view Pisces\nas someone on whom she can safely bank, he might be a riskier\ninvestment than she suspected, though one that can ultimately bring\nher a greater return than originally hoped for. Pisces may bide his\ntime, doing the bare minimum, while she sweats the big and small\nstuff, only to reveal his own ambitions, often prematurely to the\nAquarian’s mind. She may still need to struggle with what was\nmeant to be their joint venture, while he zeros in on his sole\nambitions. (He never claimed her dreams were his dreams—she\nmay’ve simply and naturally assumed so.) Needless to say that such\na dynamic can cause tension. And, indeed, the typically cool and\nremoved Aquarian may find herself increasingly high strung, here,\nas he relaxes into his future.\nCARNALITY\nPart and parcel of the Aquarian’s master plan is the raising of a\nfamily to which, in many ways, her want for professional autonomy\nis inextricably linked. One is reminded of the Ram Dass hippie\nmanifesto Be Here Now, which, drawing on Eastern models,\nprescribed rearing a brood into one’s own business, integrating\nfamily and work time, as one secret to present-minded living. Such\nthoughts come naturally to Aquarius, whose sign even pop-culture\nhas associated with both progressive and communal existential\n"
+    },
+    {
+      "page": 818,
+      "text": " PISCES WOMAN + PISCES WOMAN\nthe piety\nCHEMISTRY\nPisces can be confrontational with each other at first, firing off\nzingers, expressions of misplaced attraction. Empaths of the first\norder, they will zero in on one another, even across a crowded\nroom. Invariably, one will make a near inappropriate opening\nremark in an attempt to break the ice, getting too personal too fast.\nThe Pisces on the receiving end may feign slight offense, but in fact\nshe welcomes such interaction as cuts so close. They give each other\nthe Fish eye during this pointed discourse, scanning with X-ray\nstrength for soft spots of insecurity which they can cajolingly\nexploit. Vulnerability is actually a turn-on to the Pisces woman, and\nshe finds no lack of it in a sign sister. Still, the Fish may compete for\nknow-it-all status, until they learn to take turns as agony aunts.\nCOMPATIBILITY\nFish females are self-reflective in the extreme, hyperaware of every\npassing thought, emotion, or worry, just as they’re overly attuned to\nbodily workings, prone to hypochondria and phobias. However,\nwhen having another neurotic knockout rattling around, it can be a\nhealthful distraction; and though domestic life might smack a bit of\ntwo patients running the asylum, Pisces have a therapeutic effect on\none another—though feeling victimized by internal machinations,\nthey are paradoxically tough-loving toward others who might\nsimilarly suffer. Over time, each Pisces is hard-pressed to practice\nthe soothing but strict words she preaches. Infinitely prone to fall\nprey to substances as Pisces is, this relationship often coincides with\nthe Fish females brushing any monkeys off their backs. Pisces are\n"
+    },
+    {
+      "page": 819,
+      "text": "living proof there’s nothing like a convert, as they can be holier than\nall get-out.\nCARNALITY\nJust as their home together might resemble a womb with a view to\nabsolute privacy and comfort, their sex life emphasizes snuggling up\nto one another, even whilst in a horizontal reenactment of their\nsymbol’s opposite-facing Fish. Only these two could fall asleep in\nthat position, nookie having a soporific effect on these entrancing\nlovers. Pisces are purveyors of nuance and they play each other as\none would a delicate harp, mainly strumming and stroking, with\noccasional well-placed plucks. These Sirens often emerge from their\nmurky insular world, making the social scene, if only to be seen.\nThey pack quite a one-two punch to unsuspecting thirds, dominant\nfemales especially, whom they’ll bid penetrate them each, in turn.\nIt’s not unusual, either, for two Fish to target a young male, being\nnaturally appreciative of the opposite sex, reveling in their ability to\nrock the world of a pretty boy whose gods-given goods they find\nsuperior to anything store-bought.\nOceanofPDF.com\n"
+    },
+    {
+      "page": 820,
+      "text": "Copyright © 2009 by Wheel Atelier Inc.\nAll rights reserved.\nPublished in the United States by Three Rivers Press, an imprint of the Crown Publishing\nGroup, a division of Random House, Inc., New York.\nwww.crownpublishing.com\nThree Rivers Press and the Tugboat design are registered trademarks of Random House,\nInc.\nLibrary of Congress Cataloging-in-Publication Data is available.\neISBN: 978-0-307-45988-6\nv3.0\nOceanofPDF.com\n"
+    }
+  ],
+  "tech_pages": [],
+  "full_text": null
+}

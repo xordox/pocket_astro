@@ -1,0 +1,2011 @@
+{
+ "engine": "pocketastro-nakshatras",
+ "version": 1,
+ "width_deg": 13.333333333333334,
+ "pada_deg": 3.3333333333333335,
+ "sources": [
+  "Charak, Elements of Vedic Astrology — ch. XXVI (muhurta classes), XXVII (gana/yoni/nadi).",
+  "Komilla Sutton, The Essentials of Vedic Astrology — symbol, deity, sign interplay.",
+  "Vic DiCara, 27 Stars 27 Gods — deity mythology.",
+  "William Levacy, Beneath a Vedic Sky — nakshatra in practice, remedial use."
+ ],
+ "abhijit": {
+  "start_deg": 276.6667,
+  "end_deg": 280.8889,
+  "note": "Abhijit, the 28th nakshatra, spans the last quarter of Uttara Ashadha and the first fifteenth of Shravana. It is not used in Vimshottari dasha, only in muhurta, where it is among the most auspicious spans for victory."
+ },
+ "gandanta": {
+  "junctions": [
+   {
+    "water": "Revati",
+    "fire": "Ashwini",
+    "at_deg": 360.0
+   },
+   {
+    "water": "Ashlesha",
+    "fire": "Magha",
+    "at_deg": 120.0
+   },
+   {
+    "water": "Jyeshtha",
+    "fire": "Mula",
+    "at_deg": 240.0
+   }
+  ],
+  "orb_deg": 3.3333,
+  "meaning": "The last pada of a water-sign nakshatra joined to the first pada of a fire-sign nakshatra is a karmic knot. Read it as a seam requiring rites and care, never as doom."
+ },
+ "gandmool": {
+  "list": [
+   "Ashlesha",
+   "Ashwini",
+   "Jyeshtha",
+   "Magha",
+   "Mula",
+   "Revati"
+  ],
+  "meaning": "Moon in a Ketu- or Mercury-ruled junction nakshatra. Classically flagged for birth shanti. In practice: an intense, uprooting start that matures well once the person stops fighting their own depth."
+ },
+ "yoni_enemies": [
+  [
+   "Cow",
+   "Tiger"
+  ],
+  [
+   "Horse",
+   "Buffalo"
+  ],
+  [
+   "Elephant",
+   "Lion"
+  ],
+  [
+   "Goat",
+   "Monkey"
+  ],
+  [
+   "Serpent",
+   "Mongoose"
+  ],
+  [
+   "Dog",
+   "Deer"
+  ],
+  [
+   "Cat",
+   "Rat"
+  ]
+ ],
+ "vimshottari_years": {
+  "Ketu": 7,
+  "Venus": 20,
+  "Sun": 6,
+  "Moon": 10,
+  "Mars": 7,
+  "Rahu": 18,
+  "Jupiter": 16,
+  "Saturn": 19,
+  "Mercury": 17
+ },
+ "nakshatras": [
+  {
+   "index": 0,
+   "number": 1,
+   "name": "Ashwini",
+   "start_deg": 0.0,
+   "end_deg": 13.3333,
+   "rashi_span": [
+    "Aries"
+   ],
+   "lord": "Ketu",
+   "deity": "Ashvini Kumaras (twin celestial physicians)",
+   "symbol": "Horse's head",
+   "shakti": "shidhra vyapani shakti — the power to reach things quickly",
+   "shakti_result": "The world is freed of disease.",
+   "gana": "deva",
+   "yoni": "Horse",
+   "yoni_gender": "male",
+   "nadi": "adya",
+   "type": "kshipra",
+   "type_meaning": "Swift / light. Good for trade, travel, medicine, art, quick undertakings.",
+   "body_part": "Knees, top of the feet",
+   "keywords": "speed, first aid, fresh starts, restlessness",
+   "career": [
+    "emergency medicine",
+    "surgery",
+    "sports",
+    "transport",
+    "veterinary",
+    "rescue work",
+    "startups"
+   ],
+   "shadow": "Starts everything, finishes little; impatience read as courage.",
+   "gandanta": "start",
+   "gandmool": true,
+   "special_points": [
+    "Sun is exalted at 10° Aries — Ashwini pada 4."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 0.0,
+     "end_deg": 3.3333,
+     "rashi": "Aries",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 3.3333,
+     "end_deg": 6.6667,
+     "rashi": "Aries",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 6.6667,
+     "end_deg": 10.0,
+     "rashi": "Aries",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 10.0,
+     "end_deg": 13.3333,
+     "rashi": "Aries",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "number": 2,
+   "name": "Bharani",
+   "start_deg": 13.3333,
+   "end_deg": 26.6667,
+   "rashi_span": [
+    "Aries"
+   ],
+   "lord": "Venus",
+   "deity": "Yama (lord of death and dharma)",
+   "symbol": "Yoni — the female organ of generation",
+   "shakti": "apabharani shakti — the power to carry things away",
+   "shakti_result": "The soul is moved from one state to the next.",
+   "gana": "manushya",
+   "yoni": "Elephant",
+   "yoni_gender": "male",
+   "nadi": "madhya",
+   "type": "ugra",
+   "type_meaning": "Fierce / severe. Good for demolition, confrontation, debt recovery, hard discipline; bad for weddings and launches.",
+   "body_part": "Head, forehead, soles of the feet",
+   "keywords": "bearing, extremes, restraint, birth and ending",
+   "career": [
+    "obstetrics",
+    "hospice and funeral work",
+    "law",
+    "creative arts",
+    "agriculture",
+    "hospitality"
+   ],
+   "shadow": "Excess in whatever it touches; will not stop on its own. Saturn falls here.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Saturn is debilitated at 20° Aries — Bharani pada 3."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 13.3333,
+     "end_deg": 16.6667,
+     "rashi": "Aries",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 16.6667,
+     "end_deg": 20.0,
+     "rashi": "Aries",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 20.0,
+     "end_deg": 23.3333,
+     "rashi": "Aries",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 23.3333,
+     "end_deg": 26.6667,
+     "rashi": "Aries",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "number": 3,
+   "name": "Krittika",
+   "start_deg": 26.6667,
+   "end_deg": 40.0,
+   "rashi_span": [
+    "Aries",
+    "Taurus"
+   ],
+   "lord": "Sun",
+   "deity": "Agni (god of fire)",
+   "symbol": "A razor, a flame, an axe",
+   "shakti": "dahana shakti — the power to burn and purify",
+   "shakti_result": "Negativity is burned away.",
+   "gana": "rakshasa",
+   "yoni": "Goat",
+   "yoni_gender": "female",
+   "nadi": "antya",
+   "type": "mishra",
+   "type_meaning": "Mixed / ordinary. Good for routine and remedial work, fire rituals; ambiguous for anything irreversible.",
+   "body_part": "Hips, loins, eyes",
+   "keywords": "cutting, purification, sharp speech, ambition",
+   "career": [
+    "surgery",
+    "engineering",
+    "military",
+    "cooking",
+    "metallurgy",
+    "editing",
+    "criticism"
+   ],
+   "shadow": "Cuts what should have been nursed; sharpness mistaken for honesty. Moon is exalted here.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Moon is exalted at 3° Taurus — Krittika pada 2."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 26.6667,
+     "end_deg": 30.0,
+     "rashi": "Aries",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 30.0,
+     "end_deg": 33.3333,
+     "rashi": "Taurus",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 33.3333,
+     "end_deg": 36.6667,
+     "rashi": "Taurus",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 36.6667,
+     "end_deg": 40.0,
+     "rashi": "Taurus",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "number": 4,
+   "name": "Rohini",
+   "start_deg": 40.0,
+   "end_deg": 53.3333,
+   "rashi_span": [
+    "Taurus"
+   ],
+   "lord": "Moon",
+   "deity": "Brahma (the creator)",
+   "symbol": "An ox-cart, a banyan tree",
+   "shakti": "rohana shakti — the power of growth and creation",
+   "shakti_result": "Creation takes physical form.",
+   "gana": "manushya",
+   "yoni": "Serpent",
+   "yoni_gender": "male",
+   "nadi": "antya",
+   "type": "dhruva",
+   "type_meaning": "Fixed / permanent. Good for foundations, planting, coronation, marriage, anything meant to last.",
+   "body_part": "Ankles, shins, forehead",
+   "keywords": "growth, beauty, fertility, material charm",
+   "career": [
+    "agriculture",
+    "luxury goods",
+    "fashion",
+    "music",
+    "banking",
+    "real estate",
+    "food"
+   ],
+   "shadow": "Attachment to comfort and to being desired; possessiveness. Moon is exalted in this span.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 40.0,
+     "end_deg": 43.3333,
+     "rashi": "Taurus",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 43.3333,
+     "end_deg": 46.6667,
+     "rashi": "Taurus",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 46.6667,
+     "end_deg": 50.0,
+     "rashi": "Taurus",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 50.0,
+     "end_deg": 53.3333,
+     "rashi": "Taurus",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "number": 5,
+   "name": "Mrigashira",
+   "start_deg": 53.3333,
+   "end_deg": 66.6667,
+   "rashi_span": [
+    "Taurus",
+    "Gemini"
+   ],
+   "lord": "Mars",
+   "deity": "Soma (the Moon god)",
+   "symbol": "The head of a deer",
+   "shakti": "prinana shakti — the power to give fulfilment",
+   "shakti_result": "Enjoyment is found.",
+   "gana": "deva",
+   "yoni": "Serpent",
+   "yoni_gender": "female",
+   "nadi": "madhya",
+   "type": "mridu",
+   "type_meaning": "Tender / mild. Good for arts, romance, friendship, clothing, healing, celebration.",
+   "body_part": "Eyebrows, eyes, chin, cheeks",
+   "keywords": "search, curiosity, scent for quality, travel",
+   "career": [
+    "research",
+    "writing",
+    "travel trade",
+    "textiles",
+    "perfume",
+    "real estate scouting",
+    "sales"
+   ],
+   "shadow": "Never arrives — always one more thing to sample; suspicion and nervousness.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 53.3333,
+     "end_deg": 56.6667,
+     "rashi": "Taurus",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 56.6667,
+     "end_deg": 60.0,
+     "rashi": "Taurus",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 60.0,
+     "end_deg": 63.3333,
+     "rashi": "Gemini",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 63.3333,
+     "end_deg": 66.6667,
+     "rashi": "Gemini",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "number": 6,
+   "name": "Ardra",
+   "start_deg": 66.6667,
+   "end_deg": 80.0,
+   "rashi_span": [
+    "Gemini"
+   ],
+   "lord": "Rahu",
+   "deity": "Rudra (the storm, the howler)",
+   "symbol": "A teardrop, a diamond, a human head",
+   "shakti": "yatna shakti — the power of effort",
+   "shakti_result": "A hard change is brought about.",
+   "gana": "manushya",
+   "yoni": "Dog",
+   "yoni_gender": "female",
+   "nadi": "adya",
+   "type": "tikshna",
+   "type_meaning": "Sharp / dreadful. Good for surgery, exorcism, breaking bad habits, litigation; bad for anything gentle.",
+   "body_part": "Hair, eyes, front of the head",
+   "keywords": "storm, breakthrough, analytic mind, grief",
+   "career": [
+    "research",
+    "data and analytics",
+    "psychology",
+    "pharma",
+    "engineering",
+    "activism",
+    "crisis work"
+   ],
+   "shadow": "Destroys to feel alive; sharp words in a storm that pass, but the damage does not.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 66.6667,
+     "end_deg": 70.0,
+     "rashi": "Gemini",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 70.0,
+     "end_deg": 73.3333,
+     "rashi": "Gemini",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 73.3333,
+     "end_deg": 76.6667,
+     "rashi": "Gemini",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 76.6667,
+     "end_deg": 80.0,
+     "rashi": "Gemini",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "number": 7,
+   "name": "Punarvasu",
+   "start_deg": 80.0,
+   "end_deg": 93.3333,
+   "rashi_span": [
+    "Gemini",
+    "Cancer"
+   ],
+   "lord": "Jupiter",
+   "deity": "Aditi (mother of the gods, boundless space)",
+   "symbol": "A quiver of arrows, a house",
+   "shakti": "vasutva prapana shakti — the power to regain wealth and substance",
+   "shakti_result": "Plants are revitalized; what was lost returns.",
+   "gana": "deva",
+   "yoni": "Cat",
+   "yoni_gender": "female",
+   "nadi": "adya",
+   "type": "chara",
+   "type_meaning": "Movable. Good for travel, vehicles, moving house, changing jobs, machinery.",
+   "body_part": "Fingers, nose, lungs",
+   "keywords": "return, renewal, second chances, philosophy",
+   "career": [
+    "teaching",
+    "counselling",
+    "publishing",
+    "spirituality",
+    "hospitality",
+    "housing",
+    "restoration work"
+   ],
+   "shadow": "Repeats the same lesson because it trusts the reset; scattered, hard to pin down.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Jupiter's exaltation sign (Cancer) opens in Punarvasu pada 4."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 80.0,
+     "end_deg": 83.3333,
+     "rashi": "Gemini",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 83.3333,
+     "end_deg": 86.6667,
+     "rashi": "Gemini",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 86.6667,
+     "end_deg": 90.0,
+     "rashi": "Gemini",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 90.0,
+     "end_deg": 93.3333,
+     "rashi": "Cancer",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "number": 8,
+   "name": "Pushya",
+   "start_deg": 93.3333,
+   "end_deg": 106.6667,
+   "rashi_span": [
+    "Cancer"
+   ],
+   "lord": "Saturn",
+   "deity": "Brihaspati (guru of the gods)",
+   "symbol": "A cow's udder, a lotus, an arrow",
+   "shakti": "brahmavarchasa shakti — the power to create spiritual energy",
+   "shakti_result": "Spiritual energy is generated.",
+   "gana": "deva",
+   "yoni": "Goat",
+   "yoni_gender": "male",
+   "nadi": "madhya",
+   "type": "kshipra",
+   "type_meaning": "Swift / light. Good for trade, travel, medicine, art, quick undertakings.",
+   "body_part": "Mouth, face, ribs, stomach",
+   "keywords": "nourishment, dharma, duty, the good counsellor",
+   "career": [
+    "teaching",
+    "priesthood",
+    "food and dairy",
+    "nursing",
+    "government service",
+    "finance",
+    "childcare"
+   ],
+   "shadow": "Moralizing, over-caretaking, rigidity about the one right way.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Jupiter is exalted at 5° Cancer — Pushya pada 1. Pushya is classically the single most auspicious nakshatra."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 93.3333,
+     "end_deg": 96.6667,
+     "rashi": "Cancer",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 96.6667,
+     "end_deg": 100.0,
+     "rashi": "Cancer",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 100.0,
+     "end_deg": 103.3333,
+     "rashi": "Cancer",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 103.3333,
+     "end_deg": 106.6667,
+     "rashi": "Cancer",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "number": 9,
+   "name": "Ashlesha",
+   "start_deg": 106.6667,
+   "end_deg": 120.0,
+   "rashi_span": [
+    "Cancer"
+   ],
+   "lord": "Mercury",
+   "deity": "The Nagas (serpent deities)",
+   "symbol": "A coiled serpent",
+   "shakti": "visasleshana shakti — the power to inflict poison, and to withdraw it",
+   "shakti_result": "The target is undone.",
+   "gana": "rakshasa",
+   "yoni": "Cat",
+   "yoni_gender": "male",
+   "nadi": "antya",
+   "type": "tikshna",
+   "type_meaning": "Sharp / dreadful. Good for surgery, exorcism, breaking bad habits, litigation; bad for anything gentle.",
+   "body_part": "Nails, joints, ears, elbows",
+   "keywords": "coiling, hypnosis, penetration, secrets",
+   "career": [
+    "research",
+    "psychology",
+    "pharmacology",
+    "intelligence work",
+    "negotiation",
+    "occult studies",
+    "toxicology"
+   ],
+   "shadow": "Manipulation rationalised as insight; clinging. Gandanta at its end.",
+   "gandanta": "end",
+   "gandmool": true,
+   "special_points": [
+    "Mars is debilitated at 28° Cancer — Ashlesha pada 4.",
+    "Gandanta closes at Ashlesha's end."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 106.6667,
+     "end_deg": 110.0,
+     "rashi": "Cancer",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 110.0,
+     "end_deg": 113.3333,
+     "rashi": "Cancer",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 113.3333,
+     "end_deg": 116.6667,
+     "rashi": "Cancer",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 116.6667,
+     "end_deg": 120.0,
+     "rashi": "Cancer",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "number": 10,
+   "name": "Magha",
+   "start_deg": 120.0,
+   "end_deg": 133.3333,
+   "rashi_span": [
+    "Leo"
+   ],
+   "lord": "Ketu",
+   "deity": "The Pitris (the ancestors)",
+   "symbol": "A royal throne, a palanquin",
+   "shakti": "tyage kshepani shakti — the power to leave the body",
+   "shakti_result": "One passes to the world of the ancestors.",
+   "gana": "rakshasa",
+   "yoni": "Rat",
+   "yoni_gender": "male",
+   "nadi": "antya",
+   "type": "ugra",
+   "type_meaning": "Fierce / severe. Good for demolition, confrontation, debt recovery, hard discipline; bad for weddings and launches.",
+   "body_part": "Nose, lips, chin",
+   "keywords": "throne, lineage, inherited authority, ritual",
+   "career": [
+    "government",
+    "administration",
+    "history and archaeology",
+    "law",
+    "family business",
+    "ritual work"
+   ],
+   "shadow": "Entitlement inherited rather than earned; pride that cannot be corrected. Gandanta at its start.",
+   "gandanta": "start",
+   "gandmool": true,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 120.0,
+     "end_deg": 123.3333,
+     "rashi": "Leo",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 123.3333,
+     "end_deg": 126.6667,
+     "rashi": "Leo",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 126.6667,
+     "end_deg": 130.0,
+     "rashi": "Leo",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 130.0,
+     "end_deg": 133.3333,
+     "rashi": "Leo",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "number": 11,
+   "name": "Purva Phalguni",
+   "start_deg": 133.3333,
+   "end_deg": 146.6667,
+   "rashi_span": [
+    "Leo"
+   ],
+   "lord": "Venus",
+   "deity": "Bhaga (god of delight and marital bliss)",
+   "symbol": "The front legs of a bed, a hammock",
+   "shakti": "prajanana shakti — the power of procreation",
+   "shakti_result": "The child is conceived.",
+   "gana": "manushya",
+   "yoni": "Rat",
+   "yoni_gender": "female",
+   "nadi": "madhya",
+   "type": "ugra",
+   "type_meaning": "Fierce / severe. Good for demolition, confrontation, debt recovery, hard discipline; bad for weddings and launches.",
+   "body_part": "Right hand, genitals, lips",
+   "keywords": "pleasure, romance, rest, creative play",
+   "career": [
+    "entertainment",
+    "music",
+    "hospitality",
+    "fashion",
+    "event work",
+    "wedding trades",
+    "design"
+   ],
+   "shadow": "Indulgence and laziness dressed up as self-care; vanity.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 133.3333,
+     "end_deg": 136.6667,
+     "rashi": "Leo",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 136.6667,
+     "end_deg": 140.0,
+     "rashi": "Leo",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 140.0,
+     "end_deg": 143.3333,
+     "rashi": "Leo",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 143.3333,
+     "end_deg": 146.6667,
+     "rashi": "Leo",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "number": 12,
+   "name": "Uttara Phalguni",
+   "start_deg": 146.6667,
+   "end_deg": 160.0,
+   "rashi_span": [
+    "Leo",
+    "Virgo"
+   ],
+   "lord": "Sun",
+   "deity": "Aryaman (god of patronage, contracts and friendship)",
+   "symbol": "The back legs of a bed",
+   "shakti": "chayani shakti — the power to accumulate through union",
+   "shakti_result": "Prosperity through partnership.",
+   "gana": "manushya",
+   "yoni": "Cow",
+   "yoni_gender": "male",
+   "nadi": "adya",
+   "type": "dhruva",
+   "type_meaning": "Fixed / permanent. Good for foundations, planting, coronation, marriage, anything meant to last.",
+   "body_part": "Left hand, liver, intestines",
+   "keywords": "vows, patronage, generous authority, contracts",
+   "career": [
+    "administration",
+    "charity",
+    "medicine",
+    "consulting",
+    "HR",
+    "marriage and partnership work"
+   ],
+   "shadow": "Gives to be indispensable; contracts entered for status rather than fit.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 146.6667,
+     "end_deg": 150.0,
+     "rashi": "Leo",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 150.0,
+     "end_deg": 153.3333,
+     "rashi": "Virgo",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 153.3333,
+     "end_deg": 156.6667,
+     "rashi": "Virgo",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 156.6667,
+     "end_deg": 160.0,
+     "rashi": "Virgo",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "number": 13,
+   "name": "Hasta",
+   "start_deg": 160.0,
+   "end_deg": 173.3333,
+   "rashi_span": [
+    "Virgo"
+   ],
+   "lord": "Moon",
+   "deity": "Savitar (the creative Sun)",
+   "symbol": "An open hand, a fist",
+   "shakti": "hasta sthapaniya agama shakti — the power to put a thing in your hand",
+   "shakti_result": "What was sought is gained.",
+   "gana": "deva",
+   "yoni": "Buffalo",
+   "yoni_gender": "female",
+   "nadi": "adya",
+   "type": "kshipra",
+   "type_meaning": "Swift / light. Good for trade, travel, medicine, art, quick undertakings.",
+   "body_part": "Hands, fingers, wrists",
+   "keywords": "craft, dexterity, cleverness, healing hands",
+   "career": [
+    "craft and trades",
+    "surgery",
+    "massage and bodywork",
+    "art",
+    "accounting",
+    "programming",
+    "agriculture"
+   ],
+   "shadow": "Sleight of hand; cleverness used to cut corners; anxiety in the details.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Mercury is exalted at 15° Virgo — Hasta pada 2."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 160.0,
+     "end_deg": 163.3333,
+     "rashi": "Virgo",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 163.3333,
+     "end_deg": 166.6667,
+     "rashi": "Virgo",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 166.6667,
+     "end_deg": 170.0,
+     "rashi": "Virgo",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 170.0,
+     "end_deg": 173.3333,
+     "rashi": "Virgo",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "number": 14,
+   "name": "Chitra",
+   "start_deg": 173.3333,
+   "end_deg": 186.6667,
+   "rashi_span": [
+    "Virgo",
+    "Libra"
+   ],
+   "lord": "Mars",
+   "deity": "Tvashtar / Vishvakarma (the celestial architect)",
+   "symbol": "A bright jewel, a pearl",
+   "shakti": "punya chayani shakti — the power to accumulate merit",
+   "shakti_result": "Honour and recognition follow the work.",
+   "gana": "rakshasa",
+   "yoni": "Tiger",
+   "yoni_gender": "female",
+   "nadi": "madhya",
+   "type": "mridu",
+   "type_meaning": "Tender / mild. Good for arts, romance, friendship, clothing, healing, celebration.",
+   "body_part": "Forehead, neck, kidneys",
+   "keywords": "design, brilliance, form, visible excellence",
+   "career": [
+    "architecture",
+    "design",
+    "engineering",
+    "jewellery",
+    "photography",
+    "surgery",
+    "fashion"
+   ],
+   "shadow": "Style over substance; performs the self it wants seen.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Venus is debilitated at 27° Virgo — Chitra pada 2."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 173.3333,
+     "end_deg": 176.6667,
+     "rashi": "Virgo",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 176.6667,
+     "end_deg": 180.0,
+     "rashi": "Virgo",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 180.0,
+     "end_deg": 183.3333,
+     "rashi": "Libra",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 183.3333,
+     "end_deg": 186.6667,
+     "rashi": "Libra",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "number": 15,
+   "name": "Swati",
+   "start_deg": 186.6667,
+   "end_deg": 200.0,
+   "rashi_span": [
+    "Libra"
+   ],
+   "lord": "Rahu",
+   "deity": "Vayu (god of wind)",
+   "symbol": "A young shoot swaying in the wind, a coral",
+   "shakti": "pradhvamsa shakti — the power to scatter like the wind",
+   "shakti_result": "Form is transformed; what was fixed disperses.",
+   "gana": "deva",
+   "yoni": "Buffalo",
+   "yoni_gender": "male",
+   "nadi": "antya",
+   "type": "chara",
+   "type_meaning": "Movable. Good for travel, vehicles, moving house, changing jobs, machinery.",
+   "body_part": "Chest, intestines, skin",
+   "keywords": "independence, trade, balance, self-made movement",
+   "career": [
+    "trade and business",
+    "aviation",
+    "diplomacy",
+    "law",
+    "import-export",
+    "music",
+    "self-employment"
+   ],
+   "shadow": "Cannot be held to anything; freedom defended past the point of usefulness.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Sun is debilitated at 10° Libra — Swati pada 2.",
+    "Saturn is exalted at 20° Libra — the Swati / Vishakha boundary."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 186.6667,
+     "end_deg": 190.0,
+     "rashi": "Libra",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 190.0,
+     "end_deg": 193.3333,
+     "rashi": "Libra",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 193.3333,
+     "end_deg": 196.6667,
+     "rashi": "Libra",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 196.6667,
+     "end_deg": 200.0,
+     "rashi": "Libra",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "number": 16,
+   "name": "Vishakha",
+   "start_deg": 200.0,
+   "end_deg": 213.3333,
+   "rashi_span": [
+    "Libra",
+    "Scorpio"
+   ],
+   "lord": "Jupiter",
+   "deity": "Indra and Agni (the paired gods of power and fire)",
+   "symbol": "A triumphal archway, a potter's wheel",
+   "shakti": "vyapani shakti — the power to achieve many and varied fruits",
+   "shakti_result": "The harvest is reaped.",
+   "gana": "rakshasa",
+   "yoni": "Tiger",
+   "yoni_gender": "male",
+   "nadi": "antya",
+   "type": "mishra",
+   "type_meaning": "Mixed / ordinary. Good for routine and remedial work, fire rituals; ambiguous for anything irreversible.",
+   "body_part": "Arms, breasts, bladder",
+   "keywords": "forked drive, goal-fixation, ambition, late ripening",
+   "career": [
+    "politics",
+    "research",
+    "science",
+    "banking",
+    "public speaking",
+    "military",
+    "goal-driven business"
+   ],
+   "shadow": "Burns relationships for the goal; never satisfied at the finish line.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Moon is debilitated at 3° Scorpio — Vishakha pada 4."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 200.0,
+     "end_deg": 203.3333,
+     "rashi": "Libra",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 203.3333,
+     "end_deg": 206.6667,
+     "rashi": "Libra",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 206.6667,
+     "end_deg": 210.0,
+     "rashi": "Libra",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 210.0,
+     "end_deg": 213.3333,
+     "rashi": "Scorpio",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "number": 17,
+   "name": "Anuradha",
+   "start_deg": 213.3333,
+   "end_deg": 226.6667,
+   "rashi_span": [
+    "Scorpio"
+   ],
+   "lord": "Saturn",
+   "deity": "Mitra (god of friendship and contracts)",
+   "symbol": "A lotus, a triumphal archway",
+   "shakti": "radhana shakti — the power of worship and devotion",
+   "shakti_result": "Honour and fame come to the devoted.",
+   "gana": "deva",
+   "yoni": "Deer",
+   "yoni_gender": "female",
+   "nadi": "madhya",
+   "type": "mridu",
+   "type_meaning": "Tender / mild. Good for arts, romance, friendship, clothing, healing, celebration.",
+   "body_part": "Stomach, breasts, womb, bowels",
+   "keywords": "devotion, friendship, organising people, endurance abroad",
+   "career": [
+    "management",
+    "organising and NGO work",
+    "foreign postings",
+    "occult and devotional practice",
+    "mining",
+    "research"
+   ],
+   "shadow": "Devotion to the wrong object; suppressed resentment in loyal service.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 213.3333,
+     "end_deg": 216.6667,
+     "rashi": "Scorpio",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 216.6667,
+     "end_deg": 220.0,
+     "rashi": "Scorpio",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 220.0,
+     "end_deg": 223.3333,
+     "rashi": "Scorpio",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 223.3333,
+     "end_deg": 226.6667,
+     "rashi": "Scorpio",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "number": 18,
+   "name": "Jyeshtha",
+   "start_deg": 226.6667,
+   "end_deg": 240.0,
+   "rashi_span": [
+    "Scorpio"
+   ],
+   "lord": "Mercury",
+   "deity": "Indra (king of the gods)",
+   "symbol": "An earring, an umbrella, a talisman",
+   "shakti": "arohana shakti — the power to rise and to conquer",
+   "shakti_result": "Courage is gained.",
+   "gana": "rakshasa",
+   "yoni": "Deer",
+   "yoni_gender": "male",
+   "nadi": "adya",
+   "type": "tikshna",
+   "type_meaning": "Sharp / dreadful. Good for surgery, exorcism, breaking bad habits, litigation; bad for anything gentle.",
+   "body_part": "Neck, right torso, colon",
+   "keywords": "seniority, protection, hidden burden, authority",
+   "career": [
+    "management",
+    "military and police",
+    "occult work",
+    "engineering",
+    "surgery",
+    "administration"
+   ],
+   "shadow": "Carries everyone and resents it; secrecy; pride that isolates. Gandanta at its end.",
+   "gandanta": "end",
+   "gandmool": true,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 226.6667,
+     "end_deg": 230.0,
+     "rashi": "Scorpio",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 230.0,
+     "end_deg": 233.3333,
+     "rashi": "Scorpio",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 233.3333,
+     "end_deg": 236.6667,
+     "rashi": "Scorpio",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 236.6667,
+     "end_deg": 240.0,
+     "rashi": "Scorpio",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "number": 19,
+   "name": "Mula",
+   "start_deg": 240.0,
+   "end_deg": 253.3333,
+   "rashi_span": [
+    "Sagittarius"
+   ],
+   "lord": "Ketu",
+   "deity": "Nirriti (goddess of dissolution)",
+   "symbol": "A bunch of tied roots, an elephant goad",
+   "shakti": "barhana shakti — the power to ruin and uproot",
+   "shakti_result": "What was rotten is destroyed so that new roots can take.",
+   "gana": "rakshasa",
+   "yoni": "Dog",
+   "yoni_gender": "male",
+   "nadi": "adya",
+   "type": "tikshna",
+   "type_meaning": "Sharp / dreadful. Good for surgery, exorcism, breaking bad habits, litigation; bad for anything gentle.",
+   "body_part": "Feet, hips, thighs",
+   "keywords": "root, investigation, uprooting, spiritual severity",
+   "career": [
+    "research",
+    "medicine and herbalism",
+    "philosophy",
+    "investigation",
+    "demolition and reconstruction",
+    "pharmacy"
+   ],
+   "shadow": "Pulls out the root before checking what was holding; extremism. Gandanta at its start.",
+   "gandanta": "start",
+   "gandmool": true,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 240.0,
+     "end_deg": 243.3333,
+     "rashi": "Sagittarius",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 243.3333,
+     "end_deg": 246.6667,
+     "rashi": "Sagittarius",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 246.6667,
+     "end_deg": 250.0,
+     "rashi": "Sagittarius",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 250.0,
+     "end_deg": 253.3333,
+     "rashi": "Sagittarius",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "number": 20,
+   "name": "Purva Ashadha",
+   "start_deg": 253.3333,
+   "end_deg": 266.6667,
+   "rashi_span": [
+    "Sagittarius"
+   ],
+   "lord": "Venus",
+   "deity": "Apas (the cosmic waters)",
+   "symbol": "An elephant's tusk, a winnowing basket",
+   "shakti": "varchograhana shakti — the power of invigoration",
+   "shakti_result": "Lustre and strength are gained.",
+   "gana": "manushya",
+   "yoni": "Monkey",
+   "yoni_gender": "male",
+   "nadi": "madhya",
+   "type": "ugra",
+   "type_meaning": "Fierce / severe. Good for demolition, confrontation, debt recovery, hard discipline; bad for weddings and launches.",
+   "body_part": "Thighs, back, hips",
+   "keywords": "early victory, conviction, persuasion, water",
+   "career": [
+    "debate and law",
+    "shipping and water trade",
+    "politics",
+    "teaching",
+    "performing arts",
+    "naval work"
+   ],
+   "shadow": "Cannot admit being wrong; conviction hardening into arrogance.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 253.3333,
+     "end_deg": 256.6667,
+     "rashi": "Sagittarius",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 256.6667,
+     "end_deg": 260.0,
+     "rashi": "Sagittarius",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 260.0,
+     "end_deg": 263.3333,
+     "rashi": "Sagittarius",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 263.3333,
+     "end_deg": 266.6667,
+     "rashi": "Sagittarius",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "number": 21,
+   "name": "Uttara Ashadha",
+   "start_deg": 266.6667,
+   "end_deg": 280.0,
+   "rashi_span": [
+    "Sagittarius",
+    "Capricorn"
+   ],
+   "lord": "Sun",
+   "deity": "The Vishvadevas (the ten universal gods)",
+   "symbol": "An elephant's tusk, a plank of a bed",
+   "shakti": "apradhrisya shakti — the unchallengeable power to win",
+   "shakti_result": "Victory that cannot be taken back.",
+   "gana": "manushya",
+   "yoni": "Mongoose",
+   "yoni_gender": "female",
+   "nadi": "antya",
+   "type": "dhruva",
+   "type_meaning": "Fixed / permanent. Good for foundations, planting, coronation, marriage, anything meant to last.",
+   "body_part": "Thighs, waist",
+   "keywords": "lasting victory, integrity, slow durable rise",
+   "career": [
+    "government",
+    "leadership",
+    "law",
+    "military",
+    "social reform",
+    "long-cycle business"
+   ],
+   "shadow": "Starts slowly and blames the world for it; rigid about principle. Holds the Abhijit overlap.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Jupiter is debilitated at 5° Capricorn — Uttara Ashadha pada 3.",
+    "Abhijit, the 28th nakshatra (276°40'–280°53'20\"), overlaps this nakshatra's last pada and Shravana's first."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 266.6667,
+     "end_deg": 270.0,
+     "rashi": "Sagittarius",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 270.0,
+     "end_deg": 273.3333,
+     "rashi": "Capricorn",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 273.3333,
+     "end_deg": 276.6667,
+     "rashi": "Capricorn",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 276.6667,
+     "end_deg": 280.0,
+     "rashi": "Capricorn",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "number": 22,
+   "name": "Shravana",
+   "start_deg": 280.0,
+   "end_deg": 293.3333,
+   "rashi_span": [
+    "Capricorn"
+   ],
+   "lord": "Moon",
+   "deity": "Vishnu (the preserver)",
+   "symbol": "An ear, three footprints",
+   "shakti": "samhanana shakti — the power to connect",
+   "shakti_result": "All things are linked together.",
+   "gana": "deva",
+   "yoni": "Monkey",
+   "yoni_gender": "female",
+   "nadi": "antya",
+   "type": "chara",
+   "type_meaning": "Movable. Good for travel, vehicles, moving house, changing jobs, machinery.",
+   "body_part": "Ears, skin, genitals",
+   "keywords": "listening, learning, tradition, reputation",
+   "career": [
+    "teaching",
+    "media and broadcasting",
+    "languages",
+    "counselling",
+    "audiology",
+    "scriptural study",
+    "PR"
+   ],
+   "shadow": "Lives on what is said about it; gossip; learning that substitutes for doing.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 280.0,
+     "end_deg": 283.3333,
+     "rashi": "Capricorn",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 283.3333,
+     "end_deg": 286.6667,
+     "rashi": "Capricorn",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 286.6667,
+     "end_deg": 290.0,
+     "rashi": "Capricorn",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 290.0,
+     "end_deg": 293.3333,
+     "rashi": "Capricorn",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "number": 23,
+   "name": "Dhanishta",
+   "start_deg": 293.3333,
+   "end_deg": 306.6667,
+   "rashi_span": [
+    "Capricorn",
+    "Aquarius"
+   ],
+   "lord": "Mars",
+   "deity": "The eight Vasus (gods of abundance)",
+   "symbol": "A drum, a flute",
+   "shakti": "khyapayitri shakti — the power to give fame and abundance",
+   "shakti_result": "Fame and prosperity are announced.",
+   "gana": "rakshasa",
+   "yoni": "Lion",
+   "yoni_gender": "female",
+   "nadi": "madhya",
+   "type": "chara",
+   "type_meaning": "Movable. Good for travel, vehicles, moving house, changing jobs, machinery.",
+   "body_part": "Back, anus",
+   "keywords": "rhythm, wealth, music, group timing",
+   "career": [
+    "music and rhythm work",
+    "real estate",
+    "engineering",
+    "finance",
+    "sports",
+    "defence",
+    "event production"
+   ],
+   "shadow": "Wealth measured against others; marital friction is classically flagged here.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Mars is exalted at 28° Capricorn — Dhanishta pada 2."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 293.3333,
+     "end_deg": 296.6667,
+     "rashi": "Capricorn",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 296.6667,
+     "end_deg": 300.0,
+     "rashi": "Capricorn",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 300.0,
+     "end_deg": 303.3333,
+     "rashi": "Aquarius",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 303.3333,
+     "end_deg": 306.6667,
+     "rashi": "Aquarius",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "number": 24,
+   "name": "Shatabhisha",
+   "start_deg": 306.6667,
+   "end_deg": 320.0,
+   "rashi_span": [
+    "Aquarius"
+   ],
+   "lord": "Rahu",
+   "deity": "Varuna (god of cosmic waters and oaths)",
+   "symbol": "An empty circle, a hundred healers",
+   "shakti": "bheshaja shakti — the power of healing",
+   "shakti_result": "Freedom from calamity.",
+   "gana": "rakshasa",
+   "yoni": "Horse",
+   "yoni_gender": "female",
+   "nadi": "adya",
+   "type": "chara",
+   "type_meaning": "Movable. Good for travel, vehicles, moving house, changing jobs, machinery.",
+   "body_part": "Jaw, right thigh, calves",
+   "keywords": "veil, solitude, research, unorthodox healing",
+   "career": [
+    "medicine and epidemiology",
+    "research",
+    "astrology",
+    "electricity and tech",
+    "alternative healing",
+    "aviation"
+   ],
+   "shadow": "Isolation defended as independence; secrecy and addiction risk.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 306.6667,
+     "end_deg": 310.0,
+     "rashi": "Aquarius",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 310.0,
+     "end_deg": 313.3333,
+     "rashi": "Aquarius",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 313.3333,
+     "end_deg": 316.6667,
+     "rashi": "Aquarius",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 316.6667,
+     "end_deg": 320.0,
+     "rashi": "Aquarius",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "number": 25,
+   "name": "Purva Bhadrapada",
+   "start_deg": 320.0,
+   "end_deg": 333.3333,
+   "rashi_span": [
+    "Aquarius",
+    "Pisces"
+   ],
+   "lord": "Jupiter",
+   "deity": "Aja Ekapada (the one-footed goat, a form of Rudra)",
+   "symbol": "A two-faced man, a funeral cot",
+   "shakti": "yajamana udyamana shakti — the power to raise the spiritual person",
+   "shakti_result": "One is lifted to a higher plane.",
+   "gana": "manushya",
+   "yoni": "Lion",
+   "yoni_gender": "male",
+   "nadi": "adya",
+   "type": "ugra",
+   "type_meaning": "Fierce / severe. Good for demolition, confrontation, debt recovery, hard discipline; bad for weddings and launches.",
+   "body_part": "Left thigh, soles, ribs",
+   "keywords": "intensity, two faces, penance, mysticism",
+   "career": [
+    "priesthood and ritual",
+    "occult work",
+    "statistics",
+    "surgery",
+    "crematory and funeral trades",
+    "research"
+   ],
+   "shadow": "Zeal without proportion; pessimism; punishes the body for the idea.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 320.0,
+     "end_deg": 323.3333,
+     "rashi": "Aquarius",
+     "navamsa": "Aries",
+     "navamsa_lord": "Mars"
+    },
+    {
+     "pada": 2,
+     "start_deg": 323.3333,
+     "end_deg": 326.6667,
+     "rashi": "Aquarius",
+     "navamsa": "Taurus",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 3,
+     "start_deg": 326.6667,
+     "end_deg": 330.0,
+     "rashi": "Aquarius",
+     "navamsa": "Gemini",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 4,
+     "start_deg": 330.0,
+     "end_deg": 333.3333,
+     "rashi": "Pisces",
+     "navamsa": "Cancer",
+     "navamsa_lord": "Moon"
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "number": 26,
+   "name": "Uttara Bhadrapada",
+   "start_deg": 333.3333,
+   "end_deg": 346.6667,
+   "rashi_span": [
+    "Pisces"
+   ],
+   "lord": "Saturn",
+   "deity": "Ahirbudhnya (the serpent of the deep)",
+   "symbol": "The back legs of a funeral cot, a water serpent",
+   "shakti": "varshodyamana shakti — the power to bring the rain",
+   "shakti_result": "The land becomes fertile.",
+   "gana": "manushya",
+   "yoni": "Cow",
+   "yoni_gender": "female",
+   "nadi": "madhya",
+   "type": "dhruva",
+   "type_meaning": "Fixed / permanent. Good for foundations, planting, coronation, marriage, anything meant to last.",
+   "body_part": "Shins, feet, sides of the legs",
+   "keywords": "depth, finishing, quiet wisdom, inherited grace",
+   "career": [
+    "counselling",
+    "occult and yogic practice",
+    "charity",
+    "writing",
+    "shipping",
+    "long research"
+   ],
+   "shadow": "Withdraws instead of engaging; deep water that never surfaces.",
+   "gandanta": null,
+   "gandmool": false,
+   "special_points": [
+    "Mercury is debilitated at 15° Pisces — Uttara Bhadrapada pada 4."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 333.3333,
+     "end_deg": 336.6667,
+     "rashi": "Pisces",
+     "navamsa": "Leo",
+     "navamsa_lord": "Sun"
+    },
+    {
+     "pada": 2,
+     "start_deg": 336.6667,
+     "end_deg": 340.0,
+     "rashi": "Pisces",
+     "navamsa": "Virgo",
+     "navamsa_lord": "Mercury"
+    },
+    {
+     "pada": 3,
+     "start_deg": 340.0,
+     "end_deg": 343.3333,
+     "rashi": "Pisces",
+     "navamsa": "Libra",
+     "navamsa_lord": "Venus"
+    },
+    {
+     "pada": 4,
+     "start_deg": 343.3333,
+     "end_deg": 346.6667,
+     "rashi": "Pisces",
+     "navamsa": "Scorpio",
+     "navamsa_lord": "Mars"
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "number": 27,
+   "name": "Revati",
+   "start_deg": 346.6667,
+   "end_deg": 360.0,
+   "rashi_span": [
+    "Pisces"
+   ],
+   "lord": "Mercury",
+   "deity": "Pushan (the nourisher, protector of travellers)",
+   "symbol": "A fish, a drum",
+   "shakti": "kshiradyapani shakti — the power of nourishment, symbolised by milk",
+   "shakti_result": "The whole world is nourished.",
+   "gana": "deva",
+   "yoni": "Elephant",
+   "yoni_gender": "female",
+   "nadi": "antya",
+   "type": "mridu",
+   "type_meaning": "Tender / mild. Good for arts, romance, friendship, clothing, healing, celebration.",
+   "body_part": "Feet, ankles, abdomen",
+   "keywords": "nourishing, crossing over, safe passage, endings",
+   "career": [
+    "travel and logistics",
+    "childcare",
+    "teaching",
+    "music and art",
+    "hospice and care work",
+    "marine trades"
+   ],
+   "shadow": "Gives past its own limit; loses shape in other people. Gandanta at its end.",
+   "gandanta": "end",
+   "gandmool": true,
+   "special_points": [
+    "Venus is exalted at 27° Pisces — Revati pada 4.",
+    "The zodiac's final gandanta closes here."
+   ],
+   "padas": [
+    {
+     "pada": 1,
+     "start_deg": 346.6667,
+     "end_deg": 350.0,
+     "rashi": "Pisces",
+     "navamsa": "Sagittarius",
+     "navamsa_lord": "Jupiter"
+    },
+    {
+     "pada": 2,
+     "start_deg": 350.0,
+     "end_deg": 353.3333,
+     "rashi": "Pisces",
+     "navamsa": "Capricorn",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 3,
+     "start_deg": 353.3333,
+     "end_deg": 356.6667,
+     "rashi": "Pisces",
+     "navamsa": "Aquarius",
+     "navamsa_lord": "Saturn"
+    },
+    {
+     "pada": 4,
+     "start_deg": 356.6667,
+     "end_deg": 360.0,
+     "rashi": "Pisces",
+     "navamsa": "Pisces",
+     "navamsa_lord": "Jupiter"
+    }
+   ]
+  }
+ ]
+}
